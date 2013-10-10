@@ -1,6 +1,9 @@
 ## kbroman.github.io
 
-Github-based website; the source is in branch [gh-pages](https://github.com/kbroman/kbroman.github.io/tree/gh-pages).
+A minimal personal github website; see my [real website here](http://www.biostat.wisc.edu/~kbroman).
+
+Also see my short tutorials on
+[git/github](http://kbroman.github.io/github_tutorial) and [make](http://kbroman.github.io/minimal_make).
 
 <hr/>
 
