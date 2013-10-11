@@ -5,7 +5,7 @@ A minimal [personal github website](http://kbroman.github.io); see my [real webs
 Also see my short tutorials on
 [git/github](http://kbroman.github.io/github_tutorial) and [make](http://kbroman.github.io/minimal_make).
 
-<hr/>
+---
 
 My parts of this web site is licensed under
 [CC BY](http://creativecommons.org/licenses/by/3.0/).
