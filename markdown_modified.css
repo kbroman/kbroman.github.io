@@ -1,0 +1,18 @@
+/* Modifications to http://kevinburke.bitbucket.org/markdowncss/markdown.css */
+
+ul,ol {
+    margin: 0 0 0 35px;
+}
+
+a
+{
+  color: #23238e;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+a:hover
+{
+  color: #23238e;
+  background: #CAFFFF;
+}
