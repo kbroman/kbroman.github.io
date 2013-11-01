@@ -6,13 +6,13 @@ ul,ol {
 
 a
 {
-  color: #23238e;
+  color: #004080;
   text-decoration: none;
   background-color: transparent;
 }
 
 a:hover
 {
-  color: #23238e;
+  color: #004080;
   background: #CAFFFF;
 }
