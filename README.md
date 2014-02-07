@@ -3,7 +3,9 @@
 A minimal [personal github website](http://kbroman.github.io); see my [real website here](http://www.biostat.wisc.edu/~kbroman).
 
 Also see my short tutorials on
-[git/github](http://kbroman.github.io/github_tutorial) and [make](http://kbroman.github.io/minimal_make).
+[git/github](http://kbroman.github.io/github_tutorial),
+[make](http://kbroman.github.io/minimal_make), and
+[knitr](http://kbroman.github.io/knitr_knutshell).
 
 ---
 
