@@ -3,8 +3,8 @@ layout: frontpage
 title: Karl Broman
 ---
 
-[github](http://github.com/kbroman) &nbsp; | &nbsp; 
-[blog](http://kbroman.wordpress.com) &nbsp; | &nbsp; 
+[github](http://github.com/kbroman) &nbsp; &nbsp; &nbsp; 
+[blog](http://kbroman.wordpress.com) &nbsp; &nbsp; &nbsp; 
 [@kwbroman](https://twitter.com/kwbroman)
 
 Karl Broman is Professor in the
