@@ -3,11 +3,11 @@ layout: frontpage
 title: Karl Broman
 ---
 
-[github](http://github.com/kbroman) <br>
-[blog](http://kbroman.wordpress.com) <br>
+[github](http://github.com/kbroman) |
+[blog](http://kbroman.wordpress.com) |
 [@kwbroman](https://twitter.com/kwbroman)
 
-Karl Broman is a Professor in the
+Karl Broman is Professor in the
 [Department of Biostatistics & Medical Informatics](http://www.biostat.wisc.edu)
 at [University of Wisconsin&ndash;Madison](http://www.wisc.edu);
 research in statistical genetics; developer of
