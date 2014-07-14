@@ -9,7 +9,7 @@ at [University of Wisconsin&ndash;Madison](http://www.wisc.edu);
 research in statistical genetics; developer of
 [R/qtl](http://www.rqtl.org) (for [R](http://www.r-project.org)).
 
-\[[CV]({{ BASE_PATH }}/assets/broman.pdf)\]
+[Curriculum vitae]({{ BASE_PATH }}/assets/broman.pdf)
 
 
 #### Contact
