@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: frontpage
 title: Karl Broman
 ---
 
@@ -12,8 +12,6 @@ Karl Broman is a Professor in the
 at [University of Wisconsin&ndash;Madison](http://www.wisc.edu);
 research in statistical genetics; developer of
 [R/qtl](http://www.rqtl.org) (for [R](http://www.r-project.org)).
-
-[<img style="position:fixed;top:5px;right:10px;" src="assets/pics/karl_2014-03-30_smcrop.jpg">](assets/pics/karl_2014-03-30_crop.jpg)
 
 - [git/github guide](http://kbroman.github.io/github_tutorial)
 - [minimal make](http://kbroman.github.io/minimal_make)
