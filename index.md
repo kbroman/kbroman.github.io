@@ -9,10 +9,12 @@ title: Karl Broman
 
 Karl Broman is Professor in the
 [Department of Biostatistics & Medical Informatics](http://www.biostat.wisc.edu)
-at [University of Wisconsin&ndash;Madison](http://www.wisc.edu);
+at the University of Wisconsin&ndash;Madison;
 research in statistical genetics; developer of
 [R/qtl](http://www.rqtl.org) (for [R](http://www.r-project.org)).
 
+- [R/qtl](http://www.rqtl.org)
+- [R/qtlcharts](http://kbroman.github.io/qtlcharts)
 - [git/github guide](http://kbroman.github.io/github_tutorial)
 - [minimal make](http://kbroman.github.io/minimal_make)
 - [knitr in a knutshell](http://kbroman.github.io/knitr_knutshell)
@@ -20,4 +22,3 @@ research in statistical genetics; developer of
   website with [GitHub Pages](http://pages.github.com)
 - [hipsteR](http://kbroman.github.io/hipsteR/): re-educating people who learned R before it was cool
 - [tools for reproducible research](http://kbroman.github.io/Tools4RR) course
-- [R/qtlcharts](http://kbroman.github.io/qtlcharts)
