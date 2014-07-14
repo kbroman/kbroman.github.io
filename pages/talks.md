@@ -1674,31 +1674,18 @@ Research Foundation](http://research.marshfieldclinic.org/), Marshfield, Wiscons
 
 ###  1998
 
-  Nov 24
+Human meiotic interference \[[pdf (995k)](http://www.biostat.wisc.edu/~kbroman/presentations/interference.pdf)\]<br>
+[Walter and Eliza Hall Institute for Medical Research](http://www.wehi.edu.au/),
+Melbourne, Australia (_Nov 24_)
 
+Cleaning genotype data \[[pdf (858k)](http://www.biostat.wisc.edu/~kbroman/presentations/cleaning.pdf)\]<br>
+[Queensland Institute for Medical Research](http://www.qimr.edu.au/),
+Brisbane, Australia (_Nov 19_)
 
-  Human meiotic interference \[[pdf (995k)](http://www.biostat.wisc.edu/~kbroman/presentations/interference.pdf)\]<br>
-  [Walter and Eliza Hall Institute for Medical Research](http://www.wehi.edu.au/), Melbourne, Australia
+Cleaning genotype data \[[pdf (858k)](http://www.biostat.wisc.edu/~kbroman/presentations/cleaning.pdf)\]<br>
+[Walter and Eliza Hall Institute for Medical Research](http://www.wehi.edu.au/),
+Melbourne, Australia (_Nov 17_)
 
-
-
-
-  Nov 19
-
-
-  Cleaning genotype data \[[pdf (858k)](http://www.biostat.wisc.edu/~kbroman/presentations/cleaning.pdf)\]<br>
-  [Queensland Institute for Medical Research](http://www.qimr.edu.au/), Brisbane, Australia
-
-
-
-
-  Nov 17
-
-
-  Cleaning genotype data \[[pdf (858k)](http://www.biostat.wisc.edu/~kbroman/presentations/cleaning.pdf)\]<br>
-  [Walter and Eliza Hall Institute for Medical Research](http://www.wehi.edu.au/),
-  Melbourne, Australia
-
-  What is (are?) statistics? \[[pdf (465k)](http://www.biostat.wisc.edu/~kbroman/presentations/what_is_statistics.pdf)\]<br>
-  [Center for Medical Genetics](http://research.marshfieldclinic.org/genetics/),
-  Marshfield Medical Research Foundation, Marshfield, Wisconsin (_Jan 8_)
+What is (are?) statistics? \[[pdf (465k)](http://www.biostat.wisc.edu/~kbroman/presentations/what_is_statistics.pdf)\]<br>
+[Center for Medical Genetics](http://research.marshfieldclinic.org/genetics/),
+Marshfield Medical Research Foundation, Marshfield, Wisconsin (_Jan 8_)
