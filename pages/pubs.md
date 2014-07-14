@@ -17,9 +17,6 @@ title: Publications
 </ul>
 </div></div></div>
 
-
----
-
 ### <a name="books"></a>Books
 
 
@@ -245,7 +242,7 @@ Burrage LC, Baskin-Hill AE, Sinasac DS, Singer JB, Croniger CM, Kirby A, Kulboka
 
 Greene JM, Lhost JJ, Burwitz BJ, Budde ML, Macnair CE, Weiker MK, Gostick E, Friedrich TC, **Broman KW**, Price DA, O'Connor SL, O'Connor DH (2010)  Extralymphoid CD8<sup>+</sup> T cells resident in tissue from Simian Immunodeficiency Virus SIVmac239&Delta;nef-vaccinated macaques suppress SIVmac239 replication <i>ex vivo</i>.  [J Virol](http://jvi.asm.org/) 84:3362-3372 <br>
 \[[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/20089651) | [pdf (3.4M)](http://www.biostat.wisc.edu/~kbroman/publications/greene2010.pdf)\]
-<!- * 94 * -->
+<!-- * 94 * -->
 
 Wong AK, Ruhe AL, Dumont BL, Robertson KR, Guerrero G, Shull SM, Ziegle JS, Millon LV, **Broman KW**, Payseur BA, Neff MW (2010)  A comprehensive linkage map of the dog genome.  [Genetics](http://www.genetics.org) 184:595-605 <br>
 \[[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/19966068) | [pdf (32M)](http://www.biostat.wisc.edu/~kbroman/publications/dogmap2010.pdf) | [Supporting Information](http://www.genetics.org/cgi/content/full/genetics.109.106831/DC1)\]
