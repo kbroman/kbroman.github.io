@@ -7,66 +7,39 @@ title: Talks
 
 ###  2014
 
-  July 12
+Interactive graphics for
+high-dimensional genetic data \[[html](http://www.biostat.wisc.edu/~kbroman/presentations/BioVis)
+| [github](https://github.com/kbroman/Talk_BioVis)\]<br>
+[4th Symposium on
+Biological Data Visualization](http://biovis.net/year/2014/about), Boston, Massachusetts (_July 12_)
 
+Genetics of extreme body size evolution in
+mice from Gough Island<br>
+&nbsp; &nbsp; &nbsp; Slides: \[[pdf](http://www.biostat.wisc.edu/~kbroman/presentations/CTC2014/ctc2014.pdf) | [pdf w/ notes](http://www.biostat.wisc.edu/~kbroman/presentations/CTC2014/ctc2014_withnotes.pdf) | [github](https://github.com/kbroman/Talk_Gough)\] <br>
+&nbsp; &nbsp; &nbsp; Interactive LOD curves: \[[body
+weight](http://www.biostat.wisc.edu/~kbroman/presentations/CTC2014/iplot_bodyweight.html) | [growth
+rate](http://www.biostat.wisc.edu/~kbroman/presentations/CTC2014/iplot_deriv_bodyweight.html)\]  <br>
+[Complex Trait Community 13th annual
+meeting](http://www.ctc2014.org), Berlin, Germany (_May 21_)
 
-    Interactive graphics for
-  high-dimensional genetic data \[[html](http://www.biostat.wisc.edu/~kbroman/presentations/BioVis)
-  | [github](https://github.com/kbroman/Talk_BioVis)\]<br>
-  [4th Symposium on
-  Biological Data Visualization](http://biovis.net/year/2014/about), Boston, Massachusetts
+Creating effective figures and
+tables \[[pdf](http://www.biostat.wisc.edu/~kbroman/presentations/ictr2014b.pdf) | [github](https://github.com/kbroman/Talk_Graphs/tree/ictr2014)\]
+<br>
+[Institute for Clinical and Translational Research](http://ictr.wisc.edu),
+[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_May 16_)
 
-
-
-
-  May 21
-
-
-    Genetics of extreme body size evolution in
-  mice from Gough Island<br>
- &nbsp; &nbsp; &nbsp; Slides: \[[pdf](http://www.biostat.wisc.edu/~kbroman/presentations/CTC2014/ctc2014.pdf) | [pdf w/ notes](http://www.biostat.wisc.edu/~kbroman/presentations/CTC2014/ctc2014_withnotes.pdf) | [github](https://github.com/kbroman/Talk_Gough)\] <br>
- &nbsp; &nbsp; &nbsp; Interactive LOD curves: \[[body
-  weight](http://www.biostat.wisc.edu/~kbroman/presentations/CTC2014/iplot_bodyweight.html) | [growth
-  rate](http://www.biostat.wisc.edu/~kbroman/presentations/CTC2014/iplot_deriv_bodyweight.html)\]  <br>
-  [Complex Trait Community 13th annual
-  meeting](http://www.ctc2014.org), Berlin, Germany
-
-
-
-
-  May 16
-
-
-    Creating effective figures and
-    tables \[[pdf](http://www.biostat.wisc.edu/~kbroman/presentations/ictr2014b.pdf) | [github](https://github.com/kbroman/Talk_Graphs/tree/ictr2014)\]
-    <br>
-    [Institute for Clinical and Translational Research](http://ictr.wisc.edu),
-    [University of Wisconsin&ndash;Madison](http://www.wisc.edu)
-
-
-
-
-  Feb 19
-
-
-  QTL mapping for phenotypes measured over time
-    \[[html](http://www.biostat.wisc.edu/~kbroman/presentations/FunQTL) | [github](http://github.com/kbroman/Talk_FunQTL) | [tgz (7.1M)](FunQTL.tgz)\]
-   <br>
+QTL mapping for phenotypes measured over time
+\[[html](http://www.biostat.wisc.edu/~kbroman/presentations/FunQTL) | [github](http://github.com/kbroman/Talk_FunQTL) | [tgz (7.1M)](FunQTL.tgz)\]
+<br>
 [Danforth Plant Science
-  Center](http://www.danforthcenter.org/), St. Louis, Missouri
+Center](http://www.danforthcenter.org/), St. Louis, Missouri (_Feb 19_)
 
-
-
-
-  Jan 24
-
-
-    Creating effective figures and
-    tables \[[pdf](http://www.biostat.wisc.edu/~kbroman/presentations/ictr2014.pdf) | [github](https://github.com/kbroman/Talk_Graphs/tree/ictr2014)\]
-    <br>
-    [Manuscript writing
-    workshop](https://ictr.wisc.edu/SciWritingWorkshop), [Institute for Clinical and Translational Research](http://ictr.wisc.edu),
-    [University of Wisconsin&ndash;Madison](http://www.wisc.edu)
+Creating effective figures and
+tables \[[pdf](http://www.biostat.wisc.edu/~kbroman/presentations/ictr2014.pdf) | [github](https://github.com/kbroman/Talk_Graphs/tree/ictr2014)\]
+<br>
+[Manuscript writing
+workshop](https://ictr.wisc.edu/SciWritingWorkshop), [Institute for Clinical and Translational Research](http://ictr.wisc.edu),
+[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Jan 24_)
 
 
 
