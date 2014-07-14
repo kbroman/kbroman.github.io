@@ -93,624 +93,323 @@ Identifying and correcting sample mix-ups in high-dimensional genetic data
 
 
 
-
 ###  2012
 
-  Oct 17
-
-
-  How to display data badly
+How to display data badly
 \[[pptx (3.7M)](http://www.biostat.wisc.edu/~kbroman/presentations/graphs_uwpath2012.pptx)\]
-  <br>
-[Department of Pathology and Laboratory Medicine](http://www.pathology.wisc.edu), [University of Wisconsin&ndash;Madison](http://www.wisc.edu)
+<br>
+[Department of Pathology and Laboratory Medicine](http://www.pathology.wisc.edu), [University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Oct 17_)
 
+Why aren&rsquo;t all of our graphs interactive?  \[[html](http://www.biostat.wisc.edu/~kbroman/presentations/InteractiveGraphs) | [github](http://github.com/kbroman/Talk_InteractiveGraphs1)\]<br>
+[Department of Biostatistics](http://www.biostat.jhsph.edu), [Johns Hopkins Bloomberg School of Public Health](http://www.jhsph.edu), Baltimore, MD (_Oct 5_)
 
+Identifying and correcting sample mix-ups in high-dimensional data \[[pdf (2.2M)](http://www.biostat.wisc.edu/~kbroman/presentations/evolsysbiol.pdf)\]<br>
+[EvoSysBio meeting](http://evolutionarysystemsbiology.org/meeting/2012-Madison/index.html), Wisconsin Institutes for Discovery, University of Wisconsin&ndash;Madison (_Jul 30_)
 
+Identifying and correcting sample mix-ups in high-dimensional data \[[pdf (2.5M)](http://www.biostat.wisc.edu/~kbroman/presentations/germany2012.pdf)\]<br>
+[EURATRANS](http://www.euratrans.eu) meeting, Tutzing, Germany (_Jun 4_)
 
+Identifying and correcting sample mix-ups in high-dimensional data \[[pdf (1.5M)](http://www.biostat.wisc.edu/~kbroman/presentations/enar2012.pdf)\]<br>
+International Biometric Society/ENAR meeting, Washington, DC (_Apr 2_)
 
-  Oct 5
-
-
-  <font color="#23238e">Why aren&rsquo;t all of our graphs interactive?</font>  \[[html](http://www.biostat.wisc.edu/~kbroman/presentations/InteractiveGraphs) | [github](http://github.com/kbroman/Talk_InteractiveGraphs1)\]<br>
-  [Department of Biostatistics](http://www.biostat.jhsph.edu), [Johns Hopkins Bloomberg School of Public Health](http://www.jhsph.edu), Baltimore, MD
-
-
-
-
-  Jul 30
-
-
-  Identifying and correcting sample mix-ups in high-dimensional data \[[pdf (2.2M)](http://www.biostat.wisc.edu/~kbroman/presentations/evolsysbiol.pdf)\]<br>
-  [EvoSysBio meeting](http://evolutionarysystemsbiology.org/meeting/2012-Madison/index.html), Wisconsin Institutes for Discovery, University of Wisconsin&ndash;Madison
-
-
-
-
-  Jun 4
-
-
-  Identifying and correcting sample mix-ups in high-dimensional data \[[pdf (2.5M)](http://www.biostat.wisc.edu/~kbroman/presentations/germany2012.pdf)\]<br>
-  [EURATRANS](http://www.euratrans.eu) meeting, Tutzing, Germany
-
-
-
-
-  Apr 2
-
-
-  Identifying and correcting sample mix-ups in high-dimensional data \[[pdf (1.5M)](http://www.biostat.wisc.edu/~kbroman/presentations/enar2012.pdf)\]<br>
-  International Biometric Society/ENAR meeting, Washington, DC
-
-
-
-
-  Feb 29
-
-
-  Programming style
-    \[[pdf (222k)](programming_style.pdf)\]
-  <br>
-  Biostatistics training program, [Department of Biostatistics and Medical Informatics](http://www.biostat.wisc.edu), [School of Medicine and Public Health](http://www.med.wisc.edu), [University of Wisconsin&ndash;Madison](http://www.wisc.edu)
+Programming style
+\[[pdf (222k)](programming_style.pdf)\]
+<br>
+Biostatistics training program, [Department of Biostatistics and Medical Informatics](http://www.biostat.wisc.edu), [School of Medicine and Public Health](http://www.med.wisc.edu), [University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Feb 29_)
 
 
 
 ###  2011
 
-  Nov 17
+Salvaging a genetics project: Identifying and correcting sample mix-ups in high-dimensional data
+\[[pdf (2.7M)](http://www.biostat.wisc.edu/~kbroman/presentations/washbiostat2011.pdf)\]
+<br>
+[Department of Biostatistics](http://www.biostat.washington.edu), [University of Washington](http://www.washington.edu), Seattle (_Nov 17_)
 
+Salvaging an eQTL project: Identifying and correcting sample mix-ups
+\[[pdf (3.5M)](http://www.biostat.wisc.edu/~kbroman/presentations/gmu2011.pdf)\]
+<br>
+[Department of Statistics](http://statistics.gmu.edu), [George Mason University](http://www.gmu.edu), Fairvax, VA (_Sep 23_)
 
-  <font color="#23238e">Salvaging a genetics project: Identifying and correcting sample mix-ups in high-dimensional data</font>
-    \[[pdf (2.7M)](http://www.biostat.wisc.edu/~kbroman/presentations/washbiostat2011.pdf)\]
-  <br>
-[Department of Biostatistics](http://www.biostat.washington.edu), [University of Washington](http://www.washington.edu), Seattle
+Salvaging an eQTL project: Identifying and correcting sample mix-ups
+\[[pdf (1.7M)](http://www.biostat.wisc.edu/~kbroman/presentations/groningen2011.pdf)\]
+<br>
+[Groningen Bioinformatics Centre](http://www.rug.nl/fmns-research/bioinformatics/index), [University of Groningen](http://www.rug.nl), Groningen, The Netherlands (_Sep 8_)
 
+Identifying sample mix-ups in eQTL data
+\[[pdf (1.3M)](http://www.biostat.wisc.edu/~kbroman/presentations/mousegenet2011.pdf)\]
+<br>
+[Mouse Genetics 2011](http://www.mousegenetics2011.org), Washington, DC (_Jun 23_)
 
+Mapping quantitative trait loci in mice
+\[[pdf (2.0M)](http://www.biostat.wisc.edu/~kbroman/presentations/multiqtl_ireland11.pdf)\]
+<br>
+[Quantitative Biology and Bioinformatics in Modern Medicine](http://www.qub.ac.uk/sites/QuantBio/), Dublin, Ireland (_Feb 7_)
 
-
-  Sep 23
-
-
-  <font color="#23238e">Salvaging an eQTL project: Identifying and correcting sample mix-ups</font>
-    \[[pdf (3.5M)](http://www.biostat.wisc.edu/~kbroman/presentations/gmu2011.pdf)\]
-  <br>
-[Department of Statistics](http://statistics.gmu.edu), [George Mason University](http://www.gmu.edu), Fairvax, VA
-
-
-
-
-  Sep 8
-
-
-  <font color="#23238e">Salvaging an eQTL project: Identifying and correcting sample mix-ups</font>
-    \[[pdf (1.7M)](http://www.biostat.wisc.edu/~kbroman/presentations/groningen2011.pdf)\]
-  <br>
-[Groningen Bioinformatics Centre](http://www.rug.nl/fmns-research/bioinformatics/index), [University of Groningen](http://www.rug.nl), Groningen, The Netherlands
-
-
-
-
-  Jun 23
-
-
-  Identifying sample mix-ups in eQTL data
-      \[[pdf (1.3M)](http://www.biostat.wisc.edu/~kbroman/presentations/mousegenet2011.pdf)\]
-  <br>
-[Mouse Genetics 2011](http://www.mousegenetics2011.org), Washington, DC
-
-
-
-  Feb 7
-
-
-  Mapping quantitative trait loci in mice
-      \[[pdf (2.0M)](http://www.biostat.wisc.edu/~kbroman/presentations/multiqtl_ireland11.pdf)\]
-  <br>
-[Quantitative Biology and Bioinformatics in Modern Medicine](http://www.qub.ac.uk/sites/QuantBio/), Dublin, Ireland
-
-
-
-  Jan 27
-
-
-  Mapping multiple QTL in experimental crosses
-      \[[pdf (2.0M)](http://www.biostat.wisc.edu/~kbroman/presentations/multiqtl_columbia11.pdf)\]
-  <br>
-[Department of Biostatistics](http://www.mailman.columbia.edu/academic-departments/biostatistics), [Mailman School of Public Health](http://www.mailman.columbia.edu), [Columbia University](http://www.columbia.edu), New York, NY
+Mapping multiple QTL in experimental crosses
+\[[pdf (2.0M)](http://www.biostat.wisc.edu/~kbroman/presentations/multiqtl_columbia11.pdf)\]
+<br>
+[Department of Biostatistics](http://www.mailman.columbia.edu/academic-departments/biostatistics), [Mailman School of Public Health](http://www.mailman.columbia.edu), [Columbia University](http://www.columbia.edu), New York, NY (_Jan 27_)
 
 
 
 
 ###  2010
 
-  May 21
+Mapping multiple QTL in experimental crosses
+\[[pdf (2.0M)](http://www.biostat.wisc.edu/~kbroman/presentations/multiqtl_poland10.pdf)\]
+<br>
+[Wroc&#322;aw University of Technology](http://pwr.edu.pl/en_main.xml), Wroc&#322;aw, Poland (_May 21_)
 
+Genetic maps: Past, present and future
+\[[pdf (3.5M)](http://www.biostat.wisc.edu/~kbroman/presentations/geneticmaps_poland10.pdf)\]
+<br>
+[Wroc&#322;aw University of Environmental and Life Sciences](http://www.up.wroc.pl/en/), Wroc&#322;aw, Poland (_May 20_)
 
-  Mapping multiple QTL in experimental crosses
-      \[[pdf (2.0M)](http://www.biostat.wisc.edu/~kbroman/presentations/multiqtl_poland10.pdf)\]
-  <br>
-[Wroc&#322;aw University of Technology](http://pwr.edu.pl/en_main.xml), Wroc&#322;aw, Poland
+The genetic dissection of complex traits in model organisms
+\[[pdf (869k)](http://www.biostat.wisc.edu/~kbroman/presentations/qtlmas10.pdf)\]
+<br>
+[14th QTL-MAS Workshop](http://jay.up.poznan.pl/qtlmas2010/), Pozna&#324;, Poland (_May 17_)
 
+Mapping QTL to a phylogenetic tree
+\[[pdf (119k)](http://www.biostat.wisc.edu/~kbroman/presentations/ctc2010.pdf)\]
+<br>
+[9th annual meeting](http://www.ctc2010.org) of the [Complex Trait Consortium](http://www.complextrait.org), Chicago, IL (_May 10_)
 
+How to give a scientific presentation
+\[[pdf (370k)](http://www.biostat.wisc.edu/~kbroman/presentations/giving_talks.pdf)\]
+<br>
+Biostatistics training program, [Department of Biostatistics and Medical Informatics](http://www.biostat.wisc.edu), [School of Medicine and Public Health](http://www.med.wisc.edu), [University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Apr 5_)
 
+Mapping QTL to a phylogenetic tree
+\[[pdf (805k)](http://www.biostat.wisc.edu/~kbroman/presentations/michstate10.pdf)\]
+<br>
+[Edge Seminar series](http://www.pa.msu.edu/seminars/edge/), [Quantitative Biology and Modeling Initiative Program](http://biomodel.msu.edu/), [Michigan State University](http://www.msu.edu), East Lansing, MI (_Apr 2_)
 
+Mapping QTL to a phylogenetic tree
+\[[pdf (776k)](http://www.biostat.wisc.edu/~kbroman/presentations/vanderbilt10.pdf)\]
+<br>
+Integrative Genomics Seminar Series, [Vanderbilt University](http://www.vanderbilt.edu), Nashville, TN (_Mar 9_)
 
-  May 20
+Mapping QTL to a phylogenetic tree
+\[[pdf (776k)](http://www.biostat.wisc.edu/~kbroman/presentations/uwevolution10.pdf)\]
+<br>
+[Evolution seminar series](http://www.evolution.wisc.edu/seminars.php), [University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Mar 4_)
 
-
-  <font color="#23238e">Genetic maps: Past, present and future</font>
-      \[[pdf (3.5M)](http://www.biostat.wisc.edu/~kbroman/presentations/geneticmaps_poland10.pdf)\]
-  <br>
-[Wroc&#322;aw University of Environmental and Life Sciences](http://www.up.wroc.pl/en/), Wroc&#322;aw, Poland
-
-
-
-
-
-  May 17
-
-
-  The genetic dissection of complex traits in model organisms
-      \[[pdf (869k)](http://www.biostat.wisc.edu/~kbroman/presentations/qtlmas10.pdf)\]
-  <br>
-  [14th QTL-MAS Workshop](http://jay.up.poznan.pl/qtlmas2010/), Pozna&#324;, Poland
-
-
-
-
-
-  May 10
-
-
-  Mapping QTL to a phylogenetic tree
-      \[[pdf (119k)](http://www.biostat.wisc.edu/~kbroman/presentations/ctc2010.pdf)\]
-  <br>
-  [9th annual meeting](http://www.ctc2010.org) of the [Complex Trait Consortium](http://www.complextrait.org), Chicago, IL
-
-
-
-
-
-  Apr 5
-
-
-  How to give a scientific presentation
-      \[[pdf (370k)](http://www.biostat.wisc.edu/~kbroman/presentations/giving_talks.pdf)\]
-  <br>
-  Biostatistics training program, [Department of Biostatistics and Medical Informatics](http://www.biostat.wisc.edu), [School of Medicine and Public Health](http://www.med.wisc.edu), [University of Wisconsin&ndash;Madison](http://www.wisc.edu)
-
-
-
-
-
-  Apr 2
-
-
-  Mapping QTL to a phylogenetic tree
-      \[[pdf (805k)](http://www.biostat.wisc.edu/~kbroman/presentations/michstate10.pdf)\]
-  <br>
-[Edge Seminar series](http://www.pa.msu.edu/seminars/edge/), [Quantitative Biology and Modeling Initiative Program](http://biomodel.msu.edu/), [Michigan State University](http://www.msu.edu), East Lansing, MI
-
-
-
-
-  Mar 9
-
-
-  Mapping QTL to a phylogenetic tree
-      \[[pdf (776k)](http://www.biostat.wisc.edu/~kbroman/presentations/vanderbilt10.pdf)\]
-  <br>
-  Integrative Genomics Seminar Series, [Vanderbilt University](http://www.vanderbilt.edu), Nashville, TN
-
-
-
-
-  Mar 4
-
-
-  Mapping QTL to a phylogenetic tree
-      \[[pdf (776k)](http://www.biostat.wisc.edu/~kbroman/presentations/uwevolution10.pdf)\]
-  <br>
-[Evolution seminar series](http://www.evolution.wisc.edu/seminars.php), [University of Wisconsin&ndash;Madison](http://www.wisc.edu)
-
-
-
-
-
-  Feb 12
-
-
-  Mapping QTL to a phylogenetic tree
-      \[[pdf (776k)](http://www.biostat.wisc.edu/~kbroman/presentations/unc10.pdf)\]
-  <br>
-      [Curriculum in Genetics and
+Mapping QTL to a phylogenetic tree
+\[[pdf (776k)](http://www.biostat.wisc.edu/~kbroman/presentations/unc10.pdf)\]
+<br>
+[Curriculum in Genetics and
 Molecular Biology](http://gmb.unc.edu), [University of
-North Carolina at Chapel Hill](http://www.unc.edu)
-
+North Carolina at Chapel Hill](http://www.unc.edu) (_Feb 12_)
 
 
 
 ###  2009
 
-  Nov 23
+Mapping QTL to a phylogenetic tree
+\[[pdf (776k)](http://www.biostat.wisc.edu/~kbroman/presentations/uwgenetics09.pdf)\]
+<br>
+[Department of
+Human Genetics](http://www.genetics.ucla.edu), [University of
+California, Los Angeles](http://www.ucla.edu) (_Nov 23_)
 
+Mapping QTL to a phylogenetic tree
+\[[pdf (776k)](http://www.biostat.wisc.edu/~kbroman/presentations/ucla09.pdf)\]
+<br>
+[Laboratory of
+Genetics](http://www.genetics.wisc.edu), [University of
+Wisconsin&ndash;Madison](http://www.wisc.edu) (_Nov 18_)
 
-  Mapping QTL to a phylogenetic tree
-      \[[pdf (776k)](http://www.biostat.wisc.edu/~kbroman/presentations/uwgenetics09.pdf)\]
-  <br>
-      [Department of
-      Human Genetics](http://www.genetics.ucla.edu), [University of
-      California, Los Angeles](http://www.ucla.edu)
-
-
-
-
-
-  Nov 18
-
-
-  Mapping QTL to a phylogenetic tree
-      \[[pdf (776k)](http://www.biostat.wisc.edu/~kbroman/presentations/ucla09.pdf)\]
-  <br>
-      [Laboratory of
-      Genetics](http://www.genetics.wisc.edu), [University of
-      Wisconsin&ndash;Madison](http://www.wisc.edu)
-
-
-
-
-
-  Oct 7
-
-
-  <font color="#23238e">An applied statistician does probability: It&rsquo;s not pretty</font>
-    \[[pdf (426k)](http://www.biostat.wisc.edu/~kbroman/presentations/uwstat09.pdf)\]
-  <br>
+An applied statistician does probability: It&rsquo;s not pretty
+\[[pdf (426k)](http://www.biostat.wisc.edu/~kbroman/presentations/uwstat09.pdf)\]
+<br>
 [Department of Statistics](http://www.stat.wisc.edu/),
-[University of Wisconsin&ndash;Madison](http://www.wisc.edu)
+[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Oct 7_)
 
-
-
-
-  Sep 30
-
-
-  How to display data badly
+How to display data badly
 \[[ppt (3.8M)](http://www.biostat.wisc.edu/~kbroman/presentations/graphs_uwpath09.ppt)\]
-  <br>
-[Department of Pathology and Laboratory Medicine](http://www.pathology.wisc.edu), [University of Wisconsin&ndash;Madison](http://www.wisc.edu)
+<br>
+[Department of Pathology and Laboratory Medicine](http://www.pathology.wisc.edu), [University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Sep 30_)
 
-
-
-
-  Sep 17
-
-
-  <font color="#23238e">Genetic maps: Past, present and future</font>
-    \[[pdf (3.5M)](http://www.biostat.wisc.edu/~kbroman/presentations/chair09.pdf)\]
-  <br>
+<font color="#23238e">Genetic maps: Past, present and future</font>
+\[[pdf (3.5M)](http://www.biostat.wisc.edu/~kbroman/presentations/chair09.pdf)\]
+<br>
 [Department of Biostatistics and Medical Informatics](http://www.biostat.wisc.edu),
 [School of Medicine and Public Health](http://www.med.wisc.edu/),
-[University of Wisconsin&ndash;Madison](http://www.wisc.edu)
+[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Sep 17_)
 
+Genotype probabilities in the pre-CC
+\[[pdf (188k)](http://www.biostat.wisc.edu/~kbroman/presentations/jax_cgd_09.pdf)\]
+<br>[Center for Genome Dynamics](http://cgd.jax.org/), [The Jackson Laboratory](http://www.jax.org), Bar Harbor, Maine (via phone) (_Sep 15_)
 
+Mapping multiple QTL in experimental crosses
+\[[pdf (2.0M)](http://www.biostat.wisc.edu/~kbroman/presentations/oxford09.pdf)\]
+<br>
+[Wellcome Trust Centre for Human Genetics](http://www.well.ox.ac.uk/), Oxford, United Kingdom (_Jan 23_)
 
-
-  Sep 15
-
-
-  Genotype probabilities in the pre-CC
-    \[[pdf (188k)](http://www.biostat.wisc.edu/~kbroman/presentations/jax_cgd_09.pdf)\]
-  <br>[Center for Genome Dynamics](http://cgd.jax.org/), [The Jackson Laboratory](http://www.jax.org), Bar Harbor, Maine (via phone)
-
-
-
-
-
-  Jan 23
-
-
-  Mapping multiple QTL in experimental crosses
-    \[[pdf (2.0M)](http://www.biostat.wisc.edu/~kbroman/presentations/oxford09.pdf)\]
-  <br>
-[Wellcome Trust Centre for Human Genetics](http://www.well.ox.ac.uk/), Oxford, United Kingdom
-
-
-
-
-  Jan 20
-
-
-  Mapping multiple QTL in experimental crosses
-    \[[pdf (2.0M)](http://www.biostat.wisc.edu/~kbroman/presentations/groningen09.pdf)\]
-  <br>
-[Groningen Bioinformatics Centre](http://www.rug.nl/fmns-research/bioinformatics/index), [University of Groningen](http://www.rug.nl), Groningen, The Netherlands
+Mapping multiple QTL in experimental crosses
+\[[pdf (2.0M)](http://www.biostat.wisc.edu/~kbroman/presentations/groningen09.pdf)\]
+<br>
+[Groningen Bioinformatics Centre](http://www.rug.nl/fmns-research/bioinformatics/index), [University of Groningen](http://www.rug.nl), Groningen, The Netherlands (_Jan 20_)
 
 
 
 ###  2008
 
-  Sep 10
+Crossover interference and the sex difference in recombination
+\[[pdf (586k)](http://www.biostat.wisc.edu/~kbroman/presentations/uwstat08.pdf)\]
+<br>
+[Department of Statistics](http://www.stat.wisc.edu), [University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Sep 10_)
 
+Mapping multiple QTL in experimental crosses
+\[[pdf (1.7M)](http://www.biostat.wisc.edu/~kbroman/presentations/gstpretreat08.pdf)\]
+<br>
+[Genomic Sciences Training Program](http://www.gstp.wisc.edu) [annual retreat](http://www.gstp.wisc.edu/events/retreat.htm), [University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Jun 9_)
 
-  Crossover interference and the sex difference in recombination
-    \[[pdf (586k)](http://www.biostat.wisc.edu/~kbroman/presentations/uwstat08.pdf)\]
-  <br>
-[Department of Statistics](http://www.stat.wisc.edu), [University of Wisconsin&ndash;Madison](http://www.wisc.edu)
+Mapping multiple QTL in experimental crosses
+\[[pdf (1.7M)](http://www.biostat.wisc.edu/~kbroman/presentations/banff08.pdf)\]
+<br>
+[Emerging Statistical Challenges In Genome and Translational Research](http://www.birs.ca/birspages.php?task=displayevent&event_id=08w5062), Banff, Canada (_Jun 2_)
 
+Mapping multiple QTL in experimental crosses
+\[[pdf (2.0M)](http://www.biostat.wisc.edu/~kbroman/presentations/cincinnati08.pdf)\]
+<br>
+[Division of Human Genetics](http://www.cincinnatichildrens.org/svc/alpha/h/genetics/default.htm), [Cincinnati Children&rsquo;s Hospital](http://www.cincinnatichildrens.org) (_Apr 25_)
 
+Genetic maps: Past, present and future \[[pdf (2.8M)](http://www.biostat.wisc.edu/~kbroman/presentations/cibm08.pdf)\]
+<br>
+[Computation and Informatics in Biology and Medicine (CIBM)](http://www.cibm.wisc.edu) [seminar series](http://www.cibm.wisc.edu/seminars.html), [University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Apr 22_)
 
+Genetic maps: Past, present and future
+\[[pdf (2.6M)](http://www.biostat.wisc.edu/~kbroman/presentations/geneticmaps08.pdf)\]
+<br>
+[Evolution seminar series](http://www.evolution.wisc.edu/seminars.php), [University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Feb 21_)
 
-  Jun 9
+Mapping multiple QTL in experimental crosses
+\[[pdf (2.1M)](http://www.biostat.wisc.edu/~kbroman/presentations/animalbreeding08.pdf) |
+[Handout (2.1M)](http://www.biostat.wisc.edu/~kbroman/presentations/animalbreeding08_bw-2x2.pdf)\]
+<br>
+Graduate Seminar, [Department of Animal Sciences](http://www.anisci.wisc.edu), [University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Feb 12_)
 
-
-  Mapping multiple QTL in experimental crosses
-    \[[pdf (1.7M)](http://www.biostat.wisc.edu/~kbroman/presentations/gstpretreat08.pdf)\]
-  <br>
-[Genomic Sciences Training Program](http://www.gstp.wisc.edu) [annual retreat](http://www.gstp.wisc.edu/events/retreat.htm), [University of Wisconsin&ndash;Madison](http://www.wisc.edu)
-
-
-
-
-  Jun 2
-
-
-  Mapping multiple QTL in experimental crosses
-      \[[pdf (1.7M)](http://www.biostat.wisc.edu/~kbroman/presentations/banff08.pdf)\]
-  <br>
-[Emerging Statistical Challenges In Genome and Translational Research](http://www.birs.ca/birspages.php?task=displayevent&event_id=08w5062), Banff, Canada
-
-
-
-
-  Apr 25
-
-
-  Mapping multiple QTL in experimental crosses
-      \[[pdf (2.0M)](http://www.biostat.wisc.edu/~kbroman/presentations/cincinnati08.pdf)\]
-  <br>
-[Division of Human Genetics](http://www.cincinnatichildrens.org/svc/alpha/h/genetics/default.htm), [Cincinnati Children&rsquo;s Hospital](http://www.cincinnatichildrens.org)
-
-
-
-
-  Apr 22
-
-
-  <font color="#23238e">Genetic maps: Past, present and future</font> \[[pdf (2.8M)](http://www.biostat.wisc.edu/~kbroman/presentations/cibm08.pdf)\]
-  <br>
-[Computation and Informatics in Biology and Medicine (CIBM)](http://www.cibm.wisc.edu) [seminar series](http://www.cibm.wisc.edu/seminars.html), [University of Wisconsin&ndash;Madison](http://www.wisc.edu)
-
-
-
-
-  Feb 21
-
-
-  <font color="#23238e">Genetic maps: Past, present and future</font>
-      \[[pdf (2.6M)](http://www.biostat.wisc.edu/~kbroman/presentations/geneticmaps08.pdf)\]
-  <br>
-[Evolution seminar series](http://www.evolution.wisc.edu/seminars.php), [University of Wisconsin&ndash;Madison](http://www.wisc.edu)
-
-
-
-
-  Feb 12
-
-
-  Mapping multiple QTL in experimental crosses
-      \[[pdf (2.1M)](http://www.biostat.wisc.edu/~kbroman/presentations/animalbreeding08.pdf) |
-       [Handout (2.1M)](http://www.biostat.wisc.edu/~kbroman/presentations/animalbreeding08_bw-2x2.pdf)\]
-  <br>
-Graduate Seminar, [Department of Animal Sciences](http://www.anisci.wisc.edu), [University of Wisconsin&ndash;Madison](http://www.wisc.edu)
-
-
-
-
-  Jan 30
-
-
-  How to display data badly
-  \[[ppt (2.0M)](http://www.biostat.wisc.edu/~kbroman/presentations/graphs_uwpath08.ppt)\] | [Handout (pdf, 1.7M)](graphs_uwpath08_handout.pdf)\]
-  <br>
-[Department of Pathology and Laboratory Medicine](http://www.pathology.wisc.edu), [University of Wisconsin&ndash;Madison](http://www.wisc.edu)
+How to display data badly
+\[[ppt (2.0M)](http://www.biostat.wisc.edu/~kbroman/presentations/graphs_uwpath08.ppt)\] | [Handout (pdf, 1.7M)](graphs_uwpath08_handout.pdf)\]
+<br>
+[Department of Pathology and Laboratory Medicine](http://www.pathology.wisc.edu), [University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Jan 30_)
 
 
 
 ###  2007
 
-  Dec 5
-
-
-  Mapping multiple QTL in experimental crosses
-      \[[pdf (2.0M)](http://www.biostat.wisc.edu/~kbroman/presentations/uchicago07.pdf) |
-       [Handout (1.9M)](http://www.biostat.wisc.edu/~kbroman/presentations/uchicago07_bw-2x2.pdf)\]
-  <br>[Department of Human Genetics](http://www.genes.uchicago.edu), [University of Chicago](http://www.uchicago.edu)
-
-
-
-
-  Nov 28
-
-
-  Mapping multiple QTL in experimental crosses
-      \[[pdf (2.0M)](hopkins07.pdf) |
-       [Handout (1.9M)](hopkins07_bw-2x2.pdf)\]
-  <br>[Department of Biostatistics](http://www.biostat.jhsph.edu), [Johns Hopkins Bloomberg School of Public Health](http://www.jhsph.edu), Baltimore, MD
-
-
-
-
-  Nov 6
-
-
-  Mapping multiple QTL in experimental crosses
-      \[[pdf (2.0M)](http://www.biostat.wisc.edu/~kbroman/presentations/stolaf07.pdf) |
-       [Handout (1.9M)](http://www.biostat.wisc.edu/~kbroman/presentations/stolaf07_bw-2x2.pdf)\]
-  <br>[Statistics Program](http://www.stolaf.edu/depts/statistics/), [St. Olaf College](http://www.stolaf.edu), Northfield, MN
-
-
-
-
-
-  Nov 5
-
-
-  How to display data badly
-      \[[ppt (2.5M)](http://www.biostat.wisc.edu/~kbroman/presentations/graphs_stolaf07.ppt)\]
-  <br>[Center for Interdisciplinary Research](http://www.stolaf.edu/academics/cir/), [St. Olaf College](http://www.stolaf.edu), Northfield, MN
-
-
-
-
-
-  Oct 5
-
-
-  Crossover interference and the sex difference in recombination
-      \[[pdf (617k)](http://www.biostat.wisc.edu/~kbroman/presentations/geneticsRetreat07.pdf) |
-       [Handout (601k)](http://www.biostat.wisc.edu/~kbroman/presentations/geneticsRetreat07_bw-2x2.pdf)\]
-  <br>
-      Annual Retreat, [Laboratory of Genetics](http://www.genetics.wisc.edu),
-      [University of Wisconsin&ndash;Madison](http://www.wisc.edu)
-
-
-
-
-  Sep 11
-
-
-  Mapping multiple QTL in experimental crosses
-      \[[pdf (5.2M)](http://www.biostat.wisc.edu/~kbroman/presentations/niu07b.pdf) |
-       [Handout (5.1M)](http://www.biostat.wisc.edu/~kbroman/presentations/niu07b_bw-2x2.pdf)\]
-  <br>
-      [Division of Statistics](http://www.math.niu.edu/StatDiv),
-      [Department of Mathematical Sciences](http://www.math.niu.edu),
-      [Northern Illinois University](http://www.niu.edu), DeKalb, IL
-
-
-
-
-
-  Sep 10
-
-
-  The genomes of recombinant inbred lines
-      \[[pdf (2.4M)](http://www.biostat.wisc.edu/~kbroman/presentations/niu07a.pdf)\]
-  <br>
-      [Division of Statistics](http://www.math.niu.edu/StatDiv),
-      [Department of Mathematical Sciences](http://www.math.niu.edu),
-      [Northern Illinois University](http://www.niu.edu), DeKalb, IL
-
-
-
-
-
-  Mar 22
-
-
-  Mapping multiple QTL in experimental crosses
-      \[[pdf (5M)](http://www.biostat.wisc.edu/~kbroman/presentations/wisc07.pdf) |
-       [Handout (4M)](http://www.biostat.wisc.edu/~kbroman/presentations/wisc07_bw-2x2.pdf)\]
-  <br>
-      [Department of
-      Biostatistics and Medical Informatics](http://www.biostat.wisc.edu), [University of
-      Wisconsin&ndash;Madison](http://www.wisc.edu)
-
-
-
-
-
-  Mar 5
-
-
-  The genomes of recombinant inbred lines
-      \[[pdf (2.4M)](http://www.biostat.wisc.edu/~kbroman/presentations/la07.pdf)\]
-  <br>
-      [Department of
-      Human Genetics](http://www.genetics.ucla.edu), [University of
-      California, Los Angeles](http://www.ucla.edu)
-
-
-
-
-
-  Feb 27
-
-
-  The genomes of recombinant inbred lines
-      \[[pdf (2.4M)](http://www.biostat.wisc.edu/~kbroman/presentations/berkeley07.pdf)\]
-  <br>
-      [Department of
-      Statistics](http://www.stat.berkeley.edu), [University of
-      California, Berkeley](http://www.berkeley.edu)
-
-
-
-
-
-  Feb 22
-
-
-  The genomes of recombinant inbred lines
-      \[[pdf (2.2M)](http://www.biostat.wisc.edu/~kbroman/presentations/berkeley07.pdf)\]
-  <br>
-      [The Jackson Laboratory](http://www.jax.org), Bar
-      Harbor, Maine
-
-
-
-
-
-  Feb 15
-
-
-  Mapping multiple QTL in experimental crosses
-      \[[pdf (5M)](http://www.biostat.wisc.edu/~kbroman/presentations/mich07.pdf) | [handout (4M)](http://www.biostat.wisc.edu/~kbroman/presentations/mich07_bw-2x2.pdf)\]
-  <br>
-      [Department of
-      Biostatistics](http://www.sph.umich.edu/biostat), [University of
-      Michigan](http://www.umich.edu), Ann Arbor
-
-
-
-
-
-  Jan 31
-
-
-  QTL mapping in humans
- \[[pdf (218k)](humanqtl.pdf) | [handout (175k)](humanqtl_1x2.pdf)\]
-  <br>
-      Systems Medicine Workshop, NHLBI, Bethesda, MD
+Mapping multiple QTL in experimental crosses
+\[[pdf (2.0M)](http://www.biostat.wisc.edu/~kbroman/presentations/uchicago07.pdf) |
+[Handout (1.9M)](http://www.biostat.wisc.edu/~kbroman/presentations/uchicago07_bw-2x2.pdf)\]
+<br>[Department of Human Genetics](http://www.genes.uchicago.edu), [University of Chicago](http://www.uchicago.edu) (_Dec 5_)
+
+Mapping multiple QTL in experimental crosses
+\[[pdf (2.0M)](hopkins07.pdf) |
+[Handout (1.9M)](hopkins07_bw-2x2.pdf)\]
+<br>[Department of Biostatistics](http://www.biostat.jhsph.edu), [Johns Hopkins Bloomberg School of Public Health](http://www.jhsph.edu), Baltimore, MD (_Nov 28_)
+
+Mapping multiple QTL in experimental crosses
+\[[pdf (2.0M)](http://www.biostat.wisc.edu/~kbroman/presentations/stolaf07.pdf) |
+[Handout (1.9M)](http://www.biostat.wisc.edu/~kbroman/presentations/stolaf07_bw-2x2.pdf)\]
+<br>[Statistics Program](http://www.stolaf.edu/depts/statistics/), [St. Olaf College](http://www.stolaf.edu), Northfield, MN (_Nov 6_)
+
+How to display data badly
+\[[ppt (2.5M)](http://www.biostat.wisc.edu/~kbroman/presentations/graphs_stolaf07.ppt)\]
+<br>[Center for Interdisciplinary Research](http://www.stolaf.edu/academics/cir/), [St. Olaf College](http://www.stolaf.edu), Northfield, MN (_Nov 5_)
+
+Crossover interference and the sex difference in recombination
+\[[pdf (617k)](http://www.biostat.wisc.edu/~kbroman/presentations/geneticsRetreat07.pdf) |
+[Handout (601k)](http://www.biostat.wisc.edu/~kbroman/presentations/geneticsRetreat07_bw-2x2.pdf)\]
+<br>
+Annual Retreat, [Laboratory of Genetics](http://www.genetics.wisc.edu),
+[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Oct 5_)
+
+Mapping multiple QTL in experimental crosses
+\[[pdf (5.2M)](http://www.biostat.wisc.edu/~kbroman/presentations/niu07b.pdf) |
+[Handout (5.1M)](http://www.biostat.wisc.edu/~kbroman/presentations/niu07b_bw-2x2.pdf)\]
+<br>
+[Division of Statistics](http://www.math.niu.edu/StatDiv),
+[Department of Mathematical Sciences](http://www.math.niu.edu),
+[Northern Illinois University](http://www.niu.edu), DeKalb, IL (_Sep 11_)
+
+The genomes of recombinant inbred lines
+\[[pdf (2.4M)](http://www.biostat.wisc.edu/~kbroman/presentations/niu07a.pdf)\]
+<br>
+[Division of Statistics](http://www.math.niu.edu/StatDiv),
+[Department of Mathematical Sciences](http://www.math.niu.edu),
+[Northern Illinois University](http://www.niu.edu), DeKalb, IL (_Sep 10_)
+
+Mapping multiple QTL in experimental crosses
+\[[pdf (5M)](http://www.biostat.wisc.edu/~kbroman/presentations/wisc07.pdf) |
+[Handout (4M)](http://www.biostat.wisc.edu/~kbroman/presentations/wisc07_bw-2x2.pdf)\]
+<br>
+[Department of
+Biostatistics and Medical Informatics](http://www.biostat.wisc.edu), [University of
+Wisconsin&ndash;Madison](http://www.wisc.edu) (_Mar 22_)
+
+The genomes of recombinant inbred lines
+\[[pdf (2.4M)](http://www.biostat.wisc.edu/~kbroman/presentations/la07.pdf)\]
+<br>
+[Department of
+Human Genetics](http://www.genetics.ucla.edu), [University of
+California, Los Angeles](http://www.ucla.edu) (_Mar 5_)
+
+The genomes of recombinant inbred lines
+\[[pdf (2.4M)](http://www.biostat.wisc.edu/~kbroman/presentations/berkeley07.pdf)\]
+<br>
+[Department of
+Statistics](http://www.stat.berkeley.edu), [University of
+California, Berkeley](http://www.berkeley.edu) (_Feb 27_)
+
+The genomes of recombinant inbred lines
+\[[pdf (2.2M)](http://www.biostat.wisc.edu/~kbroman/presentations/berkeley07.pdf)\]
+<br>
+[The Jackson Laboratory](http://www.jax.org), Bar
+Harbor, Maine (_Feb 22_)
+
+Mapping multiple QTL in experimental crosses
+\[[pdf (5M)](http://www.biostat.wisc.edu/~kbroman/presentations/mich07.pdf) | [handout (4M)](http://www.biostat.wisc.edu/~kbroman/presentations/mich07_bw-2x2.pdf)\]
+<br>
+[Department of
+Biostatistics](http://www.sph.umich.edu/biostat), [University of
+Michigan](http://www.umich.edu), Ann Arbor (_Feb 15_)
+
+QTL mapping in humans
+\[[pdf (218k)](humanqtl.pdf) | [handout (175k)](humanqtl_1x2.pdf)\]
+<br>
+Systems Medicine Workshop, NHLBI, Bethesda, MD (_Jan 31_)
 
 
 
 
 ###  2006
 
-  Nov 9
+  
 
 
   The genomes of recombinant inbred lines
  \[[pdf (2.3M)](hopkins_igm06.pdf)\]
   <br>
-      [McKusick-Nathans Institute of Genetic Medicine](http://www.hopkinsmedicine.org/geneticmedicine/), [School of Medicine](http://www.hopkinsmedicine.org), Johns Hopkins University, Baltimore, MD
+      [McKusick-Nathans Institute of Genetic Medicine](http://www.hopkinsmedicine.org/geneticmedicine/), [School of Medicine](http://www.hopkinsmedicine.org), Johns Hopkins University, Baltimore, MD (_Nov 9_)
 
 
 
 
-  Nov 1
+  
 
 
   <font color="#23238e">The X chromosome in QTL mapping: What a pain
       in the @$$!</font> \[[pdf (1.6M)](http://www.biostat.wisc.edu/~kbroman/presentations/xchr.pdf)\]
   <br>
-      [Hopkins Expressionists](http://www.biostat.jhsph.edu/GenomeCAFE/ExpressionistSchedule.html)
+      [Hopkins Expressionists](http://www.biostat.jhsph.edu/GenomeCAFE/ExpressionistSchedule.html) (_Nov 1_)
 
 
 
 
-  Oct 19
+  
 
 
   The genomes of recombinant inbred lines
@@ -718,12 +417,12 @@ Graduate Seminar, [Department of Animal Sciences](http://www.anisci.wisc.edu), [
   <br>
       [Department of
       Biostatistics](http://www.sph.umich.edu/biostat), [University of
-      Michigan](http://www.umich.edu), Ann Arbor
+      Michigan](http://www.umich.edu), Ann Arbor (_Oct 19_)
 
 
 
 
-  May 7
+  
 
 
   Poor performance of bootstrap confidence
@@ -731,23 +430,23 @@ Graduate Seminar, [Department of Animal Sciences](http://www.anisci.wisc.edu), [
       \[[pdf (48k)](http://www.biostat.wisc.edu/~kbroman/presentations/qtlboot.pdf)\]
   <br>
       [Complex Trait
-      Consortium](http://www.complextrait.org) [5th annual meeting](http://www.complextrait.org/meetings/ctc06.php), Chapel Hill, North Carolina
+      Consortium](http://www.complextrait.org) [5th annual meeting](http://www.complextrait.org/meetings/ctc06.php), Chapel Hill, North Carolina (_May 7_)
 
 
 
 
-  Apr 5
+  
 
 
   The genomes of recombinant inbred lines
   \[[ppt (3.8M)](http://www.biostat.wisc.edu/~kbroman/presentations/wisc06.ppt) | [pdf (2.6M)](http://www.biostat.wisc.edu/~kbroman/presentations/wisc06_ho.pdf)\]
   <br>
-      [Genetics](http://www.genetics.wisc.edu), [University of Wisconsin&ndash;Madison](http://www.wisc.edu)
+      [Genetics](http://www.genetics.wisc.edu), [University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Apr 5_)
 
 
 
 
-  Feb 23
+  
 
 
   Principles of experimental design and sample
@@ -755,52 +454,52 @@ Graduate Seminar, [Department of Animal Sciences](http://www.anisci.wisc.edu), [
   \[[ppt (934k)](http://www.biostat.wisc.edu/~kbroman/presentations/acuc.ppt) | [pdf (1.8M)](http://www.biostat.wisc.edu/~kbroman/presentations/acuc_ho.pdf)\]
   <br>
   [Johns Hopkins University Animal Care
-  and Use Committee](http://www.jhu.edu/animalcare) seminar
+  and Use Committee](http://www.jhu.edu/animalcare) seminar (_Feb 23_)
 
 
 
 
 
 
-  Feb 15
+  
 
 
   Model selection for multiple interacting QTL
       in experimental crosses
 <!--  \[[ppt 3.8M](http://www.biostat.wisc.edu/~kbroman/presentations/wisc06.ppt) | [pdf 2.6M](http://www.biostat.wisc.edu/~kbroman/presentations/wisc06_ho.pdf)\] -->
   <br>
-      [Hopkins Expressionists](http://www.biostat.jhsph.edu/GenomeCAFE/ExpressionistSchedule.html)
+      [Hopkins Expressionists](http://www.biostat.jhsph.edu/GenomeCAFE/ExpressionistSchedule.html) (_Feb 15_)
 
 
 
 
-  Jan 12
+  
 
 
   The genomes of recombinant inbred lines
       \[[ppt (6.7M)](http://www.biostat.wisc.edu/~kbroman/presentations/seattle06.ppt) | [pdf (602k)](http://www.biostat.wisc.edu/~kbroman/presentations/seattle06_ho.pdf)\]
   <br>
       [Department of
-      Biostatistics](http://www.biostat.washington.edu), [University of Washington](http://www.washington.edu), Seattle
+      Biostatistics](http://www.biostat.washington.edu), [University of Washington](http://www.washington.edu), Seattle (_Jan 12_)
 
 
 
 
 ###  2005
 
-  Nov 23
+  
 
 
   The genomes of recombinant inbred lines
   \[[ppt (6.2M)](http://www.biostat.wisc.edu/~kbroman/presentations/oz05.ppt) | [pdf (740k)](http://www.biostat.wisc.edu/~kbroman/presentations/oz05_ho.pdf)\]
   <br>
-  [Fifth Australasian human gene mapping conference](http://bioinf.wehi.edu.au/folders/melanie/genemappers/index.htm), Mt. Buller, Australia
+  [Fifth Australasian human gene mapping conference](http://bioinf.wehi.edu.au/folders/melanie/genemappers/index.htm), Mt. Buller, Australia (_Nov 23_)
 
 
 
 
 
-  Oct 21
+  
 
 
   <font color="#23238e">What is regression?</font>
@@ -811,12 +510,12 @@ Graduate Seminar, [Department of Animal Sciences](http://www.anisci.wisc.edu), [
       Biostatistics but were afraid to ask](http://www.biostat.jhsph.edu/newsEvent/event/lectureSeries/lecture2005-06.php)" lecture series<br>
   [Department of
   Biostatistics](http://www.biostat.jhsph.edu), [Johns Hopkins
-  Bloomberg School of Public Health](http://www.jhsph.edu), Baltimore, MD
+  Bloomberg School of Public Health](http://www.jhsph.edu), Baltimore, MD (_Oct 21_)
 
 
 
 
-  Sep 29
+  
 
 
   The genomes of recombinant inbred lines
@@ -824,14 +523,12 @@ Graduate Seminar, [Department of Animal Sciences](http://www.anisci.wisc.edu), [
   <br>
   [Department of
   Statistics](http://www.stat.ucdavis.edu), [University of
-  California, Davis](http://www.ucdavis.edu)
+  California, Davis](http://www.ucdavis.edu) (_Sep 29_)
 
 
 
 
-  Sep 14
-  &nbsp;
-
+  
   <font color="#23238e">Super computing for "classical" genetics</font>
   \[[ppt (2.4M)](http://www.biostat.wisc.edu/~kbroman/presentations/genomecafe.ppt) | [pdf (290k)](http://www.biostat.wisc.edu/~kbroman/presentations/genomecafe_ho.pdf)\]
   <br>
@@ -839,13 +536,13 @@ Graduate Seminar, [Department of Animal Sciences](http://www.anisci.wisc.edu), [
   Grand Opening, [Department of
   Biostatistics](http://www.biostat.jhsph.edu), [Bloomberg School
   of Public Health](http://www.jhsph.edu), [Johns Hopkins
-  University](http://www.jhu.edu), Baltimore, MD
+  University](http://www.jhu.edu), Baltimore, MD (_Sep 14_)
 
 
 
 
 
-  Sep 12
+  
 
 
   The genomes of recombinant inbred lines
@@ -853,47 +550,47 @@ Graduate Seminar, [Department of Animal Sciences](http://www.anisci.wisc.edu), [
   <br>
   [Department of Genetics](http://www.med.upenn.edu/genetics), [School of
   Medicine](http://www.med.upenn.edu/), [University of
-  Pennsylvania](http://www.upenn.edu), Philadelphia, PA
+  Pennsylvania](http://www.upenn.edu), Philadelphia, PA (_Sep 12_)
 
 
 
 
-  Aug 11
+  
 
 
   The genomes of recombinant inbred lines
   \[[ppt (3.1M)](http://www.biostat.wisc.edu/~kbroman/presentations/csps05.ppt) | [pdf (725k)](http://www.biostat.wisc.edu/~kbroman/presentations/csps05_ho.pdf)\]
   <br>
   [Joint
-  Statistical Meetings](http://www.amstat.org/meetings/jsm/2005/index.cfm), Minneapolis, MN
+  Statistical Meetings](http://www.amstat.org/meetings/jsm/2005/index.cfm), Minneapolis, MN (_Aug 11_)
 
 
 
 
-  July 10
+  
 
 
   The genomes of recombinant inbred lines
   \[[ppt (3.1M)](http://www.biostat.wisc.edu/~kbroman/presentations/csps05.ppt) | [pdf (725k)](http://www.biostat.wisc.edu/~kbroman/presentations/csps05_ho.pdf)\]
   <br>
-  [CSPS/IMS Joint meeting](http://math.bnu.edu.cn/statprob/CSPS-IMS2005/index.html), Beijing, China
+  [CSPS/IMS Joint meeting](http://math.bnu.edu.cn/statprob/CSPS-IMS2005/index.html), Beijing, China (_July 10_)
 
 
 
 
-  Apr 8
+  
 
 
   The genomes of recombinant inbred lines
   \[[ppt (3.8M)](http://www.biostat.wisc.edu/~kbroman/presentations/umbc05.ppt) | [pdf (725k)](http://www.biostat.wisc.edu/~kbroman/presentations/umbc05_ho.pdf)\]
   <br>
   [Department of Mathematics and Statistics](http://www.math.umbc.edu),
-  [University of Maryland, Baltimore County](http://www.umbc.edu), Baltimore, MD
+  [University of Maryland, Baltimore County](http://www.umbc.edu), Baltimore, MD (_Apr 8_)
 
 
 
 
-  Mar 4
+  
 
 
   Understanding human disease via randomized mice
@@ -901,12 +598,12 @@ Graduate Seminar, [Department of Animal Sciences](http://www.anisci.wisc.edu), [
   <br>
   [Department of
   Epidemiology](http://www.jhsph.edu/Dept/EPI/index.html), [Johns Hopkins
-  Bloomberg School of Public Health](http://www.jhsph.edu), Baltimore, MD
+  Bloomberg School of Public Health](http://www.jhsph.edu), Baltimore, MD (_Mar 4_)
 
 
 
 
-  Feb 24
+  
 
 
   Principles of experimental design and sample
@@ -914,12 +611,12 @@ Graduate Seminar, [Department of Animal Sciences](http://www.anisci.wisc.edu), [
   \[[ppt (934k)](http://www.biostat.wisc.edu/~kbroman/presentations/acuc.ppt) | [pdf (1.8M)](http://www.biostat.wisc.edu/~kbroman/presentations/acuc_ho.pdf)\]
   <br>
   [Johns Hopkins University Animal Care
-  and Use Committee](http://www.jhu.edu/animalcare) seminar
+  and Use Committee](http://www.jhu.edu/animalcare) seminar (_Feb 24_)
 
 
 
 
-  Feb 11
+  
 
 
   The genomes of recombinant inbred lines
@@ -928,52 +625,52 @@ Graduate Seminar, [Department of Animal Sciences](http://www.anisci.wisc.edu), [
   (for prospective graduate students)<br>
   [Department of
   Biostatistics](http://www.biostat.jhsph.edu), [Johns Hopkins
-  Bloomberg School of Public Health](http://www.jhsph.edu), Baltimore, MD
+  Bloomberg School of Public Health](http://www.jhsph.edu), Baltimore, MD (_Feb 11_)
 
 
 
 
 
-  Jan 28
+  
 
 
   The genetic dissection of complex traits
   \[[Powerpoint (5.5M)](http://www.biostat.wisc.edu/~kbroman/presentations/martina_defense.ppt) | [pdf (1.3M)](martina_defense.pdf)\]
   <br>
   (Introduction for the Martina Johannesson&rsquo;s dissertation defense)<br>
-  [Section for Medical Inflammation Research](http://www.lu.se/o.o.i.s/1705?task=view_english_organization_information013100009&firstname=&lastname=holmdahl), [Department of Cell and Molecular Biology](http://www.lu.se/o.o.i.s/1705?task=view_english_organization_information013100007&username=), [Lund University](http://www.lu.se/o.o.i.s/450), Lund, Sweden
+  [Section for Medical Inflammation Research](http://www.lu.se/o.o.i.s/1705?task=view_english_organization_information013100009&firstname=&lastname=holmdahl), [Department of Cell and Molecular Biology](http://www.lu.se/o.o.i.s/1705?task=view_english_organization_information013100007&username=), [Lund University](http://www.lu.se/o.o.i.s/450), Lund, Sweden (_Jan 28_)
 
 
 
 
 
-  Jan 27
+  
 
 
   The genomes of recombinant inbred lines
   \[[Powerpoint (1.8M)](http://www.biostat.wisc.edu/~kbroman/presentations/lund05.ppt) | [pdf (878k)](lund05.pdf)\]
   <br>
-  [Section for Medical Inflammation Research](http://www.lu.se/o.o.i.s/1705?task=view_english_organization_information013100009&firstname=&lastname=holmdahl), [Department of Cell and Molecular Biology](http://www.lu.se/o.o.i.s/1705?task=view_english_organization_information013100007&username=), [Lund University](http://www.lu.se/o.o.i.s/450), Lund, Sweden
+  [Section for Medical Inflammation Research](http://www.lu.se/o.o.i.s/1705?task=view_english_organization_information013100009&firstname=&lastname=holmdahl), [Department of Cell and Molecular Biology](http://www.lu.se/o.o.i.s/1705?task=view_english_organization_information013100007&username=), [Lund University](http://www.lu.se/o.o.i.s/450), Lund, Sweden (_Jan 27_)
 
 
 
 
 ###  2004
 
-  Dec 16
+  
 
 
   Gene mapping in model organisms
   \[[Powerpoint (4.3M)](taiwan04.ppt) | [pdf (1.5M)](taiwan04.pdf)\]
   <br>
   [Taipei Symposium
-  on Statistical Genomics](http://www.stat.sinica.edu.tw/2004tssg/), Academia Sinica, Taipei, Taiwan
+  on Statistical Genomics](http://www.stat.sinica.edu.tw/2004tssg/), Academia Sinica, Taipei, Taiwan (_Dec 16_)
 
 
 
 
 
-  Oct 21
+  
 
 
   The genetic dissection of complex
@@ -981,13 +678,13 @@ Graduate Seminar, [Department of Animal Sciences](http://www.anisci.wisc.edu), [
   \[[Powerpoint (3.3M)](tigr04.ppt) | [pdf (1.9M)](tigr04.pdf)\]
   <br>
 [7th Annual Conference on
-  Computational Genomics](http://www.tigr.org/conf/cg/), Reston, Virginia
+  Computational Genomics](http://www.tigr.org/conf/cg/), Reston, Virginia (_Oct 21_)
 
 
 
 
 
-  Oct 19
+  
 
 
   The genomes of recombinant inbred lines
@@ -995,25 +692,25 @@ Graduate Seminar, [Department of Animal Sciences](http://www.anisci.wisc.edu), [
   <br>
   [Department of
   Biostatistics](http://publichealth.yale.edu/bis/index.html), [Yale
-  School of Public Health](http://publichealth.yale.edu/), New Haven, Connecticut
+  School of Public Health](http://publichealth.yale.edu/), New Haven, Connecticut (_Oct 19_)
 
 
 
 
 
-  Oct 5
+  
 
 
   <font color="#23238e">Identifying essential genes in <i>M. tuberculosis</i>
   by random transposon mutagenesis</font> \[[Powerpoint (1.2M)](http://www.biostat.wisc.edu/~kbroman/presentations/mfd04.ppt) | [pdf (988k)](mfd04_ho.pdf)\]
   <br>
   [Marshfield Clinic
-Research Foundation](http://research.marshfieldclinic.org/), Marshfield, Wisconsin
+Research Foundation](http://research.marshfieldclinic.org/), Marshfield, Wisconsin (_Oct 5_)
 
 
 
 
-  Sep 24
+  
 
 
   <a name="wow"></a>How to display data badly
@@ -1028,47 +725,47 @@ Research Foundation](http://research.marshfieldclinic.org/), Marshfield, Wiscons
       Biostatistics but were afraid to ask](http://www.biostat.jhsph.edu/newsEvent/event/lecture.php)" lecture series<br>
   [Department of
   Biostatistics](http://www.biostat.jhsph.edu), [Johns Hopkins
-  Bloomberg School of Public Health](http://www.jhsph.edu), Baltimore, MD
+  Bloomberg School of Public Health](http://www.jhsph.edu), Baltimore, MD (_Sep 24_)
 
 
 
 
-  Aug 11
+  
 
 
   The genomes of recombinant inbred lines
 \[[ppt (1.9M)](toronto04.ppt) | [pdf (1.9M)](toronto04.pdf)\]
   <br>
   [Genetics and Genomic Biology](http://www.sickkids.on.ca/Research/section.asp?s=Research+Programs&sID=1118&ss=Genetics+and+Genomic+Biology&ssID=2504),
-  [Hospital for Sick Children](http://www.sickkids.on.ca), Toronto, Canada
+  [Hospital for Sick Children](http://www.sickkids.on.ca), Toronto, Canada (_Aug 11_)
 
 
 
 
-  Aug 8
+  
 
 
   The genomes of recombinant inbred lines
 \[[ppt (2.0M)](http://www.biostat.wisc.edu/~kbroman/presentations/jsm04.ppt) | [pdf (1.2M)](http://www.biostat.wisc.edu/~kbroman/presentations/jsm04.pdf)\]
   <br>
   [Joint
-  Statistical Meetings](http://www.amstat.org/meetings/jsm/2004/index.cfm), Toronto, Canada
+  Statistical Meetings](http://www.amstat.org/meetings/jsm/2004/index.cfm), Toronto, Canada (_Aug 8_)
 
 
 
 
-  Jul 8
+  
 
 
   The genomes of recombinant inbred lines
 \[[ppt (2.8M)](http://www.biostat.wisc.edu/~kbroman/presentations/ctc04.ppt) | [pdf (625k)](http://www.biostat.wisc.edu/~kbroman/presentations/ctc04.pdf)\]
   <br>
-  [Complex Trait Consortium](http://www.complextrait.org), [Third Annual Meeting](http://www.jax.org/courses/events/coursedetails.do?id=30), [The Jackson Laboratory](http://www.jax.org), Bar Harbor, Maine
+  [Complex Trait Consortium](http://www.complextrait.org), [Third Annual Meeting](http://www.jax.org/courses/events/coursedetails.do?id=30), [The Jackson Laboratory](http://www.jax.org), Bar Harbor, Maine (_Jul 8_)
 
 
 
 
-  Jun 19
+  
 
 
   Statistics in epigenomics
@@ -1076,12 +773,12 @@ Research Foundation](http://research.marshfieldclinic.org/), Marshfield, Wiscons
   <br>
 [Nobel Symposium on
       Epigenetic Reprogramming in Development
-      and Disease](http://www-conference.slu.se/nobel/), Stockholm, Sweden
+      and Disease](http://www-conference.slu.se/nobel/), Stockholm, Sweden (_Jun 19_)
 
 
 
 
-  May 27
+  
 
 
   The breakpoint process on recombinant inbred
@@ -1090,12 +787,12 @@ Research Foundation](http://research.marshfieldclinic.org/), Marshfield, Wiscons
   <br>
     Genetic Interest Group, [Center for Human Genetics
   Research](http://phg.mc.vanderbilt.edu/), [Vanderbilt
-  University](http://www.vanderbilt.edu), Nashville, TN
+  University](http://www.vanderbilt.edu), Nashville, TN (_May 27_)
 
 
 
 
-  May 1
+  
 
 
   The breakpoint process on recombinant inbred chromosomes
@@ -1104,24 +801,24 @@ Research Foundation](http://research.marshfieldclinic.org/), Marshfield, Wiscons
   <br>
     Annual Retreat, [Department of
   Biostatistics](http://www.biostat.jhsph.edu), [Johns Hopkins Bloomberg School of
-  Public Health](http://www.jhsph.edu)
+  Public Health](http://www.jhsph.edu) (_May 1_)
 
 
 
 
-  Apr 21
+  
 
 
   The breakpoint process on recombinant inbred chromosomes
   \[[ppt (1.4M)](http://www.biostat.wisc.edu/~kbroman/presentations/ribreaks.ppt) | [pdf
   (661k)](ribreaks_ho.pdf)\]
   <br>
-  [Hopkins Expressionists](http://astor.som.jhmi.edu/hex)
+  [Hopkins Expressionists](http://astor.som.jhmi.edu/hex) (_Apr 21_)
 
 
 
 
-  Apr 8
+  
 
 
   <font color="#23238e">Identifying essential genes in <i>M. tuberculosis</i>
@@ -1129,12 +826,12 @@ Research Foundation](http://research.marshfieldclinic.org/), Marshfield, Wiscons
   \[[pdf (440k)](http://www.biostat.wisc.edu/~kbroman/presentations/sk04_ho.pdf)\]
   <br>
   [Dept of Biostatistics,
-      University at Buffalo](http://phhp.buffalo.edu/biostat) in Buffalo, New York
+      University at Buffalo](http://phhp.buffalo.edu/biostat) in Buffalo, New York (_Apr 8_)
 
 
 
 
-  Apr 2
+  
 
 
   <font color="#23238e">Introduction to QTL mapping: lecture and
@@ -1144,12 +841,12 @@ Research Foundation](http://research.marshfieldclinic.org/), Marshfield, Wiscons
     [R code](http://www.biostat.wisc.edu/~kbroman/presentations/Louisville/rqtllab.R)\]  <br>
   [Dept of
   Bioinformatics and Biostatistics](https://www.sphis.louisville.edu/bb_home.cfm), [University of Louisville](http://www.louisville.edu) in
-  Louisville, Kentucky
+  Louisville, Kentucky (_Apr 2_)
 
 
 
 
-  Mar 17
+  
 
 
   Statistical issues in QTL mapping in mice
@@ -1157,12 +854,12 @@ Research Foundation](http://research.marshfieldclinic.org/), Marshfield, Wiscons
   (4.7M)](rostock04.pdf)\]
   <br>
   [Workshop on the
-  Analysis of Complex Genetic Traits](http://www.eurome.de/meet.html#meet4), [Immunogenetics](http://www-iimmun.med.uni-rostock.de/immgen.html), [Universit&auml;t Rostock](http://www.uni-rostock.de), Germany
+  Analysis of Complex Genetic Traits](http://www.eurome.de/meet.html#meet4), [Immunogenetics](http://www-iimmun.med.uni-rostock.de/immgen.html), [Universit&auml;t Rostock](http://www.uni-rostock.de), Germany (_Mar 17_)
 
 
 
 
-  Feb 12
+  
 
 
   Gene mapping in mice
@@ -1170,12 +867,12 @@ Research Foundation](http://research.marshfieldclinic.org/), Marshfield, Wiscons
   (1.8M)](msri04.pdf) | [Online video](http://www.msri.org/publications/ln/msri/2004/genetics/broman/1/index.html) | [Videos of the whole workshop](http://www.msri.org/publications/video/index08.html#genetics)\]
   <br>
   [Workshop on the Genetics of Complex Disease](http://www.msri.org/calendar/workshops/WorkshopInfo/261/show_workshop), [Mathematical Sciences
-  Research Institute](http://www.msri.org), Berkeley, California
+  Research Institute](http://www.msri.org), Berkeley, California (_Feb 12_)
 
 
 
 
-  Jan 14
+  
 
 
   <font color="#23238e">Identifying essential genes in <i>M. tuberculosis</i>
@@ -1184,13 +881,13 @@ Research Foundation](http://research.marshfieldclinic.org/), Marshfield, Wiscons
   <br>
   [Department of
   Epidemiology and Biostatistics](http://www.mskcc.org/mskcc/html/3159.cfm), [Memorial
-  Sloan-Kettering Cancer Center](http://www.mskcc.org/mskcc/html/44.cfm), New York
+  Sloan-Kettering Cancer Center](http://www.mskcc.org/mskcc/html/44.cfm), New York (_Jan 14_)
 
 
 
 ###  2003
 
-  Nov 12
+  
 
 
   <font color="#23238e">Identifying essential genes in <i>M. tuberculosis</i>
@@ -1198,12 +895,12 @@ Research Foundation](http://research.marshfieldclinic.org/), Marshfield, Wiscons
   \[[pdf (598k)](http://www.biostat.wisc.edu/~kbroman/presentations/ucla03_ho.pdf)\]
   <br>
   Departments of [Statistics](http://www.stat.wisc.edu/)
-  and [Biostatistics & Medical Informatics](http://www.biostat.wisc.edu/), University of Wisconsin&ndash;Madison
+  and [Biostatistics & Medical Informatics](http://www.biostat.wisc.edu/), University of Wisconsin&ndash;Madison (_Nov 12_)
 
 
 
 
-  Nov 4
+  
 
 
   <font color="#23238e">Identifying essential genes in <i>M. tuberculosis</i>
@@ -1211,12 +908,12 @@ Research Foundation](http://research.marshfieldclinic.org/), Marshfield, Wiscons
   \[[pdf (598k)](http://www.biostat.wisc.edu/~kbroman/presentations/ucla03_ho.pdf)\]
   <br>
   [Department of Statistics](http://www.stat.ucla.edu/),
-  University of California, Los Angeles
+  University of California, Los Angeles (_Nov 4_)
 
 
 
 
-  Oct 23
+  
 
 
   <font color="#23238e">Identifying essential genes in <i>M. tuberculosis</i>
@@ -1224,36 +921,36 @@ Research Foundation](http://research.marshfieldclinic.org/), Marshfield, Wiscons
   \[[pdf (611k)](http://www.biostat.wisc.edu/~kbroman/presentations/unc03_ho.pdf)\]
   <br>
   [Department of Biostatistics](http://www.sph.unc.edu/bios), University of North
-  Carolina at Chapel Hill
+  Carolina at Chapel Hill (_Oct 23_)
 
 
 
 
-  Oct 20
+  
 
 
   <font color="#23238e">Identifying essential genes in <i>M. tuberculosis</i>
   by random transposon mutagenesis</font>
   \[[pdf (620k)](haverford_ho.pdf)\]
   <br>
-  Haverford-Bryn Mayr Mathematics Colloquium, [Haverford College](http://www.haverford.edu/math/), Haverford, Pennsylvania
+  Haverford-Bryn Mayr Mathematics Colloquium, [Haverford College](http://www.haverford.edu/math/), Haverford, Pennsylvania (_Oct 20_)
 
 
 
 
-  Aug 5
+  
 
 
   <font color="#23238e">Identifying essential genes in <i>M. tuberculosis</i>
   by random transposon mutagenesis</font>
   \[[pdf (419k)](http://www.biostat.wisc.edu/~kbroman/presentations/jsm03_ho.pdf)\]
   <br>
-  Joint Statistical Meetings, San Francisco
+  Joint Statistical Meetings, San Francisco (_Aug 5_)
 
 
 
 
-  Jun 26
+  
 
 
   Principles of experimental design and sample
@@ -1261,35 +958,35 @@ Research Foundation](http://research.marshfieldclinic.org/), Marshfield, Wiscons
   \[[ppt (934k)](http://www.biostat.wisc.edu/~kbroman/presentations/acuc.ppt) | [pdf (1.8M)](http://www.biostat.wisc.edu/~kbroman/presentations/acuc_ho.pdf)\]
   <br>
   [Johns Hopkins University Animal Care
-  and Use Committee](http://www.jhu.edu/animalcare) seminar
+  and Use Committee](http://www.jhu.edu/animalcare) seminar (_Jun 26_)
 
 
 
 
-  Jun 25
-
-
-  <font color="#23238e">Identifying essential genes in
-  <i>M. tuberculosis</i> by random transposon mutagenesis</font>
-  \[[pdf (487k)](http://www.biostat.wisc.edu/~kbroman/presentations/ucsf03_ho.pdf)\]
-  <br>
-  [Hopkins Expressionists](http://astor.som.jhmi.edu/hex)
-
-
-
-  Mar 13
+  
 
 
   <font color="#23238e">Identifying essential genes in
   <i>M. tuberculosis</i> by random transposon mutagenesis</font>
   \[[pdf (487k)](http://www.biostat.wisc.edu/~kbroman/presentations/ucsf03_ho.pdf)\]
   <br>
-  [Department of Biostatistics](http://www.biostat.ucsf.edu/), University of California, San Francisco
+  [Hopkins Expressionists](http://astor.som.jhmi.edu/hex) (_Jun 25_)
+
+
+
+  
+
+
+  <font color="#23238e">Identifying essential genes in
+  <i>M. tuberculosis</i> by random transposon mutagenesis</font>
+  \[[pdf (487k)](http://www.biostat.wisc.edu/~kbroman/presentations/ucsf03_ho.pdf)\]
+  <br>
+  [Department of Biostatistics](http://www.biostat.ucsf.edu/), University of California, San Francisco (_Mar 13_)
 
 
 
 
-  Jan 10-11
+  
 
 
   <font color="#23238e">Meiosis, recombination, and
@@ -1298,13 +995,13 @@ Research Foundation](http://research.marshfieldclinic.org/), Marshfield, Wiscons
   QTL mapping in mice \[[pdf (474k)](http://www.biostat.wisc.edu/~kbroman/presentations/qtl_nz.pdf) | handout
   ([pdf (470k)](http://www.biostat.wisc.edu/~kbroman/presentations/qtl_nz_handout.pdf)) \]<br>
   [Mathematics
-  Workshop](http://www.mcs.vuw.ac.nz/~mathmeet/newplymouth/index.shtml) in New Plymouth, New Zealand
+  Workshop](http://www.mcs.vuw.ac.nz/~mathmeet/newplymouth/index.shtml) in New Plymouth, New Zealand (_Jan 10-11_)
 
 
 
 ###  2002
 
-  Dec 13
+  
 
 
   <font color="#23238e">Identification of the essential genes in the
@@ -1314,145 +1011,94 @@ Research Foundation](http://research.marshfieldclinic.org/), Marshfield, Wiscons
   <br>
   [Department of
   Biostatistics](http://www.biostat.jhsph.edu), [Johns Hopkins Bloomberg School of
-  Public Health](http://www.jhsph.edu)
+  Public Health](http://www.jhsph.edu) (_Dec 13_)
 
 
 
 
-  Oct 9
+  
 
 
   Human crossover interference \[[pdf (939k)](http://www.biostat.wisc.edu/~kbroman/presentations/yale.pdf) | [Video](http://images.main.uab.edu/isoph/PresenterOne/HumanCrossoverInterference/rnhigh.ram)\] <br>
   [Section on Statistical Genetics](http://www.soph.uab.edu/statgenetics/Default.htm), University of Alabama,
-  Birmingham
+  Birmingham (_Oct 9_)
 
 
 
 
-  Aug 14
+  
 
 
   Model selection for QTL mapping
   \[[pdf (524k)](http://www.biostat.wisc.edu/~kbroman/presentations/rss_ho.pdf)\]<br>
-  Joint Statistical Meetings, New York, NY
+  Joint Statistical Meetings, New York, NY (_Aug 14_)
 
 
 
 
-  May 22
+  
 
 
   Model selection for QTL mapping \[[pdf (524k)](http://www.biostat.wisc.edu/~kbroman/presentations/rss_ho.pdf) | related paper ([pdf (322k)](http://www.biostat.wisc.edu/~kbroman/presentations/../publications/jrssb_proofs.pdf))\]<br>
-  Royal Statistical Society, London, England
+  Royal Statistical Society, London, England (_May 22_)
 
 
 
 
-  May 16
+  
 
 
   <font color="#23238e">R/qtl: an extensible QTL mapping environment</font> \[[pdf (1267k)](http://www.biostat.wisc.edu/~kbroman/presentations/ctc.pdf)\]<br>
-  Complex Trait Consortium meeting, Memphis, Tennessee
+  Complex Trait Consortium meeting, Memphis, Tennessee (_May 16_)
 
 
 
 
-  Apr 11
+  
 
 
-  Human crossover interference \[[pdf (939k)](http://www.biostat.wisc.edu/~kbroman/presentations/yale.pdf)\]<br>
-  [Department of Statistics](http://www.stat.berkeley.edu), University of California, Berkeley
+Human crossover interference \[[pdf (939k)](http://www.biostat.wisc.edu/~kbroman/presentations/yale.pdf)\]<br>
+[Department of Statistics](http://www.stat.berkeley.edu), University of California, Berkeley (_Apr 11_)
 
+A model selection approach for the identification of quantitative
+trait loci in experimental crosses \[[pdf (699k)](hopkins02_ho.pdf)\]<br>
+[Department of Biostatistics](http://www.biostat.jhsph.edu),
+Johns Hopkins University, Baltimore, Maryland (_Apr 3_)
 
+Model selection in QTL mapping \[[pdf (674k)](http://www.biostat.wisc.edu/~kbroman/presentations/rp_handout.pdf)\]<br>
+[Department of Molecular and
+Cellular Biology](http://www.roswellpark.org/department_725.html), Roswell Park Cancer Institute, Buffalo, New York (_Mar 28_)
 
+A model selection approach for the identification of quantitative
+trait loci in experimental crosses \[[pdf (439k)](http://www.biostat.wisc.edu/~kbroman/presentations/enar02_handout.pdf)\]<br>
+International Biometric Society/ENAR meeting, Arlington, Virginia (_Mar 20_)
 
-  Apr 3
-
-
-  A model selection approach for the identification of quantitative
-  trait loci in experimental crosses \[[pdf (699k)](hopkins02_ho.pdf)\]<br>
-  [Department of Biostatistics](http://www.biostat.jhsph.edu),
-  Johns Hopkins University, Baltimore, Maryland
-
-
-
-
-  Mar 28
-
-
-  Model selection in QTL mapping \[[pdf (674k)](http://www.biostat.wisc.edu/~kbroman/presentations/rp_handout.pdf)\]<br>
-  [Department of Molecular and
-  Cellular Biology](http://www.roswellpark.org/department_725.html), Roswell Park Cancer Institute, Buffalo, New York
-
-
-
-
-  Mar 20
-
-
-  A model selection approach for the identification of quantitative
-  trait loci in experimental crosses \[[pdf (439k)](http://www.biostat.wisc.edu/~kbroman/presentations/enar02_handout.pdf)\]<br>
-  International Biometric Society/ENAR meeting, Arlington, Virginia
-
-
-
-
-  Feb 5
-
-
-  Human crossover interference \[[pdf (939k)](http://www.biostat.wisc.edu/~kbroman/presentations/yale.pdf)\]<br>
-  [Department of Mathematics and
-  Statistics](http://www.american.edu/cas/department_mathstat.shtml), American University, Washington, DC
+Human crossover interference \[[pdf (939k)](http://www.biostat.wisc.edu/~kbroman/presentations/yale.pdf)\]<br>
+[Department of Mathematics and
+Statistics](http://www.american.edu/cas/department_mathstat.shtml), American University, Washington, DC (_Feb 5_)
 
 
 
 ###  2001
 
-  Dec 3
+Human crossover interference \[[pdf (939k)](http://www.biostat.wisc.edu/~kbroman/presentations/yale.pdf)\]<br>[Department of Statistics](http://www.stat.yale.edu/), Yale
+University, New Haven, Connecticut (_Dec 3_)
 
+Identifying clusters of related
+individuals with data on dominant genetic markers \[[pdf (794k)](http://www.biostat.wisc.edu/~kbroman/presentations/stlouis01.pdf)\]<br>
+Classification Society of North America meeting, St. Louis, Missouri (_Jun 15_)
 
-  Human crossover interference \[[pdf (939k)](http://www.biostat.wisc.edu/~kbroman/presentations/yale.pdf)\]<br>[Department of Statistics](http://www.stat.yale.edu/), Yale
-  University, New Haven, Connecticut
+<font color="#23238e">QTL mapping in mice: Review of
+single QTL methods</font> \[[pdf (236k)](http://www.biostat.wisc.edu/~kbroman/presentations/madison01.pdf)\]<br>
+NCI Satellite Workshop on Modifier Genes, Madison, Wisconsin (_Jun 12_)
 
+Human meiotic interference \[[pdf (568k)](http://www.biostat.wisc.edu/~kbroman/presentations/uwm2001.pdf)\]<br>
+[Department of Mathemetical Sciences](http://www.math.uwm.edu),
+University of Wisconsin-Milwaukee (_May 11_)
 
-
-
-  Jun 15
-
-
-  Identifying clusters of related
-  individuals with data on dominant genetic markers \[[pdf (794k)](http://www.biostat.wisc.edu/~kbroman/presentations/stlouis01.pdf)\]<br>
-  Classification Society of North America meeting, St. Louis, Missouri
-
-
-
-
-  Jun 12
-
-
-  <font color="#23238e">QTL mapping in mice: Review of
-  single QTL methods</font> \[[pdf (236k)](http://www.biostat.wisc.edu/~kbroman/presentations/madison01.pdf)\]<br>
-  NCI Satellite Workshop on Modifier Genes, Madison, Wisconsin
-
-
-
-
-  May 11
-
-
-  Human meiotic interference \[[pdf (568k)](http://www.biostat.wisc.edu/~kbroman/presentations/uwm2001.pdf)\]<br>
-  [Department of Mathemetical Sciences](http://www.math.uwm.edu),
-  University of Wisconsin-Milwaukee
-
-
-
-
-  Apr 2
-
-
-  Crossover interference in the
-  mouse \[[pdf (528k)](http://www.biostat.wisc.edu/~kbroman/presentations/mouseinterfer.pdf)\]<br>
-  Hopkins Statistical Genetics Working Group
+Crossover interference in the
+mouse \[[pdf (528k)](http://www.biostat.wisc.edu/~kbroman/presentations/mouseinterfer.pdf)\]<br>
+Hopkins Statistical Genetics Working Group (_Apr 2_)
 
 
 
