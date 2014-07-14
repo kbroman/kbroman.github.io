@@ -1557,118 +1557,56 @@ Research Foundation](http://research.marshfieldclinic.org/), Marshfield, Wiscons
 
 ###  2000
 
-  Oct 20
+Human crossover interference \[[pdf (446k)](http://www.biostat.wisc.edu/~kbroman/presentations/jax.pdf)\]<br>
+[Biometric Research Branch](http://linus.nci.nih.gov/~brb/), National Cancer Institute, Bethesda, Maryland (_Oct 20_)
 
+Identifying QTLs in experimental
+crosses \[[pdf (465k)](hsgwg.pdf)\]<br>
+Hopkins Statistical Genetics Working Group (_Sep 25_)
 
-  Human crossover interference \[[pdf (446k)](http://www.biostat.wisc.edu/~kbroman/presentations/jax.pdf)\]<br>
-  [Biometric Research Branch](http://linus.nci.nih.gov/~brb/), National Cancer Institute, Bethesda, Maryland
+Human crossover interference \[[pdf (446k)](http://www.biostat.wisc.edu/~kbroman/presentations/jax.pdf)\]<br>
+[The Jackson Laboratory](http://www.jax.org), Bar Harbor, Maine (_Sep 15_)
 
-
-
-
-  Sep 25
-
-
-  Identifying QTLs in experimental
-  crosses \[[pdf (465k)](hsgwg.pdf)\]<br>
-  Hopkins Statistical Genetics Working Group
-
-
-
-
-  Sep 15
-
-
-  Human crossover interference \[[pdf (446k)](http://www.biostat.wisc.edu/~kbroman/presentations/jax.pdf)\]<br>
-  [The Jackson Laboratory](http://www.jax.org), Bar Harbor, Maine
-
-
-
-
-  Mar 20
-
-
-  Estimation of allele frequencies
-  with sibpair data \[[pdf (575k)](http://www.biostat.wisc.edu/~kbroman/presentations/enar2000.pdf)\]<br>
-  International Biometric Society/ENAR meeting, Chicago, IL
+Estimation of allele frequencies
+with sibpair data \[[pdf (575k)](http://www.biostat.wisc.edu/~kbroman/presentations/enar2000.pdf)\]<br>
+International Biometric Society/ENAR meeting, Chicago, IL (_Mar 20_)
 
 
 
 ###  1999
 
-  Sep 22
+Topics in statistical genetics \[[pdf (724k)](topics.pdf)\]<br>
+[Department of
+Biostatistics](http://www.biostat.jhsph.edu), Johns Hopkins University, Baltimore, Maryland (_Sep 22_)
 
+A characterization of human
+crossover interference \[[pdf (699k)](http://www.biostat.wisc.edu/~kbroman/presentations/enar1999.pdf)\]<br>
+International Biometric Society/ENAR meeting, Atlanta, GA (_Mar 30_)
 
-  Topics in statistical genetics \[[pdf (724k)](topics.pdf)\]<br>
-  [Department of
-  Biostatistics](http://www.biostat.jhsph.edu), Johns Hopkins University, Baltimore, Maryland
+Human meiotic interference \[[pdf (995k)](http://www.biostat.wisc.edu/~kbroman/presentations/interference.pdf)\]<br>
+[Department of Biostatistics](http://depts.washington.edu/biostat/), [University of Washington](http://www.washington.edu), Seattle (_Feb 18_)
 
+Identifying QTLs in experimental
+crosses \[[pdf (665k)](http://www.biostat.wisc.edu/~kbroman/presentations/qtls.pdf)\]<br>
+Gemini Research, Cambridge, England (_Feb 11_)
 
+Human meiotic interference \[[pdf (995k)](http://www.biostat.wisc.edu/~kbroman/presentations/interference.pdf)\]<br>
+[Department of
+Biostatistics](http://www.biostat.jhsph.edu), Johns Hopkins
+University, Baltimore, Maryland (_Feb 3_)
 
+Human meiotic interference \[[pdf (995k)](http://www.biostat.wisc.edu/~kbroman/presentations/interference.pdf)\]<br>
+[Department of Statistics](http://www.stat.berkeley.edu), University
+of California, Berkeley (_Jan 28_)
 
-  Mar 30
+Human meiotic interference \[[pdf (995k)](http://www.biostat.wisc.edu/~kbroman/presentations/interference.pdf)\]<br>
+[Jasper Rine](http://mcb.berkeley.edu/faculty/GEN/rinej.html)&rsquo;s laboratory,
+Molecular and Cell Biology,
+University of California, Berkeley (_Jan 27_)
 
-
-  A characterization of human
-  crossover interference \[[pdf (699k)](http://www.biostat.wisc.edu/~kbroman/presentations/enar1999.pdf)\]<br>
-  International Biometric Society/ENAR meeting, Atlanta, GA
-
-
-
-
-  Feb 18
-
-
-  Human meiotic interference \[[pdf (995k)](http://www.biostat.wisc.edu/~kbroman/presentations/interference.pdf)\]<br>
-  [Department of Biostatistics](http://depts.washington.edu/biostat/), [University of Washington](http://www.washington.edu), Seattle
-
-
-
-
-  Feb 11
-
-  Identifying QTLs in experimental
-  crosses \[[pdf (665k)](http://www.biostat.wisc.edu/~kbroman/presentations/qtls.pdf)\]<br>
-  Gemini Research, Cambridge, England
-
-
-
-
-  Feb 3
-
-
-  Human meiotic interference \[[pdf (995k)](http://www.biostat.wisc.edu/~kbroman/presentations/interference.pdf)\]<br>
-  [Department of
-  Biostatistics](http://www.biostat.jhsph.edu), Johns Hopkins University, Baltimore, Maryland
-
-
-
-
-  Jan 28
-
-
-  Human meiotic interference \[[pdf (995k)](http://www.biostat.wisc.edu/~kbroman/presentations/interference.pdf)\]<br>
-  [Department of Statistics](http://www.stat.berkeley.edu), University of California, Berkeley
-
-
-
-
-  Jan 27
-
-
-  Human meiotic interference \[[pdf (995k)](http://www.biostat.wisc.edu/~kbroman/presentations/interference.pdf)\]<br>
-  [Jasper Rine](http://mcb.berkeley.edu/faculty/GEN/rinej.html)&rsquo;s laboratory,
-      Molecular and Cell Biology,
-      University of California, Berkeley
-
-
-
-
-  Jan 14
-
-
-  Human meiotic interference \[[pdf (995k)](http://www.biostat.wisc.edu/~kbroman/presentations/interference.pdf)\]<br>
-  [Center for Medical Genetics](http://research.marshfieldclinic.org/genetics/), Marshfield Medical Research Foundation, Marshfield, Wisconsin
+Human meiotic interference \[[pdf (995k)](http://www.biostat.wisc.edu/~kbroman/presentations/interference.pdf)\]<br>
+[Center for Medical Genetics](http://research.marshfieldclinic.org/genetics/),
+Marshfield Medical Research Foundation, Marshfield, Wisconsin (_Jan 14_)
 
 
 
