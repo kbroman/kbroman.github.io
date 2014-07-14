@@ -9,4 +9,4 @@ title: Tutorials
 - [simple site](http://kbroman.github.io/simple_site): making a simple
   website with [GitHub Pages](http://pages.github.com)
 - [hipsteR](http://kbroman.github.io/hipsteR/): re-educating people who learned R before it was cool
-
+- [Intro to perl](http://www.biostat.wisc.edu/~kbroman/perlintro)
