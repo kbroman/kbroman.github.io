@@ -22,8 +22,7 @@ He was a postdoctoral fellow with [James Weber](https://www.preventiongenetics.c
 1997-1999. He
 was a faculty member in the Department of Biostatistics at Johns
 Hopkins University, 1999-2007. In 2007, he moved to the
-Department of Biostatistics &amp; Medical Informatics
-at the University of Wisconsin&ndash;Madison,
+the University of Wisconsin&ndash;Madison,
 where he is now Professor.
 
 #### Contact
