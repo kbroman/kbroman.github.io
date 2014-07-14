@@ -3,15 +3,30 @@ layout: page
 title: Publications
 ---
 
+<div class="navbar">
+<div class="navbar-inner">
+<div class="container-narrow">
+<ul class="nav">
+  <li><a href="#books">Books</a></li>
+  <li><a href="#articles">Articles</a></li>
+  <li><a href="#editorials">Editorials</a></li>
+  <li><a href="#letters">Letters</a></li>
+  <li><a href="#chapters">Chapters</a></li>
+  <li><a href="#techreports">Tech reports</a></li>
+  <li><a href="#thesis">Dissertation</a></li>
+</ul>
+</div></div></div>
 
 
-### Books
+---
+
+### <a name="books"></a>Books
 
 
 **Broman KW**, Sen &#346; (2009) A Guide to QTL Mapping with R/qtl.  Springer, New York (ISBN: 978-0-387-92124-2)<br>
 \[[Amazon](http://www.amazon.com/exec/obidos/ASIN/0387921249/7210-20) | [Springer](http://www.springer.com/978-0-387-92124-2) | [Online complements](http://www.rqtl.org/book) | [R/qtl](http://www.rqtl.org)\]
 
-### Journal articles
+### <a name="articles"></a>Journal articles
 
 #### To appear
 
@@ -916,7 +931,7 @@ long-distance chromosome interactions. [Cell](http://www.cell.com) 85:745-759  <
 | [ pdf (11,382k)](http://www.biostat.wisc.edu/~kbroman/publications/cell.pdf)\]
 
 
-### Editorials
+### <a name="editorials"></a>Editorials
 
 **Broman KW** (2005)  Mapping expression in
 randomized rodent genomes.  [Nat
@@ -930,7 +945,7 @@ Genet](http://www.nature.com/ng) 37:209-210<br>
 | [pdf (70k)](http://www.biostat.wisc.edu/~kbroman/publications/natmeth.pdf)\]
 
 
-### Letters
+### <a name="letters"></a>Letters
 
 Sieberts SK, **Broman KW**, Gudbjartsson
 DF (2004) "Biased towards the null" means reduced power.  [Am J Hum
@@ -968,7 +983,7 @@ relationships in the presence of genotyping errors. [Am J Hum Genet](http://www.
 [RelCheck software](http://www.biostat.wisc.edu/~kbroman/software/index.html#relcheck)\]
 
 
-### Proceedings and book chapters
+### <a name="chapters"></a>Proceedings and book chapters
 
 **Broman KW** (2012) Applied statistics and exposition (commentary).  In: Dudoit S (ed) <i>Selected Works of Terry Speed</i>, Springer, pp 353-355 <br>
 \[[Amazon](http://www.amazon.com/exec/obidos/ASIN/146141346X/7210-20)\]
@@ -1029,7 +1044,7 @@ Notes-Monograph Series, Vol 33, pp 114-142 <br>
 
 
 
-### Technical reports
+### <a name="techreports"></a>Technical reports
 
 **Broman KW**, Keller MP, Broman
   AT, Kendziorski C, Yandell BS, Sen &#346;, Attie AD (2014)
@@ -1090,7 +1105,7 @@ ORNL/TM-12167, Oak Ridge National Laboratory <br>
 
 
 
-### Dissertation
+### <a name="thesis"></a>Dissertation
 
 **Broman KW** (1997) Identifying quantitative trait loci in
 experimental crosses.  PhD dissertation, Department of Statistics,
