@@ -10,9 +10,9 @@
     '@kwbroman': 'https://twitter.com/kwbroman'
   };
 
-  h = 35;
+  h = 27;
 
-  w = 100;
+  w = 90;
 
   pad = 6;
 

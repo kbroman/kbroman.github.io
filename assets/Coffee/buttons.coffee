@@ -5,8 +5,8 @@ urls =
     'blog':      'http://kbroman.wordpress.com',
     '@kwbroman': 'https://twitter.com/kwbroman'
 
-h = 35
-w = 100
+h = 27
+w = 90
 pad = 6
 toth = h+2*pad
 totw = w+2*pad
