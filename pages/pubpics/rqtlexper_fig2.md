@@ -3,6 +3,15 @@ layout: frontpage
 title: Broman (2014) Fig 2
 ---
 
+<div class="navbar">
+  <div class="navbar-inner">
+      <ul class="nav">
+          <li><a href="rqtlexper_fig1.html">prev</a></li>
+          <li><a href="samplemixups_fig7.html">next</a></li>
+      </ul>
+  </div>
+</div>
+
 Broman KW (2014) Fourteen years of R/qtl: Just
 barely sustainable. J Open Res Softw
 2(1):e11

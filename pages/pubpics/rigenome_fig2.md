@@ -3,6 +3,15 @@ layout: frontpage
 title: Broman (2005) Fig 2
 ---
 
+<div class="navbar">
+  <div class="navbar-inner">
+      <ul class="nav">
+          <li><a href="preCCprob_tabS13.html">prev</a></li>
+          <li><a href="rigenome_fig6.html">next</a></li>
+      </ul>
+  </div>
+</div>
+
 Broman KW (2005) The genomes of
 recombinant inbred lines. Genetics 169:1133-1146
 \[[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/15545647) | [pdf (525k)](http://www.biostat.wisc.edu/~kbroman/publications/rigenome.pdf)]

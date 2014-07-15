@@ -3,6 +3,15 @@ layout: frontpage
 title: Broman et al. (1998) Fig 3
 ---
 
+<div class="navbar">
+  <div class="navbar-inner">
+      <ul class="nav">
+          <li><a href="rqtlexper_fig2.html">prev</a></li>
+          <li><a href="phyloqtl_fig2.html">next</a></li>
+      </ul>
+  </div>
+</div>
+
 Broman KW, et al. (2014)
 Identification and correction of sample mix-ups in expression
 genetic data: A case study. arXiv:1402.2633

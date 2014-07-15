@@ -3,6 +3,15 @@ layout: frontpage
 title: Broman et al. (2012) Fig 6
 ---
 
+<div class="navbar">
+  <div class="navbar-inner">
+      <ul class="nav">
+          <li><a href="phyloqtl_fig2.html">prev</a></li>
+          <li><a href="preCCprob_tabS13.html">next</a></li>
+      </ul>
+  </div>
+</div>
+
 Broman KW, et al.
 (2012)  Mapping quantitative trait loci
 onto a phylogenetic tree.  Genetics 192:267-279

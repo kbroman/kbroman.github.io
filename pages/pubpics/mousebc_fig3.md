@@ -3,6 +3,15 @@ layout: frontpage
 title: Broman et al. (2002) Fig 3
 ---
 
+<div class="navbar">
+  <div class="navbar-inner">
+      <ul class="nav">
+          <li><a href="xchr_fig2.html">prev</a></li>
+          <li><a href="interfer_fig1.html">next</a></li>
+      </ul>
+  </div>
+</div>
+
 Broman KW, et al.
 (2002) Crossover interference in the mouse.  Genetics
 160:1123-1131

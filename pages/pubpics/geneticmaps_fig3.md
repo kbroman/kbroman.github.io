@@ -3,6 +3,15 @@ layout: frontpage
 title: Broman et al. (1998) Fig 3
 ---
 
+<div class="navbar">
+  <div class="navbar-inner">
+      <ul class="nav">
+          <li><a href="inversion_fig2.html">prev</a></li>
+          <li><a href="rqtlexper_fig1.html">next</a></li>
+      </ul>
+  </div>
+</div>
+
 Broman KW, et al. (1998) Comprehensive human genetic maps: Individual
 and sex-specific variation in recombination. Am J Hum Genet 63:861-869
 \[[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/9718341) |

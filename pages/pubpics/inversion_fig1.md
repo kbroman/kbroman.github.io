@@ -3,6 +3,15 @@ layout: frontpage
 title: Broman et al. (2003) Fig 1
 ---
 
+<div class="navbar">
+  <div class="navbar-inner">
+      <ul class="nav">
+          <li><a href="interfer_fig1.html">prev</a></li>
+          <li><a href="inversion_fig2.html">next</a></li>
+      </ul>
+  </div>
+</div>
+
 Broman KW, et al. (2003)
 Common long human inversion polymorphism on chromosome 8p.  In:
 Goldstein DR (ed) [Science and Statistics: A Festschrift for Terry
