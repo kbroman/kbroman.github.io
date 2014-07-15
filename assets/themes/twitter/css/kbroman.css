@@ -13,3 +13,7 @@ a code {
 table.widetable {
     width: 100%;
 }
+
+p.center {
+    text-align: center;
+}
