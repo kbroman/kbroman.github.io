@@ -35,7 +35,7 @@ Various examples of [D3](http://d3js.org)-based interactive graphs.
 
 ### <a name="broman"></a>[R/broman](http://github.com/kbroman/broman)
 
-Various R functions that I find useful.
+Various R functions that I find useful, assembled into an R package.
 
 ---
 
