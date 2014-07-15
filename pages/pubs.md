@@ -20,7 +20,7 @@ title: Publications
 ### <a name="books"></a>Books
 
 
-**Broman KW**, Sen &#346; (2009) A Guide to QTL Mapping with R/qtl.  Springer, New York (ISBN: 978-0-387-92124-2)<br>
+**Broman KW**, Sen &#346; (2009) A Guide to QTL Mapping with R/qtl.  Springer, New York (ISBN: 978-0-387-92124-2)
 \[[Amazon](http://www.amazon.com/exec/obidos/ASIN/0387921249/7210-20) | [Springer](http://www.springer.com/978-0-387-92124-2) | [Online complements](http://www.rqtl.org/book) | [R/qtl](http://www.rqtl.org)\]
 
 ### <a name="articles"></a>Journal articles
@@ -29,8 +29,8 @@ title: Publications
 
 Kwak I-Y, Moore CR, Spalding EP, **Broman
   KW**. A simple regression-based method to map quantitative trait loci underlying
-  function-valued phenotypes. [Genetics](http://www.genetics.org), to appear<br>
-\[[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/24931408) | [pdf (1.2M)](http://arxiv.org/pdf/1403.3048v2.pdf)\]
+  function-valued phenotypes. [Genetics](http://www.genetics.org), to appear
+[![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/24931408) [![pdf (1.2M)](pdf-icon.png)](http://arxiv.org/pdf/1403.3048v2.pdf)
 <!-- * 131 * -->
 
 Street VA, Kujawa SG, Manichaikul A, **Broman KW**, Kallman JC, Shilling DJ, Iwata AJ,
@@ -38,8 +38,7 @@ Street VA, Kujawa SG, Manichaikul A, **Broman KW**, Kallman JC, Shilling DJ, Iwa
   noise-induced hearing loss in 129S6 and MOLF mice:  Identification
   of independent, overlapping, and interacting chromosomal regions.
   [J Assoc Res Otolaryngol](http://jaro-online.org/), to
-  appear <br>
-\[[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/24952082)\]
+  appear [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/24952082)
 <!-- * 130 * -->
 
 
@@ -47,27 +46,27 @@ Street VA, Kujawa SG, Manichaikul A, **Broman KW**, Kallman JC, Shilling DJ, Iwa
 
 **Broman KW** (2014) Fourteen years of R/qtl: Just
   barely sustainable. [J Open Res Softw](http://openresearchsoftware.metajnl.com/)
-  2(1):e11<br>
-  \[[Abstract](http://openresearchsoftware.metajnl.com/article/view/jors.at/43) | [pdf (948k)](http://www.biostat.wisc.edu/~kbroman/publications/rqtl_14yrs.pdf) | [Source on GitHub](https://github.com/kbroman/Paper_Rqtl_Experiences)\]
+  2(1):e11
+  [![Abstract](pubmed-icon.png)](http://openresearchsoftware.metajnl.com/article/view/jors.at/43) [![pdf (948k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/rqtl_14yrs.pdf) [![Source on GitHub](github-icon.png)](https://github.com/kbroman/Paper_Rqtl_Experiences)
 <!-- * 129 * -->
 
 Rowsey R, Gruhn J, **Broman KW**, Hunt
   PA, Hassold T (2014)
   Examining variation in recombination levels in the human female: A
-  test of the production line hypothesis. [Amer J Hum Genet](http://www.cell.com/ajhg/) 95:108-112 <br>
-\[[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/24995869) | [pdf (2.0M)](http://www.biostat.wisc.edu/~kbroman/publications/rowsey2014.pdf)\]
+  test of the production line hypothesis. [Amer J Hum Genet](http://www.cell.com/ajhg/) 95:108-112
+[![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/24995869) [![pdf (2.0M)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/rowsey2014.pdf)
 <!-- * 128 * -->
 
 Huang BE, Raghavan C, Mauleon R, **Broman
   KW**, Leung H (2014) Efficient imputation of missing markers in
   low-coverage genotyping-by-sequencing data from multi-parent
-  crosses. [Genetics](http://www.genetics.org) 197:401-404<br>
-\[[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/24583583) | [pdf (601k)](http://www.biostat.wisc.edu/~kbroman/publications/huang2014.pdf)\]
+  crosses. [Genetics](http://www.genetics.org) 197:401-404
+[![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/24583583) [![pdf (601k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/huang2014.pdf)
 <!-- * 127 * -->
 
 
-Baier B, Hunt P, **Broman KW**, Hassold T (2014) Variation in genome-wide levels of meiotic recombination is established at the onset of prophase in mammalian males. [PLoS Genetics](http://www.plosgenetics.org/) 10:e1004125 <br>
-\[[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/24497841) | [pdf (1.5M)](http://www.biostat.wisc.edu/~kbroman/publications/baier2014.pdf)\]
+Baier B, Hunt P, **Broman KW**, Hassold T (2014) Variation in genome-wide levels of meiotic recombination is established at the onset of prophase in mammalian males. [PLoS Genetics](http://www.plosgenetics.org/) 10:e1004125
+[![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/24497841) [![pdf (1.5M)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/baier2014.pdf)
 <!-- * 126 * -->
 
 
