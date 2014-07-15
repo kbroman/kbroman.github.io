@@ -29,7 +29,7 @@ title: Karl Broman
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="index_alt.html">Back</a></li>
+          <li><a href="index_alt.html">back</a></li>
       </ul>
   </div>
 </div>

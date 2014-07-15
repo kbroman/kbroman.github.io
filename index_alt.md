@@ -25,7 +25,7 @@ title: Karl Broman
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="morefigs.html">See more figures</a></li>
+          <li><a href="morefigs.html">see more figures</a></li>
       </ul>
   </div>
 </div>
