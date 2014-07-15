@@ -9,3 +9,7 @@ code {
 a code {
   color: #08c;
 }
+
+table.widetable {
+    width: 100%;
+}
