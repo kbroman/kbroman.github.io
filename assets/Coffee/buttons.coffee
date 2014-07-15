@@ -5,13 +5,14 @@ urls =
     'blog':      'http://kbroman.wordpress.com',
     '@kwbroman': 'https://twitter.com/kwbroman'
 
-h = 50
-w = 150
-pad = 5
+h = 35
+w = 100
+pad = 6
 toth = h+2*pad
 totw = w+2*pad
 color = "darkslateblue"
 hicolor = "slateblue"
+fontsize = "18px"
 
 div = d3.select("div#karl_buttons")
 
@@ -48,4 +49,4 @@ text = svgs.append("text")
            .style("text-anchor", "middle")
            .style("pointer-events", "none")
            .attr("fill", "white")
-           .style("font-size", "24px")
+           .style("font-size", "fontsize")
