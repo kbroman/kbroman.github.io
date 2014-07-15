@@ -313,12 +313,20 @@ How to build a web page<br>
 
 #### [Statistical computing](http://www.biostat.jhsph.edu/~bcaffo/statcomp) (140.776) 
 
-- Coding practices: \[[pdf (35k)](http://www.biostat.wisc.edu/~kbroman/teaching/statprog/coding_ho.pdf) |
-      [books](statprog/coding_refs.html)\]
-- C Programming I: \[[pdf (56k)](http://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog1_ho.pdf) | [books](http://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog_refs.html) | [Example code (c_code_1.tgz)](http://www.biostat.wisc.edu/~kbroman/teaching/statprog/c_code_1.tgz) | [Expanding .tgz and .tar.gz files](http://www.biostat.wisc.edu/~kbroman/teaching/statprog/expand_tar.html)\]
-- C Programming II: \[[pdf (57k)](http://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog2_ho.pdf) | [Example code (c_code_2.tgz)](http://www.biostat.wisc.edu/~kbroman/teaching/statprog/c_code_2.tgz)\]
-- C Programming III: \[[pdf (14k)](http://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog3_ho.pdf) | [Example code (c_code_3.tgz)](http://www.biostat.wisc.edu/~kbroman/teaching/statprog/c_code_3.tgz)\]
-      
+- Coding practices:
+  \[[pdf (35k)](http://www.biostat.wisc.edu/~kbroman/teaching/statprog/coding_ho.pdf)
+  | [books](statprog/coding_refs.html)\]
+- C Programming I:
+  \[[pdf (56k)](http://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog1_ho.pdf)
+  | [books](http://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog_refs.html)
+  | [Example code (c_code_1.tgz)](http://www.biostat.wisc.edu/~kbroman/teaching/statprog/c_code_1.tgz)
+  | [Expanding .tgz and .tar.gz files](http://www.biostat.wisc.edu/~kbroman/teaching/statprog/expand_tar.html)\]
+- C Programming II:
+  \[[pdf (57k)](http://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog2_ho.pdf)
+  | [Example code (c_code_2.tgz)](http://www.biostat.wisc.edu/~kbroman/teaching/statprog/c_code_2.tgz)\]
+- C Programming III:
+  \[[pdf (14k)](http://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog3_ho.pdf)
+  | [Example code (c_code_3.tgz)](http://www.biostat.wisc.edu/~kbroman/teaching/statprog/c_code_3.tgz)\]
 
 #### [Introduction to computing](http://www.biostat.wisc.edu/~kbroman/teaching/compintro) 
 
