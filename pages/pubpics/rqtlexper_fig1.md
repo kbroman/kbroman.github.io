@@ -1,0 +1,17 @@
+---
+layout: frontpage
+title: Broman (2014) Fig 1
+---
+
+Broman KW (2014) Fourteen years of R/qtl: Just
+barely sustainable. J Open Res Softw
+2(1):e11
+\[[Abstract](http://openresearchsoftware.metajnl.com/article/view/jors.at/43) | [pdf (948k)](http://www.biostat.wisc.edu/~kbroman/publications/rqtl_14yrs.pdf)\]
+
+![Broman (2014) Fig 1](../../assets/bigpubpics/rqtlexper_fig1_lg.png)
+
+**Figure 1**. &mdash; Typical analysis results from R/qtl. A: LOD curves across
+the genome, measuring association between phenotype and genotype
+across, and B: Association between genotype and phenotype at the
+marker with the strongest association. The data are from Moore et
+al. (2013); panel B was created using the R package beeswarm.
