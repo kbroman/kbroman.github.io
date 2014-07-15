@@ -233,7 +233,9 @@ Summer, 2006
 - Introduction:  [pdf (280k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2006/intro_handout.pdf)
 - Model selection: [pdf (243k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2006/modelsel_handout.pdf)
 - HMMs and the pseudomarker algorithm: [pdf (1143k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2006/hmm_imp_handout.pdf)
-- [R/qtl](http://www.rqtl.org) lab: [pdf (70k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2006/rqtllab.pdf) | [code](http://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2006/rqtllab.R)
+- [R/qtl](http://www.rqtl.org) lab:
+  [pdf (70k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2006/rqtllab.pdf) |
+  [code](http://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2006/rqtllab.R)
         
 
 Summer, 2005
@@ -241,7 +243,9 @@ Summer, 2005
 - Introduction:  [pdf (668k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2005/intro_handout.pdf)
 - Model selection: [pdf (51k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2005/modelsel_handout.pdf)
 - HMMs and the pseudomarker algorithm: [pdf (1160k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2005/hmm_imp_handout.pdf)
-- [R/qtl](http://www.rqtl.org) lab: [pdf (68k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2005/rqtllab.pdf) | [code](http://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2005/rqtllab.R)
+- [R/qtl](http://www.rqtl.org) lab:
+  [pdf (68k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2005/rqtllab.pdf) |
+  [code](http://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2005/rqtllab.R)
         
 
 Summer, 2004
@@ -249,7 +253,9 @@ Summer, 2004
 - Introduction:  [pdf (638k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2004/intro_handout.pdf)
 - Model selection: [pdf (51k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2004/modelsel_handout.pdf)
 - HMMs and the pseudomarker algorithm: [pdf (1161k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2004/hmm_imp_handout.pdf)
-- [R/qtl](http://www.rqtl.org) lab: [pdf (67k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2004/rqtllab.pdf) | [code](http://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2004/rqtllab.R)
+- [R/qtl](http://www.rqtl.org) lab:
+  [pdf (67k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2004/rqtllab.pdf) |
+  [code](http://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2004/rqtllab.R)
         
 
 Summer, 2003
@@ -257,7 +263,8 @@ Summer, 2003
 - Introduction:  [pdf (331k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2003/intro_ho.pdf)
 - Model selection: [pdf (76k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2003/modelsel_ho.pdf)
 - HMMs and the pseudomarker algorithm: [pdf (1186k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2003/hmm_imp_ho.pdf)
-- [R/qtl](http://www.rqtl.org) lab: [pdf (69k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2003/rqtllab.pdf)
+- [R/qtl](http://www.rqtl.org) lab:
+  [pdf (69k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2003/rqtllab.pdf)
         
 
 Summer, 2002
