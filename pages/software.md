@@ -9,9 +9,7 @@ See my [github](http://github.com/kbroman) page.  The R packages below are avail
 
 ### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
 
-A package, composed of tools for analyzing QTL experiments, for
-use with [R](http://www.r-project.org/)
-(aka Gnu S), an open-source implementation of the S language.
+An [R](http://www.r-project.org/) package with tools for analyzing QTL experiments.
 
 To receive announcements about updates to R/qtl, join the
 Google group, [R/qtl announcements](http://groups.google.com/group/Rqtl-announce).
@@ -23,7 +21,8 @@ Google group, [R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
 
 ### <a name="qtlcharts"></a>[R/qtlcharts](http://github.com/kbroman/qtlcharts)
 
-An [R](http://www.r-project.org) package for [D3](http://d3js.org)-based interactive QTL graphics.
+An [R](http://www.r-project.org) package for
+[D3](http://d3js.org)-based interactive graphics for QTL experiments.
 
 
 ---
