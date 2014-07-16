@@ -3,7 +3,15 @@ layout: page
 title: Software
 ---
 
-See my [github](http://github.com/kbroman) page.  The R packages below are available through [CRAN](http://cran.r-project.org) or [github](http://github.com/kbroman).
+<div class="navbar">
+    <div class="navbar-inner">
+        <ul class="nav">
+            <li><a href="https://github.com/kbroman">github</a></li>
+            <li><a href="http://www.rqtl.org">R/qtl</a></li>
+            <li><a href="http://kbroman.github.io/qtlcharts">R/qtlcharts</a></li>
+        </ul>
+    </div>
+</div>
 
 ---
 
