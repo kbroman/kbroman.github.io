@@ -25,6 +25,16 @@ Hopkins University, 1999-2007. In 2007, he moved to the
 University of Wisconsin&ndash;Madison,
 where he is now Professor.
 
+Karl is an applied statistician focusing on problems in genetics and
+genomics, particularly the analysis of meiotic recombination and the
+genetic dissection of complex traits in experimental organisms. The
+latter is often called &ldquo;QTL mapping.&rdquo; A QTL is a
+_quantitative trait locus_ &ndash; a genetic locus that influences a
+quantitative trait. Recently he has been focusing on the development
+of interactive data visualizations for high-dimensional genetic data;
+see his [R/qtlcharts package](http://kbroman.github.io/qtlcharts) and
+his [D3 page](http://www.biostat.wisc.edu/~kbroman/D3).
+
 ---
 
 #### Contact
