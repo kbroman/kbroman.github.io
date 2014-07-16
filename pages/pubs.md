@@ -81,7 +81,7 @@ Moore CR, Johnson LS, Kwak I-Y, Livny M,
 **Broman KW**, Spalding EP (2013)
 High-throughput computer vision introduces the time axis to a quantitative trait map of a plant growth response.
 [Genetics](http://www.genetics.org) 195:1077-1086<br>
-\[[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/23979570) | [ (1.6M)](http://www.biostat.wisc.edu/~kbroman/publications/spalding.pdf)\]
+\[[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/23979570) | [pdf (1.6M)](http://www.biostat.wisc.edu/~kbroman/publications/spalding.pdf)\]
 <!-- * 124 * -->
 
 Bautz DJ, **Broman KW**, Threadgill DW (2013)
