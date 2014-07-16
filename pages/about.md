@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-#### [Curriculum vitae]({{ BASE_PATH }}/assets/broman.pdf)
+#### [Curriculum vitae]({{ BASE_PATH }}/assets/broman.pdf) [![CV as pdf](pdf-icon.png)]({{ BASE_PATH}}/assets/broman.pdf)
 
 Karl Broman is Professor in the
 [Department of Biostatistics &amp; Medical Informatics](http://www.biostat.wisc.edu)
