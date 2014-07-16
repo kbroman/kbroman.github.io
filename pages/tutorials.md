@@ -11,3 +11,7 @@ title: Tutorials
 - [hipsteR](http://kbroman.github.io/hipsteR/): re-educating people who learned R before it was cool
 - [intro to perl](http://www.biostat.wisc.edu/~kbroman/perlintro)
   \[very old; I now recommend [ruby](https://www.ruby-lang.org/en/) or [python](https://www.python.org/)\]
+- [intro to R](http://www.biostat.wisc.edu/~kbroman/Rintro)
+  \[not really a tutorial, but there are some useful links here\]
+- [intro to C](http://www.biostat.wisc.edu/~kbroman/Cintro)
+  \[not really a tutorial, but it includes a list of C programming books\]
