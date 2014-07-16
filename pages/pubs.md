@@ -4,18 +4,19 @@ title: Publications
 ---
 
 <div class="navbar">
-<div class="navbar-inner">
-<div class="container-narrow">
-<ul class="nav">
-  <li><a href="#books">Books</a></li>
-  <li><a href="#articles">Articles</a></li>
-  <li><a href="#editorials">Editorials</a></li>
-  <li><a href="#letters">Letters</a></li>
-  <li><a href="#chapters">Chapters</a></li>
-  <li><a href="#techreports">Tech reports</a></li>
-  <li><a href="#thesis">Dissertation</a></li>
-</ul>
-</div></div></div>
+    <div class="navbar-inner">
+        <ul class="nav">
+            <li><a href="#books">Books</a></li>
+            <li><a href="#articles">Articles</a></li>
+            <li><a href="#editorials">Editorials</a></li>
+            <li><a href="#letters">Letters</a></li>
+            <li><a href="#chapters">Chapters</a></li>
+            <li><a href="#techreports">Tech reports</a></li>
+            <li><a href="#thesis">Dissertation</a></li>
+        </ul>
+    </div>
+</div>
+
 
 ### <a name="books"></a>Books
 
