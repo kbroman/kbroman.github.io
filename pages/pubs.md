@@ -22,8 +22,10 @@ title: Publications
 
 
 **Broman KW**, Sen &#346; (2009) A Guide to QTL Mapping with R/qtl.  Springer, New York
-[![Amazon](amazon-icon.png)](http://www.amazon.com/exec/obidos/ASIN/0387921249/7210-20) [![Springer](springer-icon.png)](http://www.springer.com/978-0-387-92124-2)
-[![Online complements](html-icon.png)](http://www.rqtl.org/book) [![R/qtl](R-icon.png)](http://www.rqtl.org)
+[![Online complements](html-icon.png)](http://www.rqtl.org/book)
+[![Amazon](amazon-icon.png)](http://www.amazon.com/exec/obidos/ASIN/0387921249/7210-20)
+[![Springer](springer-icon.png)](http://www.springer.com/978-0-387-92124-2)
+[![R/qtl](R-icon.png)](http://www.rqtl.org)
 
 ### <a name="articles"></a>Journal articles
 
