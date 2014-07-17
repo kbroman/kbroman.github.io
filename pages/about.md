@@ -3,8 +3,6 @@ layout: page
 title: About
 ---
 
-#### [Curriculum vitae]({{ BASE_PATH }}/assets/broman.pdf) [![CV as pdf](pdf-icon.png)]({{ BASE_PATH}}/assets/broman.pdf)
-
 Karl Broman is Professor in the
 [Department of Biostatistics &amp; Medical Informatics](http://www.biostat.wisc.edu)
 at the University of Wisconsin&ndash;Madison;
@@ -34,6 +32,9 @@ quantitative trait. Recently he has been focusing on the development
 of interactive data visualizations for high-dimensional genetic data;
 see his [R/qtlcharts package](http://kbroman.org/qtlcharts) and
 his [D3 page](http://www.biostat.wisc.edu/~kbroman/D3).
+
+[**Curriculum vitae** ![CV as pdf](pdf-icon.png)]({{ BASE_PATH }}/assets/broman.pdf)
+
 
 ---
 
