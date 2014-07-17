@@ -15,7 +15,8 @@ title: Broman et al. (2002) Fig 3
 Broman KW, et al.
 (2002) Crossover interference in the mouse.  Genetics
 160:1123-1131
-\[[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/11901128) | [pdf (165k)](http://www.biostat.wisc.edu/~kbroman/publications/mousebc.pdf)\]
+[![PubMed](../pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/11901128)
+[![pdf (165k)](../pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/mousebc.pdf)
 
 ![Broman et al. (2002) Fig 3](../../assets/bigpubpics/mousebc_fig3_lg.png)
 
