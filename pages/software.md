@@ -8,7 +8,7 @@ title: Software
         <ul class="nav">
             <li><a href="https://github.com/kbroman">github</a></li>
             <li><a href="http://www.rqtl.org">R/qtl</a></li>
-            <li><a href="http://kbroman.github.io/qtlcharts">R/qtlcharts</a></li>
+            <li><a href="http://kbroman.org/qtlcharts">R/qtlcharts</a></li>
         </ul>
     </div>
 </div>

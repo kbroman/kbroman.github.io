@@ -3,12 +3,12 @@ layout: page
 title: Tutorials
 ---
 
-- [git/github guide](http://kbroman.github.io/github_tutorial)
-- [minimal make](http://kbroman.github.io/minimal_make)
-- [knitr in a knutshell](http://kbroman.github.io/knitr_knutshell)
-- [simple site](http://kbroman.github.io/simple_site): making a simple
+- [git/github guide](http://kbroman.org/github_tutorial)
+- [minimal make](http://kbroman.org/minimal_make)
+- [knitr in a knutshell](http://kbroman.org/knitr_knutshell)
+- [simple site](http://kbroman.org/simple_site): making a simple
   website with [GitHub Pages](http://pages.github.com)
-- [hipsteR](http://kbroman.github.io/hipsteR/): re-educating people who learned R before it was cool
+- [hipsteR](http://kbroman.org/hipsteR/): re-educating people who learned R before it was cool
 
 ---
 
