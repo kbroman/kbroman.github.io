@@ -15,7 +15,7 @@ title: Software
 
 ---
 
-### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
+#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
 
 An [R](http://www.r-project.org/) package with tools for analyzing QTL experiments.
 
@@ -27,7 +27,7 @@ Google group, [R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
 
 ---
 
-### <a name="qtlcharts"></a>[R/qtlcharts](http://github.com/kbroman/qtlcharts)
+#### <a name="qtlcharts"></a>[R/qtlcharts](http://github.com/kbroman/qtlcharts)
 
 An [R](http://www.r-project.org) package for
 [D3](http://d3js.org)-based interactive graphics for QTL experiments.
@@ -35,32 +35,32 @@ An [R](http://www.r-project.org) package for
 
 ---
 
-### <a name="D3"></a>[D3 examples](https://www.biostat.wisc.edu/~kbroman/D3/)
+#### <a name="D3"></a>[D3 examples](https://www.biostat.wisc.edu/~kbroman/D3/)
     
 Various examples of [D3](http://d3js.org)-based interactive graphs.
 
 ---
 
-### <a name="broman"></a>[R/broman](http://github.com/kbroman/broman)
+#### <a name="broman"></a>[R/broman](http://github.com/kbroman/broman)
 
 Various R functions that I find useful, assembled into an R package.
 
 ---
 
-### <a name="xoi"></a>[R/xoi](http://github.com/kbroman/xoi)
+#### <a name="xoi"></a>[R/xoi](http://github.com/kbroman/xoi)
 
 Software for the analysis of crossover interference in
 experimental crosses, particularly regarding the gamma model.
 
 ---
 
-### <a name="lineup"></a>[R/lineup](http://github.com/kbroman/lineup)
+#### <a name="lineup"></a>[R/lineup](http://github.com/kbroman/lineup)
 
 Software for detecting and correcting sample mix-ups between two sets of measurements, such as between gene expression data on two tissues.
 
 ---
 
-### <a name="ricalc"></a>[R/ricalc](http://github.com/kbroman/ricalc)
+#### <a name="ricalc"></a>[R/ricalc](http://github.com/kbroman/ricalc)
 
 Software for calculation of two- and three-locus probabilities in
 multiple-strain recombinant inbred lines, and the simulation of such lines.
@@ -71,7 +71,7 @@ recombinant inbred lines.  [Genetics](http://www.genetics.org/) 169:1133-1146
 
 ---
 
-### <a name="negenes"></a>[R/negenes](http://github.com/kbroman/negenes)
+#### <a name="negenes"></a>[R/negenes](http://github.com/kbroman/negenes)
 
 Software for estimating the number of essential genes in a genome
 on the basis of data from a random transposon mutagenesis experiment.
@@ -80,7 +80,7 @@ See the related [technical report](https://www.biostat.wisc.edu/~kbroman/publica
 
 ---
 
-### <a name="npem"></a>[R/npem](http://github.com/kbroman/npem)
+#### <a name="npem"></a>[R/npem](http://github.com/kbroman/npem)
 
 Software for analyzing cell proliferation assays using the
 normal-Poisson mixture model described by Broman et al.
@@ -88,7 +88,7 @@ normal-Poisson mixture model described by Broman et al.
 
 ---
 
-### <a name="fingers"></a>[R/fingers](http://github.com/kbroman/fingers)
+#### <a name="fingers"></a>[R/fingers](http://github.com/kbroman/fingers)
 
 Software for the inference of full sibling families with data on
 dominant genetic markers (such as RAPDs), following the hierarchicical
@@ -98,14 +98,14 @@ Black IV.
 
 ---
 
-### <a name="geesibsor"></a>[R/geesibsor](http://github.com/kbroman/geesibsor)
+#### <a name="geesibsor"></a>[R/geesibsor](http://github.com/kbroman/geesibsor)
 
 Software for estimating the odds ratio for siblings for a binary
 phenotype, adjusting for covariates, using generalized estimating equations.
 
 ---
 
-### <a name="qtlsim"></a>[R/qtlsim](http://github.com/kbroman/qtlsim)
+#### <a name="qtlsim"></a>[R/qtlsim](http://github.com/kbroman/qtlsim)
 
 Software for testing, by computer simulation, various approaches
 to mapping QTLs in a backcross experiment.  This was written for the
@@ -117,7 +117,7 @@ package](http://www.rqtl.org).
 
 ---
 
-### <a name="relcheck"></a>RelCheck
+#### <a name="relcheck"></a>RelCheck
 Version 0.67 (24 August 2000)
 Software for verifying relationships between all pairs of
 individuals in a linkage study, using the approach of Boehnke and Cox
@@ -153,7 +153,7 @@ List of updates to the software: \[[CHANGES.txt](http://www.biostat.wisc.edu/sof
 
 ---
 
-### <a name="f2"></a>f2
+#### <a name="f2"></a>f2
 
 Version 0.50 (7 Feb 2000)
 
