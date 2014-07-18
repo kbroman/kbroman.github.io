@@ -14,24 +14,29 @@ title: Karl Broman
   </div>
 </div>
 
-<link href="assets/themes/twitter/css/kbroman.css" rel="stylesheet" type="text/css" media="all">
-
-
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="pages/pubpics/rqtlexper_fig1.html"><img src="assets/pubpics/rqtlexper_fig1.png" alt="Broman (2014) Fig 1" title="Broman (2014) Fig 1"/></a>
+    <a href="pages/pubpics/rqtlexper_fig1.html">
+        <img src="assets/pubpics/rqtlexper_fig1.png" alt="Broman (2014) Fig 1" title="Broman (2014) Fig 1"/>
+    </a>
   </td>
   <td class="right">
-    <a href="pages/pubpics/rqtlexper_fig2.html"><img src="assets/pubpics/rqtlexper_fig2.png" alt="Broman (2014) Fig 2" title="Broman (2014) Fig 2"/></a>
+    <a href="pages/pubpics/rqtlexper_fig2.html">
+        <img src="assets/pubpics/rqtlexper_fig2.png" alt="Broman (2014) Fig 2" title="Broman (2014) Fig 2"/>
+    </a>
   </td>
 </tr>
 <tr>
   <td class="left">
-    <a href="pages/pubpics/samplemixups_fig7.html"><img src="assets/pubpics/samplemixups_fig7.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/></a>
+    <a href="pages/pubpics/samplemixups_fig7.html">
+        <img src="assets/pubpics/samplemixups_fig7.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
+    </a>
   </td>
   <td class="right">
-    <a href="http://www.rqtl.org/book"><img src="assets/pubpics/rqtlbook_cover_sm.jpg" alt="Broman and Sen (2009) cover" title="Broman and Sen (2009) cover"/></a>
+    <a href="http://www.rqtl.org/book">
+        <img src="assets/pubpics/rqtlbook_cover_sm.jpg" alt="Broman and Sen (2009) cover" title="Broman and Sen (2009) cover"/>
+    </a>
   </td>
 </tr>
 </table>
