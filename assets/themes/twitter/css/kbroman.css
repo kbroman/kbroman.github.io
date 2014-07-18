@@ -10,10 +10,23 @@ a code {
   color: #08c;
 }
 
-table.widetable {
+p.center {
+    text-align: center;
+}
+
+table.wide {
     width: 100%;
 }
 
-p.center {
-    text-align: center;
+table.wide td {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+td.left {
+    text-align: left;
+}
+
+td.right {
+    text-align: right;
 }
