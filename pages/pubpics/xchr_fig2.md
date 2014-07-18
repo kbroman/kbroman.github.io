@@ -6,7 +6,7 @@ title: Broman et al. (2006) Fig 2
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="rigenome_fig6.html">prev</a></li>
+          <li><a href="interfer_fig1.html">prev</a></li>
           <li><a href="mousebc_fig3.html">next</a></li>
       </ul>
   </div>

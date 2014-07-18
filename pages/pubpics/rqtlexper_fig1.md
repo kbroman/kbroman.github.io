@@ -6,8 +6,8 @@ title: Broman (2014) Fig 1
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="geneticmaps_fig3.html">prev</a></li>
-          <li><a href="rqtlexper_fig2.html">next</a></li>
+          <li><a href="mousebc_fig3.html">prev</a></li>
+          <li><a href="iplotCorr.html">next</a></li>
       </ul>
   </div>
 </div>

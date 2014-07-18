@@ -6,8 +6,8 @@ title: Broman et al. (1998) Fig 3
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="inversion_fig2.html">prev</a></li>
-          <li><a href="rqtlexper_fig1.html">next</a></li>
+          <li><a href="rqtlbook.html">prev</a></li>
+          <li><a href="phyloqtl_fig2.html">next</a></li>
       </ul>
   </div>
 </div>

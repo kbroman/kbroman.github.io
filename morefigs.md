@@ -17,6 +17,16 @@ title: Karl Broman
 <table class="wide">
 <tr>
   <td class="left">
+    <a href="pages/pubpics/geneticmaps_fig3.html">
+        <img src="assets/pubpics/rqtlexper_fig1.png" alt="Broman (2014) Fig 1" title="Broman (2014) Fig 1"/>
+    </a>
+  </td>
+  <td class="right">
+        <img src="assets/pubpics/geneticmaps_fig3a.png" alt="Broman et al. (1998) Fig 3a" title="Broman et al. (1998) Fig 3a"/>
+  </td>
+</tr>
+<tr>
+  <td class="left">
     <a href="pages/pubpics/phyloqtl_fig6.html">
         <img src="assets/pubpics/phyloqtl_fig6.png" alt="Broman et al. (2012) Fig 6" title="Broman et al. (2012) Fig 6"/>
     </a>
@@ -73,15 +83,6 @@ title: Karl Broman
     <a href="pages/pubpics/mousebc_fig3.html">
         <img src="assets/pubpics/mousebc_fig3.png" alt="Broman et al. (2002) Fig 3" title="Broman et al. (2002) Fig 3"/>
     </a>
-  </td>
-</tr>
-<tr>
-  <td class="left">
-    <a href="pages/pubpics/geneticmaps_fig3.html">
-        <img src="assets/pubpics/geneticmaps_fig3a.png" alt="Broman et al. (1998) Fig 3a" title="Broman et al. (1998) Fig 3a"/>
-    </a>
-  </td>
-  <td class="right">
   </td>
 </tr>
 </table>

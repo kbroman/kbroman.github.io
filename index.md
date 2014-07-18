@@ -17,8 +17,8 @@ title: Karl Broman
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="pages/pubpics/rqtlexper_fig1.html">
-        <img src="assets/pubpics/rqtlexper_fig1.png" alt="Broman (2014) Fig 1" title="Broman (2014) Fig 1"/>
+    <a href="pages/pubpics/iplotCorr.html">
+        <img src="assets/pubpics/iplotCorr.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
     </a>
   </td>
   <td class="right">

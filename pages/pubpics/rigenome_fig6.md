@@ -7,7 +7,7 @@ title: Broman (2005) Fig 6
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="rigenome_fig2.html">prev</a></li>
-          <li><a href="xchr_fig2.html">next</a></li>
+          <li><a href="inversion_fig1.html">next</a></li>
       </ul>
   </div>
 </div>

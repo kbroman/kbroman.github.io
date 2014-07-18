@@ -6,8 +6,8 @@ title: Broman (2012) Table S13
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="phyloqtl_fig6.html">prev</a></li>
-          <li><a href="rigenome_fig2.html">next</a></li>
+          <li><a href="inversion_fig2.html">prev</a></li>
+          <li><a href="interfer_fig1.html">next</a></li>
       </ul>
   </div>
 </div>
