@@ -21,7 +21,7 @@ barely sustainable. J Open Res Softw
 ![Broman (2014) Fig 1](../../assets/bigpubpics/rqtlexper_fig1_lg.png)
 
 **Figure 1**. &mdash; Typical analysis results from R/qtl. A: LOD curves across
-the genome, measuring association between phenotype and genotype
-across, and B: Association between genotype and phenotype at the
+the genome, measuring association between phenotype and genotype,
+and B: Association between genotype and phenotype at the
 marker with the strongest association. The data are from Moore et
 al. (2013); panel B was created using the R package beeswarm.
