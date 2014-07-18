@@ -37,6 +37,7 @@ Kwak I-Y, Moore CR, Spalding EP, **Broman
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/24931408) [![pdf (1.2M)](pdf-icon.png)](http://arxiv.org/pdf/1403.3048v2.pdf)
 [![GitHub](github-icon.png)](https://github.com/ikwak2/Paper_FunQTL)
 [![Data](data-icon.png)](http://qtlarchive.org/db/q?pg=projdetails&proj=moore_2013b)
+[![funqtl software](R-icon.png)](https://github.com/ikwak2/funqtl)
 <!-- * 131 * -->
 
 Street VA, Kujawa SG, Manichaikul A, **Broman KW**, Kallman JC, Shilling DJ, Iwata AJ,
