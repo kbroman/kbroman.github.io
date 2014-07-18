@@ -35,6 +35,8 @@ Kwak I-Y, Moore CR, Spalding EP, **Broman
   KW**. A simple regression-based method to map quantitative trait loci underlying
   function-valued phenotypes. [Genetics](http://www.genetics.org), to appear
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/24931408) [![pdf (1.2M)](pdf-icon.png)](http://arxiv.org/pdf/1403.3048v2.pdf)
+[![GitHub](github-icon.png)](https://github.com/ikwak2/Paper_FunQTL)
+[![Data](data-icon.png)](http://qtlarchive.org/db/q?pg=projdetails&proj=moore_2013b)
 <!-- * 131 * -->
 
 Street VA, Kujawa SG, Manichaikul A, **Broman KW**, Kallman JC, Shilling DJ, Iwata AJ,
@@ -86,6 +88,9 @@ Moore CR, Johnson LS, Kwak I-Y, Livny M,
 High-throughput computer vision introduces the time axis to a quantitative trait map of a plant growth response.
 [Genetics](http://www.genetics.org) 195:1077-1086
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/23979570) [![pdf (1.6M)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/spalding.pdf)
+[![Data](data-icon.png)](http://qtlarchive.org/db/q?pg=projdetails&proj=moore_2013a)
+[![Data](data-icon.png)](http://qtlarchive.org/db/q?pg=projdetails&proj=moore_2013b)
+[![Data](data-icon.png)](http://qtlarchive.org/db/q?pg=projdetails&proj=moore_2013c)
 <!-- * 124 * -->
 
 Bautz DJ, **Broman KW**, Threadgill DW (2013)
@@ -373,8 +378,8 @@ quantitative trait locus mapping under selective genotyping.
 <!-- * 73 * -->
 
 Petkov PM, **Broman KW**,
-  Szatkiewicz JP, Paigen K (2007)  Crossover interference underlies sex
-  differences in recombination rates.  [Trends Genet](http://www.sciencedirect.com/science/journal/01689525) 23:539-542
+Szatkiewicz JP, Paigen K (2007)  Crossover interference underlies sex
+differences in recombination rates.  [Trends Genet](http://www.sciencedirect.com/science/journal/01689525) 23:539-542
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/17964681) [![pdf (266k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/petkov.pdf) [![Supplementary material](supp-icon.png)](petkov_supp.pdf)
 <!-- * 72 * -->
 
@@ -383,7 +388,7 @@ Peirce JL, **Broman KW**, Lu L, Williams RW (2007) A simple method for combining
 <!-- * 71 * -->
 
 Teuscher F, **Broman KW** (2007)
-  Haplotype probabilities for multiple-strain recombinant inbred lines.
+Haplotype probabilities for multiple-strain recombinant inbred lines.
 [Genetics](http://www.genetics.org) 175:1267-1274
     [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/17151250) [![pdf (722k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/teuscher.pdf)
 <!-- * 70 * -->
@@ -391,30 +396,30 @@ Teuscher F, **Broman KW** (2007)
 Sen &#346;, Satagopan JM, **Broman KW**, Churchill GA (2007)  R/qtlDesign: Inbred
 line cross experimental design.  [Mamm
 Genome](http://www.springerlink.com/content/1432-1777/) 18:87-93
-  [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/17347894) [![pdf (138k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/saunak_design.pdf)
+[![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/17347894) [![pdf (138k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/saunak_design.pdf)
 <!-- * 69 * -->
 
 Lemmerhirt HL, **Broman
-  KW**, Shavit JA, Ginsburg D (2007)  Genetic regulation of plasma von
-  Willebrand factor levels: Quantitative trait loci analysis in a mouse model.  [J Thromb
-  Haemost](http://www.journalth.com/) 5:329-335
+KW**, Shavit JA, Ginsburg D (2007)  Genetic regulation of plasma von
+Willebrand factor levels: Quantitative trait loci analysis in a mouse model.  [J Thromb
+Haemost](http://www.journalth.com/) 5:329-335
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/17155961) [![pdf (1.1M)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/heidiJTH.pdf)
-    <!-- * 68 * -->
+<!-- * 68 * -->
 
 Nichols KM, **Broman KW**, Sundin K, Young JM,
 Wheeler PA, Thorgaard GH (2007)  Quantitative trait loci by maternal
-  cytoplasmic environment interaction for development rate in <i>Oncorhynchus
+cytoplasmic environment interaction for development rate in <i>Oncorhynchus
 mykiss</i>.  [Genetics](http://www.genetics.org) 175:335-347
-  [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/17057232) [![pdf (1035k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/nichols.pdf)
+[![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/17057232) [![pdf (1035k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/nichols.pdf)
 <!-- * 67 * -->
 
 
 #### 2006
 
 **Broman KW**, Sen &#346;, Owens SE,
-    Manichaikul A, Southard-Smith EM, Churchill GA (2006)  The X chromosome
-    in quantitative trait locus mapping.  [Genetics](http://www.genetics.org) 174:2151-2158
-    [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/17028340) [![pdf (169k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/xchr.pdf)
+Manichaikul A, Southard-Smith EM, Churchill GA (2006)  The X chromosome
+in quantitative trait locus mapping.  [Genetics](http://www.genetics.org) 174:2151-2158
+[![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/17028340) [![pdf (169k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/xchr.pdf)
 <!-- * 66 * -->
 
 Shrestha S, Smith MW, **Broman KW**,
@@ -422,31 +427,31 @@ Farzadegan H,  Vlahov D, Strathdee SA (2006)
 Multi-person-use of syringes among injection drug users in a needle
 exchange program: A gene based molecular epidemiological analysis.
 [J Acquir Immune Defic Syndr](http://www.jaids.com)
-    43:335-343
+43:335-343
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/16980914) [![pdf (174k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/sadeep2.pdf)
 <!-- * 65 * -->
 
 
 Kess D, Lindqvist AK, Peters T, Wang H, Zamek J,
-  Nischt R, **Broman KW**, Blakytny R, Krieg
-  T, Holmdahl R, Scharffetter-Kochanek K (2006) Identification of
-  susceptibility loci for skin disease in a murine psoriasis model.
+Nischt R, **Broman KW**, Blakytny R, Krieg
+T, Holmdahl R, Scharffetter-Kochanek K (2006) Identification of
+susceptibility loci for skin disease in a murine psoriasis model.
 [J Immunol](http://www.jimmunol.org) 177:4612-4619
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/16982899) [![pdf (211k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/kess.pdf)
 <!-- * 64 * -->
 
 Manichaikul A, Dupuis J, Sen &#346;, **Broman KW** (2006)  Poor performance of bootstrap
-    confidence intervals for the location of a quantitative trait
-    locus.  [Genetics](http://www.genetics.org) 174:481-489
+confidence intervals for the location of a quantitative trait
+locus.  [Genetics](http://www.genetics.org) 174:481-489
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/16783000) [![pdf (1033k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/qtlboot.pdf)
 <!-- * 63 * -->
 
 Sundin OH, **Broman KW**,
-    Chang HH, Vito ECL, Stark WJ, Gottsch JD (2006)
+Chang HH, Vito ECL, Stark WJ, Gottsch JD (2006)
 A common locus for late-onset Fuchs corneal dystrophy
 maps to 18q21.2-q21.32.
 [Invest Ophthalmol Vis Sci](http://www.iovs.org)
-    47:3919-3926
+47:3919-3926
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/16936105) [![pdf (631k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/fuchs_c18.pdf)
 <!-- * 62 * -->
 
@@ -458,9 +463,9 @@ equations.  [Genetics](http://www.genetics.org) 173:2269-2282
 <!-- * 61 * -->
 
 Chadwick LH, Pertz L, **Broman
-    KW**, Bartolomei MS, Willard HF (2006)  Genetic control of X
-    chromosome inactivation in mice: Definition of the <i>Xce</i> candidate
-    interval.  [Genetics](http://www.genetics.org) 173:2111-2119
+KW**, Bartolomei MS, Willard HF (2006)  Genetic control of X
+chromosome inactivation in mice: Definition of the <i>Xce</i> candidate
+interval.  [Genetics](http://www.genetics.org) 173:2111-2119
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/16582439) [![pdf (193k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/chadwick.pdf)
 <!-- * 60 * -->
 
@@ -474,47 +479,47 @@ status in mice.  [Hepatology](http://www3.interscience.wiley.com/cgi-bin/jhome/1
 
 
 Orgogozo V, **Broman KW**,
-  Stern DL (2006)
-    High-resolution QTL mapping reveals sign epistasis controlling
-    ovariole number between two Drosophila species.  [Genetics](http://www.genetics.org) 173:197-205
+Stern DL (2006)
+High-resolution QTL mapping reveals sign epistasis controlling
+ovariole number between two Drosophila species.  [Genetics](http://www.genetics.org) 173:197-205
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/16489225) [![pdf (425k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/orgogozo.pdf)
 <!-- * 58 * -->
 
 
 Shrestha S, Strathdee SA, **Broman KW**,
-    Smith MW (2006) Unknown biological
+Smith MW (2006) Unknown biological
 mixtures evaluation using STR analytical quantification.
 [Electrophoresis](http://www.wiley-vch.de/publish/en/journals/alphabeticIndex/2027/)
 27:409-415
-<!-- * 57 * -->
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/16437418) [![pdf (125k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/sadeep.pdf)
+<!-- * 57 * -->
 
 Reilly KM, **Broman KW**, Bronson RT,
 Tsang S, Loisel DA, Christy ES, Sun Z, Diehl J, Munroe DJ, Tuskan RG
 (2006) An imprinted locus epistatically influences <i>Nstr1</i> and
 <i>Nstr2</i> to control resistance to nerve sheath tumors in a
 neurofibromatosis type 1 mouse model.  [Cancer Res](http://cancerres.aacrjournals.org/) 66:62-68
-<!-- * 56 * -->
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/16397217) [![pdf (1.9M)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/km_reilly.pdf)
+<!-- * 56 * -->
 
 Sundin OH, Jun AS, **Broman KW**, Liu SH, Sheehan SE, Vito ECL, Stark WJ,
 Gottsch JD (2006)
 Linkage of late-onset Fuchs corneal dystrophy
 to a novel locus at 13pTel-13q12.13.
 [Invest Ophthalmol Vis Sci](http://www.iovs.org)  47:140-145
-<!-- * 55 * -->
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/16384955) [![pdf (316k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/fuchs_c13.pdf)
+<!-- * 55 * -->
 
 #### 2005
 
- Sundin OH, Leppert GS, Silva ED, Yang J-M, Dharmaraj S, Maumenee
-    IH, Santos LC, Parsa CF, Traboulsi EI, **Broman KW**, DiBernardo C, Sunness JS, Toy J,
-    Weinberg EM (2005)  Extreme hyperopia is the result of null mutations in <i>MFRP</i>,
-    which encodes a Frizzled-related protein.
+Sundin OH, Leppert GS, Silva ED, Yang J-M, Dharmaraj S, Maumenee
+IH, Santos LC, Parsa CF, Traboulsi EI, **Broman KW**, DiBernardo C, Sunness JS, Toy J,
+Weinberg EM (2005)  Extreme hyperopia is the result of null mutations in <i>MFRP</i>,
+which encodes a Frizzled-related protein.
 [Proc Natl Acad Sci USA](http://www.pnas.org/) 102:9553-9558
-<!-- * 54 * -->
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/15976030)
-    [![pdf (859k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/nanophthalmos.pdf)
+[![pdf (859k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/nanophthalmos.pdf)
+<!-- * 54 * -->
 
 Gottsch JD, Sundin OH, Liu SH, Jun AS, **Broman KW**, Stark WJ, Vito EC, Narang AK,
   Thompson JM, Magovern M (2005) Inheritance of a novel <i>COL8A2</i> mutation defines a distinct early-onset subtype of Fuchs corneal dystrophy. [Invest Ophthalmol Vis Sci](http://www.iovs.org) 46:1934-1939
@@ -522,46 +527,46 @@ Gottsch JD, Sundin OH, Liu SH, Jun AS, **Broman KW**, Stark WJ, Vito EC, Narang 
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/15914606) [![pdf (302k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/fuchs_iovs.pdf)
 
 Owens SE, **Broman KW**,
-  Wiltshire T, Elmore JB, Bradley KM, Smith JR, Southard-Smith EM (2005)
-  Genome-wide linkage identifies novel modifier loci of aganglionosis
-  in the <i>Sox10<sup>Dom</sup></i> model of Hirschsprung
-  disease.  [Hum Mol Genet](http://hmg.oupjournals.org) 14:1549-1558
-<!-- * 52 * -->
+Wiltshire T, Elmore JB, Bradley KM, Smith JR, Southard-Smith EM (2005)
+Genome-wide linkage identifies novel modifier loci of aganglionosis
+in the <i>Sox10<sup>Dom</sup></i> model of Hirschsprung
+disease.  [Hum Mol Genet](http://hmg.oupjournals.org) 14:1549-1558
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/15843399) [![pdf (304k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/owens.pdf)
+<!-- * 52 * -->
 
 
 **Broman KW** (2005) The genomes of
 recombinant inbred lines.  [Genetics](http://www.genetics.org/) 169:1133-1146
-<!-- * 51 * -->
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/15545647)
 [![pdf (525k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/rigenome.pdf)
 [![R/ricalc](R-icon.png)](http://www.biostat.wisc.edu/~kbroman/software/index.html#ricalc)
 \[**Erratum**: [Genetics](http://www.genetics.org) 173:2419, 2006 [![pdf 30k](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/rigenome_corrigendum.pdf)\]
+<!-- * 51 * -->
 
 Guler ML, Ligons DL, Wang Y, Bianco M, **Broman
 KW**, Rose NR (2005) Two autoimmune diabetes loci influencing T
 cell apoptosis control susceptibility to experimental autoimmune
 myocarditis.  [J Immunol](http://www.jimmunol.org) 174:2167-2173
-<!-- * 50 * -->
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/15699148)
 [![pdf (165k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/mehmet.pdf)
+<!-- * 50 * -->
 
 Congdon N, **Broman KW**, Lai H, Munoz B, Bowie H, Gilbert D,
 Wojciechowski R, West SK (2005) Cortical, but not posterior
 subcapsular, cataract shows significant familial aggregation in an
 older population after adjustment for possible shared environmental
 factors. [Ophthalmology](http://www.sciencedirect.com/science?_ob=JournalURL&_cdi=6278&_auth=y&_acct=C000006078&_version=1&_urlVersion=0&_userid=75682&md5=675c4528bf6537088a61588ef00d711a) 112:73-77
-<!-- * 49 * -->
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/15629823)
 [![pdf (118k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/cortical.pdf)
+<!-- * 49 * -->
 
 Chen WM, **Broman KW**, Liang KY (2005) Power
 and robustness of linkage tests for quantitative traits in general
 pedigrees.  [Genet
 Epidemiol](http://www.interscience.wiley.com/jpages/0741-0395/) 28:11-23
-<!-- * 48 * -->
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/15493059)
 [![pdf (160k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/qtlpower.pdf)
+<!-- * 48 * -->
 
 #### 2004
 
@@ -572,7 +577,6 @@ exstrophy-epispadias complex: Analysis of 232 families.  [BJU
 International](http://www.blackwellpublishing.com/BJU) 94:1337-1343
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/15610117)
 [![pdf (168k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/bladder_exstrophy.pdf)
-<!-- * 47 * -->
 <br>
 **Note**: The publisher
 requires that I make the following statement: &ldquo;This is an electronic
@@ -583,76 +587,77 @@ Blackwell Synergy online delivery service, accessible via the journals
 website at [www.blackwellpublishing.com/BJU](http://www.blackwellpublishing.com/BJU)
 or
 [www.blackwell-synergy.com](http://www.blackwell-synergy.com).&rdquo;{:small}
+<!-- * 47 * -->
 
 The Complex Trait Consortium \[113 authors (2004) The
 Collaborative Cross, a community resource for the genetic analysis of
 complex traits.  [Nat Genet](http://www.nature.com/ng) 36:1133-1137
-<!-- * 46 * -->
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/15514660)
 [![pdf (177k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/collabcross.pdf)
+<!-- * 46 * -->
 
 Chen S, Wang W, **Broman KW**,
 Katki HA, Parmigiani G (2004) BayesMendel: An R environment for Mendelian risk
 prediction.  [Stat Appl Genet
 Mol Biol](http://www.bepress.com/sagmb/) 3(1): article 21
-<!-- * 45 * -->
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/16646800)
 [![pdf (191k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/bayesmendel.pdf)
+<!-- * 45 * -->
 
 
 Neff MW, Robertson KR, Wong AK, Safra N, **Broman KW**, Slatkin M, Mealey KL, Pedersen NC (2004)
 Breed distribution and history of canine <i>mdr1-1&Delta;</i>, a pharmacogenetic
 mutation that marks the emergence of breeds from the collie lineage.
 [Proc Natl Acad Sci USA](http://www.pnas.org/) 101:11725-11730
-<!-- * 44 * -->
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/15289602)
 [![pdf (312k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/mdr1.pdf) [![Supporting info](supp-icon.png)](http://www.pnas.org/cgi/content/full/0402374101/DC1)
+<!-- * 44 * -->
 
 Tankersley CG, **Broman KW** (2004)
 Interactions in hypoxic and hypercapnic breathing
 are genetically linked to mouse chromosomes 1 and 5.  [J Appl Physiol](http://jap.physiology.org/) 97:77-84
-<!-- * 43 * -->
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/14978007) [![pdf (206k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/tankersley.pdf)
+<!-- * 43 * -->
 
 Congdon N, **Broman KW**, Lai H, Munoz B,
 Bowie H, Gilbert D, Wojciechowski R, Alston C, West SK (2004)  Nuclear
 cataract shows significant familial aggregation in an older population
 after adjustment for possible shared environmental factors.  [Invest Ophthalmol Vis Sci](http://www.iovs.org) 45:2182-2186
-<!-- * 42 * -->
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/15223793)
 [![pdf (90k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/nuccat.pdf)
+<!-- * 42 * -->
 
 
 Tankersley CG, Campen M, Bierman A, Flanders SE, **Broman KW**, Rabold R (2004) Particle effects on
 heart-rate regulation in senescent mice.  [Inhal Toxicol](http://www.tandf.co.uk/journals/titles/08958378.asp) 16:381-390
-<!-- * 41 * -->
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/15204754)
 [![pdf (472k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/particle_effects.pdf)
+<!-- * 41 * -->
 
 Sivagnanasundaram S, **Broman KW**, Liu M,
 Petronis A (2004)  Quasi-linkage: A confounding factor in linkage analysis of
 complex diseases? [Hum
 Genet](http://www.springerlink.com/openurl.asp?genre=journal&issn=0340-6717) 114:588-593
-<!-- * 40 * -->
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/15045582)
-[![pdf (149k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/ql.pdf) [data](http://www.biostat.wisc.edu/~kbroman/data/index.html#quasilinkage)
+[![pdf (149k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/ql.pdf) [![data](data-icon.png)](http://www.biostat.wisc.edu/~kbroman/data/index.html#quasilinkage)
+<!-- * 40 * -->
 
 Chen WM, **Broman KW**, Liang KY (2004)
 Quantitative trait linkage analysis by generalized estimating
 equations: Unification of variance components and Haseman-Elston
 regression.  [Genet
 Epidemiol](http://www.interscience.wiley.com/jpages/0741-0395/) 26:265-272
-<!-- * 39 * -->
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/15095386)
 [![pdf (131k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/vc_he.pdf)
+<!-- * 39 * -->
 
 
 Kieffer TL, Finucane MM, Nettles RE, Quinn TC, **Broman KW**, Ray SC,
 Persaud D, Siliciano RF (2004) Genotypic analysis of HIV-1 drug
 resistance at the limit of detection: Virus production without
 evolution in treated adults with undetectable HIV loads.  [J Infect Dis](http://www.journals.uchicago.edu/JID/) 189:1452-1456
-<!-- * 38 * -->
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/15073683) [![pdf (1270k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/kieffer.pdf)
+<!-- * 38 * -->
 
 #### 2003
 
@@ -660,55 +665,55 @@ Lidman O, Swanberg M, Horvath L, **Broman
 KW**, Olsson T, Piehl F (2003) Discrete gene loci regulate
 neurodegeneration, lymphocyte infiltration and major
 histocompatibility complex class II expression in the CNS.  [J Neurosci](http://www.jneurosci.org/) 23:9817-9823
-<!-- * 37 * -->
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/14586010)
 [![pdf (477k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/lidman.pdf)
+<!-- * 37 * -->
 
 Glaser RL, **Broman KW**, Shulman RL,
 Eskenazi B, Wyrobek AJ, Jabs EW (2003)  The paternal age effect in Apert
 syndrome is due in part to the increased frequency of mutations in
 sperm. [Am J Hum
 Genet](http://www.journals.uchicago.edu/AJHG/journal/) 73:939-947
-<!-- * 36 * -->
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/12900791) [![pdf (321k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/apert.pdf)
+<!-- * 36 * -->
 
 Denny P, Hopes E, Gingles N, **Broman
 KW**, McPheat W, Morten J, Alexander J, Andrew PW, Brown SDM (2003)  A
 major locus conferring susceptibility to infection by <i>Streptococcus
 pneumoniae</i> in mice.  [Mamm
 Genome](http://link.springer.de/link/service/journals/00335/) 14:448-453
-<!-- * 35 * -->
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/12925893)
 [![pdf (154k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/denny.pdf)
+<!-- * 35 * -->
 
 Lamichhane G, Zignol M, Blades NJ, Geiman DE, Dougherty A, **Broman KW**, Bishai WR (2003)  A post-genomic method
 for predicting essential genes at subsaturation levels of mutagenesis:
 application to <i>Mycobacterium tuberculosis</i>.  [Proc Natl Acad Sci USA](http://www.pnas.org/) 100:7213-7218
-<!-- * 34 * -->
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/12775759)
 [![pdf (260k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/mutagenesis.pdf) [![R/negenes](R-icon.png)](http://www.biostat.wisc.edu/~kbroman/software/negenes.html)
+<!-- * 34 * -->
 
 **Broman KW**, Wu H, Sen &#346;, Churchill
 GA (2003)  R/qtl: QTL mapping in experimental crosses.
 [Bioinformatics](http://bioinformatics.oupjournals.org) 19:889-890
-<!-- * 33 * -->
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/12724300)
 [![pdf (236k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/rqtl.pdf)
+<!-- * 33 * -->
 
 
 **Broman KW** (2003)  Mapping quantitative trait loci
 in the case of a spike in the phenotype distribution.  [Genetics](http://www.genetics.org/) 163:1169-1175
-<!-- * 32 * -->
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/12663553) [![pdf (250k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/twopart.pdf)
+<!-- * 32 * -->
 
 Becanovic K, Wallstrom E, Kornek B, Glaser A, **Broman KW**, Dahlman I, Olofsson P, Holmdahl R,
 Luthman H, Lassmann H, Olsson T (2003) New loci regulating rat myelin
 oligodendrocyte glycoprotein-induced experimental autoimmune
 encephalomyelitis.  [J Immunol](http://www.jimmunol.org/)
 170:1062-1069
-<!-- * 31 * -->
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/12517974)
 [![pdf (208k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/becanovic.pdf)
+<!-- * 31 * -->
 
 
 #### 2002
@@ -716,10 +721,10 @@ encephalomyelitis.  [J Immunol](http://www.jimmunol.org/)
 **Broman KW**, Speed TP (2002)  A model
 selection approach for the identification of quantitative trait loci
 in experimental crosses (with discussion). [J Roy Stat Soc
-B](http://www.ingenta.com/journals/browse/bpl/rssb) 64:641-656, 731-775
-<!-- * 30 * -->
+B](http://www.ingenta.com/journals/browse/bpl/rssb) 64:641-656
 [![Abstract](pubmed-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/jrssb_abstract.html)
 [![pdf (326k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/jrssb.pdf)
+<!-- * 30 * -->
 
 
 
@@ -727,15 +732,15 @@ Jun AS, **Broman KW**, Do DV, Akpek EK,
 Stark WJ, Gottsch JD (2002)  Endothelial dystrophy, iris hypoplasia,
 congenital cataract, and stromal thinning (EDICT) syndrome maps to
 chromosome 15q22.1-q25.3.  [Am J Ophthalmol](http://www.sciencedirect.com/science?_ob=JournalURL&_issn=00029394&_auth=y&_acct=C000006078&_version=1&_urlVersion=0&_userid=75682&md5=1485c7d9a14c09bf72794b377897346b) 134:172-176
-<!-- * 29 * -->
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/12140022)
 [![pdf (189k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/edict.pdf)
+<!-- * 29 * -->
 
 **Broman KW**, Rowe LB, Churchill GA,
 Paigen K (2002) Crossover interference in the mouse.  [Genetics](http://www.genetics.org/)
 160:1123-1131
-<!-- * 28 * -->
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/11901128) [![pdf (165k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/mousebc.pdf)
+<!-- * 28 * -->
 
 #### 2001
 
@@ -745,8 +750,8 @@ Predisposition to efficient mammary tumor metastatic progression is
 linked to the breast cancer metastasis suppressor gene <i>Brms1</i>.
 [Cancer
 Research](http://cancerres.aacrjournals.org) 61:8866-8872
-<!-- * 27 * -->
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/11751410) [![pdf (314k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/hunter.pdf)
+<!-- * 27 * -->
 
 
 Ravenel JD, **Broman KW**, Perlman EJ,
@@ -755,58 +760,58 @@ Bell DW, Haber DA, Uejima H, Feinberg AP (2001) Loss of imprinting of
 Insulin-Like Growth Factor-II (IGF2) gene in distinguishing specific
 biologic subtypes of Wilms tumor.
 [J Natl Cancer Inst](http://jncicancerspectrum.oupjournals.org/jnci) 93:1698-1703
-<!-- * 26 * -->
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/11717330) [![pdf (330k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/imprinting.pdf)
+<!-- * 26 * -->
 
 **Broman KW** (2001) Review of
 statistical methods for QTL mapping in experimental crosses.
 [Lab
 Animal](http://www.labanimal.com/) 30(7):44-52
-<!-- * 25 * -->
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/11469113) [![pdf (836k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/labanimal.pdf)
 <br>
 **Note**: The publisher
 requires that I make the following statement: &ldquo;The paper can only be
 downloaded for personal study use and cannot be copied for commercial
 purposes without the permission of the publisher.&rdquo;
+<!-- * 25 * -->
 
 **Broman KW** (2001) Estimation of allele frequencies with data on
 sibships. [Genet Epidemiol](http://www.interscience.wiley.com/jpages/0741-0395/) 20:307-315
-<!-- * 24 * -->
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/11255240)
 [![pdf (107k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/sibfreq.pdf)
 \[**Erratum**: [Genet Epidemiol](http://www.interscience.wiley.com/jpages/0741-0395/) 23:465-466, 2002 [![pdf 56k](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/sibfreq_erratum.pdf)\]
+<!-- * 24 * -->
 
 Giglio S, **Broman KW**, Matsumoto N,
 Calvari V, Gimelli G, Neumann T, Ohashi H, Voullaire L, Larizza D,
 Giorda R, Weber JL,  Ledbetter DH, Zuffardi O (2001) Olfactory
 receptor-gene clusters, genomic-inversion polymorphisms, and
 common chromosome rearrangements.  [Am J Hum Genet](http://www.journals.uchicago.edu/AJHG/journal/) 68:874-883
-<!-- * 23 * -->
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/11231899)
 [![pdf (1494k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/giglio.pdf)
+<!-- * 23 * -->
 
 Boyartchuk VL, **Broman KW**, Mosher RE,
 D'Orazio SEF, Starnbach MN, Dietrich WF (2001) Multigenic control of
 <i>Listeria monocytogenes</i> susceptibility in mice.  [Nat Genet](http://www.nature.com/ng/) 27:259-260
-<!-- * 22 * -->
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/11242105) [![pdf (609k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/victor.pdf)
 [![methods (pdf 113k)](supp-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/victor_methods.pdf)
 [![figure A (pdf 13k)](supp-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/victor_figA.pdf)
+<!-- * 22 * -->
 
 Yu A, Zhao C, Fan Y, Jang W, Mungall AJ, Deloukas P, Olsen A,
 Doggett NA, Ghebranious N, **Broman KW**, Weber JL (2001)
 Comparison of human genetic and sequence-based physical maps.  [Nature](http://www.nature.com/nature/)
 409:951-953
-<!-- * 21 * -->
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/11237020) [![pdf (129k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/genphys.pdf)
+<!-- * 21 * -->
 
 Lichter-Konecki U, **Broman KW**, Blau EB, Konecki DS (2001) Genetic
 and physical mapping of the locus for autosomal dominant renal Fanconi
 syndrome, on chromosome 15q15.3 [Am J Hum Genet](http://www.journals.uchicago.edu/AJHG/journal/) 68:264-268
-<!-- * 20 * -->
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/11090339)
 [![pdf (636k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/konecki.pdf)
+<!-- * 20 * -->
 
 #### 2000
 
@@ -815,15 +820,15 @@ James RG, Marks JA, Krakower GR, Jacob HJ, Weber J, Martin L, Blangero
 J, Comuzzie AG (2000) Quantitative trait loci on chromosomes 3 and 17
 influence phenotypes of the metabolic syndrome.  [Proc Natl Acad Sci
 USA](http://www.pnas.org) 97:14478-14483
-<!-- * 19 * -->
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/11121050) [![pdf (200k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/tops.pdf)
+<!-- * 19 * -->
 
 Witte JS, Goddard KAB, Conti DV, Elston RC, Lin J, Suarez BK,
 **Broman KW**, Burmester JK, Weber JL, Catalona WJ (2000) Genomewide scan
 for prostate cancer-aggressiveness loci.  [Am J Hum Genet](http://www.journals.uchicago.edu/AJHG/journal/) 67:92-99
-<!-- * 18 * -->
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/10825281)
 [![pdf (243k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/prostate2.pdf)
+<!-- * 18 * -->
 
 **Broman KW**, Weber JL (2000) Characterization of human crossover
 interference.  [Am J Hum Genet](http://www.journals.uchicago.edu/AJHG/journal/) 66:1911-1926
@@ -836,28 +841,28 @@ interference.  [Am J Hum Genet](http://www.journals.uchicago.edu/AJHG/journal/) 
 Suarez BK, Lin J, Burmester JK, **Broman KW**, Weber JL, Banerjee TK,
 Goddard KAB, Witte JS, Elston RC, Catalona WJ (2000) A genome
 screen of multiplex prostate cancer sibships.  [Am J Hum Genet](http://www.journals.uchicago.edu/AJHG/journal/) 66:933-944
-<!-- * 16 * -->
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/10712208)
 [![pdf (291k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/prostate.pdf)
+<!-- * 16 * -->
 
 Brown AS, Feingold E, **Broman KW**, Sherman SL (2000) Genome-wide
 variation in recombination in female meiosis: A risk factor for
 non-disjunction of chromosome 21.  [Hum Mol Genet](http://hmg.oupjournals.org/contents-by-date.0.shtml)
 9:515-523
-<!-- * 15 * -->
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/10699174)
 [![pdf (196k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/nondisj.pdf)
+<!-- * 15 * -->
 
 #### 1999
 
 **Broman KW**, Weber JL (1999) Long homozygous chromosomal
 segments in reference families from the Centre d'&Eacute;tude du
 Polymorphisme Humain.  [Am J Hum Genet](http://www.journals.uchicago.edu/AJHG/journal/) 65:1493-1500
-<!-- * 14 * -->
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/10577902)
 [![pdf (202k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/autozyg.pdf)
 [![Supplemental table (pdf 28k)](supp-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/segments.pdf)
 \[[Errata](http://www.biostat.wisc.edu/~kbroman/publications/autozyg_errors.html)\]
+<!-- * 14 * -->
 
 **Broman KW**, Weber JL (1999) Method for constructing
 confidently ordered linkage
@@ -872,40 +877,40 @@ Neff MW, **Broman KW**, Mellersh CS, Ray K, Acland GM, Aguirre GD,
 Ziegle JS, Ostrander EA, Rine J (1999) A
 second-generation genetic linkage map of the domestic dog, <i>Canis
 familiaris</i>. [Genetics](http://www.genetics.org/) 151:803-820
-<!-- * 12 * -->
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/9927471)
 [![pdf (262k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/dogmaps.pdf)
 [![Supplemental data](supp-icon.png)](http://www.biostat.wisc.edu/~kbroman/data/index.html#dogs)
+<!-- * 12 * -->
 
 #### 1998
 
 **Broman KW**, Murray JC, Sheffield VC, White RL, Weber JL
 (1998) Comprehensive human genetic maps: Individual and sex-specific
 variation in recombination. [Am J Hum Genet](http://www.journals.uchicago.edu/AJHG/journal/) 63:861-869
-<!-- * 11 * -->
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/9718341)
 [![pdf (534k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/geneticmaps.pdf)
 [![Supplemental data](supp-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/mfdmaps_supp)
+<!-- * 11 * -->
 
 **Broman K**, Speed T, Tigges M (1998) Estimation of
 antigen-responsive T cell frequencies in PBMC from human
 subjects. [Stat Sci](http://www.imstat.org/publications/journals/statsci/) 13:4-8
-<!-- * 10 * -->
 [![Abstract](pubmed-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/statsci_abstract.html)
 [![pdf (556k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/statsci.pdf)
 [![data](data-icon.png)](http://www.biostat.wisc.edu/~kbroman/data/index.html#jim)
 [![R/npem](R-icon.png)](http://www.biostat.wisc.edu/~kbroman/software/index.html#npem)
+<!-- * 10 * -->
 
 #### 1996
 
 **Broman K**, Speed T, Tigges M (1996) Estimation of
 antigen-responsive T cell frequencies in PBMC from human
 subjects. [J Immunol Meth](http://www.sciencedirect.com/science/journal/00221759) 198:119-132
-<!-- * 9 * -->
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/8946008)
 [![pdf (740k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/jim.pdf)
 [![data](data-icon.png)](http://www.biostat.wisc.edu/~kbroman/data/jim/index.html)
 [![R/npem](R-icon.png)](http://www.biostat.wisc.edu/~kbroman/software/index.html#npem)
+<!-- * 9 * -->
 
 Dernburg AF, **Broman KW**, Fung JC, Marshall WF, Philips J,
 Agard DA, Sedat JW (1996) Perturbation of nuclear architecture by
@@ -945,9 +950,9 @@ Genet](http://www.journals.uchicago.edu/AJHG/journal/) 75:720-722
 Genet](http://www.journals.uchicago.edu/AJHG/journal/) 72:496
 (Response to [North
 et al., Am J Hum Genet 71:439-441, 2002](http://www.ncbi.nlm.nih.gov/pubmed/12111669))
-<!-- * 6 * -->
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/12596792)
 [![pdf (93k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/pvalueltr.pdf)
+<!-- * 6 * -->
 
 Ravenel JD, Perlman EJ, **Broman KW**,
 Feinberg AP (2002) Response: Re: Loss of imprinting of Insulin-Like
@@ -996,35 +1001,35 @@ Martin CL, Roseberry JA, Zuffardi O, Ledbetter DH, Weber JL (2003)
 Common long human inversion polymorphism on chromosome 8p.  In:
 Goldstein DR (ed) [Science and Statistics: A Festschrift for Terry
 Speed](http://www.imstat.org/publications/lecnotes.htm).  IMS Lecture Notes-Monograph Series, Vol 40, pp 237-245
-<!-- * 4 * -->
 [![Abstract](pubmed-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/inver_abstract.html) [![pdf (139k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/inversion.pdf)
+<!-- * 4 * -->
 
 Weber JL, **Broman KW** (2001) Genotyping for human whole-genome
 scans: Past, present, and future.  In: Rao DC, Province MA (eds)
 Genetic Dissection of Complex Traits. Vol 42: Advances in Genetics.
 Academic Press, New York, pp 77-96
-<!-- * 3 * -->
 [![PubMed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/11037315)
 [![pdf (3.2M)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/weber_broman.pdf)
 [![Amazon](amazon-icon.png)](http://www.amazon.com/exec/obidos/ASIN/0120176424/karlwbroman)
+<!-- * 3 * -->
 
 **Broman KW** (1999) Cleaning genotype data.  In: Goldin L, Amos CI,
 Chase GA, Goldstein AM, Jarvik GP, Martinez MM, Suarez BK, Weeks DE,
 Wijsman EM, MacCluer JE. Genetics Workshop 11: Analysis of genetic and
 environmental factors in common diseases.  [Genet Epidemiol](http://www.interscience.wiley.com/jpages/0741-0395/)
 17(Supp 1):S79-S83
-<!-- * 2 * -->
 [![Pubmed](pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/10597416)
 [![pdf (95k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/gaw11.pdf)
+<!-- * 2 * -->
 
 **Broman KW**, Speed TP (1999) A review of methods for
 identifying QTLs in experimental crosses. In: Seillier-Moiseiwitsch F
 (ed) Statistics in Molecular Biology and Genetics.  IMS Lecture
 Notes-Monograph Series, Vol 33, pp 114-142
-<!-- * 1 * -->
 [![Abstract](pubmed-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/qtlreview_abstract.html)
 [![pdf (249k)](pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/qtlreview.pdf)
 [![Amazon](amazon-icon.png)](http://www.amazon.com/exec/obidos/ASIN/0940600471/karlwbroman)
+<!-- * 1 * -->
 
 
 
