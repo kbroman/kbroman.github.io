@@ -15,15 +15,25 @@ title: Karl Broman
 </div>
 
 
-|                   |                    |
-| :---------------- | -----------------: |
-| [![Broman (2014) Fig 1](assets/pubpics/rqtlexper_fig1.png)](pages/pubpics/rqtlexper_fig1.html)              | [![Broman (2014) Fig 2](assets/pubpics/rqtlexper_fig2.png)](pages/pubpics/rqtlexper_fig2.html) |
-|                   |                    |
-| [![Broman et al. (2013) Fig 7](assets/pubpics/samplemixups_fig7.png)](pages/pubpics/samplemixups_fig7.html) | [![Broman and Sen (2009) cover](assets/pubpics/rqtlbook_cover_sm.jpg)](http://www.rqtl.org/book)  |
-|                   |                    |
-{:.widetable}
+<table class="wide">
+<tr>
+  <td class="left">
+    [![Broman (2014) Fig 1](assets/pubpics/rqtlexper_fig1.png)](pages/pubpics/rqtlexper_fig1.html)
+  </td>
+  <td class="right">
+    [![Broman (2014) Fig 2](assets/pubpics/rqtlexper_fig2.png)](pages/pubpics/rqtlexper_fig2.html)
+  </td>
+</tr>
+<tr>
+  <td class="left">
+    [![Broman et al. (2013) Fig 7](assets/pubpics/samplemixups_fig7.png)](pages/pubpics/samplemixups_fig7.html)
+  </td>
+  <td class="right">
+    [![Broman and Sen (2009) cover](assets/pubpics/rqtlbook_cover_sm.jpg)](http://www.rqtl.org/book)
+  </td>
+</tr>
 
-
+  
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
