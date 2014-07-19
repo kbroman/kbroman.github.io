@@ -14,8 +14,8 @@ title: Broman and Weber (2000) Fig 1
 
 Broman KW, Weber JL (2000) Characterization of human crossover
 interference. Am J Hum Genet 66:1911-1926
-[![PubMed](../pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/10801387)
-[![pdf (291k)](../pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/interfer.pdf)
+[![PubMed](../icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/10801387)
+[![pdf (291k)](../icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/interfer.pdf)
 
 ![Broman and Weber (2000) Fig 1](../../assets/bigpubpics/interfer_fig1_lg.png)
 

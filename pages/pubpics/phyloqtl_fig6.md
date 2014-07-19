@@ -15,9 +15,9 @@ title: Broman et al. (2012) Fig 6
 Broman KW, et al.
 (2012)  Mapping quantitative trait loci
 onto a phylogenetic tree.  Genetics 192:267-279
-[![PubMed](../pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/22745229)
-[![pdf (1.9M)](../pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/phyloqtl.pdf)
-[![source on github](../github-icon.png)](https://github.com/kbroman/phyloQTLpaper)
+[![PubMed](../icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/22745229)
+[![pdf (1.9M)](../icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/phyloqtl.pdf)
+[![source on github](../icons16/github-icon.png)](https://github.com/kbroman/phyloQTLpaper)
 
 ![Broman et al. (2012) Fig 6](../../assets/bigpubpics/phyloqtl_fig6_lg.png)
 
