@@ -49,9 +49,9 @@ Madison, Wisconsin 53706<br>
 USA
 
 <div id="hide_email">
-Email: <code>kbro</code><b>cat</b><code>man</code><b>&nbsp;</b><code>@</code><b>&nbsp;</b><code>bio</code><b>another
-cat</b><code>stat</code><b>&nbsp;</b><code>.</code><b>&nbsp;</b><code>wi</code><b>blah blah
-blah</b><code>sc</code><b>&nbsp;</b><code>.</code><b>&nbsp;</b><code>e</code><b>.com</b><code>du</code><br> 
+Email: <code>kbro</code><b>I</b><code>man</code><b>don't</b><code>@</code><b>want</b><code>bio</code><b>spam!
+</b><code>stat</code><b>So</b><code>.</code><b>please</b><code>wi</code><b>leave
+</b><code>sc</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br> 
 Phone: 608-262-4633
 </div>
 
