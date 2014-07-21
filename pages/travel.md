@@ -1,0 +1,192 @@
+---
+layout: page
+title: Travel
+---
+
+<!--
+  <a href="http://statgen.ncsu.edu/brcwebsite/summer_institute_ral.php">Summer Institute in Statistical Genetics</a> at NC State in Raleigh, NC (June 8-10, 2005)
+
+  <a href="http://www.complextrait.org/meetings/main.php#ctc2005">4th Annual Meeting of the Complex Trait Consortium</a> in Groningen, the Netherlands (June 27-30, 2005)
+
+  <a href="http://math.bnu.edu.cn/statprob/CSPS-IMS2005/index.html">CSPS/IMS meeting</a> in Beijing, China (July 9-12, 2005) 
+
+  <a href="http://www.amstat.org/meetings/jsm/2005/index.cfm">Joint Statistical Meetings</a> in Minneapolis, Minnesota (Aug 7-11, 2005)
+
+  <a href="http://www.jax.org/courses/events/coursedetails.do?id=133">Short course on Complex Trait Analysis</a> at the Jackson Lab in Bar Harbor, Maine (Oct 5-11, 2005)
+
+   <a href="http://bioinf.wehi.edu.au/folders/melanie/genemappers/">5th Australiasian human gene mapping conference</a>, <a href="http://www.mtbuller.com.au">Mt. Buller</a>, Australia (Nov 23-25, 2005)
+
+  <a href="http://www.enar.org/meetings.htm">International
+  Biometric Society/ENAR meeting</a>, Tampa, Florida (Mar 26-29, 2006)
+
+  <a href="http://www.complextrait.org/meetings/ctc06.php">Complex Trait Consortium meeting</a> in Chapel Hill,
+      North Carolina (May 6-10, 2006)
+
+  <a href="http://www.biostat.washington.edu/sisg06/">Summer Institute in Statistical Genetics</a>, Seattle, Washington (June 26-28, 2006)</li>
+
+  Visiting The Jackson Lab, Bar Harbor, Maine (July 10-12, 2006)</li>
+
+  <a href="http://www.jax.org/courses/events/coursedetails.do?id=341&detail=scope">Complex Trait Analysis</a> short course, <a href="http://www.jax.org">The Jackson Laboratory</a>, Bar Harbor, Maine (Sept 16-22, 2006)</li>
+
+  University of Michigan, Ann Arbor (Oct 19-20, 2006)</li>
+
+  Neuropromise training course in Genetic analysis and
+      Bioinformatics, Lund, Sweden (Jan 8-12, 2007)</li>
+
+  Systems Medicine Workshop, NHLBI, Bethesda, MD (Jan 30 - Feb 1,
+      2007)</li>
+
+  GCAT Study Section (Feb 5-6, 2007)</li>
+
+  Seminar at Statistics, U Michigan, Ann Arbor (Feb 14-16, 2007)</li>
+
+  Seminar at The Jackson Lab, Bar Harbor (Feb 21-24, 2007)</li>
+
+  Seminar at Statistics, UC Berkeley (Feb 27-Mar 1, 2007)</li>
+
+  Seminar at Human Genetics, UCLA (March 5, 2007)</li>
+
+  Seminar at U Wisconsin, Madison (Mar 21-24, 2007)</li>
+
+  <a href="http://www.arvo.org/EWEB/startpage.aspx?site=AM_2007">ARVO</a> (May 6-10, 2007)</li>
+
+  6th CTC meeting, Braunschweig, Germany (May 26 -29, 2007)</li>
+
+  Cancun, Mexico (May 16-23, 2007)</li>
+
+  GCAT Study Section, Washington, DC (May 31-June 1, 2007)</li>
+
+  Seminar at <a href="http://www.math.niu.edu/">University of
+      Northern Illinois</a>, DeKalb, Illinois (Sept 10-11, 2007)
+
+  GCAT Study Section, San Francisco (Oct 3-4, 2007)
+
+  <a href="http://www.genetics.wisc.edu/events.page?act=details&event=26">Genetics Dept retreat</a>, Devil's Head Resort, Merrimac, WI (Oct 5, 2007)
+
+  <a href="http://www.jax.org/courses/2007/complextraits07.html">Complex Trait Analysis short course</a> at <a href="http://www.jax.org">The Jackson Laboratory</a>, Bar Harbor, Maine (Oct 11-17, 2007)
+
+  Seminar at <a href="http://www.stolaf.edu">St Olaf College</a>, <a href="http://www.stolaf.edu/depts/statistics">Department of Statistics</a>, Northfield, Minnesota (Nov 5-6, 2007)
+
+  Seminar at <a href="http://www.biostat.jhsph.edu">Johns Hopkins Biostatistics</a> (Nov 28, 2007)
+
+  Seminar at <a href="http://www.genes.uchicago.edu/">Dept of Human Genetics</a>, <a href="http://www.uchicago.edu">University of Chicago</a> (Dec 5, 2007)
+
+  Ani's defense, Johns Hopkins, Baltimore, MD (Dec 7, 2007)
+
+  GCAT Study Section, Washington, DC (Feb 3-5, 2008)
+
+  <a href="http://galton.uchicago.edu/msrc">First Midwest Statistics Research Colloquium</a>, University of Chicago (Mar 28-29, 2008)
+
+  CTC meeting in Chapel Hill, North Carolina (Mar 14-15, 2008) 
+
+  Seminar at Cincinnati Children's Hospital (Apr 24-25, 2008)
+
+  <a href="http://www.birs.ca/birspages.php?task=displayevent&event_id=08w5062">Emerging Statistical Challenges in Genome and Translational Research</a>, Banff, Canada (June 1-6, 2008)
+
+  <a href="http://courses.jax.org/2008/systemgenetics08.html">Systems Genetics course</a> at The Jackson Laboratory, Bar Harbor, Maine (Sep 23-29, 2008)
+
+  <a href="http://www-app.igb.uiuc.edu/bioinformatics/index.html">Midwest Symposium on Bioinformatics and Computational Biology</a>, Oct 4, 2008 (Champaign, IL)
+
+  GCAT Study Section, Oct 6-7, 2008 (San Francisco, CA)
+
+  Groningen and Oxford, Jan 17-24, 2009
+
+  GCAT Study Section, Feb 3-4, 2009 (Washington, DC)
+
+  GCAT Study Section, Jun 4-5, 2009 (Washington, DC)
+
+  GCAT Study Section, Oct 14-15, 2009 (Seattle)
+
+  <a href="http://courses.jax.org/2009/systemgenetics09.html">Systems Genetics course</a> at The Jackson Lab, Oct 19-25, 2009 (Bar Harbor)
+
+  <a href="http://www.genetics.ucla.edu/">Human Genetics</a>, <a href="http://www.ucla.edu">UCLA</a>, Nov 23, 2009
+       
+  JAX CGD retreat, Jan 14-16, 2010 (Bar Harbor)
+
+  GCAT Study Section, Feb 2-4, 2010 (Washington, DC)
+
+  Seminar at UNC, Feb 11-13, 2010 (Chapel Hill, NC)
+
+  Seminar at Vanderbilt, Mar 8-9, 2010 (Nashville, TN)
+
+  Seminar at Michigan State, Apr 1-3, 2010 (Lansing, MI)
+
+  <a href="http://www.ctc2010.org/">9th CTC meeting</a>, May 7-10, 2010 (Chicago)
+
+  <a href="http://jay.up.poznan.pl/qtlmas2010/">MAS-QTL Workshop</a> and visit to Worclaw, May 17-18, 2010 (Poland)
+
+  GCAT Study Section, Jun 2-3, 2010 (Chicago)
+
+  <a href="http://www.cidr.jhmi.edu/cac.html">CIDR Access Committee</a>, Sept 7-8, 2010 (Washington, DC)
+
+  <a href="http://courses.jax.org/2010/systemgenetics10.html">Systems Genetics course</a> at The Jackson Lab, Sep 19-25, 2010 (Bar Harbor)
+
+  CGD meeting at The Jackson Lab, Jan 19-21, 2011 (Bar Harbor)
+
+  Seminar in <a href="http://www.mailman.columbia.edu/academic-departments/biostatistics">Biostatistics</a> at <a href="http://www.columbia.edu">Columbia University</a>, Jan 26-28, 2011 (New York, NY)
+
+  <a href="http://www.bio-complexity.com/QUB11/QB_ConfIndex.html">Quantitative Biology and Bioinformatics in Modern Medicine</a>, Feb 7-8, 2011 (Dublin, Ireland)
+
+  <a href="http://cgd.jax.org/events/systemsgeneticsresources.shtml">Systems Genetics Resources Workshop</a>, May 12-13, 2011 (Chapel Hill, NC)
+
+  <a href="http://www.ctc2010.org/">Mouse Genetics meeting</a>, Jun 22-26, 2011 (Washington, DC)
+
+  <a href="http://www.warwick.ac.uk/statsdept/useR-2011/">UseR! Meeting</a>, Aug 16-18, 2011 (Coventry, UK)
+
+  <a href="http://www.rug.nl/informatica/index">Groningen</a>, The Netherlands, Sept 6-11, 2011)
+
+  <a href="http://statistics.gmu.edu/">Statistics</a>, <a href="http://www.gmu.edu">George Mason University</a>, Sept 22-23, 2011 (near Washington, DC)
+
+  <a href="http://courses.jax.org/2011/systems-genetics.html">Systems Genetics course</a> at The Jackson Lab, Oct 2-9, 2011 (Bar Harbor)
+
+  <a href="http://www.biostat.washington.edu/">Department of Biostatistics</a>, <a href="http://www.washington.edu">U Washington, Seattle</a>, Nov 16-18, 2011
+
+  <a href="http://www.cidr.jhmi.edu/cac.html">CIDR Access Committee</a>, Jan 12-13, 2012 (Washington, DC)
+
+  JAX CGD retreat, Jan 20, 2012 (Bar Harbor)
+
+  <a href="http://www.enar.org/meetings.cfm">ENAR 2012 meeting</a>, Apr 1-4, 2012 (Washington, DC)
+
+  <a href="http://www.pasteur.fr/ip/easysite/pasteur/en/research/scientific-departments/developmental-biology/units-and-groups/mouse-functional-genetics/ctc2012">CTC Meeting</a>, June 12-15, 2012 (Paris)
+
+  <a href="http://www.euratrans.eu/">Euratrans</a> meeting, June 3-5, 2012 (Tutzing, Germany)
+
+  CGD Advisory Board, Jackson Lab, Aug 15, 2012 (Bar Harbor)
+
+  <a href="http://courses.jax.org/2012/systems-genetics.html">Systems Genetics course</a> at The Jackson Lab, Oct 28-Nov 4, 2012 (Bar Harbor)
+
+  QTL course, <a href="http://www.icrisat.org">ICRISAT</a>, Dec 3-5, 2012 (Hyderabad, Andhra Pradesh, India)
+
+  JAX CGD retreat, Jan 17, 2013 (North Carolina)
+
+  <a href="http://www.enar.org/meetings.cfm">ENAR</a>, Mar 10-13, 2013 (Orlando, Florida)
+
+  Plant breeding and genetics meeting, <a href="http://www.agronomy.ksu.edu/p.aspx?tabid=223">Kansas State Univ</a>, Apr 2, 2013 (Manhattan, KS)
+
+  <a href="http://mus.well.ox.ac.uk/19genomes/MAGIC-WORKSHOP/">MAGIC workshop</a>, June 12-13, 2013 (Cambridge, UK)
+
+  CGD Advisory Board, Jackson Lab, June 25, 2013 (Bar Harbor)</li>
+
+  <a href="http://courses.jax.org/2013/systems-genetics.html">Systems Genetics course</a> at The Jackson Lab, Sep 8-14, 2013 (Bar Harbor)</li>
+
+  <a href="http://www.cidr.jhmi.edu/cac.html">CIDR Access Committee</a>, Sep 12, 2013 (Washington, DC)</li>
+
+  <a href="http://wssspe.researchcomputing.org.uk/cfp/">Workshop on sustainable software</a>, Nov 17, 2013 (Denver, CO)</li>
+
+  JAX CGD retreat, Jan 21, 2014 (North Carolina)</li>
+
+  <a href="http://www.danforthcenter.org/">Donald Danforth Plant Science Center</a>, Feb 18-20, 2014 (St. Louis)</li>
+
+  <a href="http://enar.org/meetings.cfm">ENAR</a>, Mar 16-19, 2014 (Baltimore)</li>
+
+  <a href="http://www.ctc2014.org/">Complex Trait Community meeting</a>, May 19-22, 2014 (Berlin, Germany)</li>
+
+  <a href="http://user2014.stat.ucla.edu/">2014 UseR conference</a>, June 30 - July 3, 2014 (Los Angeles, CA)</li>
+
+  <a href="http://biovis.net">4th Symposium on Biological Data Visualization</a>, July 11-12, 2014 (Boston, MA)</li>
+-->
+
+- [CIDR Access Committee](http://www.cidr.jhmi.edu/cac.html), Sep 12, 2014 (Baltimore)
+- [Systems Genetics course](http://courses.jax.org/2014/systems-genetics.html), 
+  The Jackson Lab, Sep 27-Oct 3, 2014 (Bar Harbor, ME)
+- [AAAS meeting](http://meetings.aaas.org/), Feb 12-16, 2015 (San Diego, CA)
