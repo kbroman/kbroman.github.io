@@ -48,8 +48,12 @@ Karl Broman<br>
 Madison, Wisconsin 53706<br>
 USA
 
-Email: `kbroman` at `biostat` dot `wisc` dot `edu`<br>
-Phone: 608-262-4633<br>
+<div id="hide_email">
+Email: <code>kbro</code><b>cat</b><code>man</code><b>&nbsp;</b><code>@</code><b>&nbsp;</b><code>bio</code><b>another
+cat</b><code>stat</code><b>&nbsp;</b><code>.</code><b>&nbsp;</b><code>wi</code><b>blah blah
+blah</b><code>sc</code><b>&nbsp;</b><code>.</code><b>&nbsp;</b><code>e</code><b>.com</b><code>du</code><br> 
+Phone: 608-262-4633
+</div>
 
 ---
 

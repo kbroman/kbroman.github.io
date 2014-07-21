@@ -30,3 +30,7 @@ td.left {
 td.right {
     text-align: right;
 }
+
+#hide_email b {
+    display: none;
+}
