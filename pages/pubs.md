@@ -578,7 +578,7 @@ exstrophy-epispadias complex: Analysis of 232 families.  [BJU
 International](http://www.blackwellpublishing.com/BJU) 94:1337-1343
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/15610117)
 [![pdf (168k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/bladder_exstrophy.pdf)
-<br>
+<br/>
 **Note**: The publisher
 requires that I make the following statement: &ldquo;This is an electronic
 version of an article published in BJU International: complete
@@ -769,7 +769,7 @@ statistical methods for QTL mapping in experimental crosses.
 [Lab
 Animal](http://www.labanimal.com/) 30(7):44-52
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/11469113) [![pdf (836k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/labanimal.pdf)
-<br>
+<br/>
 **Note**: The publisher
 requires that I make the following statement: &ldquo;The paper can only be
 downloaded for personal study use and cannot be copied for commercial

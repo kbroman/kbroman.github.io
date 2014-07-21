@@ -40,18 +40,18 @@ his [D3 page](http://www.biostat.wisc.edu/~kbroman/D3).
 
 #### Contact
 
-Karl Broman<br>
-[Department of Biostatistics &amp;  Medical Informatics](http://www.bisotat.wisc.edu)<br>
-[University of Wisconsin&ndash;Madison](http://www.wisc.edu)<br>
-[2126 Genetics/Biotechnology Center](http://map.wisc.edu/s/2tie3nen)<br>
-425 Henry Mall<br>
-Madison, Wisconsin 53706<br>
+Karl Broman<br/>
+[Department of Biostatistics &amp;  Medical Informatics](http://www.bisotat.wisc.edu)<br/>
+[University of Wisconsin&ndash;Madison](http://www.wisc.edu)<br/>
+[2126 Genetics/Biotechnology Center](http://map.wisc.edu/s/2tie3nen)<br/>
+425 Henry Mall<br/>
+Madison, Wisconsin 53706<br/>
 USA
 
 <div id="hide_email">
 Email: <code>kbro</code><b>I</b><code>man</code><b>don't</b><code>@</code><b>want</b><code>bio</code><b>spam!
 </b><code>stat</code><b>So</b><code>.</code><b>please</b><code>wi</code><b>leave
-</b><code>sc</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br> 
+</b><code>sc</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/> 
 Phone: 608-262-4633
 </div>
 

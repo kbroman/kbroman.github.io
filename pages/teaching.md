@@ -157,7 +157,7 @@ Sep 18-24, 2002
 
 #### My experiences in statistical consulting
 
-Statistical Consulting course, [Department of Statistics](http://www.stat.wisc.edu), [UW&ndash;Madison](http://www.wisc.edu) <br>
+Statistical Consulting course, [Department of Statistics](http://www.stat.wisc.edu), [UW&ndash;Madison](http://www.wisc.edu) <br/>
 
 - [Slides (pdf)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/consulting.pdf) [[source on github](http://github.com/kbroman/Talk_StatConsulting.git)]
 - [Related blog post](http://kbroman.wordpress.com/2013/04/02/thoughts-on-statistical-consulting/)
@@ -165,11 +165,11 @@ Statistical Consulting course, [Department of Statistics](http://www.stat.wisc.e
 
 ---
 
-#### [Experimental design, basic statistics, and sample size determination for animal-based research](http://oac.med.jhmi.edu/humane_site/topics/12A.html)<br>
+#### [Experimental design, basic statistics, and sample size determination for animal-based research](http://oac.med.jhmi.edu/humane_site/topics/12A.html)<br/>
 
-[Enhancing Humane Science/Improving Animal Research course](http://oac.med.jhmi.edu/humane_site/index.html) <br>
+[Enhancing Humane Science/Improving Animal Research course](http://oac.med.jhmi.edu/humane_site/index.html) <br/>
 [Center for Alternatives
-to Animal Testing](http://caat.jhsph.edu), Johns Hopkins University<br>
+to Animal Testing](http://caat.jhsph.edu), Johns Hopkins University<br/>
 
 -  Presentation: \[[ppt (1.2M)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/humanesci.ppt)\]
 -  Handout:
@@ -180,12 +180,12 @@ to Animal Testing](http://caat.jhsph.edu), Johns Hopkins University<br>
 
 #### Recombination and linkage
 
-NS 881  ([Dale Schoeller](http://www.nutrisci.wisc.edu/FACULTYPAGES/f_schoeller.html)) <br>
-[Department of Nutritional Sciences](http://www.nutrisci.wisc.edu/), [University of Wisconsin - Madison](http://www.wisc.edu)<br>
+NS 881  ([Dale Schoeller](http://www.nutrisci.wisc.edu/FACULTYPAGES/f_schoeller.html)) <br/>
+[Department of Nutritional Sciences](http://www.nutrisci.wisc.edu/), [University of Wisconsin - Madison](http://www.wisc.edu)<br/>
 20 Feb 2008:  \[ [ppt (2.2M)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/NutritionCourse/nutrition_course_2008-02.ppt) | [pdf (1.1M)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/NutritionCourse/nutrition_handout.pdf) \]
 
-PHS 904 Genetic Epidemiology ([Engelman](http://www.pophealth.wisc.edu/faculty/cengelman.html)) <br>
-[Population Health Sciences](http://www.pophealth.wisc.edu/), [University of Wisconsin - Madison](http://www.wisc.edu)<br>
+PHS 904 Genetic Epidemiology ([Engelman](http://www.pophealth.wisc.edu/faculty/cengelman.html)) <br/>
+[Population Health Sciences](http://www.pophealth.wisc.edu/), [University of Wisconsin - Madison](http://www.wisc.edu)<br/>
 24 Jan 2008:  \[ [ppt (3.8M)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/corinne/corinne_course_2008-01.ppt) | [pdf (1.3M)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Corinne/corinne_course_2008-01_handout.pdf) \]
 
 
@@ -193,15 +193,15 @@ PHS 904 Genetic Epidemiology ([Engelman](http://www.pophealth.wisc.edu/faculty/c
 
 #### Identifying QTLs in experimental crosses
 
-Advanced Topics in Human Genetics (Reeves and Feinberg)<br>
-Human Genetics, Johns Hopkins School of Medicine <br>
-9  Apr 2007:  [pdf (2.2M)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/quantGenet/qtlhandout07.pdf)<br>
-27 Feb 2006:  [pdf (461k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/quantGenet/quantGenet4.pdf)<br>
-28 Feb 2005:  [pdf (461k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/quantGenet/quantGenet4.pdf)<br>
-25 Feb 2004:  [pdf (461k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/quantGenet/quantGenet4.pdf)<br>
-27 Feb 2003:  [pdf (475k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/quantGenet/quantGenet3.pdf)<br>
-12 Feb 2002:  [pdf (750k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/quantGenet/quantGenet2.pdf)<br>
-16 Feb 2001:  [pdf (587k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/quantGenet/quantGenet.pdf)<br>
+Advanced Topics in Human Genetics (Reeves and Feinberg)<br/>
+Human Genetics, Johns Hopkins School of Medicine <br/>
+9  Apr 2007:  [pdf (2.2M)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/quantGenet/qtlhandout07.pdf)<br/>
+27 Feb 2006:  [pdf (461k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/quantGenet/quantGenet4.pdf)<br/>
+28 Feb 2005:  [pdf (461k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/quantGenet/quantGenet4.pdf)<br/>
+25 Feb 2004:  [pdf (461k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/quantGenet/quantGenet4.pdf)<br/>
+27 Feb 2003:  [pdf (475k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/quantGenet/quantGenet3.pdf)<br/>
+12 Feb 2002:  [pdf (750k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/quantGenet/quantGenet2.pdf)<br/>
+16 Feb 2001:  [pdf (587k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/quantGenet/quantGenet.pdf)<br/>
 18 Feb 2000:  [pdf (587k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/quantGenet/quantGenet.pdf)
     
 
@@ -226,7 +226,7 @@ Lund, Sweden (Jan 8-12, 2007)
 #### [Summer Institute in Statistical Genetics](http://www.biostat.wisc.edu/~kbroman/teaching/misc/http://www.biostat.washington.edu/sisg06/), QTL Mapping II module
 
 (formerly at NC State University, now held at the University of
-Washington, Seattle) <br>
+Washington, Seattle) <br/>
 
 Summer, 2006
 
@@ -278,25 +278,25 @@ Summer, 2002
 
 #### [Hopkins Biostatistics Student Computing Club](http://www.biostat.jhsph.edu/bit/compintro/)
 
-Mathematica<br>
+Mathematica<br/>
 27 Apr 2007: \[[pdf (70k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/ComputingClub/mathematica.pdf) | [b/w pdf (77k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/ComputingClub/mathematica_handout.pdf) |
     [Code](http://www.biostat.wisc.edu/~kbroman/teaching/misc/ComputingClub/math_input.txt)\]
 
-How to build a web page<br>
-8 Dec 2006: \[[ppt (1.0M)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/ComputingClub/html06.ppt) | [pdf (618k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/ComputingClub/html06_handout.pdf)\]<br>
-11 Nov 2005: \[[ppt (1.1M)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/ComputingClub/html05.ppt) | [pdf (618k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/ComputingClub/html05_handout.pdf)\]<br>
+How to build a web page<br/>
+8 Dec 2006: \[[ppt (1.0M)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/ComputingClub/html06.ppt) | [pdf (618k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/ComputingClub/html06_handout.pdf)\]<br/>
+11 Nov 2005: \[[ppt (1.1M)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/ComputingClub/html05.ppt) | [pdf (618k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/ComputingClub/html05_handout.pdf)\]<br/>
 
 
 ---
 
 #### Perl for human linkage analysis
 
-[Biocomputing I: Perl for bioinformatics](http://www.pinedalab.jhsph.edu/Teaching/PerlForBioinformatics) (Pineda)<br>
-[Biostatistics](http://www.biostat.jhsph.edu), [Johns Hopkins Bloomberg School of Public Health](http://www.jhsph.edu)<br>
-26 Oct 2005:  [pdf (42k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/perl4linkage_ho.pdf)<br>
- 6 Dec 2004:  [pdf (42k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/perl4linkage_ho.pdf)<br>
-24 Oct 2003:  [pdf (42k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/perl4linkage_handout.pdf)<br>
-14 May 2003:  [pdf (42k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/perl4linkage_handout.pdf)<br>
+[Biocomputing I: Perl for bioinformatics](http://www.pinedalab.jhsph.edu/Teaching/PerlForBioinformatics) (Pineda)<br/>
+[Biostatistics](http://www.biostat.jhsph.edu), [Johns Hopkins Bloomberg School of Public Health](http://www.jhsph.edu)<br/>
+26 Oct 2005:  [pdf (42k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/perl4linkage_ho.pdf)<br/>
+ 6 Dec 2004:  [pdf (42k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/perl4linkage_ho.pdf)<br/>
+24 Oct 2003:  [pdf (42k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/perl4linkage_handout.pdf)<br/>
+14 May 2003:  [pdf (42k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/perl4linkage_handout.pdf)<br/>
 
 
 
