@@ -331,7 +331,7 @@ Paigen K, Szatkiewicz JP, Sawyer K, Leahy N, Parvanov ED, Ng SH, Graber JH, **Br
 
 Bjornsson HT, Albert TJ, Ladd-Acosta CM, Green RD, Rongione MA,
 Middle CM, Irizarry RA, **Broman KW**, Feinberg AP (2008)  SNP-specific array-based allele-specific expression analysis.  [Genome Res](http://www.genome.org/) 18:771-779
-[![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/18369178) [![pdf (1.4M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/bjornsson.pdf) [![Supplementary material](icons16/supp-icon.png)](http://genome.cshlp.org/cgi/content/full/gr.073254.107/DC1) [data](http://www.biostat.wisc.edu/~kbroman/data/index.html#feinbergase)
+[![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/18369178) [![pdf (1.4M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/bjornsson.pdf) [![Supplementary material](icons16/supp-icon.png)](http://genome.cshlp.org/cgi/content/full/gr.073254.107/DC1) [![data](icons16/data-icon.png)](http://www.biostat.wisc.edu/~kbroman/data/index.html#feinbergase)
 <!-- * 78 * -->
 
 
