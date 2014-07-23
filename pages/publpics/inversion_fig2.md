@@ -19,7 +19,7 @@ Speed](http://www.imstat.org/publications/lecnotes.htm).  IMS Lecture Notes-Mono
 [![Abstract](../icons16/pubmed-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/inver_abstract.html)
 [![pdf (139k)](../icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/inversion.pdf)
 
-![Broman et al. (2003) Fig 2](../../assets/bigpubpics/inversion_fig2_lg.png)
+![Broman et al. (2003) Fig 2](../../assets/bigpublpics/inversion_fig2_lg.png)
 
 **Figure 2**. &mdash; Metaphase FISH results from CEPH family individuals
 (lymphoblastoid cell lines) and other individuals (peripheral blood

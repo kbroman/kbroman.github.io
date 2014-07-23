@@ -19,7 +19,7 @@ onto a phylogenetic tree.  Genetics 192:267-279
 [![pdf (1.9M)](../icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/phyloqtl.pdf)
 [![source on github](../icons16/github-icon.png)](https://github.com/kbroman/phyloQTLpaper)
 
-![Broman et al. (2012) Fig 6](../../assets/bigpubpics/phyloqtl_fig6_lg.png)
+![Broman et al. (2012) Fig 6](../../assets/bigpublpics/phyloqtl_fig6_lg.png)
 
 **Figure 6**. &mdash; Analysis results for selected chromosomes for the data
 from [Li et al. (2005)](http://www.ncbi.nlm.nih.gov/pubmed/15654110): LOD curves for individual crosses (left), LOD

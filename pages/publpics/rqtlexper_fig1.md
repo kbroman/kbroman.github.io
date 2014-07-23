@@ -18,7 +18,7 @@ barely sustainable. J Open Res Softw
 [![Abstract](../icons16/pubmed-icon.png)](http://openresearchsoftware.metajnl.com/article/view/jors.at/43)
 [![pdf (948k)](../icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/rqtl_14yrs.pdf)
 
-![Broman (2014) Fig 1](../../assets/bigpubpics/rqtlexper_fig1_lg.png)
+![Broman (2014) Fig 1](../../assets/bigpublpics/rqtlexper_fig1_lg.png)
 
 **Figure 1**. &mdash; Typical analysis results from R/qtl. A: LOD curves across
 the genome, measuring association between phenotype and genotype,

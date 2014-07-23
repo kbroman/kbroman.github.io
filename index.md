@@ -17,25 +17,25 @@ title: Karl Broman
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="pages/pubpics/iplotCorr.html">
-        <img src="assets/pubpics/iplotCorr.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+    <a href="pages/publpics/iplotCorr.html">
+        <img src="assets/publpics/iplotCorr.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
     </a>
   </td>
   <td class="right">
-    <a href="pages/pubpics/rqtlexper_fig2.html">
-        <img src="assets/pubpics/rqtlexper_fig2.png" alt="Broman (2014) Fig 2" title="Broman (2014) Fig 2"/>
+    <a href="pages/publpics/rqtlexper_fig2.html">
+        <img src="assets/publpics/rqtlexper_fig2.png" alt="Broman (2014) Fig 2" title="Broman (2014) Fig 2"/>
     </a>
   </td>
 </tr>
 <tr>
   <td class="left">
-    <a href="pages/pubpics/samplemixups_fig7.html">
-        <img src="assets/pubpics/samplemixups_fig7.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
+    <a href="pages/publpics/samplemixups_fig7.html">
+        <img src="assets/publpics/samplemixups_fig7.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
     </a>
   </td>
   <td class="right">
     <a href="http://www.rqtl.org/book">
-        <img src="assets/pubpics/rqtlbook_cover_sm.jpg" alt="Broman and Sen (2009) cover" title="Broman and Sen (2009) cover"/>
+        <img src="assets/publpics/rqtlbook_cover_sm.jpg" alt="Broman and Sen (2009) cover" title="Broman and Sen (2009) cover"/>
     </a>
   </td>
 </tr>

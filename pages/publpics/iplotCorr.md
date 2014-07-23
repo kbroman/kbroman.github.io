@@ -15,7 +15,7 @@ title: R/qtlcharts example
 [R/qtlcharts](http://kbroman.org/qtlcharts), an R package to create
 interactive data visualizations for QTL data
 
-[![R/qtlcharts example](../../assets/bigpubpics/iplotCorr.png)](http://kbroman.org/qtlcharts/example/iplotCorr.html)
+[![R/qtlcharts example](../../assets/bigpublpics/iplotCorr.png)](http://kbroman.org/qtlcharts/example/iplotCorr.html)
 
 **Figure**. &mdash; Static view of an [interactive graph](http://kbroman.org/qtlcharts/example/iplotCorr.html)
 from [R/qtlcharts](http://kbroman.org/qtlcharts). The left panel is a heatmap of a correlation

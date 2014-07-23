@@ -19,7 +19,7 @@ onto a phylogenetic tree.  Genetics 192:267-279
 [![pdf (1.9M)](../icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/phyloqtl.pdf)
 [![source on github](../icons16/github-icon.png)](https://github.com/kbroman/phyloQTLpaper)
 
-![Broman et al. (2012) Fig 2](../../assets/bigpubpics/phyloqtl_fig2_lg.png)
+![Broman et al. (2012) Fig 2](../../assets/bigpublpics/phyloqtl_fig2_lg.png)
 
 **Figure 2**. &mdash; A phylogenetic tree with six taxa (A) and three possible
 choices of five crosses among the six taxa, with nodes denoting taxa

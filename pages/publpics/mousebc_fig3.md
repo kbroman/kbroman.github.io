@@ -18,7 +18,7 @@ Broman KW, et al.
 [![PubMed](../icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/11901128)
 [![pdf (165k)](../icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/mousebc.pdf)
 
-![Broman et al. (2002) Fig 3](../../assets/bigpubpics/mousebc_fig3_lg.png)
+![Broman et al. (2002) Fig 3](../../assets/bigpublpics/mousebc_fig3_lg.png)
 
 **Figure 3**. &mdash; Crossover locations for all chromosomes.  Each square
 represents a chromosome, with the centromere at the top and left and

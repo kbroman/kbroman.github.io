@@ -17,71 +17,74 @@ title: Karl Broman
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="pages/pubpics/geneticmaps_fig3.html">
-        <img src="assets/pubpics/rqtlexper_fig1.png" alt="Broman (2014) Fig 1" title="Broman (2014) Fig 1"/>
+    <a href="pages/publpics/rqtlexper_fig1.html">
+        <img src="assets/publpics/rqtlexper_fig1.png" alt="Broman (2014) Fig 1" title="Broman (2014) Fig 1"/>
     </a>
   </td>
   <td class="right">
-        <img src="assets/pubpics/geneticmaps_fig3a.png" alt="Broman et al. (1998) Fig 3a" title="Broman et al. (1998) Fig 3a"/>
-  </td>
-</tr>
-<tr>
-  <td class="left">
-    <a href="pages/pubpics/phyloqtl_fig6.html">
-        <img src="assets/pubpics/phyloqtl_fig6.png" alt="Broman et al. (2012) Fig 6" title="Broman et al. (2012) Fig 6"/>
-    </a>
-  </td>
-  <td class="right">
-    <a href="pages/pubpics/phyloqtl_fig2.html">
-        <img src="assets/pubpics/phyloqtl_fig2.png" alt="Broman et al. (2012) Fig 2" title="Broman et al. (2012) Fig 2"/>
+    <a href="pages/publpics/geneticmaps_fig3.html">
+        <img src="assets/publpics/geneticmaps_fig3a.png" alt="Broman et al. (1998) Fig 3a" title="Broman et al. (1998
+) Fig 3a"/>
     </a>
   </td>
 </tr>
 <tr>
   <td class="left">
-    <a href="pages/pubpics/rigenome_fig2.html">
-        <img src="assets/pubpics/rigenome_fig2.png" alt="Broman (2005) Fig 2" title="Broman (2005) Fig 2"/>
+    <a href="pages/publpics/phyloqtl_fig6.html">
+        <img src="assets/publpics/phyloqtl_fig6.png" alt="Broman et al. (2012) Fig 6" title="Broman et al. (2012) Fig 6"/>
     </a>
   </td>
   <td class="right">
-    <a href="pages/pubpics/rigenome_fig6.html">
-        <img src="assets/pubpics/rigenome_fig6.png" alt="Broman (2005) Fig 6" title="Broman (2005) Fig 6"/>
+    <a href="pages/publpics/phyloqtl_fig2.html">
+        <img src="assets/publpics/phyloqtl_fig2.png" alt="Broman et al. (2012) Fig 2" title="Broman et al. (2012) Fig 2"/>
     </a>
   </td>
 </tr>
 <tr>
   <td class="left">
-    <a href="pages/pubpics/inversion_fig1.html">
-        <img src="assets/pubpics/inversion_fig1.png" alt="Broman et al. (2003) Fig 1" title="Broman et al. (2003) Fig 1"/>
+    <a href="pages/publpics/rigenome_fig2.html">
+        <img src="assets/publpics/rigenome_fig2.png" alt="Broman (2005) Fig 2" title="Broman (2005) Fig 2"/>
     </a>
   </td>
   <td class="right">
-    <a href="pages/pubpics/preCCprob_tabS13.html">
-        <img src="assets/pubpics/preCCprob_tabS13.png" alt="Broman (2012) Table S13" title="Broman (2012) Table S13"/>
+    <a href="pages/publpics/rigenome_fig6.html">
+        <img src="assets/publpics/rigenome_fig6.png" alt="Broman (2005) Fig 6" title="Broman (2005) Fig 6"/>
     </a>
   </td>
 </tr>
 <tr>
   <td class="left">
-    <a href="pages/pubpics/inversion_fig2.html">
-        <img src="assets/pubpics/inversion_fig2.png" alt="Broman et al. (2003) Fig 2" title="Broman et al. (2003) Fig 2"/>
+    <a href="pages/publpics/inversion_fig1.html">
+        <img src="assets/publpics/inversion_fig1.png" alt="Broman et al. (2003) Fig 1" title="Broman et al. (2003) Fig 1"/>
     </a>
   </td>
   <td class="right">
-    <a href="pages/pubpics/interfer_fig1.html">
-        <img src="assets/pubpics/interfer_fig1.png" alt="Broman and Weber (2000) Fig 1" title="Broman and Weber (2000) Fig 1"/>
+    <a href="pages/publpics/preCCprob_tabS13.html">
+        <img src="assets/publpics/preCCprob_tabS13.png" alt="Broman (2012) Table S13" title="Broman (2012) Table S13"/>
     </a>
   </td>
 </tr>
 <tr>
   <td class="left">
-    <a href="pages/pubpics/xchr_fig2.html">
-        <img src="assets/pubpics/xchr_fig2c.png" alt="Broman et al. (2006) Fig 2c" title="Broman et al. (2006) Fig 2c"/>
+    <a href="pages/publpics/inversion_fig2.html">
+        <img src="assets/publpics/inversion_fig2.png" alt="Broman et al. (2003) Fig 2" title="Broman et al. (2003) Fig 2"/>
     </a>
   </td>
   <td class="right">
-    <a href="pages/pubpics/mousebc_fig3.html">
-        <img src="assets/pubpics/mousebc_fig3.png" alt="Broman et al. (2002) Fig 3" title="Broman et al. (2002) Fig 3"/>
+    <a href="pages/publpics/interfer_fig1.html">
+        <img src="assets/publpics/interfer_fig1.png" alt="Broman and Weber (2000) Fig 1" title="Broman and Weber (2000) Fig 1"/>
+    </a>
+  </td>
+</tr>
+<tr>
+  <td class="left">
+    <a href="pages/publpics/xchr_fig2.html">
+        <img src="assets/publpics/xchr_fig2c.png" alt="Broman et al. (2006) Fig 2c" title="Broman et al. (2006) Fig 2c"/>
+    </a>
+  </td>
+  <td class="right">
+    <a href="pages/publpics/mousebc_fig3.html">
+        <img src="assets/publpics/mousebc_fig3.png" alt="Broman et al. (2002) Fig 3" title="Broman et al. (2002) Fig 3"/>
     </a>
   </td>
 </tr>

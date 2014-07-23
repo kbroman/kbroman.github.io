@@ -19,7 +19,7 @@ Speed](http://www.imstat.org/publications/lecnotes.htm).  IMS Lecture Notes-Mono
 [![Abstract](../icons16/pubmed-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/inver_abstract.html)
 [![pdf (139k)](../icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/inversion.pdf)
 
-![Broman et al. (2003) Fig 1](../../assets/bigpubpics/inversion_fig1_lg.png)
+![Broman et al. (2003) Fig 1](../../assets/bigpublpics/inversion_fig1_lg.png)
 
 **Figure 1**. &mdash; Maternal haplotypes for a small portion of chromosome 8p
 for six CEPH family children (identified by

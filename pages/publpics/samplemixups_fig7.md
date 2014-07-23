@@ -18,7 +18,7 @@ genetic data: A case study. arXiv:1402.2633
 [![Abstract](../icons16/pubmed-icon.png)](http://arxiv.org/abs/1402.2633)
 [![pdf (2.8M)](../icons16/pdf-icon.png)](http://arxiv.org/pdf/1402.2633v1.pdf)
 
-![Broman et al. (2014) Fig 7](../../assets/bigpubpics/samplemixups_fig7_lg.png)
+![Broman et al. (2014) Fig 7](../../assets/bigpublpics/samplemixups_fig7_lg.png)
 
 **Figure 7**. &mdash; The DNA sample mix-ups on the seven 96-well plates used
 for genotyping. Black dots indicate that the correct DNA was put in
