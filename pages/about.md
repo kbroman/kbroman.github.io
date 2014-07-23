@@ -31,7 +31,7 @@ _quantitative trait locus_ &ndash; a genetic locus that influences a
 quantitative trait. Recently he has been focusing on the development
 of interactive data visualizations for high-dimensional genetic data;
 see his [R/qtlcharts package](http://kbroman.org/qtlcharts) and
-his [D3 page](http://www.biostat.wisc.edu/~kbroman/D3).
+his [D3 examples](http://www.biostat.wisc.edu/~kbroman/D3).
 
 [**Curriculum vitae** ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/broman.pdf)
 
