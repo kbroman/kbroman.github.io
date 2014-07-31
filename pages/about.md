@@ -40,21 +40,33 @@ his [D3 examples](http://www.biostat.wisc.edu/~kbroman/D3).
 
 #### Contact
 
-Karl Broman<br/>
-[Department of Biostatistics &amp;  Medical Informatics](http://www.bisotat.wisc.edu)<br/>
-[University of Wisconsin&ndash;Madison](http://www.wisc.edu)<br/>
-[2126 Genetics/Biotechnology Center](http://map.wisc.edu/s/2tie3nen)<br/>
-425 Henry Mall<br/>
-Madison, Wisconsin 53706<br/>
-USA
+<table class="wide">
+<tr>
+    <td class="left" style="vertical-align:top;">
+        Karl Broman<br/>
+        <a href="http://www.bisotat.wisc.edu">Department of Biostatistics &amp;  Medical Informatics</a><br/>
+        <a href="http://www.wisc.edu">University of Wisconsin&ndash;Madison</a><br/>
+        <a href="http://map.wisc.edu/s/2tie3nen">2126 Genetics/Biotechnology Center</a><br/>
+        425 Henry Mall<br/>
+        Madison, Wisconsin 53706<br/>
+        USA<br/><br/>
 
-<div id="hide_email">
-Email: <code>kbro</code><b>I</b><code>man</code><b>don't</b><code>@</code><b>want</b><code>bio</code><b>spam!
-</b><code>stat</code><b>So</b><code>.</code><b>please</b><code>wi</code><b>leave
-</b><code>sc</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/> 
-Phone: 608-262-4633
-</div>
+        <div id="hide_email">
+        Email: <code>kbro</code><b>I</b><code>man</code><b>don't</b><code>@</code><b>want</b><code>bio</code><b>spam!
+        </b><code>stat</code><b>So</b><code>.</code><b>please</b><code>wi</code><b>leave
+        </b><code>sc</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/> 
+        Phone: 608-262-4633
+        </div>
+    </td>
+
+    <td class="right" style="vertical-align:top;">
+        <a href="../assets/pics/karl_2014-03-30_crop.jpg">
+            <img style="position: relative; top: -50px;" 
+                  src="../assets/pics/karl_2014-03-30_smcrop.jpg" 
+                  title="Karl Broman" alt="Karl Broman"/></a>
+    </td>
+</tr>
+
+</table>
 
 ---
-
-[![Karl Broman](../assets/pics/karl_2014-03-30_smcrop.jpg)](../assets/pics/karl_2014-03-30_crop.jpg)
