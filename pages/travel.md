@@ -186,7 +186,10 @@ title: Travel
   <a href="http://biovis.net">4th Symposium on Biological Data Visualization</a>, July 11-12, 2014 (Boston, MA)</li>
 -->
 
-- [CIDR Access Committee](http://www.cidr.jhmi.edu/cac.html), Sep 12, 2014 (Baltimore)
+- [Washington State University](http://www.wsu.edu), Aug 4-7, 2014
+  (Pullman, WA)
+- [CIDR Access Committee](http://www.cidr.jhmi.edu/cac.html), Sep 12,
+  2014 (Baltimore, MD)
 - [Systems Genetics course](http://courses.jax.org/2014/systems-genetics.html), 
   The Jackson Lab, Sep 27-Oct 3, 2014 (Bar Harbor, ME)
 - [AAAS meeting](http://meetings.aaas.org/), Feb 12-16, 2015 (San Diego, CA)
