@@ -188,7 +188,7 @@ title: Travel
 
 - [Washington State University](http://www.wsu.edu), Aug 4-7, 2014
   (Pullman, WA)
-- [CIDR Access Committee](http://www.cidr.jhmi.edu/cac.html), Sep 12,
+- [CIDR Access Committee](http://www.cidr.jhmi.edu/about/history.html), Sep 12,
   2014 (Baltimore, MD)
 - [Systems Genetics course](http://courses.jax.org/2014/systems-genetics.html), 
   The Jackson Lab, Sep 27-Oct 3, 2014 (Bar Harbor, ME)
