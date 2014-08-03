@@ -1,6 +1,6 @@
-## Karl Broman&rsquo;s new website
+## Karl Broman&rsquo;s website
 
-See [kbroman.org](http://kbroman.org)
+See [kbroman.org](http://kbroman.org).
 
 ---
 
