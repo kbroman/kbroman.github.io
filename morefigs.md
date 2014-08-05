@@ -23,8 +23,7 @@ title: Karl Broman
   </td>
   <td class="right">
     <a href="pages/publpics/geneticmaps_fig3.html">
-        <img src="assets/publpics/geneticmaps_fig3a.png" alt="Broman et al. (1998) Fig 3a" title="Broman et al. (1998
-) Fig 3a"/>
+        <img src="assets/publpics/geneticmaps_fig3a.png" alt="Broman et al. (1998) Fig 3a" title="Broman et al. (1998) Fig 3a"/>
     </a>
   </td>
 </tr>
