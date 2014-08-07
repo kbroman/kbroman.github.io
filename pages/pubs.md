@@ -31,25 +31,25 @@ title: Publications
 
 #### To appear
 
-Kwak I-Y, Moore CR, Spalding EP, **Broman
-  KW**. A simple regression-based method to map quantitative trait loci underlying
-  function-valued phenotypes. [Genetics](http://www.genetics.org), to appear
-[![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/24931408) [![pdf (1.2M)](icons16/pdf-icon.png)](http://arxiv.org/pdf/1403.3048v2.pdf)
-[![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_FunQTL)
-[![Data](icons16/data-icon.png)](http://qtlarchive.org/db/q?pg=projdetails&proj=moore_2013b)
-[![funqtl software](icons16/R-icon.png)](https://github.com/ikwak2/funqtl)
-<!-- * 131 * -->
-
 Street VA, Kujawa SG, Manichaikul A, **Broman KW**, Kallman JC, Shilling DJ, Iwata AJ,
   Robinson LC, Robbins CA, Li J, Liberman MC, Tempel BL. Resistance to
   noise-induced hearing loss in 129S6 and MOLF mice:  Identification
   of independent, overlapping, and interacting chromosomal regions.
   [J Assoc Res Otolaryngol](http://jaro-online.org/), to
   appear [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/24952082)
-<!-- * 130 * -->
+<!-- * 131 * -->
 
 
 #### 2014
+
+Kwak I-Y, Moore CR, Spalding EP, **Broman
+  KW** (2014) A simple regression-based method to map quantitative trait loci underlying
+  function-valued phenotypes. [Genetics](http://www.genetics.org) 197: 1409-1416
+[![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/24931408) [![pdf (1.2M)](icons16/pdf-icon.png)](http://arxiv.org/pdf/1403.3048v2.pdf)
+[![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_FunQTL)
+[![Data](icons16/data-icon.png)](http://qtlarchive.org/db/q?pg=projdetails&proj=moore_2013b)
+[![funqtl software](icons16/R-icon.png)](https://github.com/ikwak2/funqtl)
+<!-- * 130 * -->
 
 **Broman KW** (2014) Fourteen years of R/qtl: Just
   barely sustainable. [J Open Res Softw](http://openresearchsoftware.metajnl.com/)
