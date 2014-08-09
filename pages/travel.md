@@ -184,10 +184,12 @@ title: Travel
   <a href="http://user2014.stat.ucla.edu/">2014 UseR conference</a>, June 30 - July 3, 2014 (Los Angeles, CA)</li>
 
   <a href="http://biovis.net">4th Symposium on Biological Data Visualization</a>, July 11-12, 2014 (Boston, MA)</li>
--->
 
 - [Washington State University](http://www.wsu.edu), Aug 4-7, 2014
   (Pullman, WA)
+
+-->
+
 - [CIDR Access Committee](http://www.cidr.jhmi.edu/about/history.html), Sep 12,
   2014 (Baltimore, MD)
 - [Systems Genetics course](http://courses.jax.org/2014/systems-genetics.html), 
@@ -195,3 +197,7 @@ title: Travel
 - [AAAS meeting](http://meetings.aaas.org/), Feb 12-16, 2015 (San Diego, CA)
 - [VISBI](http://www.vizbi.org/2015/), Mar 25-27, 2015 (Boston, MA)
 - [VisWeek 2015](http://ieeevis.org/) (Chicago, IL)
+
+---
+
+[UW-Madison travel policies](http://www.bussvc.wisc.edu/acct/policy/ppindex.html)
