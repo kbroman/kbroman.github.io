@@ -50,7 +50,7 @@ How to display data badly (plus a bit on my recent efforts to make interactive g
 &nbsp; &nbsp; &nbsp; Part 2: \[[html](http://www.biostat.wisc.edu/~kbroman/presentations/IowaState2013/index.html) | [github](https://github.com/kbroman/Talk_CGD2013/tree/iowastate2013)\]<br/>
 (Remotely to) Graphics Working Group, [Department of Statistics](http://www.stat.iastate.edu), [Iowa State University](http://www.iastate.edu), Ames, Iowa (_Dec 5_)
 
-Open access publishing: A researcher's perspective  \[[pdf](http://www.biostat.wisc.edu/~kbroman/presentations/openaccess.pdf) | [pdf w/notes](openaccess_withnotes.pdf) | [github](http://github.com/kbroman/Talk_OpenAccess)\]<br/>
+Open access publishing: A researcher's perspective  \[[pdf](http://www.biostat.wisc.edu/~kbroman/presentations/openaccess.pdf) | [pdf w/notes](http://www.biostat.wisc.edu/~kbroman/presentations/openaccess_withnotes.pdf) | [github](http://github.com/kbroman/Talk_OpenAccess)\]<br/>
 [Open Access, Open Data @ UW](http://researchdata.wisc.edu/open-access-open-data/) symposium, [University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Oct 24_)
 
 A brief introduction to git &amp; GitHub (with [Samuel G. Younkin](http://www.stat.wisc.edu/~syounkin/)) \[[pdf](http://www.biostat.wisc.edu/~kbroman/presentations/GitPrimer.pdf) | [github](http://github.com/syounkin/GitPrimer)\]<br/>
@@ -293,7 +293,7 @@ Mapping multiple QTL in experimental crosses
 Graduate Seminar, [Department of Animal Sciences](http://www.anisci.wisc.edu), [University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Feb 12_)
 
 How to display data badly
-\[[ppt (2.0M)](http://www.biostat.wisc.edu/~kbroman/presentations/graphs_uwpath08.ppt)\] | [Handout (pdf, 1.7M)](graphs_uwpath08_handout.pdf)\]
+\[[ppt (2.0M)](http://www.biostat.wisc.edu/~kbroman/presentations/graphs_uwpath08.ppt)\] | [Handout (pdf, 1.7M)](http://www.biostat.wisc.edu/~kbroman/presentations/graphs_uwpath08_handout.pdf)\]
 <br/>
 [Department of Pathology and Laboratory Medicine](http://www.pathology.wisc.edu), [University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Jan 30_)
 
@@ -307,8 +307,8 @@ Mapping multiple QTL in experimental crosses
 <br/>[Department of Human Genetics](http://www.genes.uchicago.edu), [University of Chicago](http://www.uchicago.edu) (_Dec 5_)
 
 Mapping multiple QTL in experimental crosses
-\[[pdf (2.0M)](hopkins07.pdf) |
-[Handout (1.9M)](hopkins07_bw-2x2.pdf)\]
+\[[pdf (2.0M)](http://www.biostat.wisc.edu/~kbroman/presentations/hopkins07.pdf) |
+[Handout (1.9M)](http://www.biostat.wisc.edu/~kbroman/presentations/hopkins07_bw-2x2.pdf)\]
 <br/>[Department of Biostatistics](http://www.biostat.jhsph.edu), [Johns Hopkins Bloomberg School of Public Health](http://www.jhsph.edu), Baltimore, MD (_Nov 28_)
 
 Mapping multiple QTL in experimental crosses
@@ -378,7 +378,7 @@ Biostatistics](http://www.sph.umich.edu/biostat), [University of
 Michigan](http://www.umich.edu), Ann Arbor (_Feb 15_)
 
 QTL mapping in humans
-\[[pdf (218k)](humanqtl.pdf) | [handout (175k)](humanqtl_1x2.pdf)\]
+\[[pdf (218k)](http://www.biostat.wisc.edu/~kbroman/presentations/humanqtl.pdf) | [handout (175k)](http://www.biostat.wisc.edu/~kbroman/presentations/humanqtl_1x2.pdf)\]
 <br/>
 Systems Medicine Workshop, NHLBI, Bethesda, MD (_Jan 31_)
 
@@ -388,7 +388,7 @@ Systems Medicine Workshop, NHLBI, Bethesda, MD (_Jan 31_)
 ###  2006
 
 The genomes of recombinant inbred lines
-\[[pdf (2.3M)](hopkins_igm06.pdf)\]
+\[[pdf (2.3M)](http://www.biostat.wisc.edu/~kbroman/presentations/hopkins_igm06.pdf)\]
 <br/>
 [McKusick-Nathans Institute of Genetic Medicine](http://www.hopkinsmedicine.org/geneticmedicine/), [School of Medicine](http://www.hopkinsmedicine.org), Johns Hopkins University, Baltimore, MD (_Nov 9_)
 
@@ -509,7 +509,7 @@ size determination for animal-based research
 and Use Committee](http://www.jhu.edu/animalcare) seminar (_Feb 24_)
 
 The genomes of recombinant inbred lines
-\[[Powerpoint (3.4M)](prosp_students05.ppt) | [pdf (639k)](prosp_students05.pdf)\]
+\[[Powerpoint (3.4M)](http://www.biostat.wisc.edu/~kbroman/presentations/prosp_students05.ppt) | [pdf (639k)](http://www.biostat.wisc.edu/~kbroman/presentations/prosp_students05.pdf)\]
 <br/>
 (for prospective graduate students)<br/>
 [Department of
@@ -517,13 +517,13 @@ Biostatistics](http://www.biostat.jhsph.edu), [Johns Hopkins
 Bloomberg School of Public Health](http://www.jhsph.edu), Baltimore, MD (_Feb 11_)
 
 The genetic dissection of complex traits
-\[[Powerpoint (5.5M)](http://www.biostat.wisc.edu/~kbroman/presentations/martina_defense.ppt) | [pdf (1.3M)](martina_defense.pdf)\]
+\[[Powerpoint (5.5M)](http://www.biostat.wisc.edu/~kbroman/presentations/martina_defense.ppt) | [pdf (1.3M)](http://www.biostat.wisc.edu/~kbroman/presentations/martina_defense.pdf)\]
 <br/>
 (Introduction for the Martina Johannesson&rsquo;s dissertation defense)<br/>
 [Section for Medical Inflammation Research](http://www.lu.se/o.o.i.s/1705?task=view_english_organization_information013100009&firstname=&lastname=holmdahl), [Department of Cell and Molecular Biology](http://www.lu.se/o.o.i.s/1705?task=view_english_organization_information013100007&username=), [Lund University](http://www.lu.se/o.o.i.s/450), Lund, Sweden (_Jan 28_)
 
 The genomes of recombinant inbred lines
-\[[Powerpoint (1.8M)](http://www.biostat.wisc.edu/~kbroman/presentations/lund05.ppt) | [pdf (878k)](lund05.pdf)\]
+\[[Powerpoint (1.8M)](http://www.biostat.wisc.edu/~kbroman/presentations/lund05.ppt) | [pdf (878k)](http://www.biostat.wisc.edu/~kbroman/presentations/lund05.pdf)\]
 <br/>
 [Section for Medical Inflammation Research](http://www.lu.se/o.o.i.s/1705?task=view_english_organization_information013100009&firstname=&lastname=holmdahl), [Department of Cell and Molecular Biology](http://www.lu.se/o.o.i.s/1705?task=view_english_organization_information013100007&username=), [Lund University](http://www.lu.se/o.o.i.s/450), Lund, Sweden (_Jan 27_)
 
@@ -533,27 +533,27 @@ The genomes of recombinant inbred lines
 ###  2004
 
 Gene mapping in model organisms
-\[[Powerpoint (4.3M)](taiwan04.ppt) | [pdf (1.5M)](taiwan04.pdf)\]
+\[[Powerpoint (4.3M)](http://www.biostat.wisc.edu/~kbroman/presentations/taiwan04.ppt) | [pdf (1.5M)](http://www.biostat.wisc.edu/~kbroman/presentations/taiwan04.pdf)\]
 <br/>
 [Taipei Symposium
 on Statistical Genomics](http://www.stat.sinica.edu.tw/2004tssg/), Academia Sinica, Taipei, Taiwan (_Dec 16_)
 
 The genetic dissection of complex
 traits
-\[[Powerpoint (3.3M)](tigr04.ppt) | [pdf (1.9M)](tigr04.pdf)\]
+\[[Powerpoint (3.3M)](http://www.biostat.wisc.edu/~kbroman/presentations/tigr04.ppt) | [pdf (1.9M)](http://www.biostat.wisc.edu/~kbroman/presentations/tigr04.pdf)\]
 <br/>
 [7th Annual Conference on
 Computational Genomics](http://www.tigr.org/conf/cg/), Reston, Virginia (_Oct 21_)
 
 The genomes of recombinant inbred lines
-\[[Powerpoint (1.7M)](http://www.biostat.wisc.edu/~kbroman/presentations/yale04.ppt) | [pdf (878k)](yale04.pdf)\]
+\[[Powerpoint (1.7M)](http://www.biostat.wisc.edu/~kbroman/presentations/yale04.ppt) | [pdf (878k)](http://www.biostat.wisc.edu/~kbroman/presentations/yale04.pdf)\]
 <br/>
 [Department of
 Biostatistics](http://publichealth.yale.edu/bis/index.html), [Yale
 School of Public Health](http://publichealth.yale.edu/), New Haven, Connecticut (_Oct 19_)
 
 Identifying essential genes in <em>M. tuberculosis</em>
-by random transposon mutagenesis \[[Powerpoint (1.2M)](http://www.biostat.wisc.edu/~kbroman/presentations/mfd04.ppt) | [pdf (988k)](mfd04_ho.pdf)\]
+by random transposon mutagenesis \[[Powerpoint (1.2M)](http://www.biostat.wisc.edu/~kbroman/presentations/mfd04.ppt) | [pdf (988k)](http://www.biostat.wisc.edu/~kbroman/presentations/mfd04_ho.pdf)\]
 <br/>
 [Marshfield Clinic
 Research Foundation](http://research.marshfieldclinic.org/), Marshfield, Wisconsin (_Oct 5_)
@@ -573,7 +573,7 @@ Biostatistics](http://www.biostat.jhsph.edu), [Johns Hopkins
 Bloomberg School of Public Health](http://www.jhsph.edu), Baltimore, MD (_Sep 24_)
 
 The genomes of recombinant inbred lines
-\[[ppt (1.9M)](toronto04.ppt) | [pdf (1.9M)](toronto04.pdf)\]
+\[[ppt (1.9M)](http://www.biostat.wisc.edu/~kbroman/presentations/toronto04.ppt) | [pdf (1.9M)](http://www.biostat.wisc.edu/~kbroman/presentations/toronto04.pdf)\]
 <br/>
 [Genetics and Genomic Biology](http://www.sickkids.on.ca/Research/section.asp?s=Research+Programs&sID=1118&ss=Genetics+and+Genomic+Biology&ssID=2504),
 [Hospital for Sick Children](http://www.sickkids.on.ca), Toronto, Canada (_Aug 11_)
@@ -606,7 +606,7 @@ University](http://www.vanderbilt.edu), Nashville, TN (_May 27_)
 
 The breakpoint process on recombinant inbred chromosomes
 \[[ppt (2.0M)](http://www.biostat.wisc.edu/~kbroman/presentations/retreat04.ppt) | [pdf
-(685k)](retreat04_ho.pdf)\]
+(685k)](http://www.biostat.wisc.edu/~kbroman/presentations/retreat04_ho.pdf)\]
 <br/>
 Annual Retreat, [Department of
 Biostatistics](http://www.biostat.jhsph.edu), [Johns Hopkins Bloomberg School of
@@ -614,7 +614,7 @@ Public Health](http://www.jhsph.edu) (_May 1_)
 
 The breakpoint process on recombinant inbred chromosomes
 \[[ppt (1.4M)](http://www.biostat.wisc.edu/~kbroman/presentations/ribreaks.ppt) | [pdf
-(661k)](ribreaks_ho.pdf)\]
+(661k)](http://www.biostat.wisc.edu/~kbroman/presentations/ribreaks_ho.pdf)\]
 <br/>
 [Hopkins Expressionists](http://astor.som.jhmi.edu/hex) (_Apr 21_)
 
@@ -636,14 +636,14 @@ Louisville, Kentucky (_Apr 2_)
 
 Statistical issues in QTL mapping in mice
 \[[ppt (4.8M)](http://www.biostat.wisc.edu/~kbroman/presentations/rostock04.ppt) | [pdf
-(4.7M)](rostock04.pdf)\]
+(4.7M)](http://www.biostat.wisc.edu/~kbroman/presentations/rostock04.pdf)\]
 <br/>
 [Workshop on the
 Analysis of Complex Genetic Traits](http://www.eurome.de/meet.html#meet4), [Immunogenetics](http://www-iimmun.med.uni-rostock.de/immgen.html), [Universit&auml;t Rostock](http://www.uni-rostock.de), Germany (_Mar 17_)
 
 Gene mapping in mice
 \[[ppt (6.4M)](http://www.biostat.wisc.edu/~kbroman/presentations/msri04.ppt) | [pdf
-(1.8M)](msri04.pdf) | [Online video](http://www.msri.org/publications/ln/msri/2004/genetics/broman/1/index.html) | [Videos of the whole workshop](http://www.msri.org/publications/video/index08.html#genetics)\]
+(1.8M)](http://www.biostat.wisc.edu/~kbroman/presentations/msri04.pdf) | [Online video](http://www.msri.org/publications/ln/msri/2004/genetics/broman/1/index.html) | [Videos of the whole workshop](http://www.msri.org/publications/video/index08.html#genetics)\]
 <br/>
 [Workshop on the Genetics of Complex Disease](http://www.msri.org/calendar/workshops/WorkshopInfo/261/show_workshop), [Mathematical Sciences
 Research Institute](http://www.msri.org), Berkeley, California (_Feb 12_)
@@ -682,7 +682,7 @@ Carolina at Chapel Hill (_Oct 23_)
 
 Identifying essential genes in <em>M. tuberculosis</em>
 by random transposon mutagenesis
-\[[pdf (620k)](haverford_ho.pdf)\]
+\[[pdf (620k)](http://www.biostat.wisc.edu/~kbroman/presentations/haverford_ho.pdf)\]
 <br/>
 Haverford-Bryn Mayr Mathematics Colloquium, [Haverford College](http://www.haverford.edu/math/), Haverford, Pennsylvania (_Oct 20_)
 
@@ -740,7 +740,7 @@ Model selection for QTL mapping
 \[[pdf (524k)](http://www.biostat.wisc.edu/~kbroman/presentations/rss_ho.pdf)\]<br/>
 Joint Statistical Meetings, New York, NY (_Aug 14_)
 
-Model selection for QTL mapping \[[pdf (524k)](http://www.biostat.wisc.edu/~kbroman/presentations/rss_ho.pdf) | related paper ([pdf (322k)](http://www.biostat.wisc.edu/~kbroman/presentations/../publications/jrssb_proofs.pdf))\]<br/>
+Model selection for QTL mapping \[[pdf (524k)](http://www.biostat.wisc.edu/~kbroman/presentations/rss_ho.pdf) | related paper ([pdf (322k)](http://www.biostat.wisc.edu/~kbroman/publications/jrssb_proofs.pdf))\]<br/>
 Royal Statistical Society, London, England (_May 22_)
 
 R/qtl: an extensible QTL mapping environment \[[pdf (1267k)](http://www.biostat.wisc.edu/~kbroman/presentations/ctc.pdf)\]<br/>
@@ -750,7 +750,7 @@ Human crossover interference \[[pdf (939k)](http://www.biostat.wisc.edu/~kbroman
 [Department of Statistics](http://www.stat.berkeley.edu), University of California, Berkeley (_Apr 11_)
 
 A model selection approach for the identification of quantitative
-trait loci in experimental crosses \[[pdf (699k)](hopkins02_ho.pdf)\]<br/>
+trait loci in experimental crosses \[[pdf (699k)](http://www.biostat.wisc.edu/~kbroman/presentations/hopkins02_ho.pdf)\]<br/>
 [Department of Biostatistics](http://www.biostat.jhsph.edu),
 Johns Hopkins University, Baltimore, Maryland (_Apr 3_)
 
@@ -797,7 +797,7 @@ Human crossover interference \[[pdf (446k)](http://www.biostat.wisc.edu/~kbroman
 [Biometric Research Branch](http://linus.nci.nih.gov/~brb/), National Cancer Institute, Bethesda, Maryland (_Oct 20_)
 
 Identifying QTLs in experimental
-crosses \[[pdf (465k)](hsgwg.pdf)\]<br/>
+crosses \[[pdf (465k)](http://www.biostat.wisc.edu/~kbroman/presentations/hsgwg.pdf)\]<br/>
 Hopkins Statistical Genetics Working Group (_Sep 25_)
 
 Human crossover interference \[[pdf (446k)](http://www.biostat.wisc.edu/~kbroman/presentations/jax.pdf)\]<br/>
@@ -811,7 +811,7 @@ International Biometric Society/ENAR meeting, Chicago, IL (_Mar 20_)
 
 ###  1999
 
-Topics in statistical genetics \[[pdf (724k)](topics.pdf)\]<br/>
+Topics in statistical genetics \[[pdf (724k)](http://www.biostat.wisc.edu/~kbroman/presentations/topics.pdf)\]<br/>
 [Department of
 Biostatistics](http://www.biostat.jhsph.edu), Johns Hopkins University, Baltimore, Maryland (_Sep 22_)
 
