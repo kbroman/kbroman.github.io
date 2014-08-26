@@ -195,7 +195,7 @@ title: Travel
 - [Systems Genetics course](http://courses.jax.org/2014/systems-genetics.html), 
   The Jackson Lab, Sep 27-Oct 3, 2014 (Bar Harbor, ME)
 - Seminar at [Harvard Biostat](http://www.hsph.harvard.edu/biostatistics/), 
-  Nov 20, 2014 (Boston, MA)
+  Nov 6, 2014 (Boston, MA)
 - [AAAS meeting](http://meetings.aaas.org/), Feb 12-16, 2015 (San Diego, CA)
 - [VISBI](http://www.vizbi.org/2015/), Mar 25-27, 2015 (Boston, MA)
 - [VisWeek 2015](http://ieeevis.org/) (Chicago, IL)
