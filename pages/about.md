@@ -24,7 +24,7 @@ University of Wisconsin&ndash;Madison,
 where he is now Professor.
 
 Karl is an applied statistician focusing on problems in genetics and
-genomics, particularly the analysis of meiotic recombination and the
+genomics &ndash; particularly the analysis of meiotic recombination and the
 genetic dissection of complex traits in experimental organisms. The
 latter is often called &ldquo;QTL mapping.&rdquo; A QTL is a
 _quantitative trait locus_ &ndash; a genetic locus that influences a
