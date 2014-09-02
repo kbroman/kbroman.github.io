@@ -31,6 +31,14 @@ title: Publications
 
 #### To appear
 
+Florek NW, Weinfurter JT, Jegaskanda S, Brewoo JN, Powell TD, Young
+GR, Das SC, Hatta M, **Broman KW, Hungnes O, Dudman SG, Kawaoka Y,
+Kent SJ, Stinchcomb DT, Osorio JE, Friedrich TC.
+Modified vaccinia Ankara encoding influenza virus hemagglutinin
+induces heterosubtypic immunity in macaques.
+[J Virol](http://jvi.asm.org/), to appear
+<!-- * 132 * -->
+
 Street VA, Kujawa SG, Manichaikul A, **Broman KW**, Kallman JC, Shilling DJ, Iwata AJ,
   Robinson LC, Robbins CA, Li J, Liberman MC, Tempel BL. Resistance to
   noise-induced hearing loss in 129S6 and MOLF mice:  Identification
