@@ -47,22 +47,6 @@ Various R functions that I find useful, assembled into an R package.
 
 ---
 
-#### <a name="xoi"></a>[R/xoi](http://github.com/kbroman/xoi)
-
-An [R](http://www.r-project.org) package for the analysis of crossover
-interference in experimental crosses, particularly regarding the gamma
-model.
-
----
-
-#### <a name="lineup"></a>[R/lineup](http://github.com/kbroman/lineup)
-
-An [R](http://www.r-project.org) package for detecting and correcting
-sample mix-ups between two sets of measurements, such as between gene
-expression data on two tissues.
-
----
-
 #### <a name="aRxiv"></a>[aRxiv](http://github.com/ropensci/aRxiv)
 
 An [R](http://www.r-project.org) package for searching
@@ -74,11 +58,27 @@ quantitative finance, and statistics. The
 
 ---
 
+#### <a name="lineup"></a>[R/lineup](http://github.com/kbroman/lineup)
+
+An [R](http://www.r-project.org) package for detecting and correcting
+sample mix-ups between two sets of measurements, such as between gene
+expression data on two tissues.
+
+---
+
 #### <a name="simcross"></a>[R/simcross](http://github.com/kbroman/simcross)
 
 An [R](http://www.r-project.org) package for simulating general
 experimental crosses (such as advanced intercross lines and the
 diversity outcross), for use with [R/qtl](http://www.rqtl.org).
+
+---
+
+#### <a name="xoi"></a>[R/xoi](http://github.com/kbroman/xoi)
+
+An [R](http://www.r-project.org) package for the analysis of crossover
+interference in experimental crosses, particularly regarding the gamma
+model.
 
 ---
 
