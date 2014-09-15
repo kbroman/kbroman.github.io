@@ -2771,7 +2771,9 @@ curvechart = function() {
         d3.select(this).attr("stroke", strokecolorhilit[group[i]]).moveToFront();
 //       circle = d3.select("circle#hiddenpoint" + i);
 //        return indtip.show(i, circle.node());
-        d3.select("rect#button" + traceback_sorted[i]).attr("fill", "Orchid");
+        d3.select("rect#button" + traceback_sorted[i]).attr("fill",  function(d) {
+                      if(d==11) return "Red"
+                      return "slateblue"});
         d3.select("text#button" + traceback_sorted[i]).attr("fill", "white");
       }).on("mouseout.panel", function(d, i) {
         d3.select(this).attr("stroke", strokecolor[group[i]]).moveToBack();
@@ -3611,7 +3613,9 @@ iplotCurves = function(curve_data, scatter1_data, scatter2_data, chartOpts) {
          .attr("stroke", "slateblue")
          .attr("stroke-width", 2)
          .on("mouseover", function(d) {
-                 d3.select(this).attr("fill", "Orchid");
+                 d3.select(this).attr("fill", function(d) {
+                      if(d==11) return "Red"
+                      return "slateblue"});
                  d3.select("text#button" + d).attr("fill", "white");
                  d3.select("path.path12").moveToFront();
                  d3.select("path.path" + sorted[d])
