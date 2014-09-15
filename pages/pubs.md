@@ -37,6 +37,8 @@ Kent SJ, Stinchcomb DT, Osorio JE, Friedrich TC.
 Modified vaccinia Ankara encoding influenza virus hemagglutinin
 induces heterosubtypic immunity in macaques.
 [J Virol](http://jvi.asm.org/), to appear
+[![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/25210172)
+[![pdf (446k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/florek2014.pdf)
 <!-- * 132 * -->
 
 Street VA, Kujawa SG, Manichaikul A, **Broman KW**, Kallman JC, Shilling DJ, Iwata AJ,
