@@ -7,6 +7,13 @@ title: Talks
 
 ###  2014
 
+How to display data badly
+\[[pdf](http://www.biostat.wisc.edu/~kbroman/presentations/graphs_cmp2014.pdf) |
+[github](https://github.com/kbroman/Talk_Graphs/tree/cmp2014)\]
+<br/>
+[Department of Pathology and Laboratory Medicine](http://www.pathology.wisc.edu),
+[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Sep 17_)
+
 Interactive graphics for
 high-dimensional genetic data \[[html](http://www.biostat.wisc.edu/~kbroman/presentations/BioVis)
 | [github](https://github.com/kbroman/Talk_BioVis)\]<br/>
