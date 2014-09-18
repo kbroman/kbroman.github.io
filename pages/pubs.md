@@ -41,15 +41,6 @@ induces heterosubtypic immunity in macaques.
 [![pdf (446k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/florek2014.pdf)
 <!-- * 133 * -->
 
-Street VA, Kujawa SG, Manichaikul A, **Broman KW**, Kallman JC, Shilling DJ, Iwata AJ,
-  Robinson LC, Robbins CA, Li J, Liberman MC, Tempel BL. Resistance to
-  noise-induced hearing loss in 129S6 and MOLF mice:  Identification
-  of independent, overlapping, and interacting chromosomal regions.
-  [J Assoc Res Otolaryngol](http://jaro-online.org/), to
-  appear [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/24952082)
-<!-- * 132 * -->
-
-
 #### 2014
 
 Gatti DM, Svenson KL, Shabalin A, Wu L-Y, Valdar W, Simecek P, Goodwin
@@ -58,6 +49,14 @@ N, Cheng R, Pomp D, Palmer A, Chesler EJ, **Broman KW**, Churchill GA
 mice. [G3](http://g3journal.org) 4:1623-1633
 [![PubMed](icons16/pubmed-icon.png)](http://www.g3journal.org/content/4/9/1623.abstract)
 [![pdf (2.5M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/gatti2014.pdf)
+<!-- * 132 * -->
+
+Street VA, Kujawa SG, Manichaikul A, **Broman KW**, Kallman JC, Shilling DJ, Iwata AJ,
+Robinson LC, Robbins CA, Li J, Liberman MC, Tempel BL (2014) Resistance to
+noise-induced hearing loss in 129S6 and MOLF mice:  Identification
+of independent, overlapping, and interacting chromosomal regions.
+[J Assoc Res Otolaryngol](http://jaro-online.org/) 15:721-738
+[![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/24952082)
 <!-- * 131 * -->
 
 Kwak I-Y, Moore CR, Spalding EP, **Broman
