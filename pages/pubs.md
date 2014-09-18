@@ -39,7 +39,7 @@ induces heterosubtypic immunity in macaques.
 [J Virol](http://jvi.asm.org/), to appear
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/25210172)
 [![pdf (446k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/florek2014.pdf)
-<!-- * 132 * -->
+<!-- * 133 * -->
 
 Street VA, Kujawa SG, Manichaikul A, **Broman KW**, Kallman JC, Shilling DJ, Iwata AJ,
   Robinson LC, Robbins CA, Li J, Liberman MC, Tempel BL. Resistance to
@@ -47,10 +47,18 @@ Street VA, Kujawa SG, Manichaikul A, **Broman KW**, Kallman JC, Shilling DJ, Iwa
   of independent, overlapping, and interacting chromosomal regions.
   [J Assoc Res Otolaryngol](http://jaro-online.org/), to
   appear [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/24952082)
-<!-- * 131 * -->
+<!-- * 132 * -->
 
 
 #### 2014
+
+Gatti DM, Svenson KL, Shabalin A, Wu L-Y, Valdar W, Simecek P, Goodwin
+N, Cheng R, Pomp D, Palmer A, Chesler EJ, **Broman KW**, Churchill GA
+(2014) Quantitative trait locus mapping methods for Diversity Outbred
+mice. [G3](http://g3journal.org) 4:1623-1633
+[![PubMed](icons16/pubmed-icon.png)](http://www.g3journal.org/content/4/9/1623.abstract)
+[![pdf (2.5M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/gatti2014.pdf)
+<!-- * 131 * -->
 
 Kwak I-Y, Moore CR, Spalding EP, **Broman
   KW** (2014) A simple regression-based method to map quantitative trait loci underlying
