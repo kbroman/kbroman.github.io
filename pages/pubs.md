@@ -47,7 +47,7 @@ Gatti DM, Svenson KL, Shabalin A, Wu L-Y, Valdar W, Simecek P, Goodwin
 N, Cheng R, Pomp D, Palmer A, Chesler EJ, **Broman KW**, Churchill GA
 (2014) Quantitative trait locus mapping methods for Diversity Outbred
 mice. [G3](http://g3journal.org) 4:1623-1633
-[![PubMed](icons16/pubmed-icon.png)](http://www.g3journal.org/content/4/9/1623.abstract)
+[![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/25237114)
 [![pdf (2.5M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/gatti2014.pdf)
 <!-- * 132 * -->
 
