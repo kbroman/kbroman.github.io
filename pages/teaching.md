@@ -42,7 +42,22 @@ title: Teaching
 
 ---
 
-#### <a name="JAX"></a>[Short course on Systems Genetics](http://courses.jax.org/2013/systems-genetics.html) at The Jackson Lab
+#### <a name="JAX"></a>[Short course on Systems Genetics](http://courses.jax.org/2014/systems-genetics.html) at The Jackson Lab
+
+Sep 27-Oct 4, 2014
+
+- Introduction to QTL mapping:
+  [pdf](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2014/intro.pdf) |
+  [b/w pdf, 2 slides per page](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2014/intro_2up.pdf)
+- A few slides on Haley-Knott regression:
+  [pdf](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2014/hk.pdf) |
+  [b/w pdf, 2 slides per page](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2014/hk_2up.pdf)
+- Multiple QTL mapping:
+  [pdf](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2014/multiqtl.pdf) |
+  [b/w pdf, 2 slides per page](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2014/multiqtl_2up.pdf)
+- [R/qtl](http://www.rqtl.org) laboratory:
+  [pdf (50k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2014/rqtltour2.pdf)
+  | [code](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2014/rqtltour2.R)
 
 Sep 8-14, 2013
 
