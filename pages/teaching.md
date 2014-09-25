@@ -49,6 +49,10 @@ Sep 27-Oct 4, 2014
 - Introduction to QTL mapping:
   [pdf](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2014/intro.pdf) |
   [b/w pdf, 2 slides per page](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2014/intro_2up.pdf)
+- Interactive illustrations
+  [EM algorithm](http://www.biostat.wisc.edu/~kbroman/D3/em_alg) |
+  [LOD curves](http://www.biostat.wisc.edu/~kbroman/D3/lod_and_effect) |
+  [Permutation test](http://www.biostat.wisc.edu/~kbroman/D3/lod_random)
 - A few slides on Haley-Knott regression:
   [pdf](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2014/hk.pdf) |
   [b/w pdf, 2 slides per page](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2014/hk_2up.pdf)
