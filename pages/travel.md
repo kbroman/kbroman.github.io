@@ -199,6 +199,7 @@ title: Travel
   Nov 6, 2014 (Boston, MA)
 - [AAAS meeting](http://meetings.aaas.org/), Feb 12-16, 2015 (San Diego, CA)
 - [VISBI](http://www.vizbi.org/2015/), Mar 24-27, 2015 (Boston, MA)
+- [JSM 2015](http://www.amstat.org/meetings/jsm/2015/), Aug 8-13, 2015 (Seattle, WA)
 - [VisWeek 2015](http://ieeevis.org/) (Chicago, IL)
 
 ---
