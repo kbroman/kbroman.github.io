@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: about
 ---
 
 Karl Broman is Professor in the
@@ -33,13 +33,13 @@ of interactive data visualizations for high-dimensional genetic data;
 see his [R/qtlcharts package](http://kbroman.org/qtlcharts) and
 his [D3 examples](http://www.biostat.wisc.edu/~kbroman/D3).
 
-[Curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/broman.pdf)
+[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/broman.pdf)
 
 
 ---
 
 <div class="container">
-<h4>Contact</h4>
+<h4>contact</h4>
 
     <div class="row-fluid">
         <div class="span5">

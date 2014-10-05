@@ -1,24 +1,24 @@
 ---
 layout: page
-title: Publications
+title: publications
 ---
 
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#books">Books</a></li>
-            <li><a href="#articles">Articles</a></li>
-            <li><a href="#editorials">Editorials</a></li>
-            <li><a href="#letters">Letters</a></li>
-            <li><a href="#chapters">Chapters</a></li>
-            <li><a href="#techreports">Tech reports</a></li>
-            <li><a href="#thesis">Dissertation</a></li>
+            <li><a href="#books">books</a></li>
+            <li><a href="#articles">articles</a></li>
+            <li><a href="#editorials">editorials</a></li>
+            <li><a href="#letters">letters</a></li>
+            <li><a href="#chapters">chapters</a></li>
+            <li><a href="#techreports">tech reports</a></li>
+            <li><a href="#thesis">dissertation</a></li>
         </ul>
     </div>
 </div>
 
 
-### <a name="books"></a>Books
+### <a name="books"></a>books
 
 
 **Broman KW**, Sen &#346; (2009) A Guide to QTL Mapping with R/qtl.  Springer, New York
@@ -27,7 +27,7 @@ title: Publications
 [![Springer](icons16/springer-icon.png)](http://www.springer.com/978-0-387-92124-2)
 [![R/qtl](icons16/R-icon.png)](http://www.rqtl.org)
 
-### <a name="articles"></a>Journal articles
+### <a name="articles"></a>journal articles
 
 #### To appear
 
@@ -939,7 +939,7 @@ long-distance chromosome interactions. [Cell](http://www.cell.com) 85:745-759
 <!-- * 8 * -->
 
 
-### <a name="editorials"></a>Editorials
+### <a name="editorials"></a>editorials
 
 **Broman KW** (2005)  Mapping expression in
 randomized rodent genomes.  [Nat
@@ -953,7 +953,7 @@ Genet](http://www.nature.com/ng) 37:209-210
 [![pdf (70k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/natmeth.pdf)
 
 
-### <a name="letters"></a>Letters
+### <a name="letters"></a>letters
 
 Sieberts SK, **Broman KW**, Gudbjartsson
 DF (2004) "Biased towards the null" means reduced power.  [Am J Hum
@@ -990,7 +990,7 @@ relationships in the presence of genotyping errors. [Am J Hum Genet](http://www.
 <!-- * 5 * -->
 
 
-### <a name="chapters"></a>Proceedings and book chapters
+### <a name="chapters"></a>proceedings and book chapters
 
 **Broman KW** (2012) Applied statistics and exposition (commentary).  In: Dudoit S (ed) <i>Selected Works of Terry Speed</i>, Springer, pp 353-355
 [![Springer](icons16/springer-icon.png)](http://link.springer.com/book/10.1007/978-1-4614-1347-9)
@@ -1052,7 +1052,7 @@ Notes-Monograph Series, Vol 33, pp 114-142
 
 
 
-### <a name="techreports"></a>Technical reports
+### <a name="techreports"></a>technical reports
 
 **Broman KW**, Keller MP, Broman
 AT, Kendziorski C, Yandell BS, Sen &#346;, Attie AD (2014)
@@ -1115,7 +1115,7 @@ ORNL/TM-12167, Oak Ridge National Laboratory
 
 
 
-### <a name="thesis"></a>Dissertation
+### <a name="thesis"></a>dissertation
 
 **Broman KW** (1997) Identifying quantitative trait loci in
 experimental crosses.  PhD dissertation, Department of Statistics,

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Software
+title: software
 ---
 
 <div class="navbar">

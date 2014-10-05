@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tutorials
+title: tutorials
 ---
 
 - [git/github guide](http://kbroman.org/github_tutorial)
