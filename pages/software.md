@@ -27,9 +27,16 @@ Google group, [R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
 
 ---
 
-#### <a name="qtlcharts"></a>[R/qtlcharts](http://github.com/kbroman/qtlcharts)
+#### <a name="qtl2"></a>[R/qtl2](http://kbroman.org/qtl2)
 
-An [R](http://www.r-project.org) package for
+A reimplementation of [R/qtl](http://www.rqtl.org), to better handle
+high-dimensional data and complex cross designs.
+
+---
+
+#### <a name="qtlcharts"></a>[R/qtlcharts](http://kbroman.org/qtlcharts)
+
+An [R](http://www.r-project.org) package with
 [D3](http://d3js.org)-based interactive graphics for QTL experiments.
 
 
