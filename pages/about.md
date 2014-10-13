@@ -44,7 +44,8 @@ his [D3 examples](http://www.biostat.wisc.edu/~kbroman/D3).
     <div class="row-fluid">
         <div class="span5">
             Karl Broman<br/>
-            <a href="http://www.bisotat.wisc.edu">Department of Biostatistics &amp; Medical Informatics</a><br/>
+            <a href="http://www.bios
+tat.wisc.edu">Department of Biostatistics &amp; Medical Informatics</a><br/>
             <a href="http://www.wisc.edu">University of Wisconsin&ndash;Madison</a><br/>
             <a href="http://map.wisc.edu/s/2tie3nen">2126 Genetics/Biotechnology Center</a><br/>
             425 Henry Mall<br/>
