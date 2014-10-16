@@ -210,7 +210,7 @@ PHS 904 Genetic Epidemiology ([Engelman](http://www.pophealth.wisc.edu/faculty/c
 
 ---
 
-#### Identifying QTLs in experimental crosses
+#### Identifying QTL in experimental crosses
 
 Advanced Topics in Human Genetics (Reeves and Feinberg)<br/>
 Human Genetics, Johns Hopkins School of Medicine <br/>
