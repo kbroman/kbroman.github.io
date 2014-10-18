@@ -8,7 +8,7 @@ title: travel
 
   <a href="http://www.complextrait.org/meetings/main.php#ctc2005">4th Annual Meeting of the Complex Trait Consortium</a> in Groningen, the Netherlands (June 27-30, 2005)
 
-  <a href="http://math.bnu.edu.cn/statprob/CSPS-IMS2005/index.html">CSPS/IMS meeting</a> in Beijing, China (July 9-12, 2005) 
+  <a href="http://math.bnu.edu.cn/statprob/CSPS-IMS2005/index.html">CSPS/IMS meeting</a> in Beijing, China (July 9-12, 2005)
 
   <a href="http://www.amstat.org/meetings/jsm/2005/index.cfm">Joint Statistical Meetings</a> in Minneapolis, Minnesota (Aug 7-11, 2005)
 
@@ -77,7 +77,7 @@ title: travel
 
   <a href="http://galton.uchicago.edu/msrc">First Midwest Statistics Research Colloquium</a>, University of Chicago (Mar 28-29, 2008)
 
-  CTC meeting in Chapel Hill, North Carolina (Mar 14-15, 2008) 
+  CTC meeting in Chapel Hill, North Carolina (Mar 14-15, 2008)
 
   Seminar at Cincinnati Children's Hospital (Apr 24-25, 2008)
 
@@ -100,7 +100,7 @@ title: travel
   <a href="http://courses.jax.org/2009/systemgenetics09.html">Systems Genetics course</a> at The Jackson Lab, Oct 19-25, 2009 (Bar Harbor)
 
   <a href="http://www.genetics.ucla.edu/">Human Genetics</a>, <a href="http://www.ucla.edu">UCLA</a>, Nov 23, 2009
-       
+
   JAX CGD retreat, Jan 14-16, 2010 (Bar Harbor)
 
   GCAT Study Section, Feb 2-4, 2010 (Washington, DC)
@@ -191,16 +191,19 @@ title: travel
 - [CIDR Access Committee](http://www.cidr.jhmi.edu/about/history.html), Sep 12,
   2014 (Baltimore, MD)
 
+- [Systems Genetics course](http://courses.jax.org/2014/systems-genetics.html),
+  The Jackson Lab, Sep 27-Oct 3, 2014 (Bar Harbor, ME)
+
 -->
 
-- [Systems Genetics course](http://courses.jax.org/2014/systems-genetics.html), 
-  The Jackson Lab, Sep 27-Oct 3, 2014 (Bar Harbor, ME)
-- Seminar at [Harvard Biostat](http://www.hsph.harvard.edu/biostatistics/), 
+- Seminar at [Harvard Biostat](http://www.hsph.harvard.edu/biostatistics/),
   Nov 6, 2014 (Boston, MA)
 - [AAAS meeting](http://meetings.aaas.org/), Feb 12-16, 2015 (San Diego, CA)
 - [VISBI](http://www.vizbi.org/2015/), Mar 24-27, 2015 (Boston, MA)
 - [JSM 2015](http://www.amstat.org/meetings/jsm/2015/), Aug 8-13, 2015 (Seattle, WA)
 - [VisWeek 2015](http://ieeevis.org/) (Chicago, IL)
+- [Systems Genetics course](http://courses.jax.org/2015/systems-genetics.html),
+  The Jackson Lab, Sep 27-Oct 3, 2015 (Bar Harbor, ME)
 
 ---
 
