@@ -19,3 +19,4 @@ title: tutorials
   \[very old; I now recommend [ruby](https://www.ruby-lang.org/en/) or [python](https://www.python.org/)\]
 - [intro to C](http://www.biostat.wisc.edu/~kbroman/Cintro)
   \[not really a tutorial, but it includes a list of C programming books\]
+- [top ten worst graphs](https://www.biostat.wisc.edu/~kbroman/topten_worstgraphs/)
