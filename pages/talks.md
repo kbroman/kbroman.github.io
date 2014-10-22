@@ -7,6 +7,13 @@ title: talks
 
 ###  2014
 
+Open access publishing: A researcher's perspective
+\[[pdf](http://www.biostat.wisc.edu/~kbroman/presentations/openaccess2014.pdf) |
+[pdf w/notes](http://www.biostat.wisc.edu/~kbroman/presentations/openaccess2014_withnotes.pdf)
+| [github](http://github.com/kbroman/Talk_OpenAccess)\]<br/>
+[Scholarly Publishing Symposium](http://www.library.wisc.edu/news/scholarly-publishing-symposium-2014/),
+[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Oct 30_)
+
 How to display data badly
 \[[pdf](http://www.biostat.wisc.edu/~kbroman/presentations/graphs_cmp2014.pdf) |
 [github](https://github.com/kbroman/Talk_Graphs/tree/cmp2014)\]
@@ -57,7 +64,7 @@ How to display data badly (plus a bit on my recent efforts to make interactive g
 &nbsp; &nbsp; &nbsp; Part 2: \[[html](http://www.biostat.wisc.edu/~kbroman/presentations/IowaState2013/index.html) | [github](https://github.com/kbroman/Talk_CGD2013/tree/iowastate2013)\]<br/>
 (Remotely to) Graphics Working Group, [Department of Statistics](http://www.stat.iastate.edu), [Iowa State University](http://www.iastate.edu), Ames, Iowa (_Dec 5_)
 
-Open access publishing: A researcher's perspective  \[[pdf](http://www.biostat.wisc.edu/~kbroman/presentations/openaccess.pdf) | [pdf w/notes](http://www.biostat.wisc.edu/~kbroman/presentations/openaccess_withnotes.pdf) | [github](http://github.com/kbroman/Talk_OpenAccess)\]<br/>
+Open access publishing: A researcher's perspective  \[[pdf](http://www.biostat.wisc.edu/~kbroman/presentations/openaccess.pdf) | [pdf w/notes](http://www.biostat.wisc.edu/~kbroman/presentations/openaccess_withnotes.pdf) | [github](https://github.com/kbroman/Talk_OpenAccess/tree/2013-10)\]<br/>
 [Open Access, Open Data @ UW](http://researchdata.wisc.edu/open-access-open-data/) symposium, [University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Oct 24_)
 
 A brief introduction to git &amp; GitHub (with [Samuel G. Younkin](http://www.stat.wisc.edu/~syounkin/)) \[[pdf](http://www.biostat.wisc.edu/~kbroman/presentations/GitPrimer.pdf) | [github](http://github.com/syounkin/GitPrimer)\]<br/>
