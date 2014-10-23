@@ -29,19 +29,21 @@ title: publications
 
 ### <a name="articles"></a>journal articles
 
+<!--
 #### To appear
+-->
+
+#### 2014
 
 Florek NW, Weinfurter JT, Jegaskanda S, Brewoo JN, Powell TD, Young
 GR, Das SC, Hatta M, **Broman KW**, Hungnes O, Dudman SG, Kawaoka Y,
-Kent SJ, Stinchcomb DT, Osorio JE, Friedrich TC.
+Kent SJ, Stinchcomb DT, Osorio JE, Friedrich TC (2014)
 Modified vaccinia Ankara encoding influenza virus hemagglutinin
 induces heterosubtypic immunity in macaques.
-[J Virol](http://jvi.asm.org/), to appear
+[J Virol](http://jvi.asm.org/) 88:13418-13428
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/25210172)
 [![pdf (446k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/florek2014.pdf)
 <!-- * 133 * -->
-
-#### 2014
 
 Gatti DM, Svenson KL, Shabalin A, Wu L-Y, Valdar W, Simecek P, Goodwin
 N, Cheng R, Pomp D, Palmer A, Chesler EJ, **Broman KW**, Churchill GA
