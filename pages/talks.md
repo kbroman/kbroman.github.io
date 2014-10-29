@@ -14,6 +14,13 @@ Open access publishing: A researcher's perspective
 [Scholarly Publishing Symposium](http://www.library.wisc.edu/news/scholarly-publishing-symposium-2014/),
 [University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Oct 30_)
 
+Creating effective figures and tables
+\[[pdf](http://www.biostat.wisc.edu/~kbroman/presentations/graphs_MDPhD2014.pdf)
+| [github](https://github.com/kbroman/Talk_Graphs/tree/MDPhD2014)\]
+<br/>
+Presentation in a seminar course for MD-PhD students,
+[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Oct 29_)
+
 How to display data badly
 \[[pdf](http://www.biostat.wisc.edu/~kbroman/presentations/graphs_cmp2014.pdf) |
 [github](https://github.com/kbroman/Talk_Graphs/tree/cmp2014)\]
