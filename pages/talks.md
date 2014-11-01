@@ -7,6 +7,12 @@ title: talks
 
 ###  2014
 
+Interactive graphics for high-dimensional genetic data
+\[[html](http://www.biostat.wisc.edu/~kbroman/presentations/InteractiveGraphs4)
+| [github](https://github.com/kbroman/Talk_InteractiveGraphs4)\]<br/>
+[Department of Biostatistics](http://www.hsph.harvard.edu/biostatistics/),
+Harvard School of Public Health, Boston, Massachusetts (_Nov 6_)
+
 Open access publishing: A researcher's perspective
 \[[pdf](http://www.biostat.wisc.edu/~kbroman/presentations/openaccess2014.pdf) |
 [pdf w/notes](http://www.biostat.wisc.edu/~kbroman/presentations/openaccess2014_withnotes.pdf)
