@@ -5,7 +5,10 @@ title: teaching
 
 ### Current courses
 
-#### [Tools for reproducible research](http://kbroman.org/Tools4RR) (BMI 826-003; Spring, 2014)
+#### [Tools for reproducible research](http://kbroman.org/Tools4RR) (BMI 826-003; Spring, 2015)
+
+- [Schedule](http://kbroman.org/Tools4RR/pages/schedule.html)
+- [Resources and further reading](http://kbroman.org/Tools4RR/pages/resources.html)
 
 #### Statistical methods for molecular biology (Stat 877), with many others
 
