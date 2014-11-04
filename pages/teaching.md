@@ -30,13 +30,13 @@ title: teaching
 [ICRISAT](http://www.icrisat.org), Patancheru, Andhra Pradesh, India
 (Dec 3-6, 2012)
 
-- Introduction to QTL mapping: 
+- Introduction to QTL mapping:
   \[[pdf (381k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Hyderabad/intro.pdf) |
   [b/w pdf, 2 slides per page](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Hyderabad/intro_2up.pdf)\]
-- Multiple QTL mapping: 
+- Multiple QTL mapping:
   \[[pdf (4.9M)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Hyderabad/multiqtl.pdf) |
   [b/w, 2 slides per page](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Hyderabad/multiqtl_2up.pdf)\]
-- [R/qtl](http://www.rqtl.org) laboratory: 
+- [R/qtl](http://www.rqtl.org) laboratory:
   \[[pdf (91k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Hyderabad/rqtltour3.pdf) |
   [code](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Hyderabad/rqtltour3.R)\]
 
@@ -65,61 +65,61 @@ Sep 27-Oct 4, 2014
 
 Sep 8-14, 2013
 
-- Introduction to QTL mapping: 
+- Introduction to QTL mapping:
 [pdf (382k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2013/intro_2up.pdf)
-- Multiple QTL mapping: 
+- Multiple QTL mapping:
   [pdf (5.2M)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2013/multiqtl_2up.pdf)
-- [R/qtl](http://www.rqtl.org) laboratory: 
+- [R/qtl](http://www.rqtl.org) laboratory:
   [pdf (50k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2013/rqtltour2.pdf)
   | [code](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2013/rqtltour2.R)
 
 Oct 28-Nov 4, 2012
 
-- Introduction to QTL mapping: 
+- Introduction to QTL mapping:
   [pdf (381k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2012/intro_2up.pdf)
-- Multiple QTL mapping: 
+- Multiple QTL mapping:
   [pdf (5.2M)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2012/multiqtl_2up.pdf)
-- [R/qtl](http://www.rqtl.org) laboratory: 
+- [R/qtl](http://www.rqtl.org) laboratory:
   [pdf (50k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2012/rqtltour2.pdf)
   | [code](Jax/2012/rqtltour2.R)
 
 Oct 2-9, 2011
 
-- Introduction to QTL mapping: 
+- Introduction to QTL mapping:
   [pdf (1.2M)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2011/intro_2up.pdf)
-- Multiple QTL mapping: 
+- Multiple QTL mapping:
   [pdf (4.9M)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2011/multiqtl_2up.pdf)
-- [R/qtl](http://www.rqtl.org) laboratory: 
+- [R/qtl](http://www.rqtl.org) laboratory:
   [pdf (51k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2011/rqtltour2.pdf)
   | [code](Jax/2011/rqtltour2.R)
 
 Sep 19-25, 2010
 
-- Introduction to QTL mapping: 
+- Introduction to QTL mapping:
   [pdf (268k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2010/intro_2up.pdf)
-- Multiple QTL mapping: 
+- Multiple QTL mapping:
   [pdf (4.8M)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2010/multiqtl_2up.pdf)
-- [R/qtl](http://www.rqtl.org) laboratory: 
+- [R/qtl](http://www.rqtl.org) laboratory:
   [pdf (51k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2010/rqtltour2.pdf)
   | [code](Jax/2010/rqtltour2.R)
 
 Oct 19-25, 2009
 
-- Introduction to QTL mapping: 
+- Introduction to QTL mapping:
   [pdf (268k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2009/intro_2up.pdf)
-- Multiple QTL mapping: 
+- Multiple QTL mapping:
   [pdf (4.8M)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2009/multiqtl_2up.pdf)
-- [R/qtl](http://www.rqtl.org) laboratory: 
+- [R/qtl](http://www.rqtl.org) laboratory:
   [pdf (51k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2009/rqtltour2.pdf)
   | [code](Jax/2009/rqtltour2.R)
 
 Sep 23-29, 2008
 
-- Introduction to QTL mapping: 
+- Introduction to QTL mapping:
   [pdf (268k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2008/intro_2up.pdf)
-- Multiple QTL mapping: 
+- Multiple QTL mapping:
   [pdf (813k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2008/multiqtl_2up.pdf)
-- [R/qtl](http://www.rqtl.org) laboratory: 
+- [R/qtl](http://www.rqtl.org) laboratory:
   [pdf (138k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2008/rqtltour.pdf)
   | [code](Jax/2008/rqtltour.R)
 
@@ -129,41 +129,41 @@ Sep 23-29, 2008
 
 Oct 11-17, 2007
 
-- Introduction to QTL mapping: 
+- Introduction to QTL mapping:
   [pdf (4.2M)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2007/qtlhandout.pdf)
-- [R/qtl](http://www.rqtl.org) laboratory: 
+- [R/qtl](http://www.rqtl.org) laboratory:
   [pdf (125k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2007/rqtltour.pdf)
   | [code](Jax/2007/rqtltour.R)
 
 Sep 16-22, 2006
 
-- Introduction to QTL mapping: 
+- Introduction to QTL mapping:
   [pdf (491k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2006/qtlhandout.pdf)
-- [R/qtl](http://www.rqtl.org) laboratory: 
+- [R/qtl](http://www.rqtl.org) laboratory:
   [pdf (69k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2006/rqtltour.pdf)
   | [code](Jax/2006/rqtltour.R)
 
 Oct 5-11, 2005
 
-- Introduction to QTL mapping: 
+- Introduction to QTL mapping:
   [pdf (453k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2005/qtlhandout.pdf)
-- [R/qtl](http://www.rqtl.org) laboratory: 
+- [R/qtl](http://www.rqtl.org) laboratory:
   [pdf (69k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2005/rqtltour.pdf)
   | [code](Jax/2005/rqtltour.R)
 
 Sep 16-22, 2004
 
-- Introduction to QTL mapping: 
+- Introduction to QTL mapping:
   [pdf (460k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2004/qtlhandout.pdf)
-- [R/qtl](http://www.rqtl.org) laboratory: 
+- [R/qtl](http://www.rqtl.org) laboratory:
   [pdf (69k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2004/rqtltour.pdf)
   | [code](Jax/2004/rqtltour.R)
 
 Oct 9-15, 2003
 
-- Introduction to QTL mapping: 
+- Introduction to QTL mapping:
   [pdf (477k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2003/qtlhandouts.pdf)
-- [R/qtl](http://www.rqtl.org) laboratory: 
+- [R/qtl](http://www.rqtl.org) laboratory:
   [pdf (54k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2003/rqtllab.pdf) | [code](Jax/2003/rqtllab.R)
 
 Sep 18-24, 2002
@@ -194,7 +194,7 @@ to Animal Testing](http://caat.jhsph.edu), Johns Hopkins University<br/>
 -  Handout:
   \[[color pdf (5.1M)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/humanesci_color.pdf) |
   [B/W pdf (4.1M)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/humanesci_bw.pdf)\]
-      
+
 ---
 
 #### Recombination and linkage
@@ -222,7 +222,7 @@ Human Genetics, Johns Hopkins School of Medicine <br/>
 12 Feb 2002:  [pdf (750k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/quantGenet/quantGenet2.pdf)<br/>
 16 Feb 2001:  [pdf (587k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/quantGenet/quantGenet.pdf)<br/>
 18 Feb 2000:  [pdf (587k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/quantGenet/quantGenet.pdf)
-    
+
 
 ---
 
@@ -255,7 +255,7 @@ Summer, 2006
 - [R/qtl](http://www.rqtl.org) lab:
   [pdf (70k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2006/rqtllab.pdf) |
   [code](http://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2006/rqtllab.R)
-        
+
 
 Summer, 2005
 
@@ -265,7 +265,7 @@ Summer, 2005
 - [R/qtl](http://www.rqtl.org) lab:
   [pdf (68k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2005/rqtllab.pdf) |
   [code](http://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2005/rqtllab.R)
-        
+
 
 Summer, 2004
 
@@ -275,7 +275,7 @@ Summer, 2004
 - [R/qtl](http://www.rqtl.org) lab:
   [pdf (67k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2004/rqtllab.pdf) |
   [code](http://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2004/rqtllab.R)
-        
+
 
 Summer, 2003
 
@@ -284,7 +284,7 @@ Summer, 2003
 - HMMs and the pseudomarker algorithm: [pdf (1186k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2003/hmm_imp_ho.pdf)
 - [R/qtl](http://www.rqtl.org) lab:
   [pdf (69k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2003/rqtllab.pdf)
-        
+
 
 Summer, 2002
 
@@ -292,7 +292,7 @@ Summer, 2002
 - HMMs and the pseudomarker algorithm: [pdf (1312k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2002/session3_ho.pdf)
 - Model selection: [pdf (285k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2002/session4_ho.pdf)
 - [R/qtl](http://www.rqtl.org) description/demo: [pdf (24k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2002/rqtl_ho.pdf)
-    
+
 ---
 
 #### [Hopkins Biostatistics Student Computing Club](http://www.biostat.jhsph.edu/bit/compintro/)
@@ -335,14 +335,14 @@ How to build a web page<br/>
 
 #### [Special topics in genetics and genomics](http://www.biostat.wisc.edu/~kbroman/teaching/statgen) (140.668)
 
-#### [Statistics for laboratory scientists](http://www.biostat.wisc.edu/~kbroman/teaching/labstat) (140.615-616) 
+#### [Statistics for laboratory scientists](http://www.biostat.wisc.edu/~kbroman/teaching/labstat) (140.615-616)
 
-#### [Statistical computing](http://www.biostat.jhsph.edu/~bcaffo/statcomp) (140.776) 
+#### [Statistical computing](http://www.biostat.jhsph.edu/~bcaffo/statcomp) (140.776)
 
-- Coding practices: 
+- Coding practices:
   \[[pdf (35k)](http://www.biostat.wisc.edu/~kbroman/teaching/statprog/coding_ho.pdf) |
   [books](statprog/coding_refs.html)\]
-- C Programming I: 
+- C Programming I:
   \[[pdf (56k)](http://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog1_ho.pdf) |
   [books](http://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog_refs.html) |
   [Example code (c_code_1.tgz)](http://www.biostat.wisc.edu/~kbroman/teaching/statprog/c_code_1.tgz)\]
@@ -353,10 +353,10 @@ How to build a web page<br/>
   \[[pdf (14k)](http://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog3_ho.pdf) |
   [Example code (c_code_3.tgz)](http://www.biostat.wisc.edu/~kbroman/teaching/statprog/c_code_3.tgz)\]
 
-#### [Introduction to computing](http://www.biostat.wisc.edu/~kbroman/teaching/compintro) 
+#### [Introduction to computing](http://www.biostat.wisc.edu/~kbroman/teaching/compintro)
 
 #### [Genetics for statisticians](http://www.biostat.wisc.edu/~kbroman/teaching/gen4stat/index.html) (140.667)
 
-#### [Statistical genetics](http://www.biostat.wisc.edu/~kbroman/teaching/statgen_old/index.html) (140.668) 
+#### [Statistical genetics](http://www.biostat.wisc.edu/~kbroman/teaching/statgen_old/index.html) (140.668)
 
 #### [Advanced statistical computing](http://www.biostat.wisc.edu/~kbroman/teaching/statcomp/index.html) (140.778)
