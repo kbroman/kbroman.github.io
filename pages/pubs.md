@@ -74,7 +74,7 @@ Kwak I-Y, Moore CR, Spalding EP, **Broman
 **Broman KW** (2014) Fourteen years of R/qtl: Just
   barely sustainable. [J Open Res Softw](http://openresearchsoftware.metajnl.com/)
   2(1):e11
-  [![Abstract](icons16/pubmed-icon.png)](http://openresearchsoftware.metajnl.com/article/view/jors.at/43) [![pdf (948k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/rqtl_14yrs.pdf) [![Source on GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_Rqtl_Experiences)
+  [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/25364504) [![pdf (948k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/rqtl_14yrs.pdf) [![Source on GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_Rqtl_Experiences)
 <!-- * 129 * -->
 
 Rowsey R, Gruhn J, **Broman KW**, Hunt
