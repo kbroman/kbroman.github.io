@@ -10,17 +10,17 @@ research in statistical genetics; developer of
 [R/qtl](http://www.rqtl.org) (for [R](http://www.r-project.org)).
 
 Karl received a BS in [mathematics](http://www4.uwm.edu/letsci/math/)
-in 1991, from the 
+in 1991, from the
 University of Wisconsin&ndash;Milwaukee, and a
-PhD in [Statistics](http://www.stat.berkeley.edu) in 1997, from the
+PhD in [statistics](http://www.stat.berkeley.edu) in 1997, from the
 University of California, Berkeley; his PhD advisor was
 [Terry Speed](http://www.wehi.edu.au/faculty_members/professor_terry_speed).
 He was a postdoctoral fellow with [James Weber](https://www.preventiongenetics.com/about-us/senior-staff/) at the
 [Marshfield Clinic Research Foundation](http://research.marshfieldclinic.org),
 1997-1999. He
-was a faculty member in the Department of Biostatistics at Johns
+was a faculty member in the [Department of Biostatistics](http://www.jhsph.edu/departments/biostatistics/) at Johns
 Hopkins University, 1999-2007. In 2007, he moved to the
-University of Wisconsin&ndash;Madison,
+[University of Wisconsin&ndash;Madison](http://www.wisc.edu),
 where he is now Professor.
 
 Karl is an applied statistician focusing on problems in genetics and
