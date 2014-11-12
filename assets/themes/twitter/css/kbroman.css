@@ -7,7 +7,17 @@ code {
 }
 
 a code {
-  color: #08c;
+    color: #slateblue;
+}
+
+a {
+    color: #slateblue;
+}
+
+a:hover {
+    color: darkslateblue;
+    background-color: #e3e4fa;
+    text-decoration: none;
 }
 
 p.center {
@@ -33,4 +43,9 @@ td.right {
 
 #hide_email b {
     display: none;
+}
+
+
+h1, h2, h3, h4 {
+    color: darkslateblue;
 }
