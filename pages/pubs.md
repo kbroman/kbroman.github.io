@@ -29,9 +29,12 @@ title: publications
 
 ### <a name="articles"></a>journal articles
 
-<!--
-#### To appear
--->
+
+#### In preparation
+
+**Broman KW**. R/qtlcharts: interactive graphics for quantitative
+trait locus mapping. In preparation.
+[![pdf](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/rqtlcharts.pdf)
 
 #### 2014
 
