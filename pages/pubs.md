@@ -30,10 +30,10 @@ title: publications
 ### <a name="articles"></a>journal articles
 
 
-#### In preparation
+#### Submitted
 
 **Broman KW**. R/qtlcharts: interactive graphics for quantitative
-trait locus mapping. In preparation.
+trait locus mapping. Submitted to [Genetics](http://genetics.org)
 [![pdf](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/rqtlcharts.pdf)
 
 #### 2014
