@@ -33,7 +33,10 @@ title: publications
 #### Submitted
 
 **Broman KW**. R/qtlcharts: interactive graphics for quantitative
-trait locus mapping. Submitted to [Genetics](http://genetics.org)
+trait locus
+mapping. [bioRxiv](http://biorxiv.org/content/early/2014/11/14/011437),
+[dx.doi.org/10.1101/011437](dx.doi.org/10.1101/011437).
+Submitted to [Genetics](http://genetics.org)
 [![pdf](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/rqtlcharts.pdf)
 
 #### 2014
