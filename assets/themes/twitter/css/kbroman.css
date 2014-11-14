@@ -20,6 +20,17 @@ a:hover {
     text-decoration: none;
 }
 
+a img {
+    border: solid 2px white;
+}
+
+a:hover img {
+    color: darkslateblue;
+    background-color: #e3e4fa;
+    text-decoration: none;
+    border: solid 2px #e3e4fa;
+}
+
 p.center {
     text-align: center;
 }
