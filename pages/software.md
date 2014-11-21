@@ -43,7 +43,7 @@ An [R](http://www.r-project.org) package with
 ---
 
 #### <a name="D3"></a>[D3 examples](https://www.biostat.wisc.edu/~kbroman/D3/)
-    
+
 Various examples of [D3](http://d3js.org)-based interactive graphs.
 
 ---
@@ -54,13 +54,15 @@ Various R functions that I find useful, assembled into an R package.
 
 ---
 
-#### <a name="aRxiv"></a>[aRxiv](http://github.com/ropensci/aRxiv)
+#### <a name="aRxiv"></a>[aRxiv](http://github.com/ropensci/aRxiv) and
+     <a name="IEEER"></a>[IEEER](https://github.com/ropensci/IEEER)
 
-An [R](http://www.r-project.org) package for searching
-[arXiv](http://arxiv.org), an archive of electronic preprints for
+[R](http://www.r-project.org) packages for searching
+[arXiv](http://arxiv.org) (an archive of electronic preprints for
 computer science, mathematics, physics, quantitative biology,
-quantitative finance, and statistics. The
-[aRxiv package](https://github.com/ropensci/aRxiv) is part of the
+quantitative finance, and statistics) and
+[IEEE journals](http://ieeexplore.ieee.org/Xplore/home.jsp), respectively.
+These packages are part of the
 [rOpenSci project](http://ropensci.org).
 
 ---
@@ -162,7 +164,7 @@ Sun's program [PREST](http://galton.uchicago.edu/~mcpeek/software/prest/).  It h
 more extensive set of statistics, includes measures of statistical
 significance, and also looks at avuncular and first cousin
 relationships.  Other alternatives include the programs Borel,
-Relpair, Relative, Reltype and Siberror.  Go to the 
+Relpair, Relative, Reltype and Siberror.  Go to the
 [Rockefeller software list](http://www.jurgott.org/linkage/ListSoftware.html)
 to find these programs.
 
