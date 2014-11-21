@@ -48,13 +48,13 @@ Various examples of [D3](http://d3js.org)-based interactive graphs.
 
 ---
 
-#### <a name="broman"></a>[R/broman](http://github.com/kbroman/broman)
+#### <a name="broman"></a>[R/broman](https://github.com/kbroman/broman)
 
 Various R functions that I find useful, assembled into an R package.
 
 ---
 
-#### <a name="aRxiv"></a>[aRxiv](http://github.com/ropensci/aRxiv) and
+#### <a name="aRxiv"></a>[aRxiv](https://github.com/ropensci/aRxiv) and
      <a name="IEEER"></a>[IEEER](https://github.com/ropensci/IEEER)
 
 [R](http://www.r-project.org) packages for searching
@@ -67,7 +67,7 @@ These packages are part of the
 
 ---
 
-#### <a name="lineup"></a>[R/lineup](http://github.com/kbroman/lineup)
+#### <a name="lineup"></a>[R/lineup](https://github.com/kbroman/lineup)
 
 An [R](http://www.r-project.org) package for detecting and correcting
 sample mix-ups between two sets of measurements, such as between gene
@@ -75,7 +75,7 @@ expression data on two tissues.
 
 ---
 
-#### <a name="simcross"></a>[R/simcross](http://github.com/kbroman/simcross)
+#### <a name="simcross"></a>[R/simcross](https://github.com/kbroman/simcross)
 
 An [R](http://www.r-project.org) package for simulating general
 experimental crosses (such as advanced intercross lines and the
@@ -83,7 +83,7 @@ diversity outcross), for use with [R/qtl](http://www.rqtl.org).
 
 ---
 
-#### <a name="xoi"></a>[R/xoi](http://github.com/kbroman/xoi)
+#### <a name="xoi"></a>[R/xoi](https://github.com/kbroman/xoi)
 
 An [R](http://www.r-project.org) package for the analysis of crossover
 interference in experimental crosses, particularly regarding the gamma
@@ -91,7 +91,7 @@ model.
 
 ---
 
-#### <a name="ricalc"></a>[R/ricalc](http://github.com/kbroman/ricalc)
+#### <a name="ricalc"></a>[R/ricalc](https://github.com/kbroman/ricalc)
 
 Software for calculation of two- and three-locus probabilities in
 multiple-strain recombinant inbred lines, and the simulation of such lines.
@@ -102,7 +102,7 @@ recombinant inbred lines.  [Genetics](http://www.genetics.org/) 169:1133-1146
 
 ---
 
-#### <a name="negenes"></a>[R/negenes](http://github.com/kbroman/negenes)
+#### <a name="negenes"></a>[R/negenes](https://github.com/kbroman/negenes)
 
 Software for estimating the number of essential genes in a genome
 on the basis of data from a random transposon mutagenesis experiment.
@@ -111,7 +111,7 @@ See the related [technical report](https://www.biostat.wisc.edu/~kbroman/publica
 
 ---
 
-#### <a name="npem"></a>[R/npem](http://github.com/kbroman/npem)
+#### <a name="npem"></a>[R/npem](https://github.com/kbroman/npem)
 
 Software for analyzing cell proliferation assays using the
 normal-Poisson mixture model described by Broman et al.
@@ -119,7 +119,7 @@ normal-Poisson mixture model described by Broman et al.
 
 ---
 
-#### <a name="fingers"></a>[R/fingers](http://github.com/kbroman/fingers)
+#### <a name="fingers"></a>[R/fingers](https://github.com/kbroman/fingers)
 
 Software for the inference of full sibling families with data on
 dominant genetic markers (such as RAPDs), following the hierarchicical
@@ -129,14 +129,14 @@ Black IV.
 
 ---
 
-#### <a name="geesibsor"></a>[R/geesibsor](http://github.com/kbroman/geesibsor)
+#### <a name="geesibsor"></a>[R/geesibsor](https://github.com/kbroman/geesibsor)
 
 Software for estimating the odds ratio for siblings for a binary
 phenotype, adjusting for covariates, using generalized estimating equations.
 
 ---
 
-#### <a name="qtlsim"></a>[R/qtlsim](http://github.com/kbroman/qtlsim)
+#### <a name="qtlsim"></a>[R/qtlsim](https://github.com/kbroman/qtlsim)
 
 Software for testing, by computer simulation, various approaches
 to mapping QTLs in a backcross experiment.  This was written for the
