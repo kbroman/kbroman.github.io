@@ -54,8 +54,7 @@ Various R functions that I find useful, assembled into an R package.
 
 ---
 
-#### <a name="aRxiv"></a>[aRxiv](https://github.com/ropensci/aRxiv) and
-     <a name="IEEER"></a>[IEEER](https://github.com/ropensci/IEEER)
+#### <a name="aRxiv"></a>[aRxiv](https://github.com/ropensci/aRxiv) and <a name="IEEER"></a>[IEEER](https://github.com/ropensci/IEEER)
 
 [R](http://www.r-project.org) packages for searching
 [arXiv](http://arxiv.org) (an archive of electronic preprints for
