@@ -3,7 +3,7 @@ layout: page
 title: tutorials
 ---
 
-- [initial steps towards reproducible research](http://kbroman.org/steps2rr)
+- [initial steps toward reproducible research](http://kbroman.org/steps2rr)
 - [git/github guide](http://kbroman.org/github_tutorial)
 - [minimal make](http://kbroman.org/minimal_make)
 - [knitr in a knutshell](http://kbroman.org/knitr_knutshell)
