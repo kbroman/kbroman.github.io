@@ -1,6 +1,8 @@
 ---
 layout: frontpage
 title: Karl Broman
+description: Karl Broman is Professor in Biostatistics &amp; Medical Informatics at University of Wisconsin - Madison; research in statistical genetics
+keywords: Broman, QTL, R/qtl, quantitative trait loci, statistics, statistical genetics, recombination
 ---
 
 <div class="navbar">
@@ -40,7 +42,7 @@ title: Karl Broman
   </td>
 </tr>
 </table>
-  
+
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
