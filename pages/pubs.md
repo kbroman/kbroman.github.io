@@ -1,6 +1,7 @@
 ---
 layout: page
 title: publications
+description: Karl Broman's publications
 ---
 
 <div class="navbar">
