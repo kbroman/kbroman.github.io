@@ -33,12 +33,23 @@ description: Karl Broman's publications
 
 #### To appear
 
+Whitney KD, **Broman KW**, Kane NC, Hovick SM, Randell RA, Rieseberg
+LH. QTL mapping identifies candidate alleles involved in adaptive
+introgression and range expansion in a wild
+sunflower. [Mol Ecol](http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291365-294X),
+to appear
+[![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/25522096)
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/whitney2015.pdf)
+<!-- * 135 * -->
+
 **Broman KW**. R/qtlcharts: interactive graphics for quantitative
 trait locus
 mapping. [bioRxiv](http://biorxiv.org/content/early/2014/11/14/011437),
 [dx.doi.org/10.1101/011437](http://dx.doi.org/10.1101/011437).
 [Genetics](http://genetics.org), to appear
+[![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/25527287)
 [![pdf](icons16/pdf-icon.png)](http://biorxiv.org/content/biorxiv/early/2014/11/14/011437.full.pdf)
+<!-- * 134 * -->
 
 #### 2014
 
