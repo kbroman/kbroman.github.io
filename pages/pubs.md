@@ -44,8 +44,7 @@ to appear
 
 **Broman KW**. R/qtlcharts: interactive graphics for quantitative
 trait locus
-mapping. [bioRxiv](http://biorxiv.org/content/early/2014/11/14/011437),
-[dx.doi.org/10.1101/011437](http://dx.doi.org/10.1101/011437).
+mapping.
 [Genetics](http://genetics.org), to appear
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/25527287)
 [![pdf](icons16/pdf-icon.png)](http://biorxiv.org/content/biorxiv/early/2014/11/14/011437.full.pdf)
