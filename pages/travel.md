@@ -206,7 +206,7 @@ title: travel
 - [AAAS meeting](http://meetings.aaas.org/), Feb 12-16, 2015 (San Diego, CA)
 - Genome to Phenome Symposium, Mar 25-27, 2015 (Brisbane, Australia)
 - Software Carpentry workshop, Apr 27-28, 2015 (Pullman, WA)
-- CTC meeting, June 8-11, 2015 (Portland, OR)
+- [CTC meeting](http://www.ohsu.edu/parc/CTC2015), June 8-11, 2015 (Portland, OR)
 - [JSM 2015](http://www.amstat.org/meetings/jsm/2015/), Aug 8-13, 2015 (Seattle, WA)
 - [Systems Genetics course](http://courses.jax.org/2015/systems-genetics.html),
   The Jackson Lab, Sep 27-Oct 3, 2015 (Bar Harbor, ME)
