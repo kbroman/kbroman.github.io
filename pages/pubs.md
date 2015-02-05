@@ -42,12 +42,13 @@ to appear
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/whitney2015.pdf)
 <!-- * 135 * -->
 
-**Broman KW**. R/qtlcharts: interactive graphics for quantitative
-trait locus
-mapping.
-[Genetics](http://genetics.org), to appear
+#### 2015
+
+**Broman KW** (2015) R/qtlcharts: interactive graphics for quantitative
+trait locus mapping.
+[Genetics](http://genetics.org) 199:359-361
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/25527287)
-[![pdf](icons16/pdf-icon.png)](http://biorxiv.org/content/biorxiv/early/2014/11/14/011437.full.pdf)
+[![pdf](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/rqtlcharts.pdf)
 <!-- * 134 * -->
 
 #### 2014
