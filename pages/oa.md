@@ -54,11 +54,11 @@ ex/g27-copyrightable-instructions-materials-ownership-use-and-control/),
 ### Other policies
 
 - [University of Minnesota](https://www.lib.umn.edu/openaccess) \[[policy](http://www.policy.umn.edu/Policies/Research/SCHOLARLYARTICLES.html)
-  | [repository](http://conservancy.umn.edu/)\]
+  | [repository](http://conservancy.umn.edu/) | [FAQ](http://www.policy.umn.edu/Policies/Research/SCHOLARLYARTICLES_FAQ.html)\]
 
 - [University of Kansas](http://openaccess.ku.edu/) \[[policy](http://policy.ku.edu/governance/open-access-policy)
-  | [repository](http://kuscholarworks.ku.edu/)\]
+  | [repository](http://kuscholarworks.ku.edu/) | [FAQ](http://openaccess.ku.edu/sites/openaccess.drupal.ku.edu/files/docs/OA_QA-KU%206-4-2013.pdf)\]
 
 - [University of California](http://osc.universityofcalifornia.edu/open-access-policy/)
   \[[policy](http://osc.universityofcalifornia.edu/open-access-policy/policy-text/)
-  | [repository](http://www.escholarship.org/)\]
+  | [repository](http://www.escholarship.org/) | [FAQ](http://osc.universityofcalifornia.edu/open-access-policy/policy-faq/)\]
