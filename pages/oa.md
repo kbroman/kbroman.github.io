@@ -39,19 +39,19 @@ ex/g27-copyrightable-instructions-materials-ownership-use-and-control/),
 
 - [Addendum to publication agreements for CIC authors](http://www.library.wisc.edu/wp-content/uploads/2014/05/author_addendum.pdf)
 
-- [Copyright on campus](http://legal.wisc.edu/documents/COPYRIGHT_ON_CAMPUS_2014.pdf),
-  slides from Brigid Daly, Associate University Legal Counsel, Office
-  of Legal Affairs, UW System
-
 ### General resources
-
-- [Open doors and open minds: What faculty authors can do to ensure open access to their work through their institution](http://www.sciencecommons.org/wp-content/uploads/opendoors_v1.pdf). (White paper from [Sparc](http://www.sparc.arl.org/))
 
 - [Good practices for university open-access policies](http://cyber.law.harvard.edu/hoap/Good_practices_for_university_open-access_policies),
   from [Havard Open Access Project](http://cyber.law.harvard.edu/hoap/Main_Page)
 
+- [Open doors and open minds: What faculty authors can do to ensure open access to their work through their institution](http://www.sciencecommons.org/wp-content/uploads/opendoors_v1.pdf). (White paper from [Sparc](http://www.sparc.arl.org/))
+
 - [Copyright FAQ](http://www.library.wisc.edu/help/copyright/managing-your-copyright/personal-copyright-faq/),
   UW-Madison Libraries
+
+- [Copyright on campus](http://legal.wisc.edu/documents/COPYRIGHT_ON_CAMPUS_2014.pdf),
+  slides from Brigid Daly, Associate University Legal Counsel, Office
+  of Legal Affairs, UW System
 
 ### Other policies
 
