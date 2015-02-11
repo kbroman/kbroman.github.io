@@ -17,7 +17,7 @@ from
 Vice Provost for Libraries and University Librarian.
 
 
-### Current policies
+### Current UW policies
 
 - [Intellectual property policies and procedures for university research](https://kb.wisc.edu/images/group156/32996/12.15IntellectualPropertyPoliciesandProceduresforUniversityResearch.pdf),
   UW-Madison Graduate School
@@ -36,6 +36,8 @@ ex/g27-copyrightable-instructions-materials-ownership-use-and-control/),
   > this policy paper belong solely to the author.
 
 - [Addendum to publication agreements for CIC authors](http://www.library.wisc.edu/wp-content/uploads/2014/05/author_addendum.pdf)
+
+- [Minds@UW digital collections](http://uwdcc.library.wisc.edu/minds)
 
 ### General resources
 
