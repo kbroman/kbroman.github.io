@@ -33,18 +33,34 @@ ex/g27-copyrightable-instructions-materials-ownership-use-and-control/),
   UW System
 
   > copyrightable instructional materials developed under the
-  > conditions identified in sections II.B.1. and 2. [Internal use] of
+  > conditions identified in sections II.B.1. and
+  > 2. \[no or minimal UW support or involvement\] of
   > this policy paper belong solely to the author.
+
+- [Addendum to publication agreements for CIC authors](http://www.library.wisc.edu/wp-content/uploads/2014/05/author_addendum.pdf)
+
+- [Copyright on campus](http://legal.wisc.edu/documents/COPYRIGHT_ON_CAMPUS_2014.pdf),
+  slides from Brigid Daly, Associate University Legal Counsel, Office
+  of Legal Affairs, UW System
 
 ### General resources
 
-- [Open doors and open minds: What faculty authors can do to ensure open access to their work through their institution](http://www.sciencecommons.org/wp-content/uploads/opendoors_v1.pdf). (White paper from [Sparc](http://www.sparc.arl.org/)
+- [Open doors and open minds: What faculty authors can do to ensure open access to their work through their institution](http://www.sciencecommons.org/wp-content/uploads/opendoors_v1.pdf). (White paper from [Sparc](http://www.sparc.arl.org/))
+
+- [Good practices for university open-access policies](http://cyber.law.harvard.edu/hoap/Good_practices_for_university_open-access_policies),
+  from [Havard Open Access Project](http://cyber.law.harvard.edu/hoap/Main_Page)
+
+- [Copyright FAQ](http://www.library.wisc.edu/help/copyright/managing-your-copyright/personal-copyright-faq/),
+  UW-Madison Libraries
 
 ### Other policies
 
-- [University of Minnesota](https://www.lib.umn.edu/openaccess) \[[policy](http://www.policy.umn.edu/Policies/Research/SCHOLARLYARTICLES.html)\]
+- [University of Minnesota](https://www.lib.umn.edu/openaccess) \[[policy](http://www.policy.umn.edu/Policies/Research/SCHOLARLYARTICLES.html)
+  | [repository](http://conservancy.umn.edu/)\]
 
-- [University of Kansas](http://openaccess.ku.edu/) \[[policy](http://policy.ku.edu/governance/open-access-policy)\]
+- [University of Kansas](http://openaccess.ku.edu/) \[[policy](http://policy.ku.edu/governance/open-access-policy)
+  | [repository](http://kuscholarworks.ku.edu/)\]
 
 - [University of California](http://osc.universityofcalifornia.edu/open-access-policy/)
-  \[[policy](http://osc.universityofcalifornia.edu/open-access-policy/policy-text/)\]
+  \[[policy](http://osc.universityofcalifornia.edu/open-access-policy/policy-text/)
+  | [repository](http://www.escholarship.org/)\]
