@@ -3,21 +3,19 @@ layout: page
 title: Toward an Open Access Policy for UW-Madison
 ---
 
-I am the 2014&ndash;2015 Chair of the
+The
 [University Library Committee](https://www.library.wisc.edu/about/university-library-committee/)
-at the [University of Wisconsin&ndash;Madison](http://www.wisc.edu).
-One of the main things I would like to achieve in this role is to get
-UW-Madison to enact an Open Access Policy, through which university
-researchers would give UW-Madison the right to freely distribute
-pre-prints of all published manuscripts.
+at the [University of Wisconsin&ndash;Madison](http://www.wisc.edu)
+has formed a working group to develop an Open Access Policy for
+UW&ndash;Madison, through which university researchers would give
+UW&ndash;Madison the right to freely distribute pre-prints of all
+published journal articles.
 
-We have formed a working group to develop an open access
-policy. ([See its instructions](../assets/OAWG_Charge_112014pdf.pdf)
+[See the working group's instructions](../assets/OAWG_Charge_112014pdf.pdf)
 from
 [Edward Van Gemert](http://www.library.wisc.edu/about/directory/staff/Edward-Van-Gemert/),
-Vice Provost for Libraries and University Librarian.)
+Vice Provost for Libraries and University Librarian.
 
-Here I provide provide links to some resources related to the topic.
 
 ### Current policies
 
