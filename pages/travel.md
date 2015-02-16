@@ -201,9 +201,10 @@ title: travel
 
 - Jackson Lab, Jan 6-9, 2015 (Bar Harbor, Maine)
 
+- [AAAS meeting](https://aaas.confex.com/aaas/2015/webprogram/start.html), Feb 12-16, 2015 (San Jose, CA)
+
 -->
 
-- [AAAS meeting](https://aaas.confex.com/aaas/2015/webprogram/start.html), Feb 12-16, 2015 (San Jose, CA)
 - Genome to Phenome Symposium, Mar 25-27, 2015 (Brisbane, Australia)
 - [Software Carpentry workshop](http://karawoo.com/2015-04-27-wsu/), Apr 27-28, 2015 (Pullman, WA)
 - [CTC meeting](http://www.ohsu.edu/parc/CTC2015), June 8-11, 2015 (Portland, OR)
