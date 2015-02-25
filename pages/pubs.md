@@ -7,7 +7,7 @@ description: Karl Broman's publications
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#books">books</a></li>
+            <li><a href="#book">book</a></li>
             <li><a href="#articles">articles</a></li>
             <li><a href="#editorials">editorials</a></li>
             <li><a href="#letters">letters</a></li>
@@ -19,7 +19,7 @@ description: Karl Broman's publications
 </div>
 
 
-### <a name="books"></a>books
+### <a name="book"></a>book
 
 
 **Broman KW**, Sen &#346; (2009) A Guide to QTL Mapping with R/qtl.  Springer, New York
