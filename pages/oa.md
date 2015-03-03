@@ -64,3 +64,5 @@ ex/g27-copyrightable-instructions-materials-ownership-use-and-control/),
 - [University of California](http://osc.universityofcalifornia.edu/open-access-policy/)
   \[[policy](http://osc.universityofcalifornia.edu/open-access-policy/policy-text/)
   | [repository](http://www.escholarship.org/) | [FAQ](http://osc.universityofcalifornia.edu/open-access-policy/policy-faq/)\]
+
+- [Annotated/deconstructed version of those policies](http://localhost:4000/pages/annotated_oa.html)
