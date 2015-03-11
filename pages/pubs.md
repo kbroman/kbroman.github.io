@@ -438,6 +438,7 @@ Sen &#346;, Satagopan JM, **Broman KW**, Churchill GA (2007)  R/qtlDesign: Inbre
 line cross experimental design.  [Mamm
 Genome](http://www.springerlink.com/content/1432-1777/) 18:87-93
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/17347894) [![pdf (138k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/saunak_design.pdf)
+[![R/qtlDesign software](icons16/R-icon.png)](http://www.epibiostat.ucsf.edu/biostat/sen/qtldesign-software)
 <!-- * 69 * -->
 
 Lemmerhirt HL, **Broman
