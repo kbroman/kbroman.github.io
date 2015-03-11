@@ -49,6 +49,8 @@ trait locus mapping.
 [Genetics](http://genetics.org) 199:359-361
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/25527287)
 [![pdf](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/rqtlcharts.pdf)
+[![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_Rqtlcharts)
+[![R/qtlcharts software](icons16/R-icon.png)](http://kbroman.org/qtlcharts)
 <!-- * 134 * -->
 
 #### 2014
