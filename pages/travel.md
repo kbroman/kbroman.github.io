@@ -205,7 +205,7 @@ title: travel
 
 -->
 
-- Genome to Phenome Symposium, Mar 25-27, 2015 (Brisbane, Australia)
+- [Genome to Phenome Symposium](http://www.csiro.au/Portals/Events/Queensland/OCE_Genome-phenome.aspx), Mar 25-27, 2015 (Brisbane, Australia)
 - [Software Carpentry workshop](http://karawoo.com/2015-04-27-wsu/), Apr 27-28, 2015 (Pullman, WA)
 - [CTC meeting](http://www.ohsu.edu/parc/CTC2015), June 8-11, 2015 (Portland, OR)
 - [R/Bioconductor conference](http://bioconductor.org/help/course-materials/2015/BioC2015/),
