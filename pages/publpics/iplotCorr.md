@@ -13,7 +13,8 @@ title: R/qtlcharts example
 </div>
 
 [R/qtlcharts](http://kbroman.org/qtlcharts), an R package to create
-interactive data visualizations for QTL data
+interactive data visualizations for QTL data<br/>
+(see [Broman (2015) Genetics 199:359-361](http://www.ncbi.nlm.nih.gov/pubmed/25527287))
 
 [![R/qtlcharts example](../../assets/bigpublpics/iplotCorr.png)](http://kbroman.org/qtlcharts/example/iplotCorr.html)
 
