@@ -11,7 +11,7 @@ description: Karl Broman's talks
 Interactive graphics for high-dimensional genetic data
 \[[html](http://www.biostat.wisc.edu/~kbroman/presentations/WEHI2015)
 | [github](https://github.com/kbroman/Talk_WEHI2015)\]<br/>
-[Walter and Eliza Hall Institute of Medical Research](http://www.wehi.edu.au/)
+[Walter and Eliza Hall Institute of Medical Research](http://www.wehi.edu.au/),
 Melbourne, Australia (_Apr 1_)
 
 Opportunities and challenges in the genetic analysis of
