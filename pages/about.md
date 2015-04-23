@@ -41,7 +41,7 @@ his [D3 examples](http://www.biostat.wisc.edu/~kbroman/D3).
 ---
 
 <div class="container">
-<h4>contact</h4>
+<h4><a name="contact"></a>contact</h4>
 
     <div class="row-fluid">
         <div class="span5">
