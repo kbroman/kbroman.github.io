@@ -37,7 +37,7 @@ Whitney KD, **Broman KW**, Kane NC, Hovick SM, Randell RA, Rieseberg
 LH (2015) Quantitative trait locus mapping identifies candidate alleles involved in adaptive
 introgression and range expansion in a wild
 sunflower. [Mol Ecol](http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291365-294X)
-24: 2194-2211
+24:2194-2211
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/25522096)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/whitney2015.pdf)
 <!-- * 135 * -->
