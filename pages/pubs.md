@@ -461,7 +461,9 @@ mykiss</i>.  [Genetics](http://www.genetics.org) 175:335-347
 **Broman KW**, Sen &#346;, Owens SE,
 Manichaikul A, Southard-Smith EM, Churchill GA (2006)  The X chromosome
 in quantitative trait locus mapping.  [Genetics](http://www.genetics.org) 174:2151-2158
-[![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/17028340) [![pdf (169k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/xchr.pdf)
+[![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/17028340)
+[![pdf (169k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/xchr.pdf)
+[![Data](icons16/data-icon.png)](http://phenome.jax.org/db/q?rtn=projects/projdet&reqprojid=183)
 <!-- * 66 * -->
 
 Shrestha S, Smith MW, **Broman KW**,
