@@ -70,6 +70,7 @@ N, Cheng R, Pomp D, Palmer A, Chesler EJ, **Broman KW**, Churchill GA
 mice. [G3](http://g3journal.org) 4:1623-1633
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/25237114)
 [![pdf (2.5M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/gatti2014.pdf)
+[![Data](icons16/data-icon.png)](http://phenome.jax.org/db/q?rtn=projects/projdet&reqprojid=289)
 <!-- * 132 * -->
 
 Street VA, Kujawa SG, Manichaikul A, **Broman KW**, Kallman JC, Shilling DJ, Iwata AJ,
