@@ -4,7 +4,19 @@ title: teaching
 description: Karl Broman's teaching
 ---
 
-### Current courses
+<div class="navbar">
+    <div class="navbar-inner">
+        <ul class="nav">
+            <li><a href="#current">current courses</a></li>
+            <li><a href="#shortcourses">short courses</a></li>
+            <li><a href="#misc">misc lectures</a></li>
+            <li><a href="#old">former courses</a></li>
+        </ul>
+    </div>
+</div>
+
+
+### <a name="current"></a>Current courses
 
 #### [Tools for reproducible research](http://kbroman.org/Tools4RR) (BMI 826-003; Spring, 2015)
 
@@ -344,7 +356,7 @@ How to build a web page<br/>
 
 ---
 
-### Former courses at UW-Madison
+### <a name="old"></a>Former courses at UW-Madison
 
 #### [Statistical methods for QTL mapping](http://www.biostat.wisc.edu/~kbroman/teaching/qtltopics) (BMI 826-001; Fall, 2012)
 
