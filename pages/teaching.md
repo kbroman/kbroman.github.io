@@ -27,7 +27,7 @@ description: Karl Broman's teaching
 ---
 
 
-### <a name="misc"></a>Miscellaneous lectures
+### <a name="shortcourses"></a>Short courses
 
 #### [Software Carpentry](http://software-carpentry.org/)
 
@@ -194,58 +194,6 @@ Sep 18-24, 2002
 
 ---
 
-#### My experiences in statistical consulting
-
-Statistical Consulting course, [Department of Statistics](http://www.stat.wisc.edu), [UW&ndash;Madison](http://www.wisc.edu) <br/>
-
-- [Slides (pdf)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/consulting.pdf) [[source on github](http://github.com/kbroman/Talk_StatConsulting.git)]
-- [Related blog post](http://kbroman.wordpress.com/2013/04/02/thoughts-on-statistical-consulting/)
-
-
----
-
-#### [Experimental design, basic statistics, and sample size determination for animal-based research](http://oac.med.jhmi.edu/humane_site/topics/12A.html)<br/>
-
-[Enhancing Humane Science/Improving Animal Research course](http://oac.med.jhmi.edu/humane_site/index.html) <br/>
-[Center for Alternatives
-to Animal Testing](http://caat.jhsph.edu), Johns Hopkins University<br/>
-
--  Presentation: \[[ppt (1.2M)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/humanesci.ppt)\]
--  Handout:
-  \[[color pdf (5.1M)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/humanesci_color.pdf) |
-  [B/W pdf (4.1M)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/humanesci_bw.pdf)\]
-
----
-
-#### Recombination and linkage
-
-NS 881  ([Dale Schoeller](http://www.nutrisci.wisc.edu/FACULTYPAGES/f_schoeller.html)) <br/>
-[Department of Nutritional Sciences](http://www.nutrisci.wisc.edu/), [University of Wisconsin - Madison](http://www.wisc.edu)<br/>
-20 Feb 2008:  \[ [ppt (2.2M)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/NutritionCourse/nutrition_course_2008-02.ppt) | [pdf (1.1M)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/NutritionCourse/nutrition_handout.pdf) \]
-
-PHS 904 Genetic Epidemiology ([Engelman](http://www.pophealth.wisc.edu/faculty/cengelman.html)) <br/>
-[Population Health Sciences](http://www.pophealth.wisc.edu/), [University of Wisconsin - Madison](http://www.wisc.edu)<br/>
-24 Jan 2008:  \[ [ppt (3.8M)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/corinne/corinne_course_2008-01.ppt) | [pdf (1.3M)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Corinne/corinne_course_2008-01_handout.pdf) \]
-
-
----
-
-#### Identifying QTL in experimental crosses
-
-Advanced Topics in Human Genetics (Reeves and Feinberg)<br/>
-Human Genetics, Johns Hopkins School of Medicine <br/>
-9  Apr 2007:  [pdf (2.2M)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/quantGenet/qtlhandout07.pdf)<br/>
-27 Feb 2006:  [pdf (461k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/quantGenet/quantGenet4.pdf)<br/>
-28 Feb 2005:  [pdf (461k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/quantGenet/quantGenet4.pdf)<br/>
-25 Feb 2004:  [pdf (461k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/quantGenet/quantGenet4.pdf)<br/>
-27 Feb 2003:  [pdf (475k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/quantGenet/quantGenet3.pdf)<br/>
-12 Feb 2002:  [pdf (750k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/quantGenet/quantGenet2.pdf)<br/>
-16 Feb 2001:  [pdf (587k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/quantGenet/quantGenet.pdf)<br/>
-18 Feb 2000:  [pdf (587k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/quantGenet/quantGenet.pdf)
-
-
----
-
 #### [NeuroproMiSe training course in genetic analysis and bioinformatics](http://www.inflam.lu.se/index.php?option=com_content&task=view&id=91&Itemid=56)
 
 Lund, Sweden (Jan 8-12, 2007)
@@ -312,6 +260,61 @@ Summer, 2002
 - HMMs and the pseudomarker algorithm: [pdf (1312k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2002/session3_ho.pdf)
 - Model selection: [pdf (285k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2002/session4_ho.pdf)
 - [R/qtl](http://www.rqtl.org) description/demo: [pdf (24k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2002/rqtl_ho.pdf)
+
+
+---
+
+### <a name="misc"></a>Miscellaneous lectures
+
+#### My experiences in statistical consulting
+
+Statistical Consulting course, [Department of Statistics](http://www.stat.wisc.edu), [UW&ndash;Madison](http://www.wisc.edu) <br/>
+
+- [Slides (pdf)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/consulting.pdf) [[source on github](http://github.com/kbroman/Talk_StatConsulting.git)]
+- [Related blog post](http://kbroman.wordpress.com/2013/04/02/thoughts-on-statistical-consulting/)
+
+
+---
+
+#### [Experimental design, basic statistics, and sample size determination for animal-based research](http://oac.med.jhmi.edu/humane_site/topics/12A.html)<br/>
+
+[Enhancing Humane Science/Improving Animal Research course](http://oac.med.jhmi.edu/humane_site/index.html) <br/>
+[Center for Alternatives
+to Animal Testing](http://caat.jhsph.edu), Johns Hopkins University<br/>
+
+-  Presentation: \[[ppt (1.2M)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/humanesci.ppt)\]
+-  Handout:
+  \[[color pdf (5.1M)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/humanesci_color.pdf) |
+  [B/W pdf (4.1M)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/humanesci_bw.pdf)\]
+
+---
+
+#### Recombination and linkage
+
+NS 881  ([Dale Schoeller](http://www.nutrisci.wisc.edu/FACULTYPAGES/f_schoeller.html)) <br/>
+[Department of Nutritional Sciences](http://www.nutrisci.wisc.edu/), [University of Wisconsin - Madison](http://www.wisc.edu)<br/>
+20 Feb 2008:  \[ [ppt (2.2M)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/NutritionCourse/nutrition_course_2008-02.ppt) | [pdf (1.1M)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/NutritionCourse/nutrition_handout.pdf) \]
+
+PHS 904 Genetic Epidemiology ([Engelman](http://www.pophealth.wisc.edu/faculty/cengelman.html)) <br/>
+[Population Health Sciences](http://www.pophealth.wisc.edu/), [University of Wisconsin - Madison](http://www.wisc.edu)<br/>
+24 Jan 2008:  \[ [ppt (3.8M)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/corinne/corinne_course_2008-01.ppt) | [pdf (1.3M)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Corinne/corinne_course_2008-01_handout.pdf) \]
+
+
+---
+
+#### Identifying QTL in experimental crosses
+
+Advanced Topics in Human Genetics (Reeves and Feinberg)<br/>
+Human Genetics, Johns Hopkins School of Medicine <br/>
+9  Apr 2007:  [pdf (2.2M)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/quantGenet/qtlhandout07.pdf)<br/>
+27 Feb 2006:  [pdf (461k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/quantGenet/quantGenet4.pdf)<br/>
+28 Feb 2005:  [pdf (461k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/quantGenet/quantGenet4.pdf)<br/>
+25 Feb 2004:  [pdf (461k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/quantGenet/quantGenet4.pdf)<br/>
+27 Feb 2003:  [pdf (475k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/quantGenet/quantGenet3.pdf)<br/>
+12 Feb 2002:  [pdf (750k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/quantGenet/quantGenet2.pdf)<br/>
+16 Feb 2001:  [pdf (587k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/quantGenet/quantGenet.pdf)<br/>
+18 Feb 2000:  [pdf (587k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/quantGenet/quantGenet.pdf)
+
 
 ---
 
