@@ -29,6 +29,22 @@ description: Karl Broman's teaching
 
 ### <a name="misc"></a>Miscellaneous lectures
 
+#### [Software Carpentry](http://software-carpentry.org/)
+
+[Washington State University](http://karawoo.com/2015-04-27-wsu/),
+Pullman, WA (Apr 27-28, 2015)
+
+  - [Course materials](http://karawoo.com/2015-04-27-wsu/syllabus/index.html)
+  - [GitHub repository](https://github.com/karawoo/2015-04-27-wsu/)
+
+[UW-Madison](http://uw-madison-aci.github.io/2014-08-25-wisc/),
+Madison, WI (Aug 25-26, 2014)
+
+  - [Course materials](https://github.com/UW-Madison-ACI/boot-camps/blob/2014-08-25/README.md#day-1)
+  - [GitHub repository](https://github.com/UW-Madison-ACI/boot-camps/tree/2014-08-25)
+
+---
+
 #### [Training course on field trial & QTL analysis using R & R/qtl](http://www.icrisat.org/rcourse.htm)
 
 [ICRISAT](http://www.icrisat.org), Patancheru, Andhra Pradesh, India
