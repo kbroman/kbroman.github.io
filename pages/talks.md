@@ -9,7 +9,7 @@ description: Karl Broman's talks
 ###  2015
 
 Interactive graphics \[[html](https://www.biostat.wisc.edu/~kbroman/presentations/Showcase2015) |
-[github](https://github.com/Talk_Showcase2015)\] <br/>
+[github](https://github.com/kbroman/Talk_Showcase2015)\] <br/>
 [16th Annual Showcase](http://quality.wisc.edu/showcase.htm),
 [Center for Quality Improvement](http://quality.wisc.edu/),
 [University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Apr 14_)
