@@ -8,6 +8,12 @@ description: Karl Broman's talks
 
 ###  2015
 
+Reproducible research \[[pdf](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research.pdf) |
+[pdf w/notes]([pdf with notes](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_withnotes.pdf)\]
+<br/>
+Molecular Microbial Ecology and Evolution (MoMiEE) group,
+[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_May 11_)
+
 Interactive graphics \[[html](https://www.biostat.wisc.edu/~kbroman/presentations/Showcase2015) |
 [github](https://github.com/kbroman/Talk_Showcase2015)\] <br/>
 [16th Annual Showcase](http://quality.wisc.edu/showcase.htm),
