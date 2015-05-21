@@ -516,7 +516,7 @@ interval.  [Genetics](http://www.genetics.org) 173:2111-2119
 <!-- * 60 * -->
 
 
-Grant GG, Robinson SW, Edwards RE, Clothier B, Davies R, Judah DJ,
+Grant GR, Robinson SW, Edwards RE, Clothier B, Davies R, Judah DJ,
 **Broman KW**, Smith AG (2006)
 Multiple polymorphic genes determine 'normal' hepatic and splenic iron
 status in mice.  [Hepatology](http://www3.interscience.wiley.com/cgi-bin/jhome/106570044) 44:174-185
