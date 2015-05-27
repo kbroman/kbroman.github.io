@@ -11,6 +11,13 @@ description: Karl Broman's talks
 Reproducible research \[[pdf](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research.pdf) |
 [pdf w/notes](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_withnotes.pdf)\]
 <br/>
+Annual retreat of the
+[Center for Genome Dynamics](http://cgd.jax.org),
+[Jackson Lab](http://jax.org), held in Madison, Wisconsin (_May 28_)
+
+Reproducible research \[[pdf](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research.pdf) |
+[pdf w/notes](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_withnotes.pdf)\]
+<br/>
 Molecular Microbial Ecology and Evolution (MoMiEE) group,
 [University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_May 11_)
 
