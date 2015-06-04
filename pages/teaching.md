@@ -43,6 +43,13 @@ description: Karl Broman's teaching
 
 #### [Software Carpentry](http://software-carpentry.org/)
 
+[UW-Madison](http://uw-madison-aci.github.io/2015-06-03-wisc/)
+(for Social Scientists),
+Madison, WI (Jun 3-4, 2015)
+
+  - [Course materials](https://github.com/UW-Madison-ACI/boot-camps/blob/2015-06-03/README.md#day-1)
+  - [GitHub repository](https://github.com/UW-Madison-ACI/boot-camps/tree/2015-06-03)
+
 [Washington State University](http://karawoo.com/2015-04-27-wsu/),
 Pullman, WA (Apr 27-28, 2015)
 
