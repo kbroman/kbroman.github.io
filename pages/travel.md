@@ -217,6 +217,8 @@ title: travel
 - [Systems Genetics course](http://courses.jax.org/2015/systems-genetics.html),
   The Jackson Lab, Sep 27-Oct 3, 2015 (Bar Harbor, ME)
 - [VisWeek 2015](http://ieeevis.org/), Oct 25-30, 2015 (Chicago, IL)
+- [Biological Statistics and Computational Biology](https://bscb.cornell.edu/),
+  Cornell University, Apr 18, 2016 (Ithaca, NY)
 
 ---
 
