@@ -8,6 +8,13 @@ description: Karl Broman's talks
 
 ###  2015
 
+Dissecting and fine-mapping of _trans_-eQTL
+hotspots. \[[pdf](https://www.biostat.wisc.edu/~kbroman/presentations/trans_eqtl_hotspots.pdf)
+| [pdf w/notes](https://www.biostat.wisc.edu/~kbroman/presentations/trans_eqtl_hotspots_withnotes.pdf)\]
+<br/>
+[Complex Trait Community annual meeting](http://complextrait.org/ctc2015),
+Portland, Oregon (_Jun 11_)
+
 Reproducible research \[[pdf](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research.pdf) |
 [pdf w/notes](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_withnotes.pdf)\]
 <br/>
