@@ -207,9 +207,10 @@ title: travel
 
 - [Software Carpentry workshop](http://karawoo.com/2015-04-27-wsu/), Apr 27-28, 2015 (Pullman, WA)
 
+- [CTC meeting](http://www.ohsu.edu/parc/CTC2015), June 8-11, 2015 (Portland, OR)
+
 -->
 
-- [CTC meeting](http://www.ohsu.edu/parc/CTC2015), June 8-11, 2015 (Portland, OR)
 - [R/Bioconductor conference](http://bioconductor.org/help/course-materials/2015/BioC2015/),
   July 20-22, 2015 (Seattle, WA)
 - [JSM 2015](http://www.amstat.org/meetings/jsm/2015/), Aug 8-13, 2015 (Seattle, WA)
