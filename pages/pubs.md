@@ -31,6 +31,28 @@ description: Karl Broman's publications
 ### <a name="articles"></a>journal articles
 
 
+#### Submitted
+
+Tian J, Keller M, Oler A, Rabagalia M, Schueler K, Stapleton D, Broman
+AT, Zhao W, Kendziorski C, Yandell BS, Hagenbuch B, **Broman KW**,
+Attie AD. Identification of _Slco1a6_ as a candidate gene that broadly
+affects gene expression in mouse pancreatic islets.
+[bioRxiv](http://biorxiv.org/content/early/2015/06/15/020974),
+[dx.doi.org/10.1101/020974](http://dx.doi.org/10.1101/020974).
+Submitted to [Genetics](http://genetics.org).
+[![Abstract](icons16/pubmed-icon.png)](http://biorxiv.org/content/early/2015/06/15/020974)
+[![pdf](icons16/pdf-icon.png)](http://biorxiv.org/content/biorxiv/early/2015/06/15/020974.full.pdf)
+[![supplement](icons16/supp-icon.png)](http://biorxiv.org/content/early/2015/06/15/020974.figures-only)
+
+
+**Broman KW**, Keller MP, Broman
+AT, Kendziorski C, Yandell BS, Sen &#346;, Attie AD (2014)
+Identification and correction of sample mix-ups in expression
+genetic data: A case study. [arXiv](http://arxiv.org/):1402.2633.
+Submitted to [G3](http://g3journal.org).
+[![Abstract](icons16/pubmed-icon.png)](http://arxiv.org/abs/1402.2633) [![pdf (2.8M)](icons16/pdf-icon.png)](http://arxiv.org/pdf/1402.2633v1.pdf)
+
+
 #### 2015
 
 Whitney KD, **Broman KW**, Kane NC, Hovick SM, Randell RA, Rieseberg
@@ -1081,10 +1103,19 @@ Notes-Monograph Series, Vol 33, pp 114-142
 
 ### <a name="techreports"></a>technical reports
 
+Tian J, Keller M, Oler A, Rabagalia M, Schueler K, Stapleton D, Broman
+AT, Zhao W, Kendziorski C, Yandell BS, Hagenbuch B, **Broman KW**,
+Attie AD. Identification of _Slco1a6_ as a candidate gene that broadly
+affects gene expression in mouse pancreatic islets.
+[bioRxiv](http://biorxiv.org/content/early/2015/06/15/020974),
+[dx.doi.org/10.1101/020974](http://dx.doi.org/10.1101/020974).
+[![pdf](icons16/pdf-icon.png)](http://biorxiv.org/content/biorxiv/early/2015/06/15/020974.full.pdf)
+[![supplement](icons16/supp-icon.png)](http://biorxiv.org/content/early/2015/06/15/020974.figures-only)
+
 **Broman KW**, Keller MP, Broman
 AT, Kendziorski C, Yandell BS, Sen &#346;, Attie AD (2014)
 Identification and correction of sample mix-ups in expression
-genetic data: A case study. [arXiv](http://arxiv.org/):1402.2633
+genetic data: A case study. [arXiv](http://arxiv.org/):1402.2633.
 [![Abstract](icons16/pubmed-icon.png)](http://arxiv.org/abs/1402.2633) [![pdf (2.8M)](icons16/pdf-icon.png)](http://arxiv.org/pdf/1402.2633v1.pdf)
 
 **Broman KW** (2013) Thirteen
