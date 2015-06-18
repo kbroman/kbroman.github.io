@@ -42,7 +42,7 @@ ex/g27-copyrightable-instructions-materials-ownership-use-and-control/),
 ### General resources
 
 - [Good practices for university open-access policies](http://cyber.law.harvard.edu/hoap/Good_practices_for_university_open-access_policies),
-  from [Havard Open Access Project](http://cyber.law.harvard.edu/hoap/Main_Page)
+  from [Harvard Open Access Project](http://cyber.law.harvard.edu/hoap/Main_Page)
 
 - [Open doors and open minds: What faculty authors can do to ensure open access to their work through their institution](http://www.sciencecommons.org/wp-content/uploads/opendoors_v1.pdf). (White paper from [Sparc](http://www.sparc.arl.org/))
 

@@ -64,7 +64,7 @@ Maybe it would be better to say "deconstructed" rather than "annotated".
 ### Rights granted
 
 - U Minn:
-  - "grants...a shared, limited, right to make available his or
+  - "grants...a shared, limited, right to make available his or her
     scholarly articles and to reproduce, display, and distribute those
     articles for the purpose of open access"
   - "grants...a nonexclusive, irrevocable, royalty-free, worldwide
