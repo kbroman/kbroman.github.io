@@ -8,7 +8,7 @@ description: Karl Broman's talks
 
 ###  2015
 
-Dissecting and fine-mapping of _trans_-eQTL
+Dissecting and fine-mapping _trans_-eQTL
 hotspots. \[[pdf](https://www.biostat.wisc.edu/~kbroman/presentations/trans_eqtl_hotspots.pdf)
 | [pdf w/notes](https://www.biostat.wisc.edu/~kbroman/presentations/trans_eqtl_hotspots_withnotes.pdf)\]
 <br/>
