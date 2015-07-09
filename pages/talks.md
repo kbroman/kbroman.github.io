@@ -13,8 +13,8 @@ Reproducible research \[[pdf](https://www.biostat.wisc.edu/~kbroman/presentation
 <br/>
 [Summer Institute for Training in Biostatistics (SIBS)](https://www.biostat.wisc.edu/content/summer-institute-training-biostatistics-sibs), [University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Jul 9_)
 
-Dissecting and fine-mapping _trans_-eQTL
-hotspots. \[[pdf](https://www.biostat.wisc.edu/~kbroman/presentations/trans_eqtl_hotspots.pdf)
+Dissecting and fine-mapping _trans_-eQTL hotspots
+\[[pdf](https://www.biostat.wisc.edu/~kbroman/presentations/trans_eqtl_hotspots.pdf)
 | [pdf w/notes](https://www.biostat.wisc.edu/~kbroman/presentations/trans_eqtl_hotspots_withnotes.pdf)\]
 <br/>
 [Complex Trait Community annual meeting](http://complextrait.org/ctc2015),
