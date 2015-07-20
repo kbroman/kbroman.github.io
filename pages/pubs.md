@@ -56,6 +56,11 @@ Submitted to [G3](http://g3journal.org).
 
 #### 2015
 
+Gray MM, Parmenter M, Hogan C, Ford I, Cuthbert RJ, Ryan PG, **Broman
+KW**, Payseur BA. Genetics of rapid and extreme size evolution in
+island mice. [Genetics](http://genetics.org), to appear
+<!-- * 136 * -->
+
 Whitney KD, **Broman KW**, Kane NC, Hovick SM, Randell RA, Rieseberg
 LH (2015) Quantitative trait locus mapping identifies candidate alleles involved in adaptive
 introgression and range expansion in a wild
