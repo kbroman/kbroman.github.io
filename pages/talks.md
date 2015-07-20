@@ -8,6 +8,12 @@ description: Karl Broman's talks
 
 ###  2015
 
+Interactive graphics for genetic data
+\[[html](http://www.biostat.wisc.edu/~kbroman/presentations/BioC2015)
+| [github](https://github.com/kbroman/Talk_BioC2015)\]<br/>
+[BioC 2015 conference](http://bioconductor.org/help/course-materials/2015/BioC2015/),
+Seattle, Washington (_Jul 21_)
+
 Reproducible research \[[pdf](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_SIBS2015.pdf) |
 [pdf w/notes](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_SIBS2015_withnotes.pdf)\]
 <br/>
