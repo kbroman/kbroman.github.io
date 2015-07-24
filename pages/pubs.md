@@ -59,6 +59,7 @@ Submitted to [G3](http://g3journal.org).
 Gray MM, Parmenter M, Hogan C, Ford I, Cuthbert RJ, Ryan PG, **Broman
 KW**, Payseur BA. Genetics of rapid and extreme size evolution in
 island mice. [Genetics](http://genetics.org), to appear
+[![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/26199233)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/gough.pdf)
 <!-- * 136 * -->
 
