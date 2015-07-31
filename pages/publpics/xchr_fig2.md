@@ -12,8 +12,9 @@ title: Broman et al. (2006) Fig 2
   </div>
 </div>
 
-Broman KW, et al. (2006)  The X chromosome
-in quantitative trait locus mapping.  Genetics 174:2151-2158
+Broman KW, Sen &#346;, Owens SE, Manichaikul A, Southard-Smith EM,
+Churchill GA (2006) The X chromosome in quantitative trait locus
+mapping.  Genetics 174:2151-2158
 [![PubMed](../icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/17028340)
 [![pdf (169k)](../icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/xchr.pdf)
 

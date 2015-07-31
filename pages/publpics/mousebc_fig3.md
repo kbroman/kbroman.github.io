@@ -12,9 +12,8 @@ title: Broman et al. (2002) Fig 3
   </div>
 </div>
 
-Broman KW, et al.
-(2002) Crossover interference in the mouse.  Genetics
-160:1123-1131
+Broman KW, Rowe LB, Churchill GA, Paigen K (2002) Crossover
+interference in the mouse.  Genetics 160:1123-1131
 [![PubMed](../icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/11901128)
 [![pdf (165k)](../icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/mousebc.pdf)
 

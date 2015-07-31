@@ -12,7 +12,9 @@ title: Tian et al. (2015) Fig 4
   </div>
 </div>
 
-Tian J et al. (2015)
+Tian J, Keller M, Oler A, Rabagalia M, Schueler K, Stapleton D, Broman
+AT, Zhao W, Kendziorski C, Yandell BS, Hagenbuch B, Broman KW,
+Attie AD (2015)
 Identification of _Slco1a6_ as a candidate gene that broadly
 affects gene expression in mouse pancreatic islets.
 [bioRxiv](http://biorxiv.org/content/early/2015/06/16/020974),

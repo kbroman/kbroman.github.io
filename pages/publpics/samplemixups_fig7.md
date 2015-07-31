@@ -12,9 +12,9 @@ title: Broman et al. (1998) Fig 3
   </div>
 </div>
 
-Broman KW, et al. (2014)
-Identification and correction of sample mix-ups in expression
-genetic data: A case study. arXiv:1402.2633
+Broman KW, Keller MP, Broman AT, Kendziorski C, Yandell BS, Sen
+&#346;, Attie AD (2014) Identification and correction of sample
+mix-ups in expression genetic data: A case study. arXiv:1402.2633
 [![Abstract](../icons16/pubmed-icon.png)](http://arxiv.org/abs/1402.2633)
 [![pdf (2.8M)](../icons16/pdf-icon.png)](http://arxiv.org/pdf/1402.2633v1.pdf)
 
