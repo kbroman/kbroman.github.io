@@ -36,8 +36,8 @@ keywords: Broman, QTL, R/qtl, quantitative trait loci, statistics, statistical g
     </a>
   </td>
   <td class="right">
-    <a href="http://www.rqtl.org/book">
-        <img src="assets/publpics/rqtlbook_cover_sm.jpg" alt="Broman and Sen (2009) cover" title="Broman and Sen (2009) cover"/>
+    <a href="pages/publpics/isletc6_fig4.html">
+        <img src="assets/publpics/isletc6_fig4.png" alt="Tian et al. (2015) Fig 4" title="Tian et al. (2015) Fig 4"/>
     </a>
   </td>
 </tr>
