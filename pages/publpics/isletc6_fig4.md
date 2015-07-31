@@ -30,5 +30,5 @@ markers in the QTL interval, for 28 of the 29 mice with recombination
 event flanking the QTL. The highlighted box indicates eight mice with
 recombination event flanking the QTL. **C**: Additional genotypes
 in the QTL interval, for eight mice with recombination events flanking
-the QTL. The QTL interval is reduced to 298 kbp (141.98 &ndash; 142.28
-MBp), a region containing three genes (**D**).
+the QTL. The QTL interval is reduced to 298 kbp (141.979 &ndash; 142.277
+Mbp), a region containing three genes (**D**).
