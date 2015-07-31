@@ -33,7 +33,7 @@ description: Karl Broman's publications
 
 #### Submitted
 
-Tian J, Keller M, Oler A, Rabagalia M, Schueler K, Stapleton D, Broman
+Tian J, Keller MP, Oler AT, Rabaglia ME, Schueler KL, Stapleton DS, Broman
 AT, Zhao W, Kendziorski C, Yandell BS, Hagenbuch B, **Broman KW**,
 Attie AD. Identification of _Slco1a6_ as a candidate gene that broadly
 affects gene expression in mouse pancreatic islets.
@@ -1111,7 +1111,7 @@ Notes-Monograph Series, Vol 33, pp 114-142
 
 ### <a name="techreports"></a>technical reports
 
-Tian J, Keller M, Oler A, Rabagalia M, Schueler K, Stapleton D, Broman
+Tian J, Keller MP, Oler AT, Rabaglia ME, Schueler KL, Stapleton DS, Broman
 AT, Zhao W, Kendziorski C, Yandell BS, Hagenbuch B, **Broman KW**,
 Attie AD. Identification of _Slco1a6_ as a candidate gene that broadly
 affects gene expression in mouse pancreatic islets.

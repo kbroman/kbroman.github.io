@@ -12,7 +12,7 @@ title: Tian et al. (2015) Fig 4
   </div>
 </div>
 
-Tian J, Keller M, Oler A, Rabagalia M, Schueler K, Stapleton D, Broman
+Tian J, Keller MP, Oler AT, Rabaglia ME, Schueler KL, Stapleton DS, Broman
 AT, Zhao W, Kendziorski C, Yandell BS, Hagenbuch B, Broman KW,
 Attie AD (2015)
 Identification of _Slco1a6_ as a candidate gene that broadly
