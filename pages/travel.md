@@ -220,6 +220,7 @@ title: travel
 - [Systems Genetics course](http://courses.jax.org/2015/systems-genetics.html),
   The Jackson Lab, Sep 27-Oct 3, 2015 (Bar Harbor, ME)
 - [VisWeek 2015](http://ieeevis.org/), Oct 25-30, 2015 (Chicago, IL)
+- Memphis trip (tentative) to meet with Saunak and Pjotr, Nov 2-5, 2015 (Memphis, TN)
 - Alexander Disease project meeting, Nov 14, 2015 (Boston, MA)
 - [Biological Statistics and Computational Biology](https://bscb.cornell.edu/),
   Cornell University, Apr 18, 2016 (Ithaca, NY)
