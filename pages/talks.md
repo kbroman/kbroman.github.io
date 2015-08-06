@@ -8,6 +8,12 @@ description: Karl Broman's talks
 
 ###  2015
 
+Interactive graphics for high-dimensional genetic data
+\[[html](https://www.biostat.wisc.edu/~kbroman/presentations/JSM2015)
+| [github](https://github.com/kbroman/Talk_JSM2015)\]<br/>
+[Joint Statistical Meetings](http://www.amstat.org/meetings/JSM/2015),
+Seattle, Washington (_Aug 10_)
+
 Interactive graphics for genetic data
 \[[html](http://www.biostat.wisc.edu/~kbroman/presentations/BioC2015)
 | [github](https://github.com/kbroman/Talk_BioC2015)\]<br/>
