@@ -3,7 +3,7 @@ layout: page
 title: JSM 2015 schedule
 ---
 
-### Sunday 2:05-3:45pm
+### Sunday 2:05pm - 3:45pm
 
 **9** \[*CC-4C4*\] [Computational/statistical methods for intergrative -omics](http://www.amstat.org/meetings/JSM/2015/onlineprogram/ActivityDetails.cfm?SessionID=211105)
 
@@ -13,7 +13,7 @@ title: JSM 2015 schedule
 
 ---
 
-### Sunday 4:05-5:45
+### Sunday 4:05pm - 5:45pm
 
 **55** \[*CC-210*\] [Gene mapping for complex trait association studies](http://www.amstat.org/meetings/JSM/2015/onlineprogram/ActivityDetails.cfm?SessionID=211103)
 
@@ -25,14 +25,14 @@ title: JSM 2015 schedule
 
 ---
 
-### Sunday 8:00
+### Sunday 8:00pm
 
 Opening reception
 
 
 ---
 
-### Monday 8:35-10:10
+### Monday 8:35am - 10:10am
 
 **105** \[*CC-607*\] [Statistical methods for big genomic data analysis](http://www.amstat.org/meetings/JSM/2015/onlineprogram/ActivityDetails.cfm?SessionID=211058)
 
@@ -44,7 +44,7 @@ Opening reception
 
 ---
 
-### Monday 10:30 - 12:05
+### Monday 10:30am - 12:05pm
 
 **158** \[*CC-608*\] [Recent advances in interactive graphics](http://www.amstat.org/meetings/JSM/2015/onlineprogram/ActivityDetails.cfm?SessionID=211258)
 
@@ -63,7 +63,7 @@ Receptions
 
 ---
 
-### Tuesday 8:35 - 10:05
+### Tuesday 8:35am - 10:05am
 
 **294** \[*CC-609*\] [Are we really data scientists?](http://www.amstat.org/meetings/JSM/2015/onlineprogram/ActivityDetails.cfm?SessionID=211266)
 
@@ -75,7 +75,7 @@ Receptions
 
 ---
 
-### Tues 10:35 - 12:15
+### Tues 10:35am - 12:15pm
 
 **352** \[*CC-206*\] [Panel: Nontechnical skills needed to be an effective statistical consultant](http://www.amstat.org/meetings/JSM/2015/onlineprogram/ActivityDetails.cfm?SessionID=211183)
 
@@ -87,7 +87,7 @@ Receptions
 
 ---
 
-### Tuesday 2:05 - 3:45
+### Tuesday 2:05pm - 3:45pm
 
 **404** \[*CC-206*\] [Panel: Online statistics education](http://www.amstat.org/meetings/JSM/2015/onlineprogram/ActivityDetails.cfm?SessionID=211144)
 
@@ -99,7 +99,7 @@ Receptions
 
 ---
 
-### Wednesday 8:35 - 10:05
+### Wednesday 8:35am - 10:05am
 
 **480** \[*CC-204*\] [Statistics at scale](http://www.amstat.org/meetings/JSM/2015/onlineprogram/ActivityDetails.cfm?SessionID=211368)
 
@@ -112,7 +112,7 @@ Receptions
 
 ---
 
-### Wednesday 2:05 - 3:45
+### Wednesday 2:05pm - 3:45pm
 
 **581** \[*CC-4C2*\] [Big data issues in bioscences](http://www.amstat.org/meetings/JSM/2015/onlineprogram/ActivityDetails.cfm?SessionID=211221)
 
@@ -124,7 +124,7 @@ Receptions
 
 ---
 
-### Thursday 10:35 - 12:15
+### Thursday 10:35am - 12:15am
 
 **671** \[*CC-606*\] [Statistics, microbiome, human health](http://www.amstat.org/meetings/JSM/2015/onlineprogram/ActivityDetails.cfm?SessionID=211176)
 
