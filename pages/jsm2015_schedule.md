@@ -56,7 +56,7 @@ Opening reception
 
 ---
 
-### Monday 6:00
+### Monday 6:00pm
 
 Receptions
 
