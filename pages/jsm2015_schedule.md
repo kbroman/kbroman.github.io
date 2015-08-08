@@ -1,6 +1,6 @@
 ---
 layout: page
-title: JSM 2015 schedule
+title: My JSM 2015 schedule
 ---
 
 ### Sunday 2:05pm - 3:45pm
