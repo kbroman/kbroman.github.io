@@ -124,12 +124,12 @@ Receptions
 
 ---
 
-### Thursday 10:35am - 12:15am
+### Thursday 10:35am - 12:15pm
 
 **671** \[*CC-606*\] [Statistics, microbiome, human health](http://www.amstat.org/meetings/JSM/2015/onlineprogram/ActivityDetails.cfm?SessionID=211176)
 
 - [Glen Satten](http://www.amstat.org/meetings/JSM/2015/onlineprogram/AbstractDetails.cfm?abstractid=317966)
 - [Susan Holmes](http://www.amstat.org/meetings/JSM/2015/onlineprogram/AbstractDetails.cfm?abstractid=314651)
-- [Joesph Paulson](http://www.amstat.org/meetings/JSM/2015/onlineprogram/AbstractDetails.cfm?abstractid=314648)
+- [Joseph Paulson](http://www.amstat.org/meetings/JSM/2015/onlineprogram/AbstractDetails.cfm?abstractid=314648)
 - [Katherine Snowden Pollard](http://www.amstat.org/meetings/JSM/2015/onlineprogram/AbstractDetails.cfm?abstractid=314266)
 - [Amy Willis](http://www.amstat.org/meetings/JSM/2015/onlineprogram/AbstractDetails.cfm?abstractid=314231)
