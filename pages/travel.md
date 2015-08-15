@@ -212,9 +212,10 @@ title: travel
 - [R/Bioconductor conference](http://bioconductor.org/help/course-materials/2015/BioC2015/),
   July 20-22, 2015 (Seattle, WA)
 
+- [JSM 2015](http://www.amstat.org/meetings/jsm/2015/), Aug 8-13, 2015 (Seattle, WA)
+
 -->
 
-- [JSM 2015](http://www.amstat.org/meetings/jsm/2015/), Aug 8-13, 2015 (Seattle, WA)
 - R/qtl workshop at Texas A&amp;M, Sep 1-4, 2015 (College Station, TX)
 - [JHU Data Science Hackathon](https://www.regonline.com/builder/site/Default.aspx?EventID=1692764), Sep 21-23, 2015 (Baltimore, MD)
 - [Systems Genetics course](http://courses.jax.org/2015/systems-genetics.html),
