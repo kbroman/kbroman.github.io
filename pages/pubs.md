@@ -45,16 +45,18 @@ Submitted to [Genetics](http://genetics.org).
 [![supplement](icons16/supp-icon.png)](http://biorxiv.org/content/early/2015/06/16/020974.figures-only)
 
 
+
+#### 2015
+
 **Broman KW**, Keller MP, Broman
 AT, Kendziorski C, Yandell BS, Sen &#346;, Attie AD (2014)
 Identification and correction of sample mix-ups in expression
 genetic data: A case study. [arXiv](http://arxiv.org/):1402.2633.
-Submitted to [G3](http://g3journal.org).
+[G3](http://g3journal.org), to appear
 [![Abstract](icons16/pubmed-icon.png)](http://arxiv.org/abs/1402.2633)
 [![pdf (2.8M)](icons16/pdf-icon.png)](http://arxiv.org/pdf/1402.2633v1.pdf)
 [![R/lineup software](icons16/R-icon.png)](https://github.com/kbroman/lineup)
-
-#### 2015
+<!-- * 137 * -->
 
 Gray MM, Parmenter M, Hogan C, Ford I, Cuthbert RJ, Ryan PG, **Broman
 KW**, Payseur BA. Genetics of rapid and extreme size evolution in
