@@ -49,10 +49,9 @@ Submitted to [Genetics](http://genetics.org).
 #### 2015
 
 **Broman KW**, Keller MP, Broman
-AT, Kendziorski C, Yandell BS, Sen &#346;, Attie AD (2014)
+AT, Kendziorski C, Yandell BS, Sen &#346;, Attie AD.
 Identification and correction of sample mix-ups in expression
-genetic data: A case study. [arXiv](http://arxiv.org/):1402.2633.
-[G3](http://g3journal.org), to appear
+genetic data: A case study. [G3](http://g3journal.org), to appear
 [![Abstract](icons16/pubmed-icon.png)](http://arxiv.org/abs/1402.2633)
 [![pdf (2.8M)](icons16/pdf-icon.png)](http://arxiv.org/pdf/1402.2633v1.pdf)
 [![R/lineup software](icons16/R-icon.png)](https://github.com/kbroman/lineup)
