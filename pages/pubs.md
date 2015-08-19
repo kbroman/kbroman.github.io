@@ -37,12 +37,12 @@ Tian J, Keller MP, Oler AT, Rabaglia ME, Schueler KL, Stapleton DS, Broman
 AT, Zhao W, Kendziorski C, Yandell BS, Hagenbuch B, **Broman KW**,
 Attie AD. Identification of _Slco1a6_ as a candidate gene that broadly
 affects gene expression in mouse pancreatic islets.
-[bioRxiv](http://biorxiv.org/content/early/2015/06/16/020974),
+[bioRxiv](http://biorxiv.org/content/early/2015/08/14/020974),
 [doi: 10.1101/020974](http://dx.doi.org/10.1101/020974).
 Submitted to [Genetics](http://genetics.org).
-[![Abstract](icons16/pubmed-icon.png)](http://biorxiv.org/content/early/2015/06/16/020974)
-[![pdf](icons16/pdf-icon.png)](http://biorxiv.org/content/biorxiv/early/2015/06/16/020974.full.pdf)
-[![supplement](icons16/supp-icon.png)](http://biorxiv.org/content/early/2015/06/16/020974.figures-only)
+[![Abstract](icons16/pubmed-icon.png)](http://biorxiv.org/content/early/2015/08/14/020974)
+[![pdf](icons16/pdf-icon.png)](http://biorxiv.org/content/biorxiv/early/2015/08/14/020974.full.pdf)
+[![supplement](icons16/supp-icon.png)](http://biorxiv.org/content/biorxiv/suppl/2015/08/13/020974.DC3/020974-1.pdf)
 
 
 
@@ -1116,11 +1116,12 @@ Tian J, Keller MP, Oler AT, Rabaglia ME, Schueler KL, Stapleton DS, Broman
 AT, Zhao W, Kendziorski C, Yandell BS, Hagenbuch B, **Broman KW**,
 Attie AD. Identification of _Slco1a6_ as a candidate gene that broadly
 affects gene expression in mouse pancreatic islets.
-[bioRxiv](http://biorxiv.org/content/early/2015/06/16/020974),
+[bioRxiv](http://biorxiv.org/content/early/2015/08/14/020974),
 [doi: 10.1101/020974](http://dx.doi.org/10.1101/020974).
-[![Abstract](icons16/pubmed-icon.png)](http://biorxiv.org/content/early/2015/06/16/020974)
-[![pdf](icons16/pdf-icon.png)](http://biorxiv.org/content/biorxiv/early/2015/06/16/020974.full.pdf)
-[![supplement](icons16/supp-icon.png)](http://biorxiv.org/content/early/2015/06/16/020974.figures-only)
+Submitted to [Genetics](http://genetics.org).
+[![Abstract](icons16/pubmed-icon.png)](http://biorxiv.org/content/early/2015/08/14/020974)
+[![pdf](icons16/pdf-icon.png)](http://biorxiv.org/content/biorxiv/early/2015/08/14/020974.full.pdf)
+[![supplement](icons16/supp-icon.png)](http://biorxiv.org/content/biorxiv/suppl/2015/08/13/020974.DC3/020974-1.pdf)
 
 **Broman KW**, Keller MP, Broman
 AT, Kendziorski C, Yandell BS, Sen &#346;, Attie AD (2014)
