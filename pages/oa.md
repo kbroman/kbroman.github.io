@@ -53,6 +53,13 @@ ex/g27-copyrightable-instructions-materials-ownership-use-and-control/),
   slides from Brigid Daly, Associate University Legal Counsel, Office
   of Legal Affairs, UW System
 
+- [SHERPA RoMEO](http://www.sherpa.ac.uk/romeo/), database of
+  publishers' policies on copyright and self-archiving
+
+- [OpenDOAR](http://www.opendoar.org/), directory of open access
+  repositories
+
+
 ### Other policies
 
 - [University of Minnesota](https://www.lib.umn.edu/openaccess) \[[policy](http://www.policy.umn.edu/Policies/Research/SCHOLARLYARTICLES.html)
