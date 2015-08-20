@@ -20,7 +20,7 @@ regarding its policy, as does the
 [University of Minnesota](http://policy.umn.edu/research/scholarlyarticles-faq).
 
 
-- *Why are you proposing such a policy?*
+- _**Why are you proposing such a policy?**_
 
   The broad availability of the products of university research is in
   keeping with the [Wisconsin Idea](http://wisconsinidea.wisc.edu/) that
@@ -35,7 +35,7 @@ regarding its policy, as does the
   relinquishing, and the ways in which they may reserve some of those
   rights, when they transfer copyright of their work to publishers.
 
-- *Will the policy prevent me from publishing in journal ____________________?*
+- _**Will the policy prevent me from publishing in journal ____________________?**_
 
   Certain publishers may require that you obtain a policy waiver for
   your article. For example, the University of California, which
@@ -48,8 +48,8 @@ regarding its policy, as does the
   But such waivers will be approved without question, and so you can
   continue to publish your work in such journals.
 
-- *What will I have to do in order to make my article available in the
-  university repository?*
+- _**What will I have to do in order to make my article available in the
+  university repository?**_
 
   As much as possible, repository staff will identify and capture
   relevant articles, in which case you will not need to take any
@@ -63,15 +63,15 @@ regarding its policy, as does the
   openly available at the journal's site, you may simply provide a
   link.
 
-- *What will I have to do in order to opt out for a particular
-  article?*
+- _**What will I have to do in order to opt out for a particular
+  article?**_
 
   There will be a short web-based form through which you may notify
   the university that you wish to opt out of the Open Access Policy
   for a particular article.
 
-- *Will I need to pay to make my article available through this
-  policy?*
+- _**Will I need to pay to make my article available through this
+  policy?**_
 
   While some publishers charge open access fees, you will not need to
   pay those fees in order to make your article available in the
