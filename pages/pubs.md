@@ -52,10 +52,11 @@ Submitted to [Genetics](http://genetics.org).
 AT, Kendziorski C, Yandell BS, Sen &#346;, Attie AD.
 Identification and correction of sample mix-ups in expression
 genetic data: A case study. [G3](http://g3journal.org), to appear
-[![Abstract](icons16/pubmed-icon.png)](http://arxiv.org/abs/1402.2633)
-[![pdf (2.8M)](icons16/pdf-icon.png)](http://arxiv.org/pdf/1402.2633v1.pdf)
-[![R/lineup software](icons16/R-icon.png)](https://github.com/kbroman/lineup)
+[![Abstract](icons16/pubmed-icon.png)](http://g3journal.org/content/early/2015/08/19/g3.115.019778.abstract)
+[![pdf (2.8M)](icons16/pdf-icon.png)](http://g3journal.org/content/early/2015/08/19/g3.115.019778.full.pdf)
+[![R/lineup software](icons16/R-icon.png)](http://g3journal.org/content/suppl/2015/08/19/g3.115.019778.DC1/019778SI.pdf)
 <!-- * 137 * -->
+<!-- doi:10.1534/g3.115.019778 -->
 
 Gray MM, Parmenter M, Hogan C, Ford I, Cuthbert RJ, Ryan PG, **Broman
 KW**, Payseur BA. Genetics of rapid and extreme size evolution in
