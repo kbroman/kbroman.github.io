@@ -37,7 +37,7 @@ regarding its policy, as does the
 
 - _**Will the policy prevent me from publishing in journal ____________________?**_
 
-  Certain publishers may require that you obtain a policy waiver for
+  No. Certain publishers may require that you obtain a policy waiver for
   your article. For example, the University of California, which
   adopted a [similar policy](http://osc.universityofcalifornia.edu/open-access-policy/),
   [lists publishers for which UC authors have requested waivers](http://osc.universityofcalifornia.edu/open-access-policy/publisher-communications/),
@@ -73,7 +73,7 @@ regarding its policy, as does the
 - _**Will I need to pay to make my article available through this
   policy?**_
 
-  While some publishers charge open access fees, you will not need to
+  No. While some publishers charge open access fees, you will not need to
   pay those fees in order to make your article available in the
   university repository.
 
