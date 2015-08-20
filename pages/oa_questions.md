@@ -76,3 +76,8 @@ regarding its policy, as does the
   While some publishers charge open access fees, you will not need to
   pay those fees in order to make your article available in the
   university repository.
+
+- _**Do I need to get my coauthors' approval?**_
+
+  No. Under US copyright law, each author has the right to distribute
+  the work, and this may be transferred to the university repository.
