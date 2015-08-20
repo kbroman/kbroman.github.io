@@ -1112,39 +1112,8 @@ Notes-Monograph Series, Vol 33, pp 114-142
 
 ### <a name="techreports"></a>technical reports
 
-Tian J, Keller MP, Oler AT, Rabaglia ME, Schueler KL, Stapleton DS, Broman
-AT, Zhao W, Kendziorski C, Yandell BS, Hagenbuch B, **Broman KW**,
-Attie AD. Identification of _Slco1a6_ as a candidate gene that broadly
-affects gene expression in mouse pancreatic islets.
-[bioRxiv](http://biorxiv.org/content/early/2015/08/14/020974),
-[doi: 10.1101/020974](http://dx.doi.org/10.1101/020974).
-Submitted to [Genetics](http://genetics.org).
-[![Abstract](icons16/pubmed-icon.png)](http://biorxiv.org/content/early/2015/08/14/020974)
-[![pdf](icons16/pdf-icon.png)](http://biorxiv.org/content/biorxiv/early/2015/08/14/020974.full.pdf)
-[![supplement](icons16/supp-icon.png)](http://biorxiv.org/content/biorxiv/suppl/2015/08/13/020974.DC3/020974-1.pdf)
-
-**Broman KW**, Keller MP, Broman
-AT, Kendziorski C, Yandell BS, Sen &#346;, Attie AD (2014)
-Identification and correction of sample mix-ups in expression
-genetic data: A case study. [arXiv](http://arxiv.org/):1402.2633.
-[![Abstract](icons16/pubmed-icon.png)](http://arxiv.org/abs/1402.2633)
-[![pdf (2.8M)](icons16/pdf-icon.png)](http://arxiv.org/pdf/1402.2633v1.pdf)
-[![R/lineup software](icons16/R-icon.png)](https://github.com/kbroman/lineup)
-
-**Broman KW** (2013) Thirteen
-years of R/qtl: Just barely sustainable. [arXiv](http://arxiv.org/):1309.1192
-[![pdf (131k)](icons16/pdf-icon.png)](http://arxiv.org/pdf/1309.1192v1.pdf) [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_Rqtl_Experiences)
-
-**Broman KW** (2011) Haplotype probabilities in advanced intercross populations.  Technical report #223, Department of Biostatistics & Medical Informatics, University of Wisconsin-Madison
-[![Abstract](icons16/pubmed-icon.png)](tech223_abstract.html) [![pdf (157k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/tr_223.pdf)
-
 **Broman KW** (2010) Genetic map construction with R/qtl.  Technical report #214, Department of Biostatistics & Medical Informatics, University of Wisconsin-Madison
 [![Abstract](icons16/pubmed-icon.png)](tech214_abstract.html) [![pdf (1.5M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/tr_214.pdf)
-
-Manichaikul A, Moon JY, Sen &#346;, Yandell BS, **Broman KW** (2008) A model selection approach for the
-identification of quantitative trait loci in experimental crosses,
-allowing epistasis.  Technical report #205, Department of Biostatistics & Medical Informatics, University of Wisconsin-Madison
-[![Abstract](icons16/pubmed-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/tech205_abstract.html) [![pdf (562k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/tech205.pdf)
 
 <a name="hmm"></a>**Broman KW** (2006) Use of hidden Markov models
 for QTL mapping.  Working paper 125, Department of Biostatistics,
@@ -1152,31 +1121,11 @@ Johns Hopkins University, Baltimore, MD
 [![Abstract](icons16/pubmed-icon.png)](http://www.bepress.com/jhubiostat/paper125)
 [![pdf (94k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/hmm.pdf)
 
-<a name="rigory"></a>**Broman KW** (2004) The
-genomes of recombinant inbred lines: The gory details.  Working paper
-47, Department of Biostatistics, Johns Hopkins University, Baltimore, MD
-[![Abstract](icons16/pubmed-icon.png)](http://www.bepress.com/jhubiostat/paper47) [![pdf (313k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/rigenome_goryK.pdf)
-
 <a name="ms0220"></a>Blades NJ, **Broman KW** (2002)
 Estimating the number of essential genes in a genome by random
 transposon mutagenesis.  Technical Report MS02-20, [Department of Biostatistics](http://www.biostat.jhsph.edu),
 Johns Hopkins University, Baltimore, MD
 [![Abstract](icons16/pubmed-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/ms0220_abstract.html) [![pdf (360k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/ms0220.pdf)
-
-**Broman KW**, Boyartchuk VL, Dietrich WF (2000) Mapping
-time-to-death quantitative trait loci in a mouse cross with high
-survival rates.  Technical Report MS00-04, [Department of
-Biostatistics](http://www.biostat.jhsph.edu), Johns Hopkins University, Baltimore, MD
-[![Abstract](icons16/pubmed-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/ms0004_abstract.html) [![pdf (62k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/ms0004.pdf)
-
-**Broman K**, Speed T, Tigges M (1996) Estimation of
-antigen-responsive T cell frequencies in PBMC from human subjects.
-Technical Report #454, Department of Statistics, University of
-California, Berkeley
-[![Abstract](icons16/pubmed-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/tech454_abstract.html)
-[![pdf (388k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/tech454.pdf)
-[![data](icons16/data-icon.png)](http://www.biostat.wisc.edu/~kbroman/data/jim/index.html)
-[![R/npem](icons16/R-icon.png)](http://www.biostat.wisc.edu/~kbroman/software/index.html#npem)
 
 Bowman KO, Shenton LR, Kastenbaum MA, **Broman K** (1992)
 Overdispersion: Notes on discrete distributions.  Technical Report
