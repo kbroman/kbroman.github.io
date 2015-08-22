@@ -46,6 +46,12 @@ ex/g27-copyrightable-instructions-materials-ownership-use-and-control/),
 
 - [Open doors and open minds: What faculty authors can do to ensure open access to their work through their institution](http://www.sciencecommons.org/wp-content/uploads/opendoors_v1.pdf). (White paper from [Sparc](http://www.sparc.arl.org/))
 
+- [SPARC resources on adopting a campus open access policy](http://www.sparc.arl.org/advocacy/on-campus/considering-a-policy)
+
+  - [Campus policy "choice points" (pdf)](http://www.sparc.arl.org/sites/default/files/Choice%20Points_FINAL.pdf)
+
+  - [Common misconceptions about campus open-access policies (pdf)](http://www.sparc.arl.org/sites/default/files/Common%20Misconceptions%20Campus%20OA%20Policies.pdf)
+
 - [Copyright FAQ](http://www.library.wisc.edu/help/copyright/managing-your-copyright/personal-copyright-faq/),
   UW-Madison Libraries
 
