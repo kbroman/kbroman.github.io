@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Open Access Policy: Antiicpated questions"
+title: "Open Access Policy: Anticipated questions"
 ---
 
 The
@@ -58,7 +58,7 @@ regarding its policy, as does the
   In addition, there will be a short web-based form though which you
   may provide the university repository with a copy of your
   article. If your article is already available in an open access
-  respository, such as
+  repository, such as
   [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/), or if it is
   openly available at the journal's site, you may simply provide a
   link.
