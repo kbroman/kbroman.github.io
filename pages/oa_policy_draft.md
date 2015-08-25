@@ -11,14 +11,9 @@ UW&ndash;Madison, through which university researchers would give
 UW&ndash;Madison the right to freely distribute pre-prints of all
 published journal articles.
 
-The following is an initial draft of such a policy, based on policies
-at the Universities of
-[Minnesota](http://www.policy.umn.edu/Policies/Research/SCHOLARLYARTICLES.html),
-[California](http://osc.universityofcalifornia.edu/open-access-policy/),
-and [Kansas](http://policy.ku.edu/governance/open-access-policy).
-(_**Actually, this was taken essentially verbatim from the [University
-of Minnesota policy](http://www.policy.umn.edu/Policies/Research/SCHOLARLYARTICLES.html),
-and may need to be reformulated, for that reason.**_)
+The following is an initial draft of such a policy, based closely on the policy
+at the University of
+[Minnesota](http://www.policy.umn.edu/Policies/Research/SCHOLARLYARTICLES.html).
 
 We have also drafted [an implementation plan](oa_implementation.html)
 and a set of [anticipated questions (and our responses)](oa_questions.html).
