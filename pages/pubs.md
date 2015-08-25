@@ -33,6 +33,12 @@ description: Karl Broman's publications
 
 #### Submitted
 
+Kwak I-L, Moore CR, Spalding EP, **Broman KW**. Mapping quantitative
+trait loci underlying function-valued traits using functional
+principal component analysis and multi-trait mapping. Submitted to
+[G3](http://g3journal.org).
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/fun2mult_wsupp.pdf)
+
 Tian J, Keller MP, Oler AT, Rabaglia ME, Schueler KL, Stapleton DS, Broman
 AT, Zhao W, Kendziorski C, Yandell BS, Hagenbuch B, **Broman KW**,
 Attie AD. Identification of _Slco1a6_ as a candidate gene that broadly
