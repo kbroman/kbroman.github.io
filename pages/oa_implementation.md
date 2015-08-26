@@ -12,3 +12,12 @@ UW&ndash;Madison the right to freely distribute pre-prints of all
 published journal articles.
 
 The following is a draft of plans for implementing such a policy.
+
+- upgrade software for [Minds@UW](https://minds.wisconsin.edu/)
+
+- website for OA policy
+  - frequently asked questions
+  - web form for submission
+  - web form for waiver
+
+- outreach to faculty to request preprints
