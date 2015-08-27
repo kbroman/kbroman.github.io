@@ -35,9 +35,13 @@ description: Karl Broman's publications
 
 Kwak I-L, Moore CR, Spalding EP, **Broman KW**. Mapping quantitative
 trait loci underlying function-valued traits using functional
-principal component analysis and multi-trait mapping. Submitted to
+principal component analysis and multi-trait mapping.
+[bioRxiv](http://biorxiv.org/content/early/2015/08/26/025577.1),
+[doi: 10.1101/025577](http://dx.doi.org/10.1101/025577).
+Submitted to
 [G3](http://g3journal.org).
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/fun2mult_wsupp.pdf)
+[![Abstract](icons16/pubmed-icon.png)](http://biorxiv.org/content/early/2015/08/26/025577.1)
+[![pdf](icons16/pdf-icon.png)](http://biorxiv.org/content/biorxiv/early/2015/08/26/025577.1.full.pdf)
 
 Tian J, Keller MP, Oler AT, Rabaglia ME, Schueler KL, Stapleton DS, Broman
 AT, Zhao W, Kendziorski C, Yandell BS, Hagenbuch B, **Broman KW**,
