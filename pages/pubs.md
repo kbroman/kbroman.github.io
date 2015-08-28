@@ -42,6 +42,7 @@ Submitted to
 [G3](http://g3journal.org).
 [![Abstract](icons16/pubmed-icon.png)](http://biorxiv.org/content/early/2015/08/26/025577.1)
 [![pdf](icons16/pdf-icon.png)](http://biorxiv.org/content/biorxiv/early/2015/08/26/025577.1.full.pdf)
+[![funqtl software](icons16/R-icon.png)](https://github.com/ikwak2/funqtl)
 
 Tian J, Keller MP, Oler AT, Rabaglia ME, Schueler KL, Stapleton DS, Broman
 AT, Zhao W, Kendziorski C, Yandell BS, Hagenbuch B, **Broman KW**,
