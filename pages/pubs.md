@@ -53,8 +53,8 @@ affects gene expression in mouse pancreatic islets.
 Submitted to [Genetics](http://genetics.org).
 [![Abstract](icons16/pubmed-icon.png)](http://biorxiv.org/content/early/2015/08/14/020974)
 [![pdf](icons16/pdf-icon.png)](http://biorxiv.org/content/biorxiv/early/2015/08/14/020974.full.pdf)
-[![supplement](icons16/supp-icon.png)](http://biorxiv.org/content/biorxiv/suppl/2015/08/13/020974.DC3/020974-1.pdf)
-
+[![supplement](icons16/supp-icon.png)](http://biorxiv.org/highwire/filestream/6843/field_highwire_adjunct_files/0/020974-1.pdf)
+[![supplement](icons16/supp-icon.png)](http://biorxiv.org/highwire/filestream/6843/field_highwire_adjunct_files/1/020974-2.zip)
 
 
 #### 2015
