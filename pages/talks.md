@@ -9,6 +9,12 @@ description: Karl Broman's talks
 ###  2015
 
 Interactive graphics for high-dimensional genetic data
+\[[html](https://www.biostat.wisc.edu/~kbroman/presentations/Texas2015)
+| [github](https://github.com/kbroman/Talk_Texas2015)\]<br/>
+[Department of Soil and Crop Sciences](http://soilcrop.tamu.edu/),
+[Texas A&amp;M](http://www.tamu.edu/), College Station, Texas (_Sep 1_)
+
+Interactive graphics for high-dimensional genetic data
 \[[html](https://www.biostat.wisc.edu/~kbroman/presentations/JSM2015)
 | [github](https://github.com/kbroman/Talk_JSM2015)\]<br/>
 [Joint Statistical Meetings](http://www.amstat.org/meetings/JSM/2015),
