@@ -64,20 +64,22 @@ Madison, WI (Aug 25-26, 2014)
 
 ---
 
-#### [Training course on field trial & QTL analysis using R & R/qtl](http://www.icrisat.org/rcourse.htm)
-
-[ICRISAT](http://www.icrisat.org), Patancheru, Andhra Pradesh, India
-(Dec 3-6, 2012)
+#### <a name="Texas"></a>R/qtl workshop at Texas A&M, 2 Sep 2015
 
 - Introduction to QTL mapping:
-  \[[pdf (381k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Hyderabad/intro.pdf) |
-  [b/w pdf, 2 slides per page](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Hyderabad/intro_2up.pdf)\]
+  [pdf](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Texas/intro.pdf) |
+  [b/w pdf, 2 slides per page](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Texas/intro_2up.pdf)
+- Interactive illustrations
+  [EM algorithm](http://www.biostat.wisc.edu/~kbroman/D3/em_alg) |
+  [LOD curves](http://www.biostat.wisc.edu/~kbroman/D3/lod_and_effect) |
+  [Permutation test](http://www.biostat.wisc.edu/~kbroman/D3/lod_random)
 - Multiple QTL mapping:
-  \[[pdf (4.9M)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Hyderabad/multiqtl.pdf) |
-  [b/w, 2 slides per page](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Hyderabad/multiqtl_2up.pdf)\]
+  [pdf](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Texas/multiqtl.pdf) |
+  [b/w pdf, 2 slides per page](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Texas/multiqtl_2up.pdf)
 - [R/qtl](http://www.rqtl.org) laboratory:
-  \[[pdf (91k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Hyderabad/rqtltour3.pdf) |
-  [code](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Hyderabad/rqtltour3.R)\]
+  [pdf](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Texas/rqtltour2.pdf)
+  | [code](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Texas/rqtltour2.R)
+
 
 ---
 
@@ -210,6 +212,23 @@ Sep 18-24, 2002
 - Statistics Overview: [pdf (552k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2002/jax_stathandouts.pdf)
 - Introduction to QTL mapping: [pdf (488k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2002/jax_qtlhandouts.pdf)
 
+
+---
+
+#### [Training course on field trial & QTL analysis using R & R/qtl](http://www.icrisat.org/rcourse.htm)
+
+[ICRISAT](http://www.icrisat.org), Patancheru, Andhra Pradesh, India
+(Dec 3-6, 2012)
+
+- Introduction to QTL mapping:
+  \[[pdf (381k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Hyderabad/intro.pdf) |
+  [b/w pdf, 2 slides per page](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Hyderabad/intro_2up.pdf)\]
+- Multiple QTL mapping:
+  \[[pdf (4.9M)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Hyderabad/multiqtl.pdf) |
+  [b/w, 2 slides per page](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Hyderabad/multiqtl_2up.pdf)\]
+- [R/qtl](http://www.rqtl.org) laboratory:
+  \[[pdf (91k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Hyderabad/rqtltour3.pdf) |
+  [code](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Hyderabad/rqtltour3.R)\]
 
 ---
 
