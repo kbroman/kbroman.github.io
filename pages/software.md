@@ -31,7 +31,7 @@ Google group, [R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
 #### <a name="qtl2"></a>[R/qtl2](http://kbroman.org/qtl2)
 
 A reimplementation of [R/qtl](http://www.rqtl.org), to better handle
-high-dimensional data and complex cross designs.
+high-dimensional data and complex cross designs. (Early in development.)
 
 ---
 
