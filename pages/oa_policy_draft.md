@@ -54,19 +54,19 @@ adoption of this policy and any articles for which the author entered
 into an incompatible licensing or assignment agreement before the
 adoption of this policy.
 
-The Vice Chancellor for Research or his/her designate will waive
+The Vice Chancellor for Research and Graduate Education or his/her designate will waive
 application of the license for a particular article or delay access
 for a specified period of time upon express direction by a faculty
 member. Grant of such a waiver is mandatory and not at the discretion of
-any person or group. Waiver requests must be made in writing, or via a
+any person or group. Waiver requests must be made in writing, or via
 an online form that will be made available for this specific purpose.
 
-The Office of the Vice Chancellor for Research will be responsible for
+The Office of the Vice Chancellor for Research and Graduate Education will be responsible for
 interpreting this policy, resolving any dispute concerning its
 interpretation and application, and recommending changes.
 The policy will be reviewed after three years and a report presented
 to the Faculty Senate.
 
-The University Library will be responsible for implementing services
+The University Libraries will be responsible for implementing services
 to support article processing and to communicate with authors about
 deposition of particular works.
