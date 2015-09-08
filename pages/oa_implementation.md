@@ -11,7 +11,7 @@ UW&ndash;Madison, through which university researchers would give
 UW&ndash;Madison the right to freely distribute pre-prints of all
 published journal articles.
 
-The following is a draft of plans for implementing such a policy.
+The following is a list of needs related implementing such a policy.
 
 - upgrade software for [Minds@UW](https://minds.wisconsin.edu/)
 
@@ -21,3 +21,5 @@ The following is a draft of plans for implementing such a policy.
   - web form for waiver
 
 - outreach to faculty to request preprints
+
+- staff time to answer questions and assist with preprints
