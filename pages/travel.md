@@ -219,7 +219,7 @@ title: travel
 -->
 
 - [JHU Data Science Hackathon](https://www.regonline.com/builder/site/Default.aspx?EventID=1692764), Sep 21-23, 2015 (Baltimore, MD)
-- [Systems Genetics course](http://courses.jax.org/2015/systems-genetics.html),
+- [Systems Genetics course](https://www.jax.org/education-and-learning/education-calendar/2015/september/short-course-on-systems-genetics),
   The Jackson Lab, Sep 27-Oct 3, 2015 (Bar Harbor, ME)
 - Memphis trip (tentative) to meet with Saunak and Pjotr, Nov 2-5, 2015 (Memphis, TN)
 - Alexander Disease project meeting, Nov 14, 2015 (Boston, MA)
