@@ -214,9 +214,10 @@ title: travel
 
 - [JSM 2015](http://www.amstat.org/meetings/jsm/2015/), Aug 8-13, 2015 (Seattle, WA)
 
+- R/qtl workshop at Texas A&amp;M, Sep 1-4, 2015 (College Station, TX)
+
 -->
 
-- R/qtl workshop at Texas A&amp;M, Sep 1-4, 2015 (College Station, TX)
 - [JHU Data Science Hackathon](https://www.regonline.com/builder/site/Default.aspx?EventID=1692764), Sep 21-23, 2015 (Baltimore, MD)
 - [Systems Genetics course](http://courses.jax.org/2015/systems-genetics.html),
   The Jackson Lab, Sep 27-Oct 3, 2015 (Bar Harbor, ME)
