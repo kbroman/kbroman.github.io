@@ -227,6 +227,8 @@ title: travel
 - [ENAR](http://enar.org/meetings.cfm), Mar 6-9, 2016 (Austin, TX)
 - [Biological Statistics and Computational Biology](https://bscb.cornell.edu/),
   Cornell University, Apr 18, 2016 (Ithaca, NY)
+- [UseR! conference](http://user2016.org/), Stanford, June 27-30, 2016
+  (Palo Alto, CA)
 
 ---
 
