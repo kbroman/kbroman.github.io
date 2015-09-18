@@ -48,8 +48,9 @@ Submitted to
 
 Tian J, Keller MP, Oler AT, Rabaglia ME, Schueler KL, Stapleton DS, Broman
 AT, Zhao W, Kendziorski C, Yandell BS, Hagenbuch B, **Broman KW**,
-Attie AD. Identification of _Slco1a6_ as a candidate gene that broadly
-affects gene expression in mouse pancreatic islets.
+Attie AD. Identification of the bile acid transporter _Slco1a6_ as a
+candidate gene that broadly affects gene expression in mouse
+pancreatic islets.
 [bioRxiv](http://biorxiv.org/content/early/2015/08/14/020974),
 [doi: 10.1101/020974](http://dx.doi.org/10.1101/020974).
 [Genetics](http://genetics.org), to appear
