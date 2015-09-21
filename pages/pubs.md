@@ -64,7 +64,7 @@ pancreatic islets.
 AT, Kendziorski C, Yandell BS, Sen &#346;, Attie AD.
 Identification and correction of sample mix-ups in expression
 genetic data: A case study. [G3](http://g3journal.org), to appear
-[![Abstract](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/26290572)
+[![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/26290572)
 [![pdf (2.8M)](icons16/pdf-icon.png)](http://g3journal.org/content/early/2015/08/21/g3.115.019778.full.pdf)
 [![supplement](icons16/supp-icon.png)](http://g3journal.org/content/suppl/2015/08/19/g3.115.019778.DC1/019778SI.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_SampleMixups)
