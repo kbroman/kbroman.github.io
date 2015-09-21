@@ -54,7 +54,7 @@ pancreatic islets.
 [bioRxiv](http://biorxiv.org/content/early/2015/08/14/020974),
 [doi: 10.1101/020974](http://dx.doi.org/10.1101/020974).
 [Genetics](http://genetics.org), to appear
-[![Abstract](icons16/pubmed-icon.png)](http://biorxiv.org/content/early/2015/08/14/020974)
+[![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/26385979)
 [![pdf](icons16/pdf-icon.png)](http://biorxiv.org/content/biorxiv/early/2015/08/14/020974.full.pdf)
 [![supplement](icons16/supp-icon.png)](http://biorxiv.org/highwire/filestream/6843/field_highwire_adjunct_files/0/020974-1.pdf)
 [![supplement](icons16/supp-icon.png)](http://biorxiv.org/highwire/filestream/6843/field_highwire_adjunct_files/1/020974-2.zip)
