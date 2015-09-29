@@ -97,6 +97,11 @@ Sep 27-Oct 3, 2015
 - Multiple QTL mapping:
   [pdf](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2015/multiqtl.pdf) |
   [b/w pdf, 2 slides per page](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2015/multiqtl_2up.pdf)
+- [R/qtl](http://www.rqtl.org) laboratory:
+  [pdf (50k)](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2014/rqtltour2.pdf)
+  | [code](http://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2014/rqtltour2.R)
+- [R/qtlcharts](http://kbroman.org/qtlcharts):
+  [user guide](http://kbroman.org/qtlcharts/assets/vignettes/userGuide.html)
 
 Sep 27-Oct 4, 2014
 
