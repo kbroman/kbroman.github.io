@@ -63,10 +63,10 @@ pancreatic islets.
 **Broman KW**, Keller MP, Broman
 AT, Kendziorski C, Yandell BS, Sen &#346;, Attie AD.
 Identification and correction of sample mix-ups in expression
-genetic data: A case study. [G3](http://g3journal.org), to appear
+genetic data: A case study (2015) [G3](http://g3journal.org)
+5:2177-2186
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/26290572)
-[![pdf (2.8M)](icons16/pdf-icon.png)](http://g3journal.org/content/early/2015/08/21/g3.115.019778.full.pdf)
-[![supplement](icons16/supp-icon.png)](http://g3journal.org/content/suppl/2015/08/19/g3.115.019778.DC1/019778SI.pdf)
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/sample_mixups.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_SampleMixups)
 [![R/lineup software](icons16/R-icon.png)](https://github.com/kbroman/lineup)
 <!-- * 137 * -->
