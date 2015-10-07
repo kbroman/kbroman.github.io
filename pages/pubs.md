@@ -55,8 +55,8 @@ pancreatic islets.
 [doi: 10.1101/020974](http://dx.doi.org/10.1101/020974).
 [Genetics](http://genetics.org), to appear
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/26385979)
-[![pdf](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/islet_chr6.pdf)
-[![supplement](icons16/supp-icon.png)](http://biorxiv.org/highwire/filestream/6843/field_highwire_adjunct_files/1/020974-2.zip)
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/islet_chr6.pdf)
+[![supplement](icons16/supp-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/islet_chr6/FileS1.csv)
 <!-- * 138 * -->
 
 **Broman KW**, Keller MP, Broman
