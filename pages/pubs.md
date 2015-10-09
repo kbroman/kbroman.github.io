@@ -57,6 +57,7 @@ pancreatic islets.
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/26385979)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/islet_chr6.pdf)
 [![supplement](icons16/supp-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/islet_chr6/FileS1.csv)
+[![data](icons16/data-icon.png)](http://bit.ly/B6BTBR)
 <!-- * 138 * -->
 
 **Broman KW**, Keller MP, Broman
@@ -66,6 +67,7 @@ genetic data: A case study [G3](http://g3journal.org)
 5:2177-2186
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/26290572)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/sample_mixups.pdf)
+[![data](icons16/data-icon.png)](http://bit.ly/B6BTBR)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_SampleMixups)
 [![R/lineup software](icons16/R-icon.png)](https://github.com/kbroman/lineup)
 <!-- * 137 * -->
