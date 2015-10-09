@@ -216,11 +216,13 @@ title: travel
 
 - R/qtl workshop at Texas A&amp;M, Sep 1-4, 2015 (College Station, TX)
 
--->
-
 - [JHU Data Science Hackathon](https://www.regonline.com/builder/site/Default.aspx?EventID=1692764), Sep 21-23, 2015 (Baltimore, MD)
+
 - [Systems Genetics course](https://www.jax.org/education-and-learning/education-calendar/2015/september/short-course-on-systems-genetics),
   The Jackson Lab, Sep 27-Oct 3, 2015 (Bar Harbor, ME)
+
+-->
+
 - Memphis trip to meet with Saunak and Pjotr, Nov 1-5, 2015 (Memphis, TN)
 - Alexander Disease project meeting, Nov 14, 2015 (Boston, MA)
 - Chicago ASA talk, East Bank Club, 500 N Kingsbury St, Dec 15, 2015 (Chicago, IL)
@@ -229,6 +231,8 @@ title: travel
   Cornell University, Apr 18, 2016 (Ithaca, NY)
 - [UseR! conference](http://user2016.org/), Stanford, June 27-30, 2016
   (Palo Alto, CA)
+- [JSM 2016](http://www.amstat.org/meetings/jsm/2016), July 31-Aug 4,
+  2016 (Chicago, IL)
 
 ---
 
