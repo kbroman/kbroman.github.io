@@ -37,7 +37,9 @@ Tian J, Keller MP, Broman AT, Kendziorski C, Yandell BS, Attie AD,
 **Broman KW**. The dissection of expression quantitative trait locus
 hotspots. Submitted to [Genetics](http://genetics.org).
 [![pdf](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/transbandpaper_wsupp.pdf)
-[![pdf](icons16/supp-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/transbandpaper_FileS1.pdf)
+[![supplement](icons16/supp-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/transbandpaper_FileS1.pdf)
+[![data](icons16/data-icon.png)](http://bit.ly/B6BTBR)
+[![qtlpvl software](icons16/R-icon.png)](https://github.com/jianan/qtlpvl)
 
 Kwak I-L, Moore CR, Spalding EP, **Broman KW**. Mapping quantitative
 trait loci underlying function-valued traits using functional
