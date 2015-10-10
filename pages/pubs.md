@@ -33,6 +33,12 @@ description: Karl Broman's publications
 
 #### Submitted
 
+Tian J, Keller MP, Broman AT, Kendziorski C, Yandell BS, Attie AD,
+**Broman KW**. The dissection of expression quantitative trait locus
+hotspots. Submitted to [Genetics](http://genetics.org).
+[![pdf](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/transbandpaper_wsupp.pdf)
+[![pdf](icons16/supp-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/transbandpaper_FileS1.pdf)
+
 Kwak I-L, Moore CR, Spalding EP, **Broman KW**. Mapping quantitative
 trait loci underlying function-valued traits using functional
 principal component analysis and multi-trait mapping.
