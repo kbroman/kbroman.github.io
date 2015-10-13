@@ -35,7 +35,9 @@ description: Karl Broman's publications
 
 Tian J, Keller MP, Broman AT, Kendziorski C, Yandell BS, Attie AD,
 **Broman KW**. The dissection of expression quantitative trait locus
-hotspots. Submitted to [Genetics](http://genetics.org).
+hotspots. [arXiv](http://arxiv.org/):[1510.02863](http://arxiv.org/abs/1510.02863)
+Submitted to [Genetics](http://genetics.org).
+[![Abstract](icons16/pubmed-icon.png)](http://arxiv.org/abs/1510.02863)
 [![pdf](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/transbandpaper_wsupp.pdf)
 [![supplement](icons16/supp-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/transbandpaper_FileS1.pdf)
 [![data](icons16/data-icon.png)](http://bit.ly/B6BTBR)
