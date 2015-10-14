@@ -14,9 +14,6 @@ Interactive graphics for genetic data
 [Department of Biostatistics and Medical Informatics](https://www.biostat.wisc.edu),
 [University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Oct 16_)
 
-[BioC 2015 conference](http://bioconductor.org/help/course-materials/2015/BioC2015/),
-Seattle, Washington (_Jul 21_)
-
 The genetic analysis of high-throughput phenotypes
 \[[html](https://www.biostat.wisc.edu/~kbroman/presentations/Texas2015)
 | [github](https://github.com/kbroman/Talk_Texas2015)\]<br/>
