@@ -35,6 +35,7 @@ Seattle, Washington (_Jul 21_)
 Reproducible research
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_SIBS2015.pdf)
 [![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_SIBS2015_withnotes.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes/tree/SIBS2015)
 <br/>
 [Summer Institute for Training in Biostatistics (SIBS)](https://www.biostat.wisc.edu/content/summer-institute-training-biostatistics-sibs), [University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Jul 9_)
 
@@ -48,6 +49,7 @@ Portland, Oregon (_Jun 11_)
 Reproducible research
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research.pdf)
 [![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_withnotes.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes/tree/JAX_CGD)
 <br/>
 Annual retreat of the
 [Center for Genome Dynamics](http://cgd.jax.org),
@@ -56,6 +58,7 @@ Annual retreat of the
 Reproducible research
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research.pdf)
 [![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_withnotes.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes/tree/MoMiEE)
 <br/>
 Molecular Microbial Ecology and Evolution (MoMiEE) group,
 [University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_May 11_)
