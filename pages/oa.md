@@ -79,3 +79,5 @@ ex/g27-copyrightable-instructions-materials-ownership-use-and-control/),
   | [repository](http://www.escholarship.org/) | [FAQ](http://osc.universityofcalifornia.edu/open-access-policy/policy-faq/)\]
 
 - [Annotated/deconstructed version of those policies](http://kbroman.org/pages/annotated_oa.html)
+
+- [University of Illinois Urbana-Champaign policy](http://www.senate.illinois.edu/sc1512.pdf)
