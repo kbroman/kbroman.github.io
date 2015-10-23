@@ -83,7 +83,7 @@ genetic data: A case study [G3](http://g3journal.org)
 <!-- * 137 * -->
 <!-- doi:10.1534/g3.115.019778 -->
 
-Gray MM, Parmenter M, Hogan C, Ford I, Cuthbert RJ, Ryan PG, **Broman
+Gray MM, Parmenter MD, Hogan CA, Ford I, Cuthbert RJ, Ryan PG, **Broman
 KW**, Payseur BA (2015) Genetics of rapid and extreme size evolution in
 island mice. [Genetics](http://genetics.org) 201:213-228
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/26199233)
