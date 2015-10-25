@@ -193,9 +193,7 @@ High-throughput computer vision introduces the time axis to a quantitative trait
 [Genetics](http://www.genetics.org) 195:1077-1086
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/23979570)
 [![pdf (1.6M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/spalding.pdf)
-[![Data](icons16/data-icon.png)](http://qtlarchive.org/db/q?pg=projdetails&proj=moore_2013a)
-[![Data](icons16/data-icon.png)](http://qtlarchive.org/db/q?pg=projdetails&proj=moore_2013b)
-[![Data](icons16/data-icon.png)](http://qtlarchive.org/db/q?pg=projdetails&proj=moore_2013c)
+[![Data](icons16/data-icon.png)](http://phenome.jax.org/db/q?rtn=projects/projdet&reqprojid=282)
 <!-- * 124 * -->
 
 Bautz DJ, **Broman KW**, Threadgill DW (2013)
