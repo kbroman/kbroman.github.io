@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Broman et al. (1998) Fig 3
+title: Broman et al. (2015) Fig 7
 ---
 
 <div class="navbar">
@@ -13,12 +13,16 @@ title: Broman et al. (1998) Fig 3
 </div>
 
 Broman KW, Keller MP, Broman AT, Kendziorski C, Yandell BS, Sen
-&#346;, Attie AD (2014) Identification and correction of sample
-mix-ups in expression genetic data: A case study. arXiv:1402.2633
-[![Abstract](../icons16/pubmed-icon.png)](http://arxiv.org/abs/1402.2633)
-[![pdf (2.8M)](../icons16/pdf-icon.png)](http://arxiv.org/pdf/1402.2633v1.pdf)
+&#346;, Attie AD (2015) Identification and correction of sample
+mix-ups in expression genetic data: A case study. [G3](http://g3journal.org)
+5:2177-2186
+[![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/26290572)
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/sample_mixups.pdf)
+[![data](icons16/data-icon.png)](http://bit.ly/B6BTBR)
+[![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_SampleMixups)
+[![R/lineup software](icons16/R-icon.png)](https://github.com/kbroman/lineup)
 
-![Broman et al. (2014) Fig 7](../../assets/bigpublpics/samplemixups_fig7_lg.png)
+![Broman et al. (2015) Fig 7](../../assets/bigpublpics/samplemixups_fig7_lg.png)
 
 **Figure 7**. &mdash; The DNA sample mix-ups on the seven 96-well plates used
 for genotyping. Black dots indicate that the correct DNA was put in
