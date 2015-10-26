@@ -144,7 +144,7 @@ Kwak I-Y, Moore CR, Spalding EP, **Broman
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/24931408)
 [![pdf (1.2M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/funqtl.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_FunQTL)
-[![Data](icons16/data-icon.png)](http://qtlarchive.org/db/q?pg=projdetails&proj=moore_2013b)
+[![Data](icons16/data-icon.png)](http://phenome.jax.org/db/q?rtn=projects/projdet&reqprojid=282)
 [![funqtl software](icons16/R-icon.png)](https://github.com/ikwak2/funqtl)
 <!-- * 130 * -->
 
