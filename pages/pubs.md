@@ -51,7 +51,8 @@ principal component analysis and multi-trait mapping.
 Submitted to
 [G3](http://g3journal.org).
 [![Abstract](icons16/pubmed-icon.png)](http://biorxiv.org/content/early/2015/08/26/025577.1)
-[![pdf](icons16/pdf-icon.png)](http://biorxiv.org/content/biorxiv/early/2015/08/26/025577.1.full.pdf)
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/fun2mult_wsupp.pdf)
+[![data](icons16/data-icon.png)](http://phenome.jax.org/db/q?rtn=projects/projdet&reqprojid=282)
 [![funqtl software](icons16/R-icon.png)](https://github.com/ikwak2/funqtl)
 
 #### 2015
