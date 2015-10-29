@@ -8,6 +8,13 @@ description: Karl Broman's talks
 
 ###  2015
 
+Creating effective figures and tables
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/graphs_MDPhD2014.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Graphs/tree/MDPhD2014)
+<br/>
+Presentation in a seminar course for MD-PhD students,
+[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Oct 28_)
+
 Interactive graphics for genetic data
 [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/BMI2015)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_BMI2015)<br/>
