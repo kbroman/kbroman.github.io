@@ -8,6 +8,22 @@ description: Karl Broman's talks
 
 ###  2015
 
+Reproducible research
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_Memphis2015.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_Memphis2015_withnotes.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes/tree/SIBS2015)
+<br/>
+[Division of Biostatistics](https://www.uthsc.edu/prevmed/biostats.php),
+[University of Tennessee Health Science Center](http://uthsc.edu),
+Memphis, Tennessee (_Nov 4_)
+
+Interactive graphics for genetic data
+[![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/BMI2015)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_BMI2015)<br/>
+[Division of Biostatistics](https://www.uthsc.edu/prevmed/biostats.php),
+[University of Tennessee Health Science Center](http://uthsc.edu),
+Memphis, Tennessee (_Nov 2_)
+
 Creating effective figures and tables
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/graphs_MDPhD2014.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Graphs/tree/MDPhD2014)
