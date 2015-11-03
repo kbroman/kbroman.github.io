@@ -14,6 +14,7 @@ Reproducible research
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes/tree/SIBS2015)
 <br/>
 [Division of Biostatistics](https://www.uthsc.edu/prevmed/biostats.php),
+[Department of Preventive Medicine](https://www.uthsc.edu/prevmed),
 [University of Tennessee Health Science Center](http://uthsc.edu),
 Memphis, Tennessee (_Nov 4_)
 
@@ -21,6 +22,7 @@ Interactive graphics for genetic data
 [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/BMI2015)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_BMI2015)<br/>
 [Division of Biostatistics](https://www.uthsc.edu/prevmed/biostats.php),
+[Department of Preventive Medicine](https://www.uthsc.edu/prevmed),
 [University of Tennessee Health Science Center](http://uthsc.edu),
 Memphis, Tennessee (_Nov 2_)
 
