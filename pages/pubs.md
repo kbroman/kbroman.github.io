@@ -49,7 +49,7 @@ Kwak I-L, Moore CR, Spalding EP, **Broman KW**. Mapping quantitative
 trait loci underlying function-valued traits using functional
 principal component analysis and multi-trait mapping.
 [G3](http://g3journal.org), to appear
-[![Abstract](icons16/pubmed-icon.png)](http://g3journal.org/content/early/2015/10/29/g3.115.024133.abstract)
+[![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/26530421)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/fun2mult_wsupp.pdf)
 [![data](icons16/data-icon.png)](http://phenome.jax.org/db/q?rtn=projects/projdet&reqprojid=282)
 [![funqtl software](icons16/R-icon.png)](https://github.com/ikwak2/funqtl)
