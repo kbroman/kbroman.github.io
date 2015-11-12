@@ -57,12 +57,9 @@ principal component analysis and multi-trait mapping.
 
 Tian J, Keller MP, Oler AT, Rabaglia ME, Schueler KL, Stapleton DS, Broman
 AT, Zhao W, Kendziorski C, Yandell BS, Hagenbuch B, **Broman KW**,
-Attie AD. Identification of the bile acid transporter _Slco1a6_ as a
+Attie AD (2015) Identification of the bile acid transporter _Slco1a6_ as a
 candidate gene that broadly affects gene expression in mouse
-pancreatic islets.
-[bioRxiv](http://biorxiv.org/content/early/2015/08/14/020974),
-[doi: 10.1101/020974](http://dx.doi.org/10.1101/020974).
-[Genetics](http://genetics.org), to appear
+pancreatic islets. [Genetics](http://genetics.org) 201:1253-1262
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/26385979)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/islet_chr6.pdf)
 [![supplement](icons16/supp-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/islet_chr6/FileS1.csv)
