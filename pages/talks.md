@@ -9,9 +9,18 @@ description: Karl Broman's talks
 ###  2015
 
 Reproducible research
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_HBB2015.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_HBB2015_withnotes.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)
+<br/>
+[Holz Series in Research Data Management](http://researchdata.wisc.edu/holz-series/),
+[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Nov
+18_)
+
+Reproducible research
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_Memphis2015.pdf)
 [![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_Memphis2015_withnotes.pdf)
-[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes/tree/SIBS2015)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes/tree/Memphis2015)
 <br/>
 [Division of Biostatistics](https://www.uthsc.edu/prevmed/biostats.php),
 [Department of Preventive Medicine](https://www.uthsc.edu/prevmed),
