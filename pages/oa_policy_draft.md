@@ -34,7 +34,9 @@ the following Open Access Policy.
 
 Each faculty member grants to the University of
 Wisconsin&ndash;Madison a shared, limited right to make available his
-or her scholarly articles and to reproduce, display, and distribute
+or her scholarly articles and corresponding
+supplementary materials,
+and to reproduce, display, and distribute
 those articles for the purpose of open access. More specifically, each
 faculty member grants the University of
 Wisconsin&ndash;Madison a nonexclusive, irrevocable, royalty-free,
