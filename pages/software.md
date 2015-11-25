@@ -91,6 +91,14 @@ model.
 
 ---
 
+#### <a name="lmmlite"></a>[R/lmmlite](http://kbroman.org/lmmlite)
+
+An [R](http://www.r-project.org) package for the fit of a simple
+linear mixed model useful for genome-wide association studies
+(GWAS) and quantitative trait locus (QTL) mapping.
+
+---
+
 #### <a name="ricalc"></a>[R/ricalc](https://github.com/kbroman/ricalc)
 
 Software for calculation of two- and three-locus probabilities in
