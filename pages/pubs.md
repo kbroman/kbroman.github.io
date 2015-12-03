@@ -65,6 +65,7 @@ pancreatic islets. [Genetics](http://genetics.org) 201:1253-1262
 [![supplement](icons16/supp-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/islet_chr6/FileS1.csv)
 [![data](icons16/data-icon.png)](http://bit.ly/B6BTBR)
 <!-- * 138 * -->
+<!-- doi:10.1534/genetics.115.179432 -->
 
 **Broman KW**, Keller MP, Broman
 AT, Kendziorski C, Yandell BS, Sen &#346;, Attie AD (2015)
