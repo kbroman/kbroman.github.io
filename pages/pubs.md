@@ -86,6 +86,7 @@ island mice. [Genetics](http://genetics.org) 201:213-228
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/26199233)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/gough.pdf)
 <!-- * 136 * -->
+<!-- doi:10.1534/genetics.115.177790 -->
 
 Whitney KD, **Broman KW**, Kane NC, Hovick SM, Randell RA, Rieseberg
 LH (2015) Quantitative trait locus mapping identifies candidate alleles involved in adaptive
