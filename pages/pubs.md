@@ -54,6 +54,7 @@ principal component analysis and multi-trait mapping.
 [![data](icons16/data-icon.png)](http://phenome.jax.org/db/q?rtn=projects/projdet&reqprojid=282)
 [![funqtl software](icons16/R-icon.png)](https://github.com/ikwak2/funqtl)
 <!-- * 139 * -->
+<!-- http://doi.org/10.1534/g3.115.024133 -->
 
 Tian J, Keller MP, Oler AT, Rabaglia ME, Schueler KL, Stapleton DS, Broman
 AT, Zhao W, Kendziorski C, Yandell BS, Hagenbuch B, **Broman KW**,
