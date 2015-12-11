@@ -66,7 +66,7 @@ pancreatic islets. [Genetics](http://genetics.org) 201:1253-1262
 [![supplement](icons16/supp-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/islet_chr6/FileS1.csv)
 [![data](icons16/data-icon.png)](http://bit.ly/B6BTBR)
 <!-- * 138 * -->
-<!-- doi:10.1534/genetics.115.179432 -->
+<!-- http://doi.org/10.1534/genetics.115.179432 -->
 
 **Broman KW**, Keller MP, Broman
 AT, Kendziorski C, Yandell BS, Sen &#346;, Attie AD (2015)
@@ -79,7 +79,7 @@ genetic data: A case study. [G3](http://g3journal.org)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_SampleMixups)
 [![R/lineup software](icons16/R-icon.png)](https://github.com/kbroman/lineup)
 <!-- * 137 * -->
-<!-- doi:10.1534/g3.115.019778 -->
+<!-- http://doi.org/10.1534/g3.115.019778 -->
 
 Gray MM, Parmenter MD, Hogan CA, Ford I, Cuthbert RJ, Ryan PG, **Broman
 KW**, Payseur BA (2015) Genetics of rapid and extreme size evolution in
@@ -87,7 +87,7 @@ island mice. [Genetics](http://genetics.org) 201:213-228
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/26199233)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/gough.pdf)
 <!-- * 136 * -->
-<!-- doi:10.1534/genetics.115.177790 -->
+<!-- http://doi.org/10.1534/genetics.115.177790 -->
 
 Whitney KD, **Broman KW**, Kane NC, Hovick SM, Randell RA, Rieseberg
 LH (2015) Quantitative trait locus mapping identifies candidate alleles involved in adaptive
