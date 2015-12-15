@@ -8,6 +8,13 @@ description: Karl Broman's talks
 
 ###  2015
 
+
+Interactive graphics for genetic data
+[![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ChiASA2015)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ChiASA2015)<br/>
+[Chicago Chapter of the American Statistical Association](http://community.amstat.org/chicagochapter), Chicago,
+Illinois (_Dec 15_)
+
 Reproducible research
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_RDS2015.pdf)
 [![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_RDS2015_withnotes.pdf)
