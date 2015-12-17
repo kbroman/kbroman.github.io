@@ -98,6 +98,7 @@ sunflower. [Mol Ecol](http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/whitney2015.pdf)
 [![Supplementary material](icons16/supp-icon.png)](http://onlinelibrary.wiley.com/doi/10.1111/mec.13044/suppinfo)
 <!-- * 135 * -->
+<!-- http://doi.org/10.1111/mec.13044 -->
 
 **Broman KW** (2015) R/qtlcharts: interactive graphics for quantitative
 trait locus mapping.
