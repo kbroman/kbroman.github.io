@@ -108,6 +108,7 @@ trait locus mapping.
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_Rqtlcharts)
 [![R/qtlcharts software](icons16/R-icon.png)](http://kbroman.org/qtlcharts)
 <!-- * 134 * -->
+<!-- http://doi.org/10.1534/genetics.114.172742 -->
 
 #### 2014
 
