@@ -121,6 +121,7 @@ induces heterosubtypic immunity in macaques.
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/25210172)
 [![pdf (446k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/florek2014.pdf)
 <!-- * 133 * -->
+<!-- http://doi.org/10.1128/JVI.01219-14 -->
 
 Gatti DM, Svenson KL, Shabalin A, Wu L-Y, Valdar W, Simecek P, Goodwin
 N, Cheng R, Pomp D, Palmer A, Chesler EJ, **Broman KW**, Churchill GA
