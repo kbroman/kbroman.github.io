@@ -131,6 +131,7 @@ mice. [G3](http://g3journal.org) 4:1623-1633
 [![pdf (2.5M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/gatti2014.pdf)
 [![Data](icons16/data-icon.png)](http://phenome.jax.org/db/q?rtn=projects/projdet&reqprojid=289)
 <!-- * 132 * -->
+<~-- http://doi.org/10.1534/g3.114.013748 -->
 
 Street VA, Kujawa SG, Manichaikul A, **Broman KW**, Kallman JC, Shilling DJ, Iwata AJ,
 Robinson LC, Robbins CA, Li J, Liberman MC, Tempel BL (2014) Resistance to
