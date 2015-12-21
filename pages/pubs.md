@@ -140,6 +140,7 @@ of independent, overlapping, and interacting chromosomal regions.
 [J Assoc Res Otolaryngol](http://jaro-online.org/) 15:721-738
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/24952082)
 <!-- * 131 * -->
+<!-- http://doi.org/10.1007/s10162-014-0472-x -->
 
 Kwak I-Y, Moore CR, Spalding EP, **Broman
   KW** (2014) A simple regression-based method to map quantitative trait loci underlying
