@@ -151,6 +151,7 @@ Kwak I-Y, Moore CR, Spalding EP, **Broman
 [![Data](icons16/data-icon.png)](http://phenome.jax.org/db/q?rtn=projects/projdet&reqprojid=282)
 [![funqtl software](icons16/R-icon.png)](https://github.com/ikwak2/funqtl)
 <!-- * 130 * -->
+<!-- http://doi.org/10.1534/genetics.114.166306 -->
 
 **Broman KW** (2014) Fourteen years of R/qtl: Just
   barely sustainable. [J Open Res Softw](http://openresearchsoftware.metajnl.com/)
