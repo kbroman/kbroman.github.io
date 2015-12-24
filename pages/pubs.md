@@ -160,6 +160,7 @@ Kwak I-Y, Moore CR, Spalding EP, **Broman
 [![pdf (948k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/rqtl_14yrs.pdf)
 [![Source on GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_Rqtl_Experiences)
 <!-- * 129 * -->
+<!-- http://doi.org/10.5334/jors.at -->
 
 Rowsey R, Gruhn J, **Broman KW**, Hunt
   PA, Hassold T (2014)
