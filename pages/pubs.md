@@ -169,6 +169,7 @@ Rowsey R, Gruhn J, **Broman KW**, Hunt
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/24995869)
 [![pdf (2.0M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/rowsey2014.pdf)
 <!-- * 128 * -->
+<!-- http://doi.org/10.1016/j.ajhg.2014.06.008 -->
 
 Huang BE, Raghavan C, Mauleon R, **Broman
   KW**, Leung H (2014) Efficient imputation of missing markers in
