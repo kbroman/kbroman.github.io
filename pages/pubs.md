@@ -178,6 +178,7 @@ Huang BE, Raghavan C, Mauleon R, **Broman
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/24583583)
 [![pdf (601k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/huang2014.pdf)
 <!-- * 127 * -->
+<!-- http://doi.org/10.1534/genetics.113.158014 -->
 
 
 Baier B, Hunt P, **Broman KW**, Hassold T (2014) Variation in genome-wide levels of meiotic recombination is established at the onset of prophase in mammalian males. [PLOS Genetics](http://www.plosgenetics.org/) 10:e1004125
