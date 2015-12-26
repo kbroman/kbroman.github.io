@@ -185,6 +185,7 @@ Baier B, Hunt P, **Broman KW**, Hassold T (2014) Variation in genome-wide levels
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/24497841)
 [![pdf (1.5M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/baier2014.pdf)
 <!-- * 126 * -->
+<!-- http://doi.org/10.1371/journal.pgen.1004125 -->
 
 
 
