@@ -195,6 +195,7 @@ Gruhn JR, Rubio C, **Broman KW**, Hunt PA, Hassold T (2013) Cytological studies 
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/24376867)
 [![pdf (1.6M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/gruhn2013.pdf)
 <!-- * 125 * -->
+<!-- http://doi.org/10.1371/journal.pone.0085075 -->
 
 Moore CR, Johnson LS, Kwak I-Y, Livny M,
 **Broman KW**, Spalding EP (2013)
