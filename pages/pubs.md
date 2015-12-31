@@ -214,6 +214,7 @@ Identification of a novel polymorphism in X-linked sterol-4-alpha-carboxylate 3-
 [![pdf (1.2M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/bautz.pdf)
 [![Data](icons16/data-icon.png)](http://phenome.jax.org/db/q?rtn=projects/projdet&reqprojid=280)
 <!-- * 123 * -->
+<!-- http://doi.org/10.1534/g3.113.007567 -->
 
 Harris M, Burns CM, Becker EA, Braasch AT, Gostick E, Johnson RC,
 **Broman KW**, Price DA, Friedrich TC, O'Connor SL (2013) Acute-phase CD8 T cell
