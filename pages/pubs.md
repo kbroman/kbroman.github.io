@@ -223,6 +223,7 @@ attenuated simian immunodeficiency virus. [J Virol](http://jvi.asm.org/) 87:9353
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/23785211)
 [![pdf (1.5M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/oconnor_jvirol.pdf)
 <!-- * 122 * -->
+<!-- http://doi.org/10.1128/JVI.00909-13 -->
 
 
 Maenner MJ, Baker MW, **Broman KW**, Tian
