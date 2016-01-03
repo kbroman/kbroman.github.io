@@ -245,6 +245,7 @@ onto a phylogenetic tree.  [Genetics](http://www.genetics.org) 192:267-279
 [![pdf (1.9M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/phyloqtl.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/phyloQTLpaper)
 <!-- * 120 * -->
+<!-- http://doi.org/10.1534/genetics.112.142448 -->
 
 Rice CA, Riehl J, **Broman K**, Soukup JW, Gengler WR (2012) Comparing the degree of exothermic polymerization in commonly used acrylic and provisional composite resins for intraoral appliances.  [J Vet Dent](http://www.jvdonline.org) 29: 78-83
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/23008855)
