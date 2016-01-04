@@ -256,6 +256,7 @@ Galvan A, Colombo F, Noci S, Pazzaglia S, Mancuso M, Manenti G, **Broman KW**, S
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/22973541)
 [![pdf (913k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/dragani.pdf)
 <!-- * 118 * -->
+<!-- http://doi.org/10.1534/g3.112.003525 -->
 
 Greene JM, Chin EN, Budde ML, Lhost JJ, Hines PJ, Burwitz BJ, **Broman KW**, Nelson JE, Friedrich TC, O'Connor DH (2012) <i>Ex vivo</i> SIV-specific CD8 T cell responses in heterozygous animals are primarily directed against peptides presented by a single MHC haplotype.  [PLOS ONE](http://www.plosone.org) 7:e43690
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/22928016)
