@@ -17,6 +17,11 @@ from
 Vice Provost for Libraries and University Librarian.
 
 
+On 16 Nov 2015, the
+[University Library Committee](https://www.library.wisc.edu/about/university-library-committee/)
+adopted a [resolution](../assets/oa_resolution_v3.pdf) in favor of an
+Open Access Policy for UW-Madison. [![pdf](icons16/pdf-icon.png)](../assets/oa_resolution_v3.pdf)
+
 ### Current UW policies
 
 - [Intellectual property policies and procedures for university research](https://kb.wisc.edu/images/group156/32996/12.15IntellectualPropertyPoliciesandProceduresforUniversityResearch.pdf),
