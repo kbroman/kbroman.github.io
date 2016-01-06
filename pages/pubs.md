@@ -43,18 +43,20 @@ Submitted to [Genetics](http://genetics.org).
 [![data](icons16/data-icon.png)](http://bit.ly/B6BTBR)
 [![qtlpvl software](icons16/R-icon.png)](https://github.com/jianan/qtlpvl)
 
-#### 2015
+#### 2016
 
-Kwak I-L, Moore CR, Spalding EP, **Broman KW**. Mapping quantitative
+Kwak I-L, Moore CR, Spalding EP, **Broman KW** (2016) Mapping quantitative
 trait loci underlying function-valued traits using functional
 principal component analysis and multi-trait mapping.
-[G3](http://g3journal.org), to appear
+[G3](http://g3journal.org) 6:79-86
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/26530421)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/fun2mult_wsupp.pdf)
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/funqtl2.pdf)
 [![data](icons16/data-icon.png)](http://phenome.jax.org/db/q?rtn=projects/projdet&reqprojid=282)
 [![funqtl software](icons16/R-icon.png)](https://github.com/ikwak2/funqtl)
 <!-- * 139 * -->
 <!-- http://doi.org/10.1534/g3.115.024133 -->
+
+#### 2015
 
 Tian J, Keller MP, Oler AT, Rabaglia ME, Schueler KL, Stapleton DS, Broman
 AT, Zhao W, Kendziorski C, Yandell BS, Hagenbuch B, **Broman KW**,
