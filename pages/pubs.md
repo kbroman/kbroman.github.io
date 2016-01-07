@@ -264,6 +264,7 @@ Greene JM, Chin EN, Budde ML, Lhost JJ, Hines PJ, Burwitz BJ, **Broman KW**, Nel
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/22928016)
 [![pdf (767k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/greene2012.pdf)
 <!-- * 117 * -->
+<!-- http://doi.org/10.1371/journal.pone.0043690 -->
 
 Neto EC, Keller MP, Broman AF, Attie AD,
 Jansen RC, **Broman KW**, Yandell BS (2012)
