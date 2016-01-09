@@ -273,6 +273,7 @@ Quantile-based permutation thresholds for quantitative trait loci hotspots.
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/22661325)
 [![pdf (1.1M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/elias.pdf)
 <!-- * 116 * -->
+<!-- http://doi.org/10.1534/genetics.112.139451 -->
 
 King EG, Merkes CM, McNeil CL, Hoofer SR, Sen S, **Broman KW**, Long AD, Macdonald SJ (2012)  Genetic dissection of a model complex trait using the <i>Drosophila</i> Synthetic Population Resource.  [Genome Res](http://www.genome.org/) 22:1558-1566
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/22496517)
