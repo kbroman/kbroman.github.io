@@ -280,6 +280,7 @@ King EG, Merkes CM, McNeil CL, Hoofer SR, Sen S, **Broman KW**, Long AD, Macdona
 [![pdf (1.8M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/dspr.pdf)
 [![Supplementary material](icons16/supp-icon.png)](http://genome.cshlp.org/content/22/8/1558/suppl/DC1)
 <!-- * 115 * -->
+<!-- http://doi.org/10.1101/gr.134031.111 -->
 
 Wang CY, Stapleton DS, Schueler KL, Rabaglia ME, Oler AT, Keller MP, Kendziorski CM, **Broman KW**, Yandell BS, Schadt EE, Attie ED (2012)  <i>Tsc2</i>, a positional candidate gene underlying a quantitative trait locus for hepatic steatosis.  [J Lipid Res](http://www.jlr.org) 53:1493-1501
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/22628617)
