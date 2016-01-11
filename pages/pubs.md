@@ -176,7 +176,7 @@ Kwak I-Y, Moore CR, Spalding EP, **Broman
 Rowsey R, Gruhn J, **Broman KW**, Hunt
   PA, Hassold T (2014)
   Examining variation in recombination levels in the human female: A
-  test of the production line hypothesis. [Amer J Hum Genet](http://www.cell.com/ajhg/) 95:108-112
+  test of the production line hypothesis. [Am J Hum Genet](http://www.cell.com/ajhg/) 95:108-112
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/24995869)
 [![pdf (2.0M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/rowsey2014.pdf)
 <!-- * 128 * -->
