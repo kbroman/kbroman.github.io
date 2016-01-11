@@ -45,6 +45,15 @@ Submitted to [Genetics](http://genetics.org).
 
 #### 2016
 
+Gruhn JR, Al-Asmar N, Fasnacht R, Maylor-Hagen H, Peinado V,
+Rubio C, **Broman KW**, Hunt PA, Hassold T (2016)
+Correlations between synaptic initiation and meiotic recombination: A study of humans and mice.
+[Am J Hum Genet](http://www.cell.com/ajhg/home) 98:102-115
+[![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/26749305)
+[![pdf](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/gruhn2016.pdf)
+<!-- * 140 * -->
+<!-- http://doi.org/10.1016/j.ajhg.2015.11.019 -->
+
 Kwak I-L, Moore CR, Spalding EP, **Broman KW** (2016) Mapping quantitative
 trait loci underlying function-valued traits using functional
 principal component analysis and multi-trait mapping.
