@@ -296,6 +296,7 @@ Wang CY, Stapleton DS, Schueler KL, Rabaglia ME, Oler AT, Keller MP, Kendziorski
 [![pdf (1.0M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/tsc2.pdf)
 [![Supplementary material](icons16/supp-icon.png)](http://www.jlr.org/content/suppl/2012/05/24/jlr.M025239.DC1/jlr.M025239-1.pdf)
 <!-- * 114 * -->
+<!-- http://doi.org/10.1194/jlr.M025239 -->
 
 Arends D, van der Velde KJ, Prins P, **Broman KW**, M&ouml;ller S, Jansen RC, Swertz MA (2012)  xQTL workbench: a web based environment for xQTL analysis.  [Bioinformatics](http://bioinformatics.oupjournals.org) 28:1042-1044
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/22308096)
