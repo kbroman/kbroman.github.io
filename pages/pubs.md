@@ -303,6 +303,7 @@ Arends D, van der Velde KJ, Prins P, **Broman KW**, M&ouml;ller S, Jansen RC, Sw
 [![pdf (424)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/xqtlWorkbench.pdf)
 \[[xqtl](http://xqtl.org)\]
 <!-- * 113 * -->
+<!-- http://doi.org/10.1093/bioinformatics/bts049 -->
 
 Amlin-Van Schaick JC, Kim S, **Broman KW**, Reilly KM (2012)  <i>Scram1</i> is a modifier of spinal cord resistance for astrocytoma on mouse chromosome 5.  [Mamm Genome](http://www.springerlink.com/content/1432-1777/) 23:277-285
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/22160242)
