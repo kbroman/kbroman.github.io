@@ -309,6 +309,7 @@ Amlin-Van Schaick JC, Kim S, **Broman KW**, Reilly KM (2012)  <i>Scram1</i> is a
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/22160242)
 [![pdf (755k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/scram1.pdf)
 <!-- * 112 * -->
+<!-- http://doi.org/10.1007/s00335-011-9380-0 -->
 
 **Broman KW** (2012)  Genotype probabilities at intermediate generations in the construction of recombinant inbred lines.  [Genetics](http://www.genetics.org) 190:403-412
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/22345609)
