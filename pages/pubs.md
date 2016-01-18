@@ -316,6 +316,7 @@ Amlin-Van Schaick JC, Kim S, **Broman KW**, Reilly KM (2012)  <i>Scram1</i> is a
 [![pdf (1.1M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/preCCprob.pdf)
 [![GitHub](icons16/github-icon.png)](http://www.github.com/kbroman/preCCProbPaper)
 <!-- * 111 * -->
+<!-- http://doi.org/10.1534/genetics.111.132647 -->
 
 **Broman KW** (2012)  Haplotype probabilities in advanced intercross populations.  [G3](http://www.g3journal.org) 2:199-202
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/22384398)
