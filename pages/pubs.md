@@ -323,6 +323,7 @@ Amlin-Van Schaick JC, Kim S, **Broman KW**, Reilly KM (2012)  <i>Scram1</i> is a
 [![pdf (649k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/ailprob.pdf)
 [![GitHub](icons16/github-icon.png)](http://www.github.com/kbroman/ailProbPaper)
 <!-- * 110 * -->
+<!-- http://doi.org/10.1534/g3.111.001818 -->
 
 Collaborative Cross Consortium \[97 authors\] (2012)  The genome architecture of the Collaborative Cross mouse genetic reference population.   [Genetics](http://www.genetics.org) 190:389-401
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/22345608)
