@@ -329,6 +329,7 @@ Collaborative Cross Consortium \[97 authors\] (2012)  The genome architecture of
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/22345608)
 [![pdf (4.9M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/cc_genomearch.pdf)
 <!-- * 109 * -->
+<!-- http://doi.org/10.1534/genetics.111.132639 -->
 
 Amlin-Van Schaick JC, Kim S, DiFabio C, Lee M-H, **Broman KW**, Reilly KM (2012)  <i>Arlm1</i> is a male-specific modifier of astrocytoma resistance on mouse chr 12.  [Neuro Oncol](http://neuro-oncology.oxfordjournals.org/) 14:160-174
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/22234937)
