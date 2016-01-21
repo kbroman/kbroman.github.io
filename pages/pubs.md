@@ -335,6 +335,7 @@ Amlin-Van Schaick JC, Kim S, DiFabio C, Lee M-H, **Broman KW**, Reilly KM (2012)
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/22234937)
 [![pdf (1.3M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/arlm1.pdf)
 <!-- * 108 * -->
+<!-- http://doi.org/10.1093/neuonc/nor206 -->
 
 Davis RC, Van Nas A, Castellani LW, Zhao Y, Zhou Z, Wen P, Yu S, Qi H, Rosales M, Schadt EE, **Broman KW**, Peterfy M, Lusis AJ (2012)  Systems genetics of susceptibility to obesity-induced diabetes in mice.  [Physiol Genomics](http://physiolgenomics.physiology.org/) 44:1-13
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/22010005)
