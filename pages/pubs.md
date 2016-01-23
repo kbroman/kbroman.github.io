@@ -342,7 +342,7 @@ Davis RC, Van Nas A, Castellani LW, Zhao Y, Zhou Z, Wen P, Yu S, Qi H, Rosales M
 [![pdf (2.1M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/richard_davis.pdf)
 [![Supplementary material](icons16/supp-icon.png)](http://physiolgenomics.physiology.org/content/44/1/1/suppl/DC1)
 <!-- * 107 * -->
-
+<!-- http://doi.org/10.1152/physiolgenomics.00003.2011 -->
 
 #### 2011
 
