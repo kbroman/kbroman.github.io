@@ -350,6 +350,7 @@ Weinfurter JT, Brunner K, Capuano SV III, Li C, **Broman KW**, Kawaoka Y, Friedr
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/22102819)
 [![pdf (879k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/friedrich2011.pdf)
 <!-- * 106 * -->
+<!-- http://doi.org/10.1371/journal.ppat.1002381 -->
 
 Aylor DL, Valdar W, Foulds-Mathes W, Buus RJ,
 Verdugo RA, Baric RS, Ferris MT, Frelinger JA,  Heise M,
