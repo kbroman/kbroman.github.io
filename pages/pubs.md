@@ -365,6 +365,7 @@ Pardo-Manuel de Villena F, Churchill GA (2011)  Genetic analysis of complex trai
 [![pdf (1.0M)](icons16/pdf-icon.png)](preCC.pdf)
 [![Supplementary material](icons16/supp-icon.png)](http://genome.cshlp.org/content/21/8/1213/suppl/DC1)
 <!-- * 105 * -->
+<!-- http://doi.org/10.1101/gr.111310.110 -->
 
 Greene JM, Wiseman RW, Lank SM, Bimber BN, Karl JA, Burwitz BJ, Lhost JJ, Hawkins OE, Kunstman KJ, **Broman KW**, Wolinsky SM, Hildebrand WH, O'Connor DH (2011)  Differential MHC class I expression in distinct leukocyte subsets.  [BMC Immunol](http://www.biomedcentral.com/bmcimmunol) 12:39
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/21762519)
