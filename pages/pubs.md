@@ -371,6 +371,7 @@ Greene JM, Wiseman RW, Lank SM, Bimber BN, Karl JA, Burwitz BJ, Lhost JJ, Hawkin
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/21762519)
 [![pdf (747k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/greene2011.pdf)
 <!-- * 104 * -->
+<!-- http://doi.org/10.1186/1471-2172-12-39 -->
 
 Bradley KM, Breyer JP, Melville DB, **Broman KW**, Knapik EW, Smith JR (2011)  An SNP-based linkage map for zebrafish reveals sex determination loci.  [G3](http://www.g3journal.org) 1:3-9
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/21949597)
