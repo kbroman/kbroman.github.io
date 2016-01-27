@@ -377,7 +377,7 @@ Bradley KM, Breyer JP, Melville DB, **Broman KW**, Knapik EW, Smith JR (2011)  A
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/21949597)
 [![pdf (1.0M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/zfishmap.pdf)
 <!-- * 103 * -->
-
+<!-- http://doi.org/10.1534/g3.111.000190 -->
 
 Moreland AJ, Guethlein LA, Reeves RK, **Broman KW**, Johnson RP, Parham P, O'Connor DH, Bimber BN (2011)  Characterization of killer immunoglobulin-like receptor genetics and comprehensive genotyping by pyrosequencing in rhesus macaques.  [BMC Genomics](http://www.biomedcentral.com/bmcgenomics/) 12:295
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/21645414)
