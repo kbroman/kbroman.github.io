@@ -30,9 +30,6 @@ description: Karl Broman's publications
 
 ### <a name="articles"></a>journal articles
 
-
-#### To appear
-
 Tian J, Keller MP, Broman AT, Kendziorski C, Yandell BS, Attie AD,
 **Broman KW**. The dissection of expression quantitative trait locus
 hotspots. [arXiv](http://arxiv.org/):[1510.02863](http://arxiv.org/abs/1510.02863)
