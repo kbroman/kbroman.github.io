@@ -381,8 +381,7 @@ Moreland AJ, Guethlein LA, Reeves RK, **Broman KW**, Johnson RP, Parham P, O'Con
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/21645414)
 [![pdf (1.1M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/bimber.pdf)
 <!-- * 102 * -->
-
-
+<!-- http://doi.org/10.1186/1471-2164-12-295 -->
 
 Svetec N, Werzner A, Wilches R, Pavlidis P, &Aacute;lvarez-Castro JM, **Broman KW**, Metzler D, Stephan W (2011)  Identification
 of X-linked quantitative trait loci affecting cold tolerance in <i>Drosophila
