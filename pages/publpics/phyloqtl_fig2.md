@@ -6,8 +6,8 @@ title: Broman et al. (2012) Fig 2
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="geneticmaps_fig3.html">prev</a></li>
-          <li><a href="phyloqtl_fig6.html">next</a></li>
+          <li><a href="phyloqtl_fig6.html">prev</a></li>
+          <li><a href="rigenome_fig2.html">next</a></li>
       </ul>
   </div>
 </div>

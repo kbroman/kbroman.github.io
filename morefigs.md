@@ -22,8 +22,8 @@ title: Karl Broman
     </a>
   </td>
   <td class="right">
-    <a href="pages/publpics/geneticmaps_fig3.html">
-        <img src="assets/publpics/geneticmaps_fig3a.png" alt="Broman et al. (1998) Fig 3a" title="Broman et al. (1998) Fig 3a"/>
+    <a href="pages/publpics/rqtlexper_fig2.html">
+        <img src="assets/publpics/rqtlexper_fig2.png" alt="Broman (2014) Fig 2" title="Broman (2014) Fig 2"/>
     </a>
   </td>
 </tr>
@@ -85,6 +85,15 @@ title: Karl Broman
     <a href="pages/publpics/mousebc_fig3.html">
         <img src="assets/publpics/mousebc_fig3.png" alt="Broman et al. (2002) Fig 3" title="Broman et al. (2002) Fig 3"/>
     </a>
+  </td>
+</tr>
+<tr>
+  <td class="left">
+    <a href="pages/publpics/geneticmaps_fig3.html">
+        <img src="assets/publpics/geneticmaps_fig3a.png" alt="Broman et al. (1998) Fig 3a" title="Broman et al. (1998) Fig 3a"/>
+    </a>
+  </td>
+  <td class="right">
   </td>
 </tr>
 </table>

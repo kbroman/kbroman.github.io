@@ -7,7 +7,7 @@ title: Broman and Sen (2009)
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="isletc6_fig4.html">prev</a></li>
-          <li><a href="geneticmaps_fig3.html">next</a></li>
+          <li><a href="rqtlexper_fig1.html">next</a></li>
       </ul>
   </div>
 </div>

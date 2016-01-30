@@ -7,7 +7,7 @@ title: Broman et al. (2002) Fig 3
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="xchr_fig2.html">prev</a></li>
-          <li><a href="rqtlexper_fig1.html">next</a></li>
+          <li><a href="geneticmaps_fig3.html">next</a></li>
       </ul>
   </div>
 </div>

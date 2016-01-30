@@ -7,7 +7,7 @@ title: Broman et al. (2003) Fig 1
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="rigenome_fig6.html">prev</a></li>
-          <li><a href="inversion_fig2.html">next</a></li>
+          <li><a href="preCCprob_tabS13.html">next</a></li>
       </ul>
   </div>
 </div>
