@@ -767,7 +767,7 @@ disease.  [Hum Mol Genet](http://hmg.oupjournals.org) 14:1549-1558
 recombinant inbred lines.  [Genetics](http://www.genetics.org/) 169:1133-1146
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/15545647)
 [![pdf (525k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/rigenome.pdf)
-[![R/ricalc](icons16/R-icon.png)](http://www.biostat.wisc.edu/~kbroman/software/index.html#ricalc)
+[![R/ricalc](icons16/R-icon.png)](https://github.com/kbroman/ricalc)
 \[**Erratum**: [Genetics](http://www.genetics.org) 173:2419, 2006
 [![pdf 30k](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/rigenome_corrigendum.pdf)\]
 <!-- * 51 * -->
