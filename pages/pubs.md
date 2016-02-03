@@ -925,7 +925,7 @@ for predicting essential genes at subsaturation levels of mutagenesis:
 application to <i>Mycobacterium tuberculosis</i>.  [Proc Natl Acad Sci USA](http://www.pnas.org/) 100:7213-7218
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/12775759)
 [![pdf (260k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/mutagenesis.pdf)
-[![R/negenes](icons16/R-icon.png)](http://www.biostat.wisc.edu/~kbroman/software/negenes.html)
+[![R/negenes](icons16/R-icon.png)](https://github.com/kbroman/negenes)
 <!-- * 34 * -->
 
 **Broman KW**, Wu H, Sen &#346;, Churchill
