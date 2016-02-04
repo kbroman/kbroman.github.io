@@ -34,7 +34,7 @@ Tian J, Keller MP, Broman AT, Kendziorski C, Yandell BS, Attie AD,
 **Broman KW**. The dissection of expression quantitative trait locus
 hotspots.
 [Genetics](http://genetics.org), to appear
-[![Abstract](icons16/pubmed-icon.png)](http://arxiv.org/abs/1510.02863)
+[![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/26837753)
 [![pdf](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/transbandpaper_wsupp.pdf)
 [![supplement](icons16/supp-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/transbandpaper_FileS1.pdf)
 [![data](icons16/data-icon.png)](http://bit.ly/B6BTBR)
