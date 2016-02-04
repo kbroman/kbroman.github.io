@@ -1142,7 +1142,7 @@ subjects. [Stat Sci](http://www.imstat.org/publications/journals/statsci/) 13:4-
 [![Abstract](icons16/pubmed-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/statsci_abstract.html)
 [![pdf (556k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/statsci.pdf)
 [![data](icons16/data-icon.png)](http://www.biostat.wisc.edu/~kbroman/data/index.html#jim)
-[![R/npem](icons16/R-icon.png)](http://www.biostat.wisc.edu/~kbroman/software/index.html#npem)
+[![R/npem](icons16/R-icon.png)](https://github.com/kbroman/npem)
 <!-- * 10 * -->
 
 #### 1996
@@ -1153,7 +1153,7 @@ subjects. [J Immunol Meth](http://www.sciencedirect.com/science/journal/00221759
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/8946008)
 [![pdf (740k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/jim.pdf)
 [![data](icons16/data-icon.png)](http://www.biostat.wisc.edu/~kbroman/data/jim/index.html)
-[![R/npem](icons16/R-icon.png)](http://www.biostat.wisc.edu/~kbroman/software/index.html#npem)
+[![R/npem](icons16/R-icon.png)](https://github.com/kbroman/npem)
 <!-- * 9 * -->
 
 Dernburg AF, **Broman KW**, Fung JC, Marshall WF, Philips J,
