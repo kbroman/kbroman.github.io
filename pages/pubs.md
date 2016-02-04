@@ -956,7 +956,7 @@ encephalomyelitis.  [J Immunol](http://www.jimmunol.org/)
 
 **Broman KW**, Speed TP (2002)  A model
 selection approach for the identification of quantitative trait loci
-in experimental crosses (with discussion). [J Roy Stat Soc
+in experimental crosses. [J Roy Stat Soc
 B](http://www.ingenta.com/journals/browse/bpl/rssb) 64:641-656
 [![Abstract](icons16/pubmed-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/jrssb_abstract.html)
 [![pdf (326k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/jrssb.pdf)
