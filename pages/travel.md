@@ -221,8 +221,6 @@ title: travel
 - [Systems Genetics course](https://www.jax.org/education-and-learning/education-calendar/2015/september/short-course-on-systems-genetics),
   The Jackson Lab, Sep 27-Oct 3, 2015 (Bar Harbor, ME)
 
--->
-
 - Memphis trip to meet with Saunak and Pjotr, Nov 1-5, 2015 (Memphis, TN)
 
 - Alexander Disease project meeting, Nov 14, 2015 (Boston, MA)
@@ -231,11 +229,18 @@ title: travel
 
 - [ENAR](http://enar.org/meetings.cfm), Mar 6-9, 2016 (Austin, TX)
 
+-->
+
+- Jackson Lab, Feb 8-11, 2016
+
 - [Biological Statistics and Computational Biology](https://bscb.cornell.edu/),
   Cornell University, Apr 18, 2016 (Ithaca, NY)
 
 - [UseR! conference](http://user2016.org/), Stanford, June 27-30, 2016
   (Palo Alto, CA)
+
+- [The Allied Genetics Conference](http://www.genetics2016.org/), July
+  13-17, 2016 (Orlando, FL)
 
 - [JSM 2016](http://www.amstat.org/meetings/jsm/2016), July 31-Aug 4,
   2016 (Chicago, IL)
