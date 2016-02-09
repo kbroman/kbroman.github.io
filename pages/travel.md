@@ -233,8 +233,15 @@ title: travel
 
 - Jackson Lab, Feb 8-11, 2016
 
+- Chicago ASA workshop on reproducible research, Apr 1, 2016 (Chicago, IL)
+
 - [Biological Statistics and Computational Biology](https://bscb.cornell.edu/),
   Cornell University, Apr 18, 2016 (Ithaca, NY)
+
+- PRDM9 advisory board meeting, May 18-20, 2016 (Bar Harbor, ME)
+
+- [International Conference on Quantitative Genetics](http://www.icqg5.org/)
+  June 12-17, 2016 (Madison, WI)
 
 - [UseR! conference](http://user2016.org/), Stanford, June 27-30, 2016
   (Palo Alto, CA)
@@ -244,6 +251,9 @@ title: travel
 
 - [JSM 2016](http://www.amstat.org/meetings/jsm/2016), July 31-Aug 4,
   2016 (Chicago, IL)
+
+- [Systems Genetics course](https://www.jax.org/education-and-learning/education-calendar/2016/october/short-course-on-systems-genetics)
+  The Jackson Lab, Oct 16-22, 2016 (Bar Harbor, ME)
 
 ---
 
