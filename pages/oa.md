@@ -86,3 +86,5 @@ ex/g27-copyrightable-instructions-materials-ownership-use-and-control/),
 - [Annotated/deconstructed version of those policies](http://kbroman.org/pages/annotated_oa.html)
 
 - [University of Illinois Urbana-Champaign policy](http://www.senate.illinois.edu/sc1512.pdf)
+
+- [(Incomplete) list of universities with open access policies](https://libraries.mit.edu/scholarly/mit-open-access/open-access-at-mit/mit-open-access-policy/mit-faculty-open-access-policy-faq/other-university-policies/)
