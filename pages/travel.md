@@ -229,9 +229,11 @@ title: travel
 
 - [ENAR](http://enar.org/meetings.cfm), Mar 6-9, 2016 (Austin, TX)
 
+- Jackson Lab, Feb 8-11, 2016
+
 -->
 
-- Jackson Lab, Feb 8-11, 2016
+- Genentech, Mar 14-16, 2016 (San Francisco, CA)
 
 - Chicago ASA workshop on reproducible research, Apr 1, 2016 (Chicago, IL)
 
