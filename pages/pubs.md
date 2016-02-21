@@ -390,6 +390,7 @@ melanogaster</i> and fine-mapping by selective sweep analysis.
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/21199023)
 [![pdf (450k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/werzner.pdf)
 <!-- * 101 * -->
+<!-- http://doi.org/10.1111/j.1365-294X.2010.04951.x -->
 
 
 #### 2010
