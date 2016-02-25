@@ -34,7 +34,10 @@ description: Karl Broman's teaching
 (pdf)](http://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/hw1.pdf) | [data (csv)](http://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/hw1.csv)
 | [solutions (html)](http://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/hw1_solns.html)
  | [source (Rmd)](http://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/hw1_solns.Rmd)\]
-
+- Older lectures:
+  - [Meiosis and recombination](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/broman_recombination.pdf)
+  - [Nonparametric linkage analysis in humans](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/broman_nplinkage.pdf)
+  - [QTL mapping in humans](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/broman_humanqtl.pdf)
 
 ---
 
