@@ -217,7 +217,7 @@ High-throughput computer vision introduces the time axis to a quantitative trait
 <!-- http://doi.org/10.1534/genetics.113.153346 -->
 
 Bautz DJ, **Broman KW**, Threadgill DW (2013)
-Identification of a novel polymorphism in X-linked sterol-4-alpha-carboxylate 3-dehydrogenase (Nsdhl) associated with reduced HDL cholesterol levels in I/LnJ mice.
+Identification of a novel polymorphism in X-linked sterol-4-alpha-carboxylate 3-dehydrogenase (_Nsdhl_) associated with reduced HDL cholesterol levels in I/LnJ mice.
 [G3](http://g3journal.org) 3: 1819-1825
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/23979938)
 [![pdf (1.2M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/bautz.pdf)
