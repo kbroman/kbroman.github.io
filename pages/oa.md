@@ -83,8 +83,17 @@ ex/g27-copyrightable-instructions-materials-ownership-use-and-control/),
   \[[policy](http://osc.universityofcalifornia.edu/open-access-policy/policy-text/)
   | [repository](http://www.escholarship.org/) | [FAQ](http://osc.universityofcalifornia.edu/open-access-policy/policy-faq/)\]
 
+  - [List of journals that have requested waivers from the UC policy](http://osc.universityofcalifornia.edu/open-access-policy/publisher-communications/)
+
 - [Annotated/deconstructed version of those policies](http://kbroman.org/pages/annotated_oa.html)
 
 - [University of Illinois Urbana-Champaign policy](http://www.senate.illinois.edu/sc1512.pdf)
 
 - [(Incomplete) list of universities with open access policies](https://libraries.mit.edu/scholarly/mit-open-access/open-access-at-mit/mit-open-access-policy/mit-faculty-open-access-policy-faq/other-university-policies/)
+
+<style>
+<!-- fix spacing problem in nested list; not sure where this should go -->
+ul ul li {
+  margin: 0 0 10px 0;
+}
+</style>
