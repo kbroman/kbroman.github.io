@@ -92,7 +92,6 @@ ex/g27-copyrightable-instructions-materials-ownership-use-and-control/),
 - [(Incomplete) list of universities with open access policies](https://libraries.mit.edu/scholarly/mit-open-access/open-access-at-mit/mit-open-access-policy/mit-faculty-open-access-policy-faq/other-university-policies/)
 
 <style>
-<!-- fix spacing problem in nested list; not sure where this should go -->
 ul ul li {
   margin: 0 0 10px 0;
 }
