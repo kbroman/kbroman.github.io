@@ -6,6 +6,16 @@ description: Karl Broman's talks
 
 
 
+###  2016
+
+Interactive graphics for genetic data
+[![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/Genentech2016)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Genentech)<br/>
+[Genentech](http://www.gene.com), South San Francisco, California
+(_Apr 15_)
+
+
+
 ###  2015
 
 
