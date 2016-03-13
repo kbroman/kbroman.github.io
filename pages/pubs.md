@@ -406,6 +406,7 @@ Billings T, Sargent EE, Szatkiewicz JP, Leahy N, Kwak, I-Y, Bektassova N, Walker
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/21170346)
 [![pdf (483k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/petko_chr11.pdf)
 <!-- * 99 * -->
+<!-- http://doi.org/10.1371/journal.pone.0015340 -->
 
 Arends D, Prins P, Jansen RC, **Broman KW** (2010)  R/qtl: High-throughput multiple QTL mapping.  [Bioinformatics](http://bioinformatics.oupjournals.org) 26:2990-2992
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/20966004)
