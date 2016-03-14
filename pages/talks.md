@@ -12,7 +12,7 @@ Interactive graphics for genetic data
 [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/Genentech2016)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Genentech2016)<br/>
 [Genentech](http://www.gene.com), South San Francisco, California
-(_Apr 15_)
+(_Mar 15_)
 
 
 
