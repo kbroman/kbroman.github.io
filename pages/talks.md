@@ -8,6 +8,15 @@ description: Karl Broman's talks
 
 ###  2016
 
+Steps toward reproducible reearch
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_ChicagoASA2016.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_ChicagoASA2016_withnotes.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)<br/>
+[Chicago ASA Chapter](http://community.amstat.org/chicagochapter/home)
+Conference on [Learning Tools to Promote Reproducible Research and Open
+Science](https://s01.123signup.com/servlet/SignUpMember?PG=1531573182300&P=15315731911420461800&Info), Chicago, Illinois (_Apr 1_)
+
+
 Interactive graphics for genetic data
 [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/Genentech2016)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Genentech2016)<br/>
