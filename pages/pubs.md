@@ -418,6 +418,7 @@ Bader HL, Ruhe AL, Wang LW, Wong AK, Walsh KF, Packer RA, Mitelman J, Robertson 
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/20862248)
 [![pdf (564k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/adamtsl2.pdf)
 <!-- * 97 * -->
+<!-- http://doi.org/10.1371/journal.pone.0012817 -->
 
 Jurisic G, Sundberg JP, Bleich A, Leiter EH, **Broman KW**, Buechler G, Alley L, Vestweber D, Detmar M (2010)  Quantitative lymphatic vessel trait analysis suggests <i>Vcam1</i> as candidate modifier gene of inflammatory bowel disease.  [Genes Immun](http://www.nature.com/gene) 11:219-231
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/20220769)
