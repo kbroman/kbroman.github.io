@@ -412,6 +412,7 @@ Arends D, Prins P, Jansen RC, **Broman KW** (2010)  R/qtl: High-throughput multi
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/20966004)
 [![pdf (181k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/mqm.pdf)
 <!-- * 98 * -->
+<!-- http://doi.org/10.1093/bioinformatics/btq565 -->
 
 Bader HL, Ruhe AL, Wang LW, Wong AK, Walsh KF, Packer RA, Mitelman J, Robertson KR, O'Brien DP, **Broman KW**, Shelton GD, Apte SS, Neff MW (2010) An <i>ADAMTSL2</i> founder mutation causes Musladin-Lueke Syndrome, a heritable disorder of beagle dogs, featuring stiff skin and joint contractures.  [PLOS One](http://www.plosone.org) 5:e12817
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/20862248)
