@@ -425,6 +425,7 @@ Jurisic G, Sundberg JP, Bleich A, Leiter EH, **Broman KW**, Buechler G, Alley L,
 [![pdf (1013k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/jurisic.pdf)
 [![Supplementary material](icons16/supp-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/jurisic_supp.pdf)
 <!-- * 96 * -->
+<!-- http://doi.org/10.1038/gene.2010.4 -->
 
 Burrage LC, Baskin-Hill AE, Sinasac DS, Singer JB, Croniger CM, Kirby A, Kulbokas EJ, Daly MJ, Lander ES, **Broman KW**, Nadeau JH (2010) Genetic resistance to diet-induced obesity in chromosome substitution strains of mice. [Mamm Genome](http://www.springerlink.com/content/1432-1777/) 21:115-129
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/20127486)
