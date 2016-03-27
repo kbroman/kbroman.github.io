@@ -431,6 +431,7 @@ Burrage LC, Baskin-Hill AE, Sinasac DS, Singer JB, Croniger CM, Kirby A, Kulboka
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/20127486)
 [![pdf (673k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/burrage.pdf)
 <!-- * 95 * -->
+<!-- http://doi.org/10.1007/s00335-010-9247-9 -->
 
 Greene JM, Lhost JJ, Burwitz BJ, Budde ML, Macnair CE, Weiker MK, Gostick E, Friedrich TC, **Broman KW**, Price DA, O'Connor SL, O'Connor DH (2010)  Extralymphoid CD8<sup>+</sup> T cells resident in tissue from Simian Immunodeficiency Virus SIVmac239&Delta;nef-vaccinated macaques suppress SIVmac239 replication <i>ex vivo</i>.  [J Virol](http://jvi.asm.org/) 84:3362-3372
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/20089651)
