@@ -437,6 +437,7 @@ Greene JM, Lhost JJ, Burwitz BJ, Budde ML, Macnair CE, Weiker MK, Gostick E, Fri
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/20089651)
 [![pdf (3.4M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/greene2010.pdf)
 <!-- * 94 * -->
+<!-- http://doi.org/10.1128/JVI.02028-09 -->
 
 Wong AK, Ruhe AL, Dumont BL, Robertson KR, Guerrero G, Shull SM, Ziegle JS, Millon LV, **Broman KW**, Payseur BA, Neff MW (2010)  A comprehensive linkage map of the dog genome.  [Genetics](http://www.genetics.org) 184:595-605
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/19966068)
