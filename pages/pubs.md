@@ -444,6 +444,7 @@ Wong AK, Ruhe AL, Dumont BL, Robertson KR, Guerrero G, Shull SM, Ziegle JS, Mill
 [![pdf (32M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/dogmap2010.pdf)
 [![Supporting Information](icons16/supp-icon.png)](http://www.genetics.org/cgi/content/full/genetics.109.106831/DC1)
 <!-- * 92 * -->
+<!-- http://doi.org/10.1534/genetics.109.106831 -->
 
 #### 2009
 
