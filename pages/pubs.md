@@ -453,6 +453,7 @@ Modifiers of von Willebrand factor identified by natural variation in inbred str
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/19789385)
 [![pdf (308k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/blood.pdf)
 <!-- * 91 * -->
+<!-- http://doi.org/10.1182/blood-2009-07-233213 -->
 
 Cheng EY, Hunt PA, Naluai-Cecchini TA, Fligner CL, Fujimoto VY, Pasternack TL, Schwartz JM, Steinauer JE, Woodruff TJ, Cherry SM, Hansen TA, Vallente RU, **Broman KW**, Hassold TJ (2009)  Meiotic recombination in human oocytes.  [PLOS Genet](http://www.plosgenetics.org) 5:e1000661
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/19763179)
