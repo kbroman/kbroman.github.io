@@ -459,6 +459,7 @@ Cheng EY, Hunt PA, Naluai-Cecchini TA, Fligner CL, Fujimoto VY, Pasternack TL, S
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/19763179)
 [![pdf (759k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/hassold.pdf)
 <!-- * 90 * -->
+<!-- http://doi.org/10.1371/journal.pgen.1000661 -->
 
 Fledel-Alon A, Wilson DJ, **Broman K**, Wen X, Ober C, Coop G, Przeworski M (2009)  Broad-scale recombination patterns underlying proper disjunctions in humans.  [PLOS Genet](http://www.plosgenetics.org) 5:e1000658
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/19763175)
