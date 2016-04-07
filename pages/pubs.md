@@ -30,18 +30,19 @@ description: Karl Broman's publications
 
 ### <a name="articles"></a>journal articles
 
+#### 2016
+
 Tian J, Keller MP, Broman AT, Kendziorski C, Yandell BS, Attie AD,
-**Broman KW**. The dissection of expression quantitative trait locus
+**Broman KW** (2016) The dissection of expression quantitative trait locus
 hotspots.
-[Genetics](http://genetics.org), to appear
+[Genetics](http://genetics.org) 202:1563-1574
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/26837753)
 [![pdf](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/transbandpaper_wsupp.pdf)
 [![supplement](icons16/supp-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/transbandpaper_FileS1.pdf)
 [![data](icons16/data-icon.png)](http://bit.ly/B6BTBR)
 [![qtlpvl software](icons16/R-icon.png)](https://github.com/jianan/qtlpvl)
 <!-- * 141 * -->
-
-#### 2016
+<!-- http://doi.org/10.1534/genetics.115.183624 -->
 
 Gruhn JR, Al-Asmar N, Fasnacht R, Maylor-Hagen H, Peinado V,
 Rubio C, **Broman KW**, Hunt PA, Hassold T (2016)
