@@ -15,6 +15,12 @@ records) and increased reliance on such data in medical decisions and
 for health care policy. Also, there have been numerous calls for
 training in biostatistics and biomedical informatics.
 
+In a January, 2016, article in the Denver Post, Shawn Wang, vice president of data science for
+Anthem Insurance's health care analytics department, was quoted as
+saying,
+["Data science has been mature for the last couple years in retail, e-commerce and fintech (financial technology). They're really strong. We have to leverage those. Our preference is to find people within the health care space, but we know there is a limited supply. It's not easy."](http://www.denverpost.com/business/ci_29451303/invasion-data-scientists-hot-job-2016-expands-beyond)
+
+
 But we are also asked to provide data on employment opportunities for
 graduates of the program. This seems a bit more tricky. My main
 concern is the need to separate data science generally (which is
@@ -44,3 +50,16 @@ lists "1. Data scientist"
 - [indeed.com: Data scientist job trend](http://www.indeed.com/jobtrends/%22data%20scientist%22.html)
 (a graph) shows data scientist jobs have increased 20x from Feb, 2012
 to Feb, 2016.
+
+- [Forbes: Best and worst graduate degrees for jobs in 2016](http://fortune.com/2016/03/21/best-worst-graduate-degrees-jobs-2016/)
+lists "1. Master's Biostatistics; 2. Master's Statistics; 3. Ph.D.,
+Computer Science; 6. Master's Computer Science"
+
+- [NSF: Unemployment rate among doctoral scientists](http://www.nsf.gov/statistics/infbrief/nsf14310/)
+in biological, health, and mathemetics/statistics fields has remained
+low.
+
+- Bureau of labor statistics on [Statisticians](http://www.bls.gov/ooh/math/statisticians.htm)
+and [Medical scientists](http://www.bls.gov/ooh/life-physical-and-social-science/medical-scientists.htm)
+"Employment of statisticians is projected to grow 34 percent from 2014
+to 2024, much faster than the average for all occupations."
