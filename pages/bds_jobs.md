@@ -59,7 +59,15 @@ Computer Science; 6. Master's Computer Science"
 in biological, health, and mathemetics/statistics fields has remained
 low.
 
-- Bureau of labor statistics on [Statisticians](http://www.bls.gov/ooh/math/statisticians.htm)
-and [Medical scientists](http://www.bls.gov/ooh/life-physical-and-social-science/medical-scientists.htm)
+- Bureau of labor statistics on [Statisticians](http://www.bls.gov/ooh/math/statisticians.htm):
 "Employment of statisticians is projected to grow 34 percent from 2014
-to 2024, much faster than the average for all occupations."
+to 2024, much faster than the average for all occupations." (Says Master's level?)
+
+- Bureau of labor statistics on [Medical scientists](http://www.bls.gov/ooh/life-physical-and-social-science/medical-scientists.htm):
+"Employment of medical scientists is projected to grow 8 percent from 2014 to 2024, about as fast as the average for all occupations."
+
+- Bureau of labor statistics on [Computer and Information Research Scientists](http://www.bls.gov/ooh/computer-and-information-technology/computer-and-information-research-scientists.htm)
+"Employment of computer and information research scientists is projected to grow 11 percent from 2014 to 2024, faster than the average for all occupations."
+
+- [American Mathematical Society report](http://www.ams.org/profession/data/annual-survey/survey-reports)
+  indicates low unemployment rate
