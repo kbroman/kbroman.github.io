@@ -466,6 +466,7 @@ Fledel-Alon A, Wilson DJ, **Broman K**, Wen X, Ober C, Coop G, Przeworski M (200
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/19763175)
 [![pdf (353k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/molly.pdf)
 <!-- * 89 * -->
+<!-- http://doi.org/10.1371/journal.pgen.1000658 -->
 
 Cox A, Ackert-Bicknell CL, Dumont BL, Ding Y,
 Bell JT, Brockmann GA, Wergedal JE, Bult C, Paigen B, Flint J, Tsaih
