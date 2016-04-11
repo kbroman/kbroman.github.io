@@ -9,13 +9,19 @@ description: Karl Broman's talks
 ###  2016
 
 Steps toward reproducible research
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_UMass2016.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_UMass2016_withnotes.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)<br/>
+[Graduate Researchers interested in Data (GRiD)](http://gridclub.io),
+[UMass Amherst](http://www.umass.edu/) (_Apr 11_)
+
+Steps toward reproducible research
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_ChicagoASA2016.pdf)
 [![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_ChicagoASA2016_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)<br/>
 [Chicago Chapter ASA](http://community.amstat.org/chicagochapter/home)
 Conference on [Learning Tools to Promote Reproducible Research and Open
 Science](https://s01.123signup.com/servlet/SignUpMember?PG=1531573182300&P=15315731911420461800&Info), Chicago, Illinois (_Apr 1_)
-
 
 Interactive graphics for genetic data
 [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/Genentech2016)
