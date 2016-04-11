@@ -38,6 +38,8 @@ his [D3 examples](http://www.biostat.wisc.edu/~kbroman/D3).
 
 [orcid](http://orcid.org): [0000-0002-4914-6671](http://orcid.org/0000-0002-4914-6671)
 
+[impactstory page](https://impactstory.org/u/0000-0002-4914-6671)
+
 ---
 
 <div class="container">
