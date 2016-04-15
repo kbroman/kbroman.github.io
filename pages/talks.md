@@ -8,6 +8,13 @@ description: Karl Broman's talks
 
 ###  2016
 
+Dissection and fine-mapping of _trans_-eQTL hotspots
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/cornell2016.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/cornell2016_withnotes.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_TransHotspots)<br/>
+[Department of Biological Statistics and Computational Biology](https://bscb.cornell.edu),
+[Cornell University](http://www.cornell.edu/) (_18 Apr_)
+
 Steps toward reproducible research
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_UMass2016.pdf)
 [![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_UMass2016_withnotes.pdf)
