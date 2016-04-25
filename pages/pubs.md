@@ -475,6 +475,7 @@ standard genetic map for the laboratory mouse. [Genetics](http://www.genetics.or
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/19535546)
 [![pdf (3.4M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/cox.pdf)
 <!-- * 88 * -->
+<!-- http://doi.org/10.1534/genetics.109.105486 -->
 
 Dumont BL, **Broman KW**,
 Payseur BA (2009) Variation in genomic recombination rates among
