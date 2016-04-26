@@ -483,6 +483,7 @@ heterogeneous stock mice. [Genetics](http://www.genetics.org) 182:1345-1349
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/19535547)
 [![pdf (468k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/dumont.pdf)
 <!-- * 87 * -->
+<!-- http://doi.org/10.1534/genetics.109.105114 -->
 
 Manichaikul A, **Broman KW** (2009)  Binary trait mapping in experimental crosses with selective genotyping.  [Genetics](http://www.genetics.org) 182:863-874
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/19416941)
