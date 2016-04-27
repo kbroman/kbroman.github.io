@@ -35,10 +35,16 @@ high-dimensional data and complex cross designs. (Early in development.)
 
 ---
 
-#### <a name="qtlcharts"></a>[R/qtlcharts](http://kbroman.org/qtlcharts)
+#### <a name="qtlcharts"></a>[R/qtlcharts](http://kbroman.org/qtlcharts) and [d3panels](http://kbroman.org/d3panels)
 
-An [R](http://www.r-project.org) package with
-[D3](http://d3js.org)-based interactive graphics for QTL experiments.
+[R/qtlcharts](http://kbroman.org/qtlcharts) is an
+[R](http://www.r-project.org) package with [D3](http://d3js.org)-based
+interactive graphics for QTL experiments.
+
+It is built on the [d3panels](http://kbroman.org/d3panels) library
+(written in [CoffeeScript](http://coffeescript.org/)), which provides
+a set of graphics panels of different types (e.g., scatterplot,
+dotchart, and heatmap).
 
 
 ---
