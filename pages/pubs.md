@@ -489,6 +489,7 @@ Manichaikul A, **Broman KW** (2009)  Binary trait mapping in experimental crosse
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/19416941)
 [![pdf (576k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/binarytraits.pdf)
 <!-- * 86 * -->
+<!-- http://doi.org/10.1534/genetics.108.098913 -->
 
 Venkatesan M, **Broman KW**, Sellers M, Rasgon JL (2009) An initial linkage map of the West Nile Virus vector <i>Culex tarsalis</i>. [Insect Mol Biol](http://www3.interscience.wiley.com/journal/118497253/home) 18:453-463
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/19453767)
