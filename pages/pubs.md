@@ -495,6 +495,7 @@ Venkatesan M, **Broman KW**, Sellers M, Rasgon JL (2009) An initial linkage map 
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/19453767)
 [![pdf (265k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/ctar_map.pdf)
 <!-- * 85 * -->
+<!-- http://doi.org/10.1111/j.1365-2583.2009.00885.x -->
 
 Sen &#346;, Johannes F, **Broman KW** (2009) Selective genotyping and phenotyping strategies in a complex trait context.
 [Genetics](http://www.genetics.org) 181:1613-1626
