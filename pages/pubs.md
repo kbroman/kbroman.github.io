@@ -502,6 +502,7 @@ Sen &#346;, Johannes F, **Broman KW** (2009) Selective genotyping and phenotypin
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/19153260)
 [![pdf (469k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/sen_selgeno.pdf)
 <!-- * 84 * -->
+<!-- http://doi.org/10.1534/genetics.108.094607 -->
 
 Manichaikul A, Moon JY, Sen &#346;, Yandell BS, **Broman KW** (2009) A model selection approach for the
 identification of quantitative trait loci in experimental crosses,
