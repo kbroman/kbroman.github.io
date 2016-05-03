@@ -512,6 +512,7 @@ allowing epistasis. [Genetics](http://www.genetics.org) 181:1077-1086
 \[<b>Erratum</b>: [Genetics](http://www.genetics.org) 184:607, 2010
 [![pdf (89k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/multiqtl_erratum.pdf)\]
 <!-- * 83 * -->
+<!-- http://doi.org/10.1534/genetics.108.094565 -->
 
 
 #### 2008
