@@ -524,7 +524,7 @@ Genetic architecture of complex traits: Large phenotypic effects and pervasive e
 [![pdf (401k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/nadeau_css.pdf)
 [![Supplementary material](icons16/supp-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/nadeau_css_suppl.pdf)
 <!-- * 82 * -->
-
+<!-- http://doi.org/10.1073/pnas.0810388105 -->
 
 Hill M, **Broman KW**, Stupka E, Smith WC, Jiang D, Sidow A (2008)
 The <i>C. savignyi</i> genetic map and its integration with the reference sequence facilitates insights into chordate genome evolution.  [Genome Res](http://www.genome.org/) 18:1369-1379
