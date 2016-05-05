@@ -233,31 +233,25 @@ title: travel
 
 - Genentech, Mar 14-16, 2016 (San Francisco, CA)
 
--->
-
 - Chicago ASA workshop on reproducible research, Apr 1, 2016 (Chicago, IL)
 
 - [Biological Statistics and Computational Biology](https://bscb.cornell.edu/),
   Cornell University, Apr 18, 2016 (Ithaca, NY)
+
+-->
 
 - Albee Messing project meeting, May 12-13, 2016 (Rochester, NY)
 
 - PRDM9 advisory board meeting, May 17-20, 2016 (Bar Harbor, ME)
 
 - [International Conference on Quantitative Genetics](http://www.icqg5.org/)
-  June 12-17, 2016 (Madison, WI) ([abstracts](http://www.icqg5.org/#!blank/c23x9) due **1 April**)
+  June 12-17, 2016 (Madison, WI)
 
 - [UseR! conference](http://user2016.org/), Stanford, June 27-30, 2016
   (Palo Alto, CA)
-  ([abstracts](http://user2016.org/abstract-submission/index.html) due
-  **25 March**; early
-  [registration](https://app.certain.com/profile/form/index.cfm?PKformID=0x20492653f72)
-  by **1 April**)
 
 - [The Allied Genetics Conference](http://www.genetics2016.org/), July
   13-17, 2016 (Orlando, FL)
-  ([abstracts](http://www.genetics-gsa.org/genetics/2016/abstracts/cgi-bin/selectcommunity.pl)
-  due **23 March**)
 
 - [JSM 2016](http://www.amstat.org/meetings/jsm/2016), July 31-Aug 4,
   2016 (Chicago, IL)
