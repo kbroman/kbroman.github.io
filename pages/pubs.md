@@ -538,6 +538,7 @@ Lupi I, **Broman KW**, Tzuo S-C, Gutenberg A, Martino E, Caturegli P (2008)  Nov
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/18194487)
 [![pdf (495k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/hypophysitis.pdf)
 <!-- * 80 * -->
+<!-- http://doi.org/10.1111/j.1365-2265.2008.03180.x -->
 
 Paigen K, Szatkiewicz JP, Sawyer K, Leahy N, Parvanov ED, Ng SH, Graber JH, **Broman KW**, Petkov PM (2008)  The recombinational anatomy of a mouse chromosome.  [PLOS Genet](http://www.plosgenetics.org) 4(7):e1000119
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/18617997)
