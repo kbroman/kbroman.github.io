@@ -532,6 +532,7 @@ The <i>C. savignyi</i> genetic map and its integration with the reference sequen
 [![pdf (814k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/matthill.pdf)
 [![Supplementary material](icons16/supp-icon.png)](http://genome.cshlp.org/cgi/content/full/gr.078576.108/DC1)
 <!-- * 81 * -->
+<!-- http://doi.org/10.1101/gr.078576.108 -->
 
 Lupi I, **Broman KW**, Tzuo S-C, Gutenberg A, Martino E, Caturegli P (2008)  Novel autoantigens in autoimmune hypophysitis.  [Clin Endocrinol](http://www.blackwell-synergy.com/loi/CEN) 69:269-278
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/18194487)
