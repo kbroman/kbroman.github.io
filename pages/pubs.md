@@ -545,6 +545,7 @@ Paigen K, Szatkiewicz JP, Sawyer K, Leahy N, Parvanov ED, Ng SH, Graber JH, **Br
 [![pdf (491k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/recomb_anatomy.pdf)
 [![Supplementary material](icons16/supp-icon.png)](http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2440539#supplementary-material-sec)
 <!-- * 79 * -->
+<!-- http://doi.org/10.1371/journal.pgen.1000119 -->
 
 Bjornsson HT, Albert TJ, Ladd-Acosta CM, Green RD, Rongione MA,
 Middle CM, Irizarry RA, **Broman KW**, Feinberg AP (2008)  SNP-specific array-based allele-specific expression analysis.  [Genome Res](http://www.genome.org/) 18:771-779
