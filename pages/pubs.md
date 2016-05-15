@@ -32,6 +32,15 @@ description: Karl Broman's publications
 
 #### 2016
 
+De Simone M, Spagnuolo L, Lor&egrave; NI, Cigana C, De Fino I, **Broman KW**,
+Iraqi FA, Bragonzi A (2016) Mapping genetic determinants of host
+susceptibility to _Pseudomonas aeruginosa_ lung infection in
+mice. [BMC Genomics](http://bmcgenomics.biomedcentral.com) 17:351
+[![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/27169516)
+[![pdf](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/bmc_genomics_2016.pdf)
+<!-- * 142 * -->
+<!-- http://doi.org/10.1186/s12864-016-2676-4 -->
+
 Tian J, Keller MP, Broman AT, Kendziorski C, Yandell BS, Attie AD,
 **Broman KW** (2016) The dissection of expression quantitative trait locus
 hotspots.
