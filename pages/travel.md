@@ -238,9 +238,9 @@ title: travel
 - [Biological Statistics and Computational Biology](https://bscb.cornell.edu/),
   Cornell University, Apr 18, 2016 (Ithaca, NY)
 
--->
-
 - Albee Messing project meeting, May 12-13, 2016 (Rochester, NY)
+
+-->
 
 - PRDM9 advisory board meeting, May 17-20, 2016 (Bar Harbor, ME)
 
