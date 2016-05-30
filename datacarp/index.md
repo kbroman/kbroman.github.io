@@ -9,6 +9,7 @@ description: "Datasets for 2016-06-01 Data Carpentry workshop at UW-Madison"
 - OpenRefine: [Portal_rodents_19772002_scinameUUIDs.csv](Portal_rodents_19772002_scinameUUIDs.csv)
 
 - SQL:
+  - [portal_mammals.sqlite](portal_mammals.sqlite)
   - [plots.csv](plots.csv)
   - [species.csv](species.csv)
   - [surveys.csv](surveys.csv)
