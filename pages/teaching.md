@@ -44,23 +44,31 @@ description: Karl Broman's teaching
 
 ### <a name="shortcourses"></a>Short courses
 
+#### [Data Carpentry](http://www.datacarpentry.org)
+
+[UW-Madison](http://uw-madison-aci.github.io/2016-06-01-uwmadison/),
+Madison, WI (1-2 June 2016)
+
+  - [Course materials](http://uw-madison-aci.github.io/2016-06-01-uwmadison/)
+  - [GitHub repository](https://github.com/uw-madison-aci/2016-06-01-uwmadison/)
+
 #### [Software Carpentry](http://software-carpentry.org/)
 
 [UW-Madison](http://uw-madison-aci.github.io/2015-06-03-wisc/)
 (for Social Scientists),
-Madison, WI (Jun 3-4, 2015)
+Madison, WI (3-4 June, 2015)
 
   - [Course materials](https://github.com/UW-Madison-ACI/boot-camps/blob/2015-06-03/README.md#day-1)
   - [GitHub repository](https://github.com/UW-Madison-ACI/boot-camps/tree/2015-06-03)
 
 [Washington State University](http://karawoo.com/2015-04-27-wsu/),
-Pullman, WA (Apr 27-28, 2015)
+Pullman, WA (27-28 April 2015)
 
   - [Course materials](http://karawoo.com/2015-04-27-wsu/syllabus/index.html)
   - [GitHub repository](https://github.com/karawoo/2015-04-27-wsu/)
 
 [UW-Madison](http://uw-madison-aci.github.io/2014-08-25-wisc/),
-Madison, WI (Aug 25-26, 2014)
+Madison, WI (25-26 August 2014)
 
   - [Course materials](https://github.com/UW-Madison-ACI/boot-camps/blob/2014-08-25/README.md#day-1)
   - [GitHub repository](https://github.com/UW-Madison-ACI/boot-camps/tree/2014-08-25)
