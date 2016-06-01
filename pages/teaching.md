@@ -50,7 +50,9 @@ description: Karl Broman's teaching
 Madison, WI (1-2 June 2016)
 
   - [Course materials](http://uw-madison-aci.github.io/2016-06-01-uwmadison/)
-  - [GitHub repository](https://github.com/uw-madison-aci/2016-06-01-uwmadison/)
+  - GitHub repository:
+    [web site](https://github.com/uw-madison-aci/2016-06-01-uwmadison/)
+    | [R lessons](https://github.com/kbroman/datacarpentry_R_2016-06-01/)
 
 #### [Software Carpentry](http://software-carpentry.org/)
 
