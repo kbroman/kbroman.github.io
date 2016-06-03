@@ -81,7 +81,7 @@ expression data on two tissues.
 
 ---
 
-#### <a name="simcross"></a>[R/simcross](https://github.com/kbroman/simcross)
+#### <a name="simcross"></a>[R/simcross](http://kbroman.org/simcross)
 
 An [R](http://www.r-project.org) package for simulating general
 experimental crosses (such as advanced intercross lines and the
