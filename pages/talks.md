@@ -9,6 +9,13 @@ description: Karl Broman's talks
 ###  2016
 
 Steps toward reproducible research
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_CBB2016.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_CBB2016_withnotes.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)<br/>
+[Computational Biology and Biostatistics Summer Research Program](https://www.biostat.wisc.edu/content/computational-biology-and-biostatistics-summer-research-program-cbb),
+[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Jun 7_)
+
+Steps toward reproducible research
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_ComBEE2016.pdf)
 [![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_ComBEE2016_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)<br/>
