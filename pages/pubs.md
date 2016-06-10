@@ -24,7 +24,7 @@ description: Karl Broman's publications
 
 **Broman KW**, Sen &#346; (2009) A Guide to QTL Mapping with R/qtl.  Springer, New York
 [![Online complements](icons16/html-icon.png)](http://www.rqtl.org/book)
-[![Amazon](icons16/amazon-icon.png)](http://www.amazon.com/exec/obidos/ASIN/0387921249/7210-20)
+[![Amazon](icons16/amazon-icon.png)](https://www.amazon.com/gp/product/0387921249?ie=UTF8&tag=7210-20)
 [![Springer](icons16/springer-icon.png)](http://www.springer.com/978-0-387-92124-2)
 [![R/qtl](icons16/R-icon.png)](http://www.rqtl.org)
 
@@ -1251,7 +1251,7 @@ relationships in the presence of genotyping errors. [Am J Hum Genet](http://www.
 
 **Broman KW** (2012) Applied statistics and exposition (commentary).  In: Dudoit S (ed) <i>Selected Works of Terry Speed</i>, Springer, pp 353-355
 [![Springer](icons16/springer-icon.png)](http://link.springer.com/book/10.1007/978-1-4614-1347-9)
-[![Amazon](icons16/amazon-icon.png)](http://www.amazon.com/exec/obidos/ASIN/146141346X/7210-20)
+[![Amazon](icons16/amazon-icon.png)](https://www.amazon.com/gp/product/146141346X?ie=UTF8&tag=7210-20)
 \[**Note**: The [PDFs at Springer](http://link.springer.com/book/10.1007/978-1-4614-1347-9)
 are free.\]
 
@@ -1272,7 +1272,7 @@ Gray IC (eds) <i>Bioinformatics for Geneticists</i>, 2nd edition,
   Wiley, pp. 17-31
 [![Abstract](icons16/pubmed-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/bioinfchap_abstract.html)
 [![pdf (250k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/bioinf_chapter.pdf)
-[![Amazon](icons16/amazon-icon.png)](http://www.amazon.com/exec/obidos/ASIN/0470026200/karlwbroman)
+[![Amazon](icons16/amazon-icon.png)](https://www.amazon.com/gp/product/0470026200?ie=UTF8&tag=7210-20)
 
 **Broman KW**, Matsumoto N, Giglio S,
 Martin CL, Roseberry JA, Zuffardi O, Ledbetter DH, Weber JL (2003)
@@ -1289,7 +1289,8 @@ Genetic Dissection of Complex Traits. Vol 42: Advances in Genetics.
 Academic Press, New York, pp 77-96
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/11037315)
 [![pdf (3.2M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/weber_broman.pdf)
-[![Amazon](icons16/amazon-icon.png)](http://www.amazon.com/exec/obidos/ASIN/0120176424/karlwbroman)
+[![Amazon](icons16/amazon-icon.png)](https://www.amazon.com/gp/product/0120176424?ie=UTF8&tag=7210-20)
+
 <!-- * 3 * -->
 
 **Broman KW** (1999) Cleaning genotype data.  In: Goldin L, Amos CI,
@@ -1307,7 +1308,7 @@ identifying QTLs in experimental crosses. In: Seillier-Moiseiwitsch F
 Notes-Monograph Series, Vol 33, pp 114-142
 [![Abstract](icons16/pubmed-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/qtlreview_abstract.html)
 [![pdf (249k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/qtlreview.pdf)
-[![Amazon](icons16/amazon-icon.png)](http://www.amazon.com/exec/obidos/ASIN/0940600471/karlwbroman)
+[![Amazon](icons16/amazon-icon.png)](https://www.amazon.com/gp/product/0940600471?ie=UTF8&tag=7210-20)
 <!-- * 1 * -->
 
 
