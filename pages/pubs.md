@@ -566,13 +566,12 @@ Middle CM, Irizarry RA, **Broman KW**, Feinberg AP (2008)  SNP-specific array-ba
 <!-- * 78 * -->
 <!-- http://doi.org/10.1101/gr.073254.107 -->
 
-
 Peirce JL, **Broman KW**, Lu L, Chesler EJ,
 Zhou G, Airey DC, Birmingham AE, Williams RW (2008)  Genome Reshuffling for Advanced Intercross Permutation (GRAIP): Simulation and permutation for advanced intercross population analysis. [PLOS ONE](http://www.plosone.org) 3(4):e1977
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/18431467)
 [![pdf (468k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/peirce2.pdf)
 <!-- * 77 * -->
-
+<!-- http://doi.org/10.1371/journal.pone.0001977 -->
 
 Roy-Gagnon M-H, Mathias RA, Fallin MD, Jee SH, **Broman KW**, Wilson AF (2008) An extension of the
 regression of offspring on mid-parent to test for association and
