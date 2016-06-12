@@ -580,7 +580,7 @@ estimate locus-specific heritability: The revised ROMP method.
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/18042270)
 [![pdf (519k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/romp.pdf)
 <!-- * 76 * -->
-
+<!-- http://doi.org/10.1111/j.1469-1809.2007.00401.x -->
 
 Sinha D, Klise A, Sergeev Y, Hose S, Bhutto IA,
 Hackler L, Malpic-Ilanos T, Samtani S, Grebe R, Goldberg MF,
