@@ -591,6 +591,7 @@ Cell Neurosci](http://www.sciencedirect.com/science/journal/10447431) 37:85-95
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/17931883)
 [![pdf (2.3M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/sinha_nuc1.pdf)
 <!-- * 75 * -->
+<!-- http://doi.org/10.1016/j.mcn.2007.08.016 -->
 
 
 
@@ -606,6 +607,7 @@ Cell Cardiol](http://www.sciencedirect.com/science/journal/00222828) 43:677-685
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/17643447)
 [![pdf (1.2M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/william_pu.pdf)
 <!-- * 74 * -->
+<!-- http://doi.org/10.1016/j.yjmcc.2007.06.004 -->
 
 Manichaikul A, Palmer AA, Sen &#346;, **Broman KW** (2007)  Significance thresholds for
 quantitative trait locus mapping under selective genotyping.
