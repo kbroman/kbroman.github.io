@@ -615,6 +615,7 @@ quantitative trait locus mapping under selective genotyping.
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/17720902)
 [![pdf (93k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/selgeno.pdf)
 <!-- * 73 * -->
+<!-- http://doi.org/10.1534/genetics.107.080093 -->
 
 Petkov PM, **Broman KW**,
 Szatkiewicz JP, Paigen K (2007)  Crossover interference underlies sex
