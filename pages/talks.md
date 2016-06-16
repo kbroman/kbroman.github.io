@@ -8,6 +8,13 @@ description: Karl Broman's talks
 
 ###  2016
 
+Big data in genetics (_10 min session introduction_)
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/icqg2016.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/icqg2016_withnotes.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ICQG2016)<br/>
+[International Conference on Quantitative Genetics](http://www.icqg5.org),
+Madison, WI (_Jun 16_)
+
 Steps toward reproducible research
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_CBB2016.pdf)
 [![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_CBB2016_withnotes.pdf)
