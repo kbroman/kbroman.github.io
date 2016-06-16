@@ -13,7 +13,7 @@ Big data in genetics (_10 min session introduction_)
 [![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/icqg2016_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ICQG2016)<br/>
 [International Conference on Quantitative Genetics](http://www.icqg5.org),
-Madison, WI (_Jun 16_)
+Madison, Wisconsin (_Jun 16_)
 
 Steps toward reproducible research
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_CBB2016.pdf)
@@ -301,7 +301,7 @@ MAGIC design and other topics
 
 Interactive graphics for high-dimensional genetic data  [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/CTC2013)
 [![github](icons16/github-icon.png)](http://github.com/kbroman/Talk_CTC2013)<br/>
-[Complex Trait Community 12th annual meeting](http://rqtl.org/ctc2013), Madison, WI (_May 31_)
+[Complex Trait Community 12th annual meeting](http://rqtl.org/ctc2013), Madison, Wisconsin (_May 31_)
 
 Why aren&rsquo;t all of our graphs interactive?  [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/InteractiveGraphs3)
 [![github](icons16/github-icon.png)](http://github.com/kbroman/Talk_InteractiveGraphs3)
