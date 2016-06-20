@@ -624,6 +624,7 @@ differences in recombination rates.  [Trends Genet](http://www.sciencedirect.com
 [![pdf (266k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/petkov.pdf)
 [![Supplementary material](icons16/supp-icon.png)](petkov_supp.pdf)
 <!-- * 72 * -->
+<!-- http://doi.org/10.1016/j.tig.2007.08.015 -->
 
 Peirce JL, **Broman KW**, Lu L, Williams RW (2007) A simple method for combining genetic mapping data from multiple crosses and experimental designs.  [PLOS ONE](http://www.plosone.org) 2(10):e1036
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/17940600)
