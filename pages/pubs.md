@@ -630,6 +630,7 @@ Peirce JL, **Broman KW**, Lu L, Williams RW (2007) A simple method for combining
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/17940600)
 [![pdf (215k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/peirce1.pdf)
 <!-- * 71 * -->
+<!-- http://doi.org/10.1371/journal.pone.0001036 -->
 
 Teuscher F, **Broman KW** (2007)
 Haplotype probabilities for multiple-strain recombinant inbred lines.
