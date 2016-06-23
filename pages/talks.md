@@ -8,6 +8,13 @@ description: Karl Broman's talks
 
 ###  2016
 
+R/qtl: Just barely sustainable
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/UseR2016.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/UseR2016_withnotes.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_UseR2016)<br/>
+[UseR 2016 Conference](http://user2016.org), Palo Alto, California
+(_Jun 28_)
+
 Big data in genetics (_10 min session introduction_)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/icqg2016.pdf)
 [![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/icqg2016_withnotes.pdf)
