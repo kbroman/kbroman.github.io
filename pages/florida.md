@@ -15,3 +15,5 @@ title: Orlando trip
 - [Harry P. Leu Gardens](http://www.leugardens.org/), Lake Ivanhoe, near downtown
 
 - [Safari wilderness ranch](http://safariwilderness.com/)
+
+- [Loch Haven park](http://www.cityoforlando.net/parks/loch-haven-park/), near downtown
