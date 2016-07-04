@@ -17,3 +17,5 @@ title: Orlando trip
 - [Safari wilderness ranch](http://safariwilderness.com/)
 
 - [Loch Haven park](http://www.cityoforlando.net/parks/loch-haven-park/), near downtown
+
+- [Gatorland](http://www.gatorland.com/), [zip line](http://www.gatorland.com/public/experiences/screamin-gator-zip-line/index.cfm)
