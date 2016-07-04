@@ -242,13 +242,13 @@ title: travel
 
 - PRDM9 advisory board meeting, May 17-20, 2016 (Bar Harbor, ME)
 
--->
-
 - [International Conference on Quantitative Genetics](http://www.icqg5.org/)
   June 12-17, 2016 (Madison, WI)
 
 - [UseR! conference](http://user2016.org/), Stanford, June 27-30, 2016
   (Palo Alto, CA)
+
+->
 
 - [The Allied Genetics Conference](http://www.genetics2016.org/), July
   13-17, 2016 (Orlando, FL)
