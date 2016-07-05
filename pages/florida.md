@@ -18,4 +18,9 @@ title: Orlando trip
 
 - [Loch Haven park](http://www.cityoforlando.net/parks/loch-haven-park/), near downtown
 
+  - [Orlando Science Center](https://www.osc.org)
+
+  - [Mennello Museum of American Art](http://www.mennellomuseum.com/)
+    (folk art)
+
 - [Gatorland](http://www.gatorland.com/), [zip line](http://www.gatorland.com/public/experiences/screamin-gator-zip-line/index.cfm)
