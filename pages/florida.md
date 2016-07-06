@@ -7,6 +7,10 @@ title: Orlando trip
 
 - [Magic Kingdom](https://disneyworld.disney.go.com/attractions/magic-kingdom/)
 
+  - Ciara recommends Space Mountain and Pirates of the Caribbean; she
+    doesn't like Mission: Space (I guess that's at Epcot). She
+    suggests avoiding rides at 12-2. Better is 9 or 5.
+
 - [Legoland Florida](https://www.legoland.com/florida/buy-tickets/admission-tickets/)
 
 - [Charles Hosmer Morse Museum of American Art](http://www.morsemuseum.org/), Winter Park
