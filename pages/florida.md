@@ -3,6 +3,8 @@ layout: page
 title: Orlando trip
 ---
 
+Our hotel is [Orlando World Center Marriott](http://www.marriott.com/hotels/travel/mcowc-orlando-world-center-marriott), 8701 World Center Dr
+
 - [Kennedy space center](https://www.kennedyspacecenter.com/tickets/ticket-info.aspx)
 
 - [Magic Kingdom](https://disneyworld.disney.go.com/attractions/magic-kingdom/)
