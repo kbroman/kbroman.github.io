@@ -9,9 +9,9 @@ Our hotel is [Orlando World Center Marriott](http://www.marriott.com/hotels/trav
 
 - [Magic Kingdom](https://disneyworld.disney.go.com/attractions/magic-kingdom/)
 
-  - Ciara recommends Space Mountain and Pirates of the Caribbean; she
-    doesn't like Mission: Space (I guess that's at Epcot). She
-    suggests avoiding rides at 12-2. Better is 9 or 5.
+  - Ciara recommends Dumbo, Space Mountain, and Pirates of the
+    Caribbean; she also likes Splash Mountain, though you get wet.
+    She suggests avoiding rides at 12-2. Better is 9 or 5.
 
 - [Charles Hosmer Morse Museum of American Art](http://www.morsemuseum.org/), Winter Park
   (Tiffany glass)
