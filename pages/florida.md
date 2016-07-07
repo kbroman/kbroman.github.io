@@ -13,14 +13,10 @@ Our hotel is [Orlando World Center Marriott](http://www.marriott.com/hotels/trav
     doesn't like Mission: Space (I guess that's at Epcot). She
     suggests avoiding rides at 12-2. Better is 9 or 5.
 
-- [Legoland Florida](https://www.legoland.com/florida/buy-tickets/admission-tickets/)
-
 - [Charles Hosmer Morse Museum of American Art](http://www.morsemuseum.org/), Winter Park
   (Tiffany glass)
 
 - [Harry P. Leu Gardens](http://www.leugardens.org/), Lake Ivanhoe, near downtown
-
-- [Safari wilderness ranch](http://safariwilderness.com/)
 
 - [Loch Haven park](http://www.cityoforlando.net/parks/loch-haven-park/), near downtown
 
@@ -29,4 +25,6 @@ Our hotel is [Orlando World Center Marriott](http://www.marriott.com/hotels/trav
   - [Mennello Museum of American Art](http://www.mennellomuseum.com/)
     (folk art)
 
-- [Gatorland](http://www.gatorland.com/), [zip line](http://www.gatorland.com/public/experiences/screamin-gator-zip-line/index.cfm)
+- [Legoland Florida](https://www.legoland.com/florida/buy-tickets/admission-tickets/)
+
+- [Safari wilderness ranch](http://safariwilderness.com/)
