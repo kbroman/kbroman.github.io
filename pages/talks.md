@@ -11,7 +11,8 @@ description: Karl Broman's talks
 R/qtl: Just barely sustainable
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/UseR2016.pdf)
 [![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/UseR2016_withnotes.pdf)
-[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_UseR2016)<br/>
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_UseR2016)
+[![video](icons16/video-icon.png)](https://sec.ch9.ms/ch9/4472/abfcaf43-a51b-4041-a5fb-71eff9514472/D1LYONS3Broman_mid.mp4)<br/>
 [UseR 2016 Conference](http://user2016.org), Palo Alto, California
 (_Jun 28_)
 
