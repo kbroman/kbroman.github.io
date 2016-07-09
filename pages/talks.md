@@ -8,6 +8,13 @@ description: Karl Broman's talks
 
 ###  2016
 
+Steps toward reproducible research
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_TAGC2016.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_TAGC2016_withnotes.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)<br/>
+[The Allied Genetics Conference](http://www.genetics2016.org/),
+Orlando, Florida (_Jul 16_)
+
 R/qtl: Just barely sustainable
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/UseR2016.pdf)
 [![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/UseR2016_withnotes.pdf)
