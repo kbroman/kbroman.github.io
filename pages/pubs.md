@@ -638,6 +638,7 @@ Haplotype probabilities for multiple-strain recombinant inbred lines.
     [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/17151250)
 [![pdf (722k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/teuscher.pdf)
 <!-- * 70 * -->
+<!-- http://doi.org/10.1534/genetics.106.064063 -->
 
 Sen &#346;, Satagopan JM, **Broman KW**, Churchill GA (2007)  R/qtlDesign: Inbred
 line cross experimental design.  [Mamm
