@@ -647,6 +647,7 @@ Genome](http://www.springerlink.com/content/1432-1777/) 18:87-93
 [![pdf (138k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/saunak_design.pdf)
 [![R/qtlDesign software](icons16/R-icon.png)](http://www.epibiostat.ucsf.edu/biostat/sen/qtldesign-software)
 <!-- * 69 * -->
+<!-- http://doi.org/10.1007/s00335-006-0090-y -->
 
 Lemmerhirt HL, **Broman
 KW**, Shavit JA, Ginsburg D (2007)  Genetic regulation of plasma von
