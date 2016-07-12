@@ -656,6 +656,7 @@ Haemost](http://www.journalth.com/) 5:329-335
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/17155961)
 [![pdf (1.1M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/heidiJTH.pdf)
 <!-- * 68 * -->
+<!-- http://doi.org/10.1111/j.1538-7836.2007.02325.x -->
 
 Nichols KM, **Broman KW**, Sundin K, Young JM,
 Wheeler PA, Thorgaard GH (2007)  Quantitative trait loci by maternal
