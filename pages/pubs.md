@@ -159,6 +159,7 @@ noise-induced hearing loss in 129S6 and MOLF mice:  Identification
 of independent, overlapping, and interacting chromosomal regions.
 [J Assoc Res Otolaryngol](http://jaro-online.org/) 15:721-738
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/24952082)
+[![pdf](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/street2014.pdf)
 <!-- * 131 * -->
 <!-- http://doi.org/10.1007/s10162-014-0472-x -->
 
