@@ -666,6 +666,7 @@ mykiss</i>.  [Genetics](http://www.genetics.org) 175:335-347
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/17057232)
 [![pdf (1035k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/nichols.pdf)
 <!-- * 67 * -->
+<!-- http://doi.org/10.1534/genetics.106.064311 -->
 
 
 #### 2006
