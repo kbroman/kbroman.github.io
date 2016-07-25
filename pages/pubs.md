@@ -678,6 +678,7 @@ in quantitative trait locus mapping.  [Genetics](http://www.genetics.org) 174:21
 [![pdf (169k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/xchr.pdf)
 [![Data](icons16/data-icon.png)](http://phenome.jax.org/db/q?rtn=projects/projdet&reqprojid=183)
 <!-- * 66 * -->
+<!-- http://doi.org/10.1534/genetics.106.061176 -->
 
 Shrestha S, Smith MW, **Broman KW**,
 Farzadegan H,  Vlahov D, Strathdee SA (2006)
