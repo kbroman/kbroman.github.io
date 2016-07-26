@@ -689,7 +689,7 @@ exchange program: A gene based molecular epidemiological analysis.
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/16980914)
 [![pdf (174k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/sadeep2.pdf)
 <!-- * 65 * -->
-
+<!-- http://doi.org/10.1097/01.qai.0000230528.25083.0b -->
 
 Kess D, Lindqvist AK, Peters T, Wang H, Zamek J,
 Nischt R, **Broman KW**, Blakytny R, Krieg
