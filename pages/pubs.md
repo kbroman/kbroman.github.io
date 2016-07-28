@@ -707,6 +707,7 @@ locus.  [Genetics](http://www.genetics.org) 174:481-489
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/16783000)
 [![pdf (1033k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/qtlboot.pdf)
 <!-- * 63 * -->
+<!-- http://doi.org/10.1534/genetics.106.061549 -->
 
 Sundin OH, **Broman KW**,
 Chang HH, Vito ECL, Stark WJ, Gottsch JD (2006)
