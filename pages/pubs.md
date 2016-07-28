@@ -699,6 +699,7 @@ susceptibility loci for skin disease in a murine psoriasis model.
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/16982899)
 [![pdf (211k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/kess.pdf)
 <!-- * 64 * -->
+<!-- http://doi.org/10.4049/jimmunol.177.7.4612 -->
 
 Manichaikul A, Dupuis J, Sen &#346;, **Broman KW** (2006)  Poor performance of bootstrap
 confidence intervals for the location of a quantitative trait
