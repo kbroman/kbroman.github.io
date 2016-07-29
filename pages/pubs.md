@@ -718,7 +718,7 @@ maps to 18q21.2-q21.32.
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/16936105)
 [![pdf (631k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/fuchs_c18.pdf)
 <!-- * 62 * -->
-
+<!-- http://doi.org/10.1167/iovs.05-1619 -->
 
 Feenstra B, Skovgaard IM, **Broman KW** (2006) Mapping quantitative trait loci
 by an extension of the Haley-Knott regression method using estimating
