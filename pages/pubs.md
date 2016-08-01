@@ -36,7 +36,7 @@ Hejtmancik F, Huang H, Patek B, Sergeev Y, Hose S, Brayton C,
 Xaiodong J, Vasquez D, Maragakis N, Mori S, Goldman D, Hoke A,
 Sinha D (2016) A spontaneous missense mutation in branched chain keto
 acid dehydrogenase kinase in the rat affects both the central and
-peripheral nervous systems. PLOS ONE 11:e0160447
+peripheral nervous systems. [PLOS ONE](http://www.plosone.org) 11:e0160447
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/27472223)
 [![pdf](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/zigler2016.pdf)
 <!-- * 143 * -->
