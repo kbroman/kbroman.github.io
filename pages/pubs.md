@@ -737,6 +737,7 @@ equations.  [Genetics](http://www.genetics.org) 173:2269-2282
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/16702423)
 [![pdf (290k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/feenstra.pdf)
 <!-- * 61 * -->
+<!-- http://doi.org/10.1534/genetics.106.058537 -->
 
 Chadwick LH, Pertz L, **Broman
 KW**, Bartolomei MS, Willard HF (2006)  Genetic control of X
