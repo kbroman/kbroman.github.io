@@ -251,10 +251,10 @@ title: travel
 - [The Allied Genetics Conference](http://www.genetics2016.org/), July
   13-17, 2016 (Orlando, FL)
 
--->
-
 - [JSM 2016](http://www.amstat.org/meetings/jsm/2016), July 31-Aug 4,
   2016 (Chicago, IL)
+
+-->
 
 - [Queenstown Research Week Genomics (MapNet) Satellite Conference](http://www.queenstownresearchweek.org/),
   Sep 1-2, 2016 (Nelson, New Zealand)
