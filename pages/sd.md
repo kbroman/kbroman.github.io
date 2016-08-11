@@ -67,7 +67,7 @@ description: planning trip to South Dakota
 - [Jewel Cave National Monument](https://www.nps.gov/jeca/index.htm),
   [Custer, SD](https://goo.gl/maps/ToVVdqXTbuN2)
 
-## Slightly father afield
+## Slightly farther afield
 
 - [Devil's Tower National Monument](https://www.nps.gov/deto/index.htm),
   [Devil's Tower, WY](https://goo.gl/maps/UZfiYWHAiCs)
