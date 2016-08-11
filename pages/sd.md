@@ -7,9 +7,9 @@ description: planning trip to South Dakota
 
 ## Hotels
 
-- [Dakotah Lodge](http://www.dakotahlodge.com/), 3200 W. Russell, Sioux Falls, SD, 57107, 605-332-2000
+- [Dakotah Lodge](http://www.dakotahlodge.com/), [3200 W. Russell, Sioux Falls, SD, 57107](https://goo.gl/maps/QeJW862EYjP2), 605-332-2000
 
-- [AmericInn](http://www.rapidcityamericinn.com/), 1632 Rapp Street, Rapid City, SD 57701, 605-343-8424
+- [AmericInn](http://www.rapidcityamericinn.com/), [1632 Rapp Street, Rapid City, SD 57701](https://goo.gl/maps/JwbKA67nNAP2), 605-343-8424
 
 
 ## Rochester to Sioux Falls
