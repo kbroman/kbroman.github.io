@@ -36,6 +36,10 @@ description: planning trip to South Dakota
 
 - [Pioneer Auto Museum](http://www.pioneerautoshow.com/), [Murdo, SD](https://goo.gl/maps/CC15MMhXFU92)
 
+- [1880 Town](http://www.1880town.com/), [Midland, SD](https://goo.gl/maps/cr5fXKiUZqM2)
+
+- [Badlands National Park](https://www.nps.gov/badl/index.htm), [Interior, SD](https://goo.gl/maps/QUyALPCfoKL2)
+
 - [Wall Drug](http://www.walldrug.com/), [Wall, SD](https://goo.gl/maps/7J8WgqNVdAJ2)
 
 
@@ -55,8 +59,6 @@ description: planning trip to South Dakota
 
 - [Wind Cave National Park](https://www.nps.gov/wica/index.htm),
   [East Custer, SD](https://goo.gl/maps/h1xQDHM3T762)
-
-- [Badlands National Park](https://www.nps.gov/badl/index.htm), [Interior, SD](https://goo.gl/maps/QUyALPCfoKL2)
 
 - [Bear Butte State Park](https://gfp.sd.gov/state-parks/directory/bear-butte/),
   [Sturgis, SD](https://goo.gl/maps/9Vdm3YvXRHx)
