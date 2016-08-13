@@ -746,7 +746,7 @@ interval.  [Genetics](http://www.genetics.org) 173:2111-2119
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/16582439)
 [![pdf (193k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/chadwick.pdf)
 <!-- * 60 * -->
-
+<!-- http://doi.org/10.1534/genetics.105.054882 -->
 
 Grant GR, Robinson SW, Edwards RE, Clothier B, Davies R, Judah DJ,
 **Broman KW**, Smith AG (2006)
