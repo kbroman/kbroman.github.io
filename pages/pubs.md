@@ -755,7 +755,7 @@ status in mice.  [Hepatology](http://www3.interscience.wiley.com/cgi-bin/jhome/1
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/16799992)
 [![pdf (902k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/hepatology.pdf)
 <!-- * 59 * -->
-
+<!-- http://doi.org/10.1002/hep.21233 -->
 
 Orgogozo V, **Broman KW**,
 Stern DL (2006)
