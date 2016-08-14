@@ -757,14 +757,13 @@ status in mice.  [Hepatology](http://www3.interscience.wiley.com/cgi-bin/jhome/1
 <!-- * 59 * -->
 <!-- http://doi.org/10.1002/hep.21233 -->
 
-Orgogozo V, **Broman KW**,
-Stern DL (2006)
+Orgogozo V, **Broman KW**, Stern DL (2006)
 High-resolution QTL mapping reveals sign epistasis controlling
 ovariole number between two Drosophila species.  [Genetics](http://www.genetics.org) 173:197-205
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/16489225)
 [![pdf (425k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/orgogozo.pdf)
 <!-- * 58 * -->
-
+<!-- http://doi.org/10.1534/genetics.105.054098 -->
 
 Shrestha S, Strathdee SA, **Broman KW**,
 Smith MW (2006) Unknown biological
