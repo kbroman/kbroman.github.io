@@ -69,6 +69,10 @@ description: planning trip to South Dakota
 - [Jewel Cave National Monument](https://www.nps.gov/jeca/index.htm),
   [Custer, SD](https://goo.gl/maps/ToVVdqXTbuN2)
 
+- [horseback riding](http://highcountryranch.com/trail-rides/)
+
+- [ziplines](http://www.rushmoretramwayadventures.com/)
+
 ## Slightly farther afield
 
 - [Devil's Tower National Monument](https://www.nps.gov/deto/index.htm),
