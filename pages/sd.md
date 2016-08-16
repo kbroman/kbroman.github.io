@@ -69,6 +69,8 @@ description: planning trip to South Dakota
 - [Jewel Cave National Monument](https://www.nps.gov/jeca/index.htm),
   [Custer, SD](https://goo.gl/maps/ToVVdqXTbuN2)
 
+- [Custer State Park](http://gfp.sd.gov/state-parks/directory/custer/default.aspx): [Sylvan Lake trailhead](https://goo.gl/maps/4GWXyqyBvEK2), [Little Devil's Tower trailhead](https://goo.gl/maps/QTV83nGXN142), [Cathedral Spires trailhead](https://goo.gl/maps/waKzbU5ekcC2)
+
 - [horseback riding](http://highcountryranch.com/trail-rides/)
 
 - [ziplines](http://www.rushmoretramwayadventures.com/)
