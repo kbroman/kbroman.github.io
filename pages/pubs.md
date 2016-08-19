@@ -773,6 +773,7 @@ mixtures evaluation using STR analytical quantification.
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/16437418)
 [![pdf (125k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/sadeep.pdf)
 <!-- * 57 * -->
+<!-- http://doi.org/10.1002/elps.200500502 -->
 
 Reilly KM, **Broman KW**, Bronson RT,
 Tsang S, Loisel DA, Christy ES, Sun Z, Diehl J, Munroe DJ, Tuskan RG
