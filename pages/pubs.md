@@ -783,6 +783,7 @@ neurofibromatosis type 1 mouse model.  [Cancer Res](http://cancerres.aacrjournal
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/16397217)
 [![pdf (1.9M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/km_reilly.pdf)
 <!-- * 56 * -->
+<!-- http://doi.org/10.1158/0008-5472.CAN-05-1480 -->
 
 Sundin OH, Jun AS, **Broman KW**, Liu SH, Sheehan SE, Vito ECL, Stark WJ,
 Gottsch JD (2006)
