@@ -793,6 +793,7 @@ to a novel locus at 13pTel-13q12.13.
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/16384955)
 [![pdf (316k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/fuchs_c13.pdf)
 <!-- * 55 * -->
+<!-- http://doi.org/10.1167/iovs.05-0578 -->
 
 #### 2005
 
