@@ -807,11 +807,15 @@ which encodes a Frizzled-related protein.
 <!-- * 54 * -->
 <!-- http://doi.org/10.1073/pnas.0501451102 -->
 
-Gottsch JD, Sundin OH, Liu SH, Jun AS, **Broman KW**, Stark WJ, Vito EC, Narang AK,
-  Thompson JM, Magovern M (2005) Inheritance of a novel <i>COL8A2</i> mutation defines a distinct early-onset subtype of Fuchs corneal dystrophy. [Invest Ophthalmol Vis Sci](http://www.iovs.org) 46:1934-1939
-<!-- * 53 * -->
+Gottsch JD, Sundin OH, Liu SH, Jun AS, **Broman KW**, Stark WJ, Vito
+EC, Narang AK, Thompson JM, Magovern M (2005) Inheritance of a novel
+<i>COL8A2</i> mutation defines a distinct early-onset subtype of Fuchs
+corneal dystrophy. [Invest Ophthalmol Vis Sci](http://www.iovs.org)
+46:1934-1939
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/15914606)
 [![pdf (302k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/fuchs_iovs.pdf)
+<!-- * 53 * -->
+<!-- http://doi.org/10.1167/iovs.04-0937 -->
 
 Owens SE, **Broman KW**,
 Wiltshire T, Elmore JB, Bradley KM, Smith JR, Southard-Smith EM (2005)
