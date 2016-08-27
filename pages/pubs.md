@@ -825,7 +825,7 @@ disease.  [Hum Mol Genet](http://hmg.oupjournals.org) 14:1549-1558
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/15843399)
 [![pdf (304k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/owens.pdf)
 <!-- * 52 * -->
-
+<!-- http://doi.org/10.1093/hmg/ddi163 -->
 
 **Broman KW** (2005) The genomes of
 recombinant inbred lines.  [Genetics](http://www.genetics.org/) 169:1133-1146
