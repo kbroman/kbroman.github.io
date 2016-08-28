@@ -835,6 +835,7 @@ recombinant inbred lines.  [Genetics](http://www.genetics.org/) 169:1133-1146
 \[**Erratum**: [Genetics](http://www.genetics.org) 173:2419, 2006
 [![pdf 30k](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/rigenome_corrigendum.pdf)\]
 <!-- * 51 * -->
+<!-- http://doi.org/10.1534/genetics.104.035212 -->
 
 Guler ML, Ligons DL, Wang Y, Bianco M, **Broman
 KW**, Rose NR (2005) Two autoimmune diabetes loci influencing T
