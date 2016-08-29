@@ -8,6 +8,12 @@ description: Karl Broman's talks
 
 ###  2016
 
+Interactive graphics for genetic data
+[![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/NZ2016)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_NZ2016)<br/>
+[Department of Statistics](https://www.stat.auckland.ac.nz), University of Auckland, New Zealand
+(_Aug 31_)
+
 Steps toward reproducible research
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_JSM2016.pdf)
 [![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_JSM2016_withnotes.pdf)
