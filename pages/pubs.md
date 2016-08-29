@@ -844,6 +844,7 @@ myocarditis.  [J Immunol](http://www.jimmunol.org) 174:2167-2173
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/15699148)
 [![pdf (165k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/mehmet.pdf)
 <!-- * 50 * -->
+<!-- http://doi.org/10.4049/jimmunol.174.4.2167 -->
 
 Congdon N, **Broman KW**, Lai H, Munoz B, Bowie H, Gilbert D,
 Wojciechowski R, West SK (2005) Cortical, but not posterior
