@@ -8,6 +8,12 @@ description: Karl Broman's talks
 
 ###  2016
 
+Dissection and fine-mapping of _trans_-eQTL hotspots
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/qrw2016.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/qrw2016_withnotes.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_TransHotspots)<br/>
+Queenstown Research Week, Nelson, New Zealand (_Sep 1_)
+
 Interactive graphics for genetic data
 [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/NZ2016)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_NZ2016)<br/>
