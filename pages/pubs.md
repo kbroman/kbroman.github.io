@@ -854,6 +854,7 @@ factors. [Ophthalmology](http://www.sciencedirect.com/science?_ob=JournalURL&_cd
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/15629823)
 [![pdf (118k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/cortical.pdf)
 <!-- * 49 * -->
+<!-- http://doi.org/10.1016/j.ophtha.2004.07.012 -->
 
 Chen WM, **Broman KW**, Liang KY (2005) Power
 and robustness of linkage tests for quantitative traits in general
