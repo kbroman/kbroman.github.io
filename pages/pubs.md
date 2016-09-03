@@ -863,6 +863,7 @@ Epidemiol](http://www.interscience.wiley.com/jpages/0741-0395/) 28:11-23
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/15493059)
 [![pdf (160k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/qtlpower.pdf)
 <!-- * 48 * -->
+<!-- http://doi.org/10.1016/10.1002/gepi.20034 -->
 
 #### 2004
 
