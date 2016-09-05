@@ -885,6 +885,7 @@ website at [www.blackwellpublishing.com/BJU](http://www.blackwellpublishing.com/
 or
 [www.blackwell-synergy.com](http://www.blackwell-synergy.com).&rdquo;{:small}
 <!-- * 47 * -->
+<!-- http://doi.org/10.1111/j.1464-410X.2004.05170.x -->
 
 The Complex Trait Consortium \[113 authors (2004) The
 Collaborative Cross, a community resource for the genetic analysis of
