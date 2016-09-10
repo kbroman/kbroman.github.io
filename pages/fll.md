@@ -1,0 +1,15 @@
+---
+layout: page
+title: FIRST Lego League
+---
+
+- [Slides](https://docs.google.com/presentation/d/1YNfqxVOo-hJ8g2j-gOzqryhK1mLG3aVS_JGAtBgtC78/edit#slide=id.p4)
+  from coach training
+
+- [Challenge page](http://www.firstlegoleague.org/challenge)
+
+- [2016 Animal Allies resource library](http://www.firstinspires.org/resource-library/fll/animal-allies-challenge-updates-and-resources)
+
+- [Challenge updates](https://firstinspiresst01.blob.core.windows.net/fll/animal-allies-challenge-updates.pdf)
+
+- [BadgerBots FLL Coach forum](https://groups.google.com/a/badgerbots.org/forum/#!forum/fllmentors)
