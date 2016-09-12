@@ -13,3 +13,5 @@ title: FIRST Lego League
 - [Challenge updates](https://firstinspiresst01.blob.core.windows.net/fll/animal-allies-challenge-updates.pdf)
 
 - [BadgerBots FLL Coach forum](https://groups.google.com/a/badgerbots.org/forum/#!forum/fllmentors)
+
+- [online score sheet](http://flltournament.com/Scoresheet.aspx?CID=29)
