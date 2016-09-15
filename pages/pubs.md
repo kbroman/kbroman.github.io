@@ -902,7 +902,7 @@ Mol Biol](http://www.bepress.com/sagmb/) 3(1): article 21
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/16646800)
 [![pdf (191k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/bayesmendel.pdf)
 <!-- * 45 * -->
-
+<!-- http://doi.org/10.2202/1544-6115.1063 -->
 
 Neff MW, Robertson KR, Wong AK, Safra N, **Broman KW**, Slatkin M, Mealey KL, Pedersen NC (2004)
 Breed distribution and history of canine <i>mdr1-1&Delta;</i>, a pharmacogenetic
