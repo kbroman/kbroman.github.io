@@ -912,6 +912,7 @@ mutation that marks the emergence of breeds from the collie lineage.
 [![pdf (312k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/mdr1.pdf)
 [![Supporting info](icons16/supp-icon.png)](http://www.pnas.org/cgi/content/full/0402374101/DC1)
 <!-- * 44 * -->
+<!-- http://doi.org/10.1073/pnas.0402374101 -->
 
 Tankersley CG, **Broman KW** (2004)
 Interactions in hypoxic and hypercapnic breathing
