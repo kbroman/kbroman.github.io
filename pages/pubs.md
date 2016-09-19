@@ -920,6 +920,7 @@ are genetically linked to mouse chromosomes 1 and 5.  [J Appl Physiol](http://ja
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/14978007)
 [![pdf (206k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/tankersley.pdf)
 <!-- * 43 * -->
+<!-- http://doi.org/10.1152/japplphysiol.01102.2003 -->
 
 Congdon N, **Broman KW**, Lai H, Munoz B,
 Bowie H, Gilbert D, Wojciechowski R, Alston C, West SK (2004)  Nuclear
