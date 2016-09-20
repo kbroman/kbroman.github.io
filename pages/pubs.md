@@ -929,7 +929,7 @@ after adjustment for possible shared environmental factors.  [Invest Ophthalmol 
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/15223793)
 [![pdf (90k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/nuccat.pdf)
 <!-- * 42 * -->
-
+<!-- http://doi.org/10.1167/iovs.03-1163 -->
 
 Tankersley CG, Campen M, Bierman A, Flanders SE, **Broman KW**, Rabold R (2004) Particle effects on
 heart-rate regulation in senescent mice.  [Inhal Toxicol](http://www.tandf.co.uk/journals/titles/08958378.asp) 16:381-390
