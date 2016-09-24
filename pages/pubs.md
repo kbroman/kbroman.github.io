@@ -946,6 +946,7 @@ Genet](http://www.springerlink.com/openurl.asp?genre=journal&issn=0340-6717) 114
 [![pdf (149k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/ql.pdf)
 [![data](icons16/data-icon.png)](http://www.biostat.wisc.edu/~kbroman/data/index.html#quasilinkage)
 <!-- * 40 * -->
+<!-- http://doi.org/10.1007/s00439-004-1109-7 -->
 
 Chen WM, **Broman KW**, Liang KY (2004)
 Quantitative trait linkage analysis by generalized estimating
