@@ -936,6 +936,7 @@ heart-rate regulation in senescent mice.  [Inhal Toxicol](http://www.tandf.co.uk
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/15204754)
 [![pdf (472k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/particle_effects.pdf)
 <!-- * 41 * -->
+<!-- http://doi.org/10.1080/08958370490439551 -->
 
 Sivagnanasundaram S, **Broman KW**, Liu M,
 Petronis A (2004)  Quasi-linkage: A confounding factor in linkage analysis of
