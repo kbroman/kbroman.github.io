@@ -956,7 +956,7 @@ Epidemiol](http://www.interscience.wiley.com/jpages/0741-0395/) 26:265-272
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/15095386)
 [![pdf (131k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/vc_he.pdf)
 <!-- * 39 * -->
-
+<!-- http://doi.org/10.1002/gepi.10315 -->
 
 Kieffer TL, Finucane MM, Nettles RE, Quinn TC, **Broman KW**, Ray SC,
 Persaud D, Siliciano RF (2004) Genotypic analysis of HIV-1 drug
