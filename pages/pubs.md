@@ -965,6 +965,7 @@ evolution in treated adults with undetectable HIV loads.  [J Infect Dis](http://
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/15073683)
 [![pdf (1270k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/kieffer.pdf)
 <!-- * 38 * -->
+<!-- http://doi.org/10.1086/382488 -->
 
 #### 2003
 
