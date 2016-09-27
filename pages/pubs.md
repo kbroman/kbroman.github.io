@@ -985,6 +985,7 @@ Genet](http://www.journals.uchicago.edu/AJHG/journal/) 73:939-947
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/12900791)
 [![pdf (321k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/apert.pdf)
 <!-- * 36 * -->
+<!-- http://doi.org/10.1086/378419 -->
 
 Denny P, Hopes E, Gingles N, **Broman
 KW**, McPheat W, Morten J, Alexander J, Andrew PW, Brown SDM (2003)  A
