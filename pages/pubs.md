@@ -995,6 +995,7 @@ Genome](http://link.springer.de/link/service/journals/00335/) 14:448-453
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/12925893)
 [![pdf (154k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/denny.pdf)
 <!-- * 35 * -->
+<!-- http://doi.org/10.1007/s00335-002-2261-9 -->
 
 Lamichhane G, Zignol M, Blades NJ, Geiman DE, Dougherty A, **Broman KW**, Bishai WR (2003)  A post-genomic method
 for predicting essential genes at subsaturation levels of mutagenesis:
