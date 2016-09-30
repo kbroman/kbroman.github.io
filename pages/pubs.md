@@ -40,8 +40,6 @@ from Gough Island. [Genetics](http://genetics.org), to appear
 <!-- * 144 * -->
 <!-- http://doi.org/10.1534/genetics.116.193805 -->
 
-
-
 #### 2016
 
 Zigler JS Jr, Hodgkinson CA, Wright M, Klise A, Sundin O, **Broman KW**,
