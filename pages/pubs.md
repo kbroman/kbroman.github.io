@@ -29,6 +29,19 @@ description: Karl Broman's publications
 
 ### <a name="articles"></a>journal articles
 
+#### To appear
+
+Parmenter MD, Gray MM, Hogan CA, Ford IN, **Broman KW**, Vinyard CJ,
+Payseur BA. Genetics of skeletal evolution in unusually large mice
+from Gough Island. [Genetics](http://genetics.org), to appear
+[![Abstract](icons16/pubmed-icon.png)](http://www.genetics.org/content/early/2016/09/29/genetics.116.193805)
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/parmenter2016.pdf)
+[![supporting info](icons16/supp-icon.png)](http://www.genetics.org/content/early/2016/09/29/genetics.116.193805.supplemental)
+<!-- * 144 * -->
+<!-- http://doi.org/10.1534/genetics.116.193805 -->
+
+
+
 #### 2016
 
 Zigler JS Jr, Hodgkinson CA, Wright M, Klise A, Sundin O, **Broman KW**,
