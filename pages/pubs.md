@@ -1015,6 +1015,7 @@ application to <i>Mycobacterium tuberculosis</i>.  [Proc Natl Acad Sci USA](http
 [![pdf (260k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/mutagenesis.pdf)
 [![R/negenes](icons16/R-icon.png)](https://github.com/kbroman/negenes)
 <!-- * 34 * -->
+<!-- http://doi.org/10.1073/pnas.1231432100 -->
 
 **Broman KW**, Wu H, Sen &#346;, Churchill
 GA (2003)  R/qtl: QTL mapping in experimental crosses.
