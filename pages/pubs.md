@@ -1023,7 +1023,7 @@ GA (2003)  R/qtl: QTL mapping in experimental crosses.
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/12724300)
 [![pdf (236k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/rqtl.pdf)
 <!-- * 33 * -->
-
+<!-- http://doi.org/10.1093/bioinformatics/btg112 -->
 
 **Broman KW** (2003)  Mapping quantitative trait loci
 in the case of a spike in the phenotype distribution.  [Genetics](http://www.genetics.org/) 163:1169-1175
