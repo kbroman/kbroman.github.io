@@ -8,6 +8,14 @@ description: Karl Broman's talks
 
 ###  2016
 
+Creating effective figures and tables
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/graphs_CDHA2016.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Graphs/tree/CDHA2016)
+<br/>
+[Demography Training Seminar](http://www.ssc.wisc.edu/cdha/seminars/training.html),
+[Center for Demography of Health and Aging](http://www.ssc.wisc.edu/cdha/),
+[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Oct 5_)
+
 Dissection and fine-mapping of _trans_-eQTL hotspots
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/qrw2016.pdf)
 [![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/qrw2016_withnotes.pdf)
