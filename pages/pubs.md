@@ -1039,7 +1039,7 @@ encephalomyelitis.  [J Immunol](http://www.jimmunol.org/)
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/12517974)
 [![pdf (208k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/becanovic.pdf)
 <!-- * 31 * -->
-
+<!-- http://doi.org/10.4049/jimmunol.170.2.1062 -->
 
 #### 2002
 
