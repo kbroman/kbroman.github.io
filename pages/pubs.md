@@ -1051,8 +1051,6 @@ B](http://www.ingenta.com/journals/browse/bpl/rssb) 64:641-656
 [![pdf (326k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/jrssb.pdf)
 <!-- * 30 * -->
 
-
-
 Jun AS, **Broman KW**, Do DV, Akpek EK,
 Stark WJ, Gottsch JD (2002)  Endothelial dystrophy, iris hypoplasia,
 congenital cataract, and stromal thinning (EDICT) syndrome maps to
@@ -1060,6 +1058,7 @@ chromosome 15q22.1-q25.3.  [Am J Ophthalmol](http://www.sciencedirect.com/scienc
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/12140022)
 [![pdf (189k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/edict.pdf)
 <!-- * 29 * -->
+<!-- http://doi.org/10.1016/S0002-9394(02)01401-0 -->
 
 **Broman KW**, Rowe LB, Churchill GA,
 Paigen K (2002) Crossover interference in the mouse.  [Genetics](http://www.genetics.org/)
