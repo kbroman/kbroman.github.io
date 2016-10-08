@@ -1079,7 +1079,6 @@ Research](http://cancerres.aacrjournals.org) 61:8866-8872
 [![pdf (314k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/hunter.pdf)
 <!-- * 27 * -->
 
-
 Ravenel JD, **Broman KW**, Perlman EJ,
 Niemitz EL, Jayawardena TM,
 Bell DW, Haber DA, Uejima H, Feinberg AP (2001) Loss of imprinting of
@@ -1089,6 +1088,7 @@ biologic subtypes of Wilms tumor.
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/11717330)
 [![pdf (330k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/imprinting.pdf)
 <!-- * 26 * -->
+<!-- http://doi.org/10.1093/jnci/93.22.1698 -->
 
 **Broman KW** (2001) Review of
 statistical methods for QTL mapping in experimental crosses.
