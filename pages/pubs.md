@@ -1110,6 +1110,7 @@ sibships. [Genet Epidemiol](http://www.interscience.wiley.com/jpages/0741-0395/)
 \[**Erratum**: [Genet Epidemiol](http://www.interscience.wiley.com/jpages/0741-0395/) 23:465-466, 2002
 [![pdf 56k](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/sibfreq_erratum.pdf)\]
 <!-- * 24 * -->
+<!-- http://doi.org/10.1002/gepi.2 -->
 
 Giglio S, **Broman KW**, Matsumoto N,
 Calvari V, Gimelli G, Neumann T, Ohashi H, Voullaire L, Larizza D,
