@@ -268,6 +268,13 @@ title: travel
 
 - Seminar at NC State, Feb 5-7, 2017 (Raleigh, NC)
 
+- [Gordon Conference on Quantitative Genetics](https://www.grc.org/programs.aspx?id=12073), Feb 27 - Mar 3, 2017
+  (Galveston, TX)
+
+- U Minnesota Plant Breeding Symposium, Mar 23-24, 2017 (St Paul, MN)
+
+- Reproducible Research course, July 17-19, 2017 (Seattle, WA)
+
 ---
 
 [UW-Madison travel policies](http://www.bussvc.wisc.edu/acct/policy/ppindex.html)
