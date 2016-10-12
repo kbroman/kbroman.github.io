@@ -1120,6 +1120,7 @@ common chromosome rearrangements.  [Am J Hum Genet](http://www.journals.uchicago
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/11231899)
 [![pdf (1494k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/giglio.pdf)
 <!-- * 23 * -->
+<!-- http://doi.org/10.1086/319506 -->
 
 Boyartchuk VL, **Broman KW**, Mosher RE,
 D'Orazio SEF, Starnbach MN, Dietrich WF (2001) Multigenic control of
