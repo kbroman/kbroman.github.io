@@ -1130,6 +1130,7 @@ D'Orazio SEF, Starnbach MN, Dietrich WF (2001) Multigenic control of
 [![methods (pdf 113k)](icons16/supp-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/victor_methods.pdf)
 [![figure A (pdf 13k)](icons16/supp-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/victor_figA.pdf)
 <!-- * 22 * -->
+<!-- http://doi.org/10.1038/85812 -->
 
 Yu A, Zhao C, Fan Y, Jang W, Mungall AJ, Deloukas P, Olsen A,
 Doggett NA, Ghebranious N, **Broman KW**, Weber JL (2001)
