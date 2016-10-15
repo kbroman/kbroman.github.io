@@ -106,6 +106,26 @@ Madison, WI (25-26 August 2014)
 
 #### <a name="JAX"></a>[Short course on Systems Genetics](http://courses.jax.org/2014/systems-genetics.html) at The Jackson Lab
 
+Oct 16-Oct 22, 2017
+
+- Introduction to QTL mapping:
+  [pdf](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2016/intro.pdf)
+- Interactive illustrations:
+  [EM algorithm](https://www.biostat.wisc.edu/~kbroman/D3/em_alg) |
+  [LOD curves](https://www.biostat.wisc.edu/~kbroman/D3/lod_and_effect) |
+  [Permutation test](https://www.biostat.wisc.edu/~kbroman/D3/lod_random)
+- Special topics:
+  [pdf](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2016/topics.pdf)
+- Multiple QTL mapping:
+  [pdf](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2016/multiqtl.pdf)
+- Multivariate QTL mapping:
+  [pdf](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2016/multivariate.pdf)
+- [R/qtl](http://www.rqtl.org) laboratory:
+  [pdf (50k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2016/rqtltour2.pdf)
+  | [code](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2016/rqtltour2.R)
+- [R/qtlcharts](http://kbroman.org/qtlcharts):
+  [user guide](http://kbroman.org/qtlcharts/assets/vignettes/userGuide.html)
+
 Sep 27-Oct 3, 2015
 
 - Introduction to QTL mapping:
