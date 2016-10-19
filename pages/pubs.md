@@ -1139,6 +1139,7 @@ Comparison of human genetic and sequence-based physical maps.  [Nature](http://w
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/11237020)
 [![pdf (129k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/genphys.pdf)
 <!-- * 21 * -->
+<!-- http://doi.org/10.1038/35057185 -->
 
 Lichter-Konecki U, **Broman KW**, Blau EB, Konecki DS (2001) Genetic
 and physical mapping of the locus for autosomal dominant renal Fanconi
