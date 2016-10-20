@@ -1147,6 +1147,7 @@ syndrome, on chromosome 15q15.3 [Am J Hum Genet](http://www.journals.uchicago.ed
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/11090339)
 [![pdf (636k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/konecki.pdf)
 <!-- * 20 * -->
+<!-- http://doi.org/10.1086/316923 -->
 
 #### 2000
 
