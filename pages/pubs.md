@@ -1167,6 +1167,7 @@ for prostate cancer-aggressiveness loci.  [Am J Hum Genet](http://www.journals.u
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/10825281)
 [![pdf (243k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/prostate2.pdf)
 <!-- * 18 * -->
+<!-- http://doi.org/10.1086/302960 -->
 
 **Broman KW**, Weber JL (2000) Characterization of human crossover
 interference.  [Am J Hum Genet](http://www.journals.uchicago.edu/AJHG/journal/) 66:1911-1926
