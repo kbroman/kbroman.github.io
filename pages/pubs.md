@@ -1159,6 +1159,7 @@ USA](http://www.pnas.org) 97:14478-14483
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/11121050)
 [![pdf (200k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/tops.pdf)
 <!-- * 19 * -->
+<!-- http://doi.org/10.1073/pnas.97.26.14478 -->
 
 Witte JS, Goddard KAB, Conti DV, Elston RC, Lin J, Suarez BK,
 **Broman KW**, Burmester JK, Weber JL, Catalona WJ (2000) Genomewide scan
