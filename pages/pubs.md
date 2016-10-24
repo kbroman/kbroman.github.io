@@ -1176,6 +1176,7 @@ interference.  [Am J Hum Genet](http://www.journals.uchicago.edu/AJHG/journal/) 
 [![Expanded version of tables 1-2](icons16/supp-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/broman_weber_tables1-2_expanded.pdf)
 [![Expanded version of figure 3](icons16/supp-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/broman_weber_fig3_expanded.pdf)
 <!-- * 17 * -->
+<!-- http://doi.org/10.1086/302923 -->
 
 Suarez BK, Lin J, Burmester JK, **Broman KW**, Weber JL, Banerjee TK,
 Goddard KAB, Witte JS, Elston RC, Catalona WJ (2000) A genome
