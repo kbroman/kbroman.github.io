@@ -1184,6 +1184,7 @@ screen of multiplex prostate cancer sibships.  [Am J Hum Genet](http://www.journ
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/10712208)
 [![pdf (291k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/prostate.pdf)
 <!-- * 16 * -->
+<!-- http://doi.org/10.1086/302818 -->
 
 Brown AS, Feingold E, **Broman KW**, Sherman SL (2000) Genome-wide
 variation in recombination in female meiosis: A risk factor for
