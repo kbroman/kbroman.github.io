@@ -9,6 +9,13 @@ description: Karl Broman's talks
 ###  2016
 
 Creating effective figures and tables
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/graphs_MDPhD2016.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Graphs/tree/MDPhD2016)
+<br/>
+Presentation in a seminar course for MD-PhD students,
+[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Oct 26_)
+
+Creating effective figures and tables
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/graphs_CDHA2016.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Graphs/tree/CDHA2016)
 <br/>
