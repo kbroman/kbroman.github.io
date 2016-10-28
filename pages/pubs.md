@@ -1205,6 +1205,7 @@ Polymorphisme Humain.  [Am J Hum Genet](http://www.journals.uchicago.edu/AJHG/jo
 [![Supplemental table (pdf 28k)](icons16/supp-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/segments.pdf)
 \[[Errata](http://www.biostat.wisc.edu/~kbroman/publications/autozyg_errors.html)\]
 <!-- * 14 * -->
+<!-- http://doi.org/10.1086/302661 -->
 
 **Broman KW**, Weber JL (1999) Method for constructing
 confidently ordered linkage
