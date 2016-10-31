@@ -1215,6 +1215,7 @@ maps. [Genet Epidemiol](http://www.interscience.wiley.com/jpages/0741-0395/)
 [![pdf (51k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/framework.pdf)
 [![Build your own map](icons16/html-icon.png)](http://research.marshfieldclinic.org/genetics/MarkerSearch/buildMap.asp)
 <!-- * 13 * -->
+<!-- http://doi.org/10.1002/(SICI)1098-2272(1999)16:4<337::AID-GEPI1>3.0.CO;2-T -->
 
 Neff MW, **Broman KW**, Mellersh CS, Ray K, Acland GM, Aguirre GD,
 Ziegle JS, Ostrander EA, Rine J (1999) A
