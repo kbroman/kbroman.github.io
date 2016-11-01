@@ -1235,6 +1235,7 @@ variation in recombination. [Am J Hum Genet](http://www.journals.uchicago.edu/AJ
 [![pdf (534k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/geneticmaps.pdf)
 [![Supplemental data](icons16/supp-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/mfdmaps_supp)
 <!-- * 11 * -->
+<!-- http://doi.org/10.1086/302011 -->
 
 **Broman K**, Speed T, Tigges M (1998) Estimation of
 antigen-responsive T cell frequencies in PBMC from human
