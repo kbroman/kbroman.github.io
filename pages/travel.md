@@ -273,6 +273,8 @@ title: travel
 
 - U Minnesota Plant Breeding Symposium, Mar 23-24, 2017 (St Paul, MN)
 
+- [OpenVis Conference](https://openvisconf.com), Apr 24-25, 2017 (Boston, MA)
+
 - Reproducible Research course, July 17-19, 2017 (Seattle, WA)
 
 ---
