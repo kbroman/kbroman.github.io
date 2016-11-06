@@ -257,10 +257,10 @@ title: travel
 - [Queenstown Research Week Genomics (MapNet) Satellite Conference](http://www.queenstownresearchweek.org/),
   Sep 1-2, 2016 (Nelson, New Zealand)
 
--->
-
 - [Systems Genetics course](https://www.jax.org/education-and-learning/education-calendar/2016/october/short-course-on-systems-genetics)
   The Jackson Lab, Oct 16-22, 2016 (Bar Harbor, ME)
+
+-->
 
 - Meet with Pjotr et al., Nov 7-10, 2016 (Memphis, TN)
 
