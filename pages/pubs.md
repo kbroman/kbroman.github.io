@@ -1256,6 +1256,7 @@ subjects. [J Immunol Meth](http://www.sciencedirect.com/science/journal/00221759
 [![data](icons16/data-icon.png)](http://www.biostat.wisc.edu/~kbroman/data/jim/index.html)
 [![R/npem](icons16/R-icon.png)](https://github.com/kbroman/npem)
 <!-- * 9 * -->
+<!-- http://doi.org/10.1016/S0022-1759(96)00136-6 -->
 
 Dernburg AF, **Broman KW**, Fung JC, Marshall WF, Philips J,
 Agard DA, Sedat JW (1996) Perturbation of nuclear architecture by
