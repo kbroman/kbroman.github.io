@@ -264,7 +264,9 @@ title: travel
 
 - Meet with Pjotr et al., Nov 7-10, 2016 (Memphis, TN)
 
-- Seminar at [BIDS](https://bids.berkeley.edu/), UC-Berkeley, Dec 9, 2016 (Berkeley, CA)
+<!-- Not sure when this will be:
+- Seminar at [BIDS](https://bids.berkeley.edu/), UC-Berkeley (Berkeley, CA)
+-->
 
 - Seminar at NC State, Feb 5-7, 2017 (Raleigh, NC)
 
