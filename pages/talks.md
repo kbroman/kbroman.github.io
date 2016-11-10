@@ -8,6 +8,13 @@ description: Karl Broman's talks
 
 ###  2016
 
+R/qtl2: progress &amp; plans
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rqtl2.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Rqtl2)
+<br/>
+[University of Tennessee Health Science Center](http://uthsc.edu),
+Memphis, Tennessee (_Nov 9_)
+
 Creating effective figures and tables
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/graphs_MDPhD2016.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Graphs/tree/MDPhD2016)
