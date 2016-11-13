@@ -8,6 +8,13 @@ description: Karl Broman's talks
 
 ###  2016
 
+Steps toward reproducible research
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_ASA2016.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_ASA2016_withnotes.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)<br/>
+[Web seminar on Teaching Reproducible Research](https://www.amstat.org/ASA/Education/Web-Based-Lectures.aspx#TRR),
+[American Statistical Association](https://www.amstat.org) (_Nov 16_)
+
 R/qtl2: progress &amp; plans
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rqtl2.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Rqtl2)
