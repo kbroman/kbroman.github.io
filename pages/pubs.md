@@ -1264,7 +1264,7 @@ long-distance chromosome interactions. [Cell](http://www.cell.com) 85:745-759
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/8646782)
 [![pdf (11M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/cell.pdf)
 <!-- * 8 * -->
-
+<!-- http://doi.org/10.1016/S0092-8674(00)81240-4 -->
 
 ### <a name="editorials"></a>editorials
 
