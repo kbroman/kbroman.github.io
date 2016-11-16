@@ -264,16 +264,14 @@ title: travel
 
 - Meet with Pjotr et al., Nov 7-10, 2016 (Memphis, TN)
 
-<!-- Not sure when this will be:
-- Seminar at [BIDS](https://bids.berkeley.edu/), UC-Berkeley (Berkeley, CA)
--->
-
 - Seminar at NC State, Feb 5-7, 2017 (Raleigh, NC)
 
 - [Gordon Conference on Quantitative Genetics](https://www.grc.org/programs.aspx?id=12073), Feb 27 - Mar 3, 2017
   (Galveston, TX)
 
 - U Minnesota Plant Breeding Symposium, Mar 23-24, 2017 (St Paul, MN)
+
+- Seminar at [BIDS](https://bids.berkeley.edu/), UC-Berkeley, Apr 4-8, 2017 (Berkeley, CA)
 
 - [OpenVis Conference](https://openvisconf.com), Apr 24-25, 2017 (Boston, MA)
 
