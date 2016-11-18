@@ -14,6 +14,8 @@ title: FIRST Lego League
 
 - [BadgerBots FLL Coach forum](https://groups.google.com/a/badgerbots.org/forum/#!forum/fllmentors)
 
+- [Wisconsin FIRST](http://registration.wi-first.org)
+
 - [online score sheet](http://flltournament.com/Scoresheet.aspx?CID=29)
 
 - [FLL team building exercises](http://youngbotbuilders.blogspot.com/2011/04/fll-teambuilding-activities.html)
