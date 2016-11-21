@@ -31,6 +31,15 @@ description: Karl Broman's publications
 
 #### To appear
 
+Wang RJ, Gray MM, Parmenter MD, **Broman KW**, Payseur
+BA. Recombination rate variation in mice from an isolated
+island. [Mol Ecol](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-294X),
+to appear
+[![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/27864900)
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/wang2016.pdf)
+<!-- * 145 * -->
+<!-- http://doi.org/10.1111/mec.13932 -->
+
 Parmenter MD, Gray MM, Hogan CA, Ford IN, **Broman KW**, Vinyard CJ,
 Payseur BA. Genetics of skeletal evolution in unusually large mice
 from Gough Island. [Genetics](http://genetics.org), to appear
