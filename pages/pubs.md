@@ -1273,7 +1273,7 @@ randomized rodent genomes.  [Nat
 Genet](http://www.nature.com/ng) 37:209-210
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/15731750)
 [![pdf (349k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/expression_mapping.pdf)
-
+<!-- http://doi.org/10.1038/ng0305-209 -->
 
 **Broman KW**, Feingold E (2004) SNPs made routine. [Nat Methods](http://www.nature.com/nmeth) 1:104-105
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/15782170)
