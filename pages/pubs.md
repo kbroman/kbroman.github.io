@@ -1287,7 +1287,7 @@ Genet](http://www.nature.com/ng) 37:209-210
 **Broman KW**, Feingold E (2004) SNPs made routine. [Nat Methods](http://www.nature.com/nmeth) 1:104-105
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/15782170)
 [![pdf (70k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/natmeth.pdf)
-
+<!-- http://doi.org/10.1038/nmeth1104-104 -->
 
 ### <a name="letters"></a>letters
 
