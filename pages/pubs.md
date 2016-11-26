@@ -1299,7 +1299,7 @@ Genet](http://www.journals.uchicago.edu/AJHG/journal/) 75:720-722
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/15338459)
 [![pdf (60k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/on_schork.pdf)
 <!-- * 7 * -->
-<!-- doi.org/10.1086/424756 -->
+<!-- http://doi.org/10.1086/424756 -->
 
 **Broman KW**, Caffo BS (2003)  Simulation-based
 <i>P</i> values: Response to North et al.  [Am J Hum
