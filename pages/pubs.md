@@ -1309,6 +1309,7 @@ et al., Am J Hum Genet 71:439-441, 2002](http://www.ncbi.nlm.nih.gov/pubmed/1211
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/12596792)
 [![pdf (93k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/pvalueltr.pdf)
 <!-- * 6 * -->
+<!-- http://doi.org/10.1086/346175 -->
 
 Ravenel JD, Perlman EJ, **Broman KW**,
 Feinberg AP (2002) Response: Re: Loss of imprinting of Insulin-Like
