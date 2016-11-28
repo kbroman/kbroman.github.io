@@ -1326,6 +1326,7 @@ relationships in the presence of genotyping errors. [Am J Hum Genet](http://www.
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/9792888)
 [![pdf (429k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/relcheck.pdf)
 <!-- * 5 * -->
+<!-- http://doi.org/10.1086/302112 -->
 
 
 ### <a name="chapters"></a>proceedings and book chapters
