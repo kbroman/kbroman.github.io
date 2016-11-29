@@ -260,9 +260,9 @@ title: travel
 - [Systems Genetics course](https://www.jax.org/education-and-learning/education-calendar/2016/october/short-course-on-systems-genetics)
   The Jackson Lab, Oct 16-22, 2016 (Bar Harbor, ME)
 
--->
-
 - Meet with Pjotr et al., Nov 7-10, 2016 (Memphis, TN)
+
+-->
 
 - Seminar at NC State, Feb 5-7, 2017 (Raleigh, NC)
 
