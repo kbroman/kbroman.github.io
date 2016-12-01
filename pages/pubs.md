@@ -1346,7 +1346,7 @@ selection operator (LASSO) model.  [BMC Proc](http://www.biomedcentral.com/bmcpr
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/20018057)
 [![pdf (278k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/gaw16.pdf)
 <!-- * 93 * -->
-
+<!-- http://doi.org/10.1186/1753-6561-3-S7-S63 -->
 
 **Broman KW**, Heath SC (2007)  Managing and
   manipulating genetic data.  In: Barnes MR,
