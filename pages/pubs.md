@@ -1372,7 +1372,6 @@ Academic Press, New York, pp 77-96
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/11037315)
 [![pdf (3.2M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/weber_broman.pdf)
 [![Amazon](icons16/amazon-icon.png)](https://www.amazon.com/gp/product/0120176424?ie=UTF8&tag=7210-20)
-
 <!-- * 3 * -->
 
 **Broman KW** (1999) Cleaning genotype data.  In: Goldin L, Amos CI,
