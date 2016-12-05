@@ -106,7 +106,7 @@ Madison, WI (25-26 August 2014)
 
 #### <a name="JAX"></a>[Short course on Systems Genetics](http://courses.jax.org/2014/systems-genetics.html) at The Jackson Lab
 
-Oct 16-Oct 22, 2017
+Oct 16-Oct 22, 2016
 
 - Introduction to QTL mapping:
   [pdf](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2016/intro.pdf)
