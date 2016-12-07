@@ -40,16 +40,16 @@ to appear
 <!-- * 145 * -->
 <!-- http://doi.org/10.1111/mec.13932 -->
 
+#### 2016
+
 Parmenter MD, Gray MM, Hogan CA, Ford IN, **Broman KW**, Vinyard CJ,
-Payseur BA. Genetics of skeletal evolution in unusually large mice
-from Gough Island. [Genetics](http://genetics.org), to appear
+Payseur BA (2016) Genetics of skeletal evolution in unusually large mice
+from Gough Island. [Genetics](http://genetics.org) 204:1559-1572
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/27694627)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/parmenter2016.pdf)
 [![supporting info](icons16/supp-icon.png)](http://www.genetics.org/content/early/2016/09/29/genetics.116.193805.supplemental)
 <!-- * 144 * -->
 <!-- http://doi.org/10.1534/genetics.116.193805 -->
-
-#### 2016
 
 Zigler JS Jr, Hodgkinson CA, Wright M, Klise A, Sundin O, **Broman KW**,
 Hejtmancik F, Huang H, Patek B, Sergeev Y, Hose S, Brayton C,
