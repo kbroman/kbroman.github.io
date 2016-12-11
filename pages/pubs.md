@@ -37,10 +37,20 @@ island. [Mol Ecol](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-294
 to appear
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/27864900)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/wang2016.pdf)
-<!-- * 145 * -->
+<!-- * 146 * -->
 <!-- http://doi.org/10.1111/mec.13932 -->
 
 #### 2016
+
+Keller MP, Paul PK, Rabaglia ME, Stapleton DS, Schueler KL, Broman AT,
+Ye SI, Leng N, Brandon CJ, Neto EC, Plaisier CL, Simonett SP, Kebede
+MA, Sheynkman GM6, Klein MA, Baliga NS, Smith LM, **Broman KW**, Yandell
+BS, Kendziorski C, Attie AD (2016) The transcription factor _Nfatc2_
+regulates β-cell proliferation and genes associated with type 2
+diabetes in mouse and human islets. PLoS Genetics 12:e1006466
+[![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/27935966)
+<!-- * 145 * -->
+<!-- http://doi.org/10.1371/journal.pgen.1006466 -->
 
 Parmenter MD, Gray MM, Hogan CA, Ford IN, **Broman KW**, Vinyard CJ,
 Payseur BA (2016) Genetics of skeletal evolution in unusually large mice
