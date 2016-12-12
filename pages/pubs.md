@@ -47,7 +47,7 @@ Ye SI, Leng N, Brandon CJ, Neto EC, Plaisier CL, Simonett SP, Kebede
 MA, Sheynkman GM6, Klein MA, Baliga NS, Smith LM, **Broman KW**, Yandell
 BS, Kendziorski C, Attie AD (2016) The transcription factor _Nfatc2_
 regulates β-cell proliferation and genes associated with type 2
-diabetes in mouse and human islets. PLoS Genetics 12:e1006466
+diabetes in mouse and human islets. [PLOS Genet](http://www.plosgenetics.org) 12:e1006466
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/27935966)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/keller2016.pdf)
 [![supporting info](icons16/supp-icon.png)](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006466#sec024)
@@ -245,7 +245,7 @@ Huang BE, Raghavan C, Mauleon R, **Broman
 <!-- http://doi.org/10.1534/genetics.113.158014 -->
 
 
-Baier B, Hunt P, **Broman KW**, Hassold T (2014) Variation in genome-wide levels of meiotic recombination is established at the onset of prophase in mammalian males. [PLOS Genetics](http://www.plosgenetics.org/) 10:e1004125
+Baier B, Hunt P, **Broman KW**, Hassold T (2014) Variation in genome-wide levels of meiotic recombination is established at the onset of prophase in mammalian males. [PLOS Genet](http://www.plosgenetics.org/) 10:e1004125
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/24497841)
 [![pdf (1.5M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/baier2014.pdf)
 <!-- * 126 * -->
