@@ -49,6 +49,8 @@ BS, Kendziorski C, Attie AD (2016) The transcription factor _Nfatc2_
 regulates β-cell proliferation and genes associated with type 2
 diabetes in mouse and human islets. PLoS Genetics 12:e1006466
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/27935966)
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/keller2016.pdf)
+[![supporting info](icons16/supp-icon.png)](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006466#sec024)
 <!-- * 145 * -->
 <!-- http://doi.org/10.1371/journal.pgen.1006466 -->
 
