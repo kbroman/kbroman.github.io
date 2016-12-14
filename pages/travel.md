@@ -279,6 +279,9 @@ title: travel
 
 - Reproducible Research course, July 17-19, 2017 (Seattle, WA)
 
+- Systems Genetics of Neurodegenerative Disease course, Aug 25-31,
+  2017 (Frauenchiemsee, Germany)
+
 ---
 
 [UW-Madison travel policies](http://www.bussvc.wisc.edu/acct/policy/ppindex.html)
