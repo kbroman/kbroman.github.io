@@ -19,3 +19,7 @@ title: FIRST Lego League
 - [online score sheet](http://flltournament.com/Scoresheet.aspx?CID=29)
 
 - [FLL team building exercises](http://youngbotbuilders.blogspot.com/2011/04/fll-teambuilding-activities.html)
+
+- YouTube:
+  - [builderdude35](https://www.youtube.com/channel/UCuXq-jiU0ANeBcF_Tvq1D7g)
+  - [Kevin Briggs](https://www.youtube.com/channel/UCeebzVOg5Iv4hVqKTFdaqUQ)
