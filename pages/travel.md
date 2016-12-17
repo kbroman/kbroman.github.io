@@ -280,7 +280,7 @@ title: travel
 - Reproducible Research course, July 17-19, 2017 (Seattle, WA)
 
 - Systems Genetics of Neurodegenerative Disease course, Aug 25-31,
-  2017 (Frauenchiemsee, Germany)
+  2017 ([Frauenchiemsee, Germany](http://bit.ly/2hxaxD4))
 
 ---
 
