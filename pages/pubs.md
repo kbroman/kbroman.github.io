@@ -244,14 +244,11 @@ Huang BE, Raghavan C, Mauleon R, **Broman
 <!-- * 127 * -->
 <!-- http://doi.org/10.1534/genetics.113.158014 -->
 
-
 Baier B, Hunt P, **Broman KW**, Hassold T (2014) Variation in genome-wide levels of meiotic recombination is established at the onset of prophase in mammalian males. [PLOS Genet](http://www.plosgenetics.org/) 10:e1004125
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/24497841)
 [![pdf (1.5M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/baier2014.pdf)
 <!-- * 126 * -->
 <!-- http://doi.org/10.1371/journal.pgen.1004125 -->
-
-
 
 #### 2013
 
@@ -289,7 +286,6 @@ attenuated simian immunodeficiency virus. [J Virol](http://jvi.asm.org/) 87:9353
 <!-- * 122 * -->
 <!-- http://doi.org/10.1128/JVI.00909-13 -->
 
-
 Maenner MJ, Baker MW, **Broman KW**, Tian
 J, Barnes JK, Atkins A, McPherson E, Hong J, Brilliant MH, Mailick MR
 (2013) <i>FMR1</i> CGG expansions: Prevalence and sex ratios.  [Am
@@ -298,7 +294,6 @@ J Med Genet B Neuropsychiatr Genet](http://onlinelibrary.wiley.com/journal/10.10
 [![pdf (399k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/fmr1_prevalence.pdf)
 <!-- * 121 * -->
 <!-- http://doi.org/10.1002/ajmg.b.32176 -->
-
 
 #### 2012
 
@@ -447,7 +442,6 @@ melanogaster</i> and fine-mapping by selective sweep analysis.
 <!-- * 101 * -->
 <!-- http://doi.org/10.1111/j.1365-294X.2010.04951.x -->
 
-
 #### 2010
 
 Murdoch B, Owen N, Shirley S, Crumb S, **Broman KW**, Hassold T (2010) Multiple loci contribute
@@ -568,7 +562,6 @@ allowing epistasis. [Genetics](http://www.genetics.org) 181:1077-1086
 <!-- * 83 * -->
 <!-- http://doi.org/10.1534/genetics.108.094565 -->
 
-
 #### 2008
 
 Shao H, Burrage LC, Sinasac DS, Hill AE, Ernest SR, O'Brien W, Courtland HW, Jepsen KJ, Kirby A, Kulbokas EJ, Daly MJ, **Broman KW**, Lander ES, Nadeau JH (2008)
@@ -637,10 +630,7 @@ Cell Neurosci](http://www.sciencedirect.com/science/journal/10447431) 37:85-95
 <!-- * 75 * -->
 <!-- http://doi.org/10.1016/j.mcn.2007.08.016 -->
 
-
-
 #### 2007
-
 
 Rajagopal SK, Ma Q, Obler D, Shen J, Manichaikul A,
 Tomita-Mitchell A, Boardman K, Briggs C, Garg V, Srivastava D,
@@ -710,7 +700,6 @@ mykiss</i>.  [Genetics](http://www.genetics.org) 175:335-347
 [![pdf (1035k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/nichols.pdf)
 <!-- * 67 * -->
 <!-- http://doi.org/10.1534/genetics.106.064311 -->
-
 
 #### 2006
 
@@ -1340,7 +1329,6 @@ relationships in the presence of genotyping errors. [Am J Hum Genet](http://www.
 <!-- * 5 * -->
 <!-- http://doi.org/10.1086/302112 -->
 
-
 ### <a name="chapters"></a>proceedings and book chapters
 
 **Broman KW** (2012) Applied statistics and exposition (commentary).  In: Dudoit S (ed) <i>Selected Works of Terry Speed</i>, Springer, pp 353-355
@@ -1404,8 +1392,6 @@ Notes-Monograph Series, Vol 33, pp 114-142
 [![Amazon](icons16/amazon-icon.png)](https://www.amazon.com/gp/product/0940600471?ie=UTF8&tag=7210-20)
 <!-- * 1 * -->
 
-
-
 ### <a name="techreports"></a>technical reports
 
 **Broman KW** (2010) Genetic map construction with R/qtl.  Technical report #214, Department of Biostatistics & Medical Informatics, University of Wisconsin-Madison
@@ -1430,8 +1416,6 @@ Overdispersion: Notes on discrete distributions.  Technical Report
 ORNL/TM-12167, Oak Ridge National Laboratory
 [![Abstract](icons16/pubmed-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/ornl_abstract.html)
 [![pdf (388k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/ornl_techreport.pdf)
-
-
 
 ### <a name="thesis"></a>dissertation
 
