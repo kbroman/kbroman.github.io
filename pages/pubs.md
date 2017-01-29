@@ -35,14 +35,14 @@ description: Karl Broman's publications
 [![pdf](icons16/pdf-icon.png)](https://github.com/kbroman/Paper_DataOrg/blob/master/manuscript.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_DataOrg)
 
-#### To appear
+#### 2017
 
 Wang RJ, Gray MM, Parmenter MD, **Broman KW**, Payseur
-BA. Recombination rate variation in mice from an isolated
-island. [Mol Ecol](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-294X),
-to appear
+BA (2017) Recombination rate variation in mice from an isolated
+island. [Mol Ecol](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-294X)
+26:457-470
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/27864900)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/wang2016.pdf)
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/wang2017.pdf)
 <!-- * 146 * -->
 <!-- http://doi.org/10.1111/mec.13932 -->
 
