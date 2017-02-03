@@ -277,6 +277,9 @@ title: travel
 
 - [OpenVis Conference](https://openvisconf.com), Apr 24-25, 2017 (Boston, MA)
 
+- [ROpenSci unconference](http://unconf17.ropensci.org/), May 25-26,
+  2017 (Los Angeles, CA)
+
 - CTC meeting, June 13-17, 2017 (Memphis, TN)
 
 - Reproducible Research course, July 17-19, 2017 (Seattle, WA)
