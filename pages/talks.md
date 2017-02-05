@@ -8,6 +8,13 @@ description: Karl Broman's talks
 
 ###  2017
 
+Dissection and fine-mapping of _trans_-eQTL hotspots
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ncsu2016.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ncsu2016_withnotes.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_TransHotspots)<br/>
+[Genetics Program](https://genetics.sciences.ncsu.edu),
+[North Carolina State University](https://ncsu.edu), Raleigh, NC (_Feb 6_)
+
 Creating effective figures and tables
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/graphs2017.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Graphs)
