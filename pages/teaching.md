@@ -26,14 +26,14 @@ description: Karl Broman's teaching
 #### Statistical methods for molecular biology (Stat 877), with many others
 
 - [QTL mapping part 1 (pdf)](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/broman_qtl1.pdf)
-- [QTL mapping part 2 (pdf)](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/broman_qtl2.pdf) [as intended]
-- [QTL mapping part 2 (pdf)](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/broman_qtl2b.pdf) [as presented]
+- [QTL mapping part 2 (pdf)](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/broman_qtl2.pdf)
 - [R/qtl tutorial (pdf)](http://www.rqtl.org/tutorials/rqtltour2.pdf)
-- [Identifying sample mix-ups (pdf)](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/broman_qtl3.pdf) [not covered]
 - Homework: \[[assignment
-(pdf)](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/hw1.pdf) | [data (csv)](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/hw1.csv)
-| [solutions (html)](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/hw1_solns.html)
+(pdf)](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/hw1.pdf) | [data (csv)](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/hw1.csv)\]
+<!--
+ | [solutions (html)](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/hw1_solns.html)
  | [source (Rmd)](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/hw1_solns.Rmd)\]
+-->
 - Older lectures:
   - [Meiosis and recombination](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/broman_recombination.pdf)
   - [Nonparametric linkage analysis in humans](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/broman_nplinkage.pdf)
