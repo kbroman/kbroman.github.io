@@ -262,9 +262,9 @@ title: travel
 
 - Meet with Pjotr et al., Nov 7-10, 2016 (Memphis, TN)
 
--->
-
 - Seminar at NC State, Feb 5-7, 2017 (Raleigh, NC)
+
+-->
 
 - Jackson Lab, Feb 14-17, 2017 (Bar Harbor, ME)
 
