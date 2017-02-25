@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/kbroman
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://kbroman.org
+  * I am kbroman (https://keybase.io/kbroman) on keybase.
+  * I have a public key ASDXTXYHggi4u82YcSipBqLzFN0_nIi2Fx_1To3szhvg7Ao
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01019eeb7ed2e2a3b04a41948643c57abe5d67d9ff62d210d5bc4cc75e5f36bc6dc80a",
+            "host": "keybase.io",
+            "kid": "0120d74d76078208b8bbcd987128a906a2f314dd3f9c88b6171ff54e8decce1be0ec0a",
+            "uid": "5230be1eed8c91764779f01777336a19",
+            "username": "kbroman"
+        },
+        "service": {
+            "hostname": "kbroman.org",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1488039657,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1488039640,
+        "hash": "d99ec0496b613948d7533f4a1acc7af327b32a29c4ac7ee0d3739fb9c3d29a5b98a40a316ec4238a441044186e46a33931aba5191cb642631c4bdb6c183a1867",
+        "seqno": 923533
+    },
+    "prev": "3ffdd34ad65df32b748517aaf2e54b1a4ee22a6fde4483662bacf399ed04fead",
+    "seqno": 12,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg1012B4IIuLvNmHEoqQai8xTdP5yIthcf9U6N7M4b4OwKp3BheWxvYWTFAvJ7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxOWVlYjdlZDJlMmEzYjA0YTQxOTQ4NjQzYzU3YWJlNWQ2N2Q5ZmY2MmQyMTBkNWJjNGNjNzVlNWYzNmJjNmRjODBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZDc0ZDc2MDc4MjA4YjhiYmNkOTg3MTI4YTkwNmEyZjMxNGRkM2Y5Yzg4YjYxNzFmZjU0ZThkZWNjZTFiZTBlYzBhIiwidWlkIjoiNTIzMGJlMWVlZDhjOTE3NjQ3NzlmMDE3NzczMzZhMTkiLCJ1c2VybmFtZSI6Imticm9tYW4ifSwic2VydmljZSI6eyJob3N0bmFtZSI6Imticm9tYW4ub3JnIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xOCJ9LCJjdGltZSI6MTQ4ODAzOTY1NywiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDg4MDM5NjQwLCJoYXNoIjoiZDk5ZWMwNDk2YjYxMzk0OGQ3NTMzZjRhMWFjYzdhZjMyN2IzMmEyOWM0YWM3ZWUwZDM3MzlmYjljM2QyOWE1Yjk4YTQwYTMxNmVjNDIzOGE0NDEwNDQxODZlNDZhMzM5MzFhYmE1MTkxY2I2NDI2MzFjNGJkYjZjMTgzYTE4NjciLCJzZXFubyI6OTIzNTMzfSwicHJldiI6IjNmZmRkMzRhZDY1ZGYzMmI3NDg1MTdhYWYyZTU0YjFhNGVlMjJhNmZkZTQ0ODM2NjJiYWNmMzk5ZWQwNGZlYWQiLCJzZXFubyI6MTIsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RA90SZRm1lK3z6OLrxn9U89V4NbTdzmfZReGm/EE3uymAIT1pyvjhK1mwtOseH7abycDHrEAKUbdcUe/4pXW47BKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIH8ClC3RiidU0mIp2FCqS2FWJEuttgdPPlAriB8347cqo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kbroman
+
+==================================================================
