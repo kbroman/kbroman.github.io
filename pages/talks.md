@@ -15,7 +15,8 @@ mice from Gough Island<br/>
 [![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/APStats2017/apstats2017_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_APStats)<br/>
 &nbsp; &nbsp; &nbsp; Interactive LOD curves:
-[![body weight at 5 weeks](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/APStats2017/lod_and_effect/)
+[![body weight at 5 weeks](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/APStats2017/lod_and_effect)
+[![permutation test](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/APStats2017/perm_test)
 [![body weight](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/APStats2017/iplot_bodyweight.html)
 [![growth rate](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/APStats2017/iplot_deriv_bodyweight.html)<br/>
 [Madison East High School](https://east.madison.k12.wi.us/), Madison, WI (_Mar 9_)
