@@ -8,6 +8,16 @@ description: Karl Broman's talks
 
 ###  2017
 
+Genetics of extreme body size evolution in
+mice from Gough Island<br/>
+&nbsp; &nbsp; &nbsp; Slides:
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/APStats2017/apstats2017.pdf)
+[![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/APStats2017/apstats2017_withnotes.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_APStats)<br/>
+&nbsp; &nbsp; &nbsp; Interactive LOD curves: [![body weight](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/APStats2017/iplot_bodyweight.html)
+[![growth rate](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/APStats2017/iplot_deriv_bodyweight.html)<br/>
+[Madison East High School](https://east.madison.k12.wi.us/), Madison, WI (_Mar 9_)
+
 Dissection and fine-mapping of _trans_-eQTL hotspots
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ncsu2016.pdf)
 [![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ncsu2016_withnotes.pdf)
