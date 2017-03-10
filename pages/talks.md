@@ -14,7 +14,7 @@ mice from Gough Island<br/>
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/APStats2017/apstats2017.pdf)
 [![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/APStats2017/apstats2017_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_APStats)<br/>
-&nbsp; &nbsp; &nbsp; Interactive LOD curves:
+&nbsp; &nbsp; &nbsp; Interactive graphs:
 [![body weight at 5 weeks](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/APStats2017/lod_and_effect)
 [![permutation test](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/APStats2017/perm_test)
 [![body weight](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/APStats2017/iplot_bodyweight.html)
