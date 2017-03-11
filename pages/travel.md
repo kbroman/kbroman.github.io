@@ -264,12 +264,12 @@ title: travel
 
 - Seminar at NC State, Feb 5-7, 2017 (Raleigh, NC)
 
--->
-
 - Jackson Lab, Feb 14-17, 2017 (Bar Harbor, ME)
 
 - [Gordon Conference on Quantitative Genetics](https://www.grc.org/programs.aspx?id=12073), Feb 27 - Mar 3, 2017
   (Galveston, TX)
+
+-->
 
 - U Minnesota Plant Breeding Symposium, Mar 23-24, 2017 (St Paul, MN)
 
