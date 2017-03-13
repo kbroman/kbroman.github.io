@@ -273,7 +273,7 @@ title: travel
 
 - U Minnesota Plant Breeding Symposium, Mar 23-24, 2017 (St Paul, MN)
 
-- Seminar at [BIDS](https://bids.berkeley.edu/), UC-Berkeley, Apr 4-8, 2017 (Berkeley, CA)
+- Seminar at [BIDS](https://bids.berkeley.edu/), UC-Berkeley, Apr 7, 2017 (Berkeley, CA)
 
 - [OpenVis Conference](https://openvisconf.com), Apr 24-25, 2017 (Boston, MA)
 
