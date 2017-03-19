@@ -8,6 +8,13 @@ description: Karl Broman's talks
 
 ###  2017
 
+Workshop on reproducible research
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rrworkshop_2017-03.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rrworkshop_2017-03_withnotes.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/RR_Workshop)<br/>
+Data Science and Plant Breeding Simulation Workshop, University of
+Minnesota, St. Paul, MN (_Mar 23_)
+
 Genetics of extreme body size evolution in
 mice from Gough Island<br/>
 &nbsp; &nbsp; &nbsp; Slides:
