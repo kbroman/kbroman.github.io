@@ -269,20 +269,26 @@ title: travel
 - [Gordon Conference on Quantitative Genetics](https://www.grc.org/programs.aspx?id=12073), Feb 27 - Mar 3, 2017
   (Galveston, TX)
 
--->
-
 - U Minnesota Plant Breeding Symposium, Mar 23-24, 2017 (St Paul, MN)
 
-- Seminar at [BIDS](https://bids.berkeley.edu/), UC-Berkeley, Apr 7, 2017 (Berkeley, CA)
+-->
 
-- [OpenVis Conference](https://openvisconf.com), Apr 24-25, 2017 (Boston, MA)
+- Seminar at [BIDS](https://bids.berkeley.edu/), UC-Berkeley, Apr 5-8, 2017 (Berkeley, CA)
 
-- [ROpenSci unconference](http://unconf17.ropensci.org/), May 25-26,
+- Spring break, Apr 10-13, 2017
+
+- [OpenVis Conference](https://openvisconf.com), Apr 23-26, 2017 (Boston, MA)
+
+- Albee Messing project meeting, May 18-19, 2017 (Boston, MA)
+
+- [ROpenSci unconference](http://unconf17.ropensci.org/), May 24-27,
   2017 (Los Angeles, CA)
 
 - CTC meeting, June 13-17, 2017 (Memphis, TN)
 
-- Reproducible Research course, July 17-19, 2017 (Seattle, WA)
+- Camping, July 3-7, 2017 (Devil's Lake, WI)
+
+- Reproducible Research course, July 16-20, 2017 (Seattle, WA)
 
 - Systems Genetics of Neurodegenerative Disease course, Aug 25-31,
   2017 ([Frauenchiemsee, Germany](http://bit.ly/2hxaxD4))
