@@ -35,7 +35,7 @@ high-dimensional data and complex cross designs (such as the
 [Collaborative Cross](https://www.ncbi.nlm.nih.gov/pubmed/15514660),
 [MAGIC](https://www.ncbi.nlm.nih.gov/pubmed/18295532),
 [heterogeneous stock](https://www.ncbi.nlm.nih.gov/pubmed/11973314),
-and the
+and
 [Diversity Outbred mice](https://www.ncbi.nlm.nih.gov/pubmed/2234561)).
 
 ---
