@@ -8,6 +8,18 @@ description: Karl Broman's talks
 
 ###  2017
 
+Complex trait genetics in mice
+<br/>
+&nbsp; &nbsp; &nbsp; Slides:
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ProspStudents2017-03/introQTL.pdf)
+[![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ProspStudents2017-03/introQTL_withnotes.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ProspStudents)<br/>
+&nbsp; &nbsp; &nbsp; Interactive graphs:
+[![LOD curve](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/D3/lod_and_effect)
+[![eQTL plot](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/D3/cistrans)<br/>
+[Biostatistics &amp; Medical Informatics](https://www.biostat.wisc.edu),
+[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Mar 31_)
+
 Steps toward reproducible research
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rrworkshop_2017-03.pdf)
 [![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rrworkshop_2017-03_withnotes.pdf)
