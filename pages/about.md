@@ -24,7 +24,8 @@ Hopkins University, 1999-2007. In 2007, he moved to the
 [University of Wisconsin&ndash;Madison](http://www.wisc.edu),
 where he is now Professor.
 
-Karl is a Senior Editor for [_Genetics_](http://www.genetics.org) and
+Karl is a Senior Editor for [_Genetics_](http://www.genetics.org),
+Academic Editor for [_PeerJ_](http://peerj.com), and
 a member of the [_BMC Biology_](http://bmcbiol.biomedcentral.com)
 [Editorial Board](http://bmcbiol.biomedcentral.com/about/editorial-board).
 
