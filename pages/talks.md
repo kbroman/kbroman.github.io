@@ -10,7 +10,8 @@ description: Karl Broman's talks
 
 Salvaging a genetics project: Identifying and correcting sample mix-ups in high-dimensional data
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/berkeley2017.pdf)
-[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_SampleMixups)<br/>
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_SampleMixups)
+[![video](icons16/video-icon.png)](https://youtu.be/YPd0R-LPI6U)<br/>
 [Berkeley Institute for Data Science](https://bids.berkeley.edu),
 [University of California, Berkeley](http://www.berkeley.edu) (_Apr 7_)
 
