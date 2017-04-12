@@ -271,9 +271,9 @@ title: travel
 
 - U Minnesota Plant Breeding Symposium, Mar 23-24, 2017 (St Paul, MN)
 
--->
-
 - Seminar at [BIDS](https://bids.berkeley.edu/), UC-Berkeley, Apr 5-8, 2017 (Berkeley, CA)
+
+-->
 
 - Spring break, Apr 10-13, 2017 (St Paul, MN)
 
