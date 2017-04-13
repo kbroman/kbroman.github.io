@@ -275,8 +275,6 @@ title: travel
 
 -->
 
-- Spring break, Apr 10-13, 2017 (St Paul, MN)
-
 - [OpenVis Conference](https://openvisconf.com), Apr 23-26, 2017 (Boston, MA)
 
 - Albee Messing project meeting, May 18-19, 2017 (Boston, MA)
