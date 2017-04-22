@@ -286,7 +286,7 @@ title: travel
 
 - Camping, July 3-7, 2017 (Devil's Lake, WI)
 
-- Reproducible Research course, July 16-20, 2017 (Seattle, WA)
+- [Reproducible Research course](https://www.biostat.washington.edu/suminst/sisbid2017/modules/BD1703), July 16-20, 2017 (Seattle, WA)
 
 - Systems Genetics of Neurodegenerative Disease course, Aug 25-31,
   2017 ([Frauenchiemsee, Germany](http://bit.ly/2hxaxD4))
