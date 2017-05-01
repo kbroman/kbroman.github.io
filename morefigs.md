@@ -8,7 +8,7 @@ title: Karl Broman
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
           <li><a href="https://github.com/kbroman">github</a></li>
-          <li><a href="http://kbroman.wordpress.com">blog</a></li>
+          <li><a href="http://kbroman.org/blog">blog</a></li>
           <li><a href="https://twitter.com/kwbroman">@kwbroman</a></li>
       </ul>
   </div>
