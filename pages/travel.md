@@ -291,6 +291,8 @@ title: travel
 - Systems Genetics of Neurodegenerative Disease course, Aug 25-31,
   2017 ([Frauenchiemsee, Germany](http://bit.ly/2hxaxD4))
 
+- [John Novembre](https://jnpopgen.org/), U Chicago, Nov 15-17, 2017
+
 ---
 
 [UW-Madison travel policies](http://www.bussvc.wisc.edu/acct/policy/ppindex.html)
