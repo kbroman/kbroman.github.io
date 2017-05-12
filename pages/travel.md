@@ -273,9 +273,9 @@ title: travel
 
 - Seminar at [BIDS](https://bids.berkeley.edu/), UC-Berkeley, Apr 5-8, 2017 (Berkeley, CA)
 
--->
-
 - [OpenVis Conference](https://openvisconf.com), Apr 23-26, 2017 (Boston, MA)
+
+-->
 
 - Albee Messing project meeting, May 18-19, 2017 (Boston, MA)
 
