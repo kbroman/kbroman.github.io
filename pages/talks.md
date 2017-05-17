@@ -8,6 +8,15 @@ description: Karl Broman's talks
 
 ###  2017
 
+Steps toward reproducible research
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_JAX2017.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_JAX2017_withnotes.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)<br/>
+(Remotely to)
+[Big Genomic Data Skills Training for Graduate Professors](https://www.jax.org/education-and-learning/education-calendar/2017/may/graduate-big-genomic-data-skills-training-for-professors#),
+Jackson Laboratory for Genomic Medicine, Farmington CT
+(_May 17_)
+
 Salvaging a genetics project: Identifying and correcting sample mix-ups in high-dimensional data
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/berkeley2017.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_SampleMixups)
