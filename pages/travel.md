@@ -275,9 +275,9 @@ title: travel
 
 - [OpenVis Conference](https://openvisconf.com), Apr 23-26, 2017 (Boston, MA)
 
--->
-
 - Albee Messing project meeting, May 18-19, 2017 (Boston, MA)
+
+-->
 
 - [ROpenSci unconference](http://unconf17.ropensci.org/), May 24-27,
   2017 (Los Angeles, CA)
@@ -292,6 +292,8 @@ title: travel
   2017 ([Frauenchiemsee, Germany](http://bit.ly/2hxaxD4))
 
 - [John Novembre](https://jnpopgen.org/), U Chicago, Nov 15-17, 2017
+
+- UCSF seminar, Jan 31-Feb 2, 2018 (San Francisco, CA)
 
 ---
 
