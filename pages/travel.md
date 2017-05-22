@@ -293,6 +293,10 @@ title: travel
 
 - [John Novembre](https://jnpopgen.org/), U Chicago, Nov 15-17, 2017
 
+- Seminar in [Bioinformatics](http://bioinformatics.uncc.edu/) at
+  [UNC-Charlotte](http://www.uncc.edu), Sep 21-22, 2017 (Charlotte,
+  NC)
+
 - UCSF seminar, Jan 31-Feb 2, 2018 (San Francisco, CA)
 
 ---
