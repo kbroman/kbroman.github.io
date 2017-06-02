@@ -9,6 +9,14 @@ description: Karl Broman's talks
 ###  2017
 
 Steps toward reproducible research
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_BDS2017.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_BDS2017_withnotes.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)<br/>
+[Summer Research Program in Biomedical Data Science](https://www.biostat.wisc.edu/content/summer-research),
+[Department of Biostatistics & Medical Informatics](https://www.biostat.wisc.edu),
+[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_June 7_)
+
+Steps toward reproducible research
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_JAX2017.pdf)
 [![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_JAX2017_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)<br/>
