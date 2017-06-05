@@ -277,10 +277,10 @@ title: travel
 
 - Albee Messing project meeting, May 18-19, 2017 (Boston, MA)
 
--->
-
 - [ROpenSci unconference](http://unconf17.ropensci.org/), May 24-27,
   2017 (Los Angeles, CA)
+
+-->
 
 - [CTC meeting](http://www.complextrait.org/ctc2017), June 13-17, 2017 (Memphis, TN)
 
