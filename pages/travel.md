@@ -299,6 +299,9 @@ title: travel
 
 - UCSF seminar, Jan 31-Feb 2, 2018 (San Francisco, CA)
 
+- Population, Evolutionary, & Quantitative Genetics Conference (PEQG),
+  May 14-17, 2018 (Chapel Hill, NC)
+
 ---
 
 [UW-Madison travel policies](http://www.bussvc.wisc.edu/acct/policy/ppindex.html)
