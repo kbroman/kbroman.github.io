@@ -49,6 +49,7 @@ description: Karl Broman's teaching
  [Complex Trait Community meeting](http://complextrait.org/ctc2017),
  Memphis, TN (13 June 2017)
 
+---
 
 #### [Data Carpentry](http://www.datacarpentry.org)
 
