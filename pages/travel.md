@@ -280,9 +280,9 @@ title: travel
 - [ROpenSci unconference](http://unconf17.ropensci.org/), May 24-27,
   2017 (Los Angeles, CA)
 
--->
-
 - [CTC meeting](http://www.complextrait.org/ctc2017), June 13-17, 2017 (Memphis, TN)
+
+-->
 
 - Camping, July 3-7, 2017 (Devil's Lake, WI)
 
