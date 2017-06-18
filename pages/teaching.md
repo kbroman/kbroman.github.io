@@ -44,9 +44,10 @@ description: Karl Broman's teaching
 
 ### <a name="shortcourses"></a>Short courses
 
-#### [R/qtl and R/qtl2](https://github.com/kbroman/RqtlWorkshop),
-     [Complex Trait Community meeting](http://complextrait.org/ctc2017),
-     Memphis, TN (13 June 2017)
+#### R/qtl and R/qtl2 workshop
+ [R/qtl and R/qtl2 workshop](https://github.com/kbroman/RqtlWorkshop),
+ [Complex Trait Community meeting](http://complextrait.org/ctc2017),
+ Memphis, TN (13 June 2017)
 
 
 #### [Data Carpentry](http://www.datacarpentry.org)
