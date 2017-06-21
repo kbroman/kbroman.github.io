@@ -18,7 +18,7 @@ description: Karl Broman's teaching
 
 ### <a name="current"></a>Current courses
 
-#### [Tools for reproducible research](http://kbroman.org/Tools4RR) (BMI 826-003; Spring, 2015)
+#### [Tools for reproducible research](http://kbroman.org/Tools4RR) (BMI 826-003; Spring, 2016)
 
 - [Schedule](http://kbroman.org/Tools4RR/pages/schedule.html)
 - [Resources and further reading](http://kbroman.org/Tools4RR/pages/resources.html)
