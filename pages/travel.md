@@ -299,7 +299,7 @@ title: travel
 
 - UCSF seminar, Jan 31-Feb 2, 2018 (San Francisco, CA)
 
-- Population, Evolutionary, & Quantitative Genetics Conference (PEQG),
+- [Population, Evolutionary, & Quantitative Genetics Conference (PEQG)](http://genetics-gsa.org/peqg/2018/),
   May 14-17, 2018 (Chapel Hill, NC)
 
 ---
