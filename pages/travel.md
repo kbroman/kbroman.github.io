@@ -291,11 +291,14 @@ title: travel
 - Systems Genetics of Neurodegenerative Disease course, Aug 25-31,
   2017 ([Frauenchiemsee, Germany](http://bit.ly/2hxaxD4))
 
-- [John Novembre](https://jnpopgen.org/), U Chicago, Nov 15-17, 2017
-
 - Seminar in [Bioinformatics](http://bioinformatics.uncc.edu/) at
   [UNC-Charlotte](http://www.uncc.edu), Sep 21-22, 2017 (Charlotte,
   NC)
+
+- Data Carpentry Workshop, NBSE Professional Development Conference,
+  Sept 28, 2018 (Chicago, IL)
+
+- [John Novembre](https://jnpopgen.org/), U Chicago, Nov 15-17, 2017
 
 - UCSF seminar, Jan 31-Feb 2, 2018 (San Francisco, CA)
 
