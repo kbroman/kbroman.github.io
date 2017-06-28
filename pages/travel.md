@@ -295,6 +295,8 @@ title: travel
   [UNC-Charlotte](http://www.uncc.edu), Sep 21-22, 2017 (Charlotte,
   NC)
 
+- [Statfest](http://community.amstat.org/cmis/events/statfest), Emory University, Sep 23, 2017 (Atlanta, GA)
+
 - Data Carpentry Workshop, NBSE Professional Development Conference,
   Sept 28, 2018 (Chicago, IL)
 
