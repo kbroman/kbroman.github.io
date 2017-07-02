@@ -288,7 +288,7 @@ title: travel
 
 - [Reproducible Research course](https://www.biostat.washington.edu/suminst/sisbid2017/modules/BD1703), July 16-20, 2017 (Seattle, WA)
 
-- Systems Genetics of Neurodegenerative Disease course, Aug 25-31,
+- [Systems Genetics of Neurodegenerative Disease course](http://sgn2017.org/), Aug 24-Sept 1,
   2017 ([Frauenchiemsee, Germany](http://bit.ly/2hxaxD4))
 
 - Seminar in [Bioinformatics](http://bioinformatics.uncc.edu/) at
