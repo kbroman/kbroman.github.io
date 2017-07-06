@@ -282,9 +282,9 @@ title: travel
 
 - [CTC meeting](http://www.complextrait.org/ctc2017), June 13-17, 2017 (Memphis, TN)
 
--->
-
 - Camping, July 3-7, 2017 (Devil's Lake, WI)
+
+-->
 
 - [Reproducible Research course](https://www.biostat.washington.edu/suminst/sisbid2017/modules/BD1703), July 16-20, 2017 (Seattle, WA)
 
