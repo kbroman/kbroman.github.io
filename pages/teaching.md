@@ -41,8 +41,14 @@ description: Karl Broman's teaching
 
 ---
 
-
 ### <a name="shortcourses"></a>Short courses
+
+#### Reproducible Research Workshop
+  [Reproducible Research Workshop](https://github.com/SISBID/Module3),
+  [Summer Institute in Statistics for Big Data](https://www.biostat.washington.edu/suminst/sisbid2017/modules/BD1703),
+  Seattle, WA (17-19 July 2017)
+
+---
 
 #### R/qtl and R/qtl2 workshop
  [R/qtl and R/qtl2 workshop](https://github.com/kbroman/RqtlWorkshop),
