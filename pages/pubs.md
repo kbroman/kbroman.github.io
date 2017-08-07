@@ -37,6 +37,16 @@ description: Karl Broman's publications
 
 #### 2017
 
+Florek NW, Kamlangdee A, Mutschler JP, Kingstad-Bakke B,
+Schultz-Darken N, **Broman KW**, Osorio JE, Friedrich TC (2017)
+A modified vaccinia Ankara vaccine vector expressing a mosaic H5
+hemagglutinin reduces viral shedding in rhesus macaques.
+[PLOS One](http://journals.plos.org/plosone/) 12:e0181738
+[![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/28771513)
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/florek2017.pdf)
+<!-- * 147 * -->
+<!-- http://10.1371/journal.pone.0181738 -->
+
 Wang RJ, Gray MM, Parmenter MD, **Broman KW**, Payseur
 BA (2017) Recombination rate variation in mice from an isolated
 island. [Mol Ecol](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-294X)
