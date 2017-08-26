@@ -45,7 +45,7 @@ hemagglutinin reduces viral shedding in rhesus macaques.
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/28771513)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/florek2017.pdf)
 <!-- * 147 * -->
-<!-- http://10.1371/journal.pone.0181738 -->
+<!-- http://doi.org/10.1371/journal.pone.0181738 -->
 
 Wang RJ, Gray MM, Parmenter MD, **Broman KW**, Payseur
 BA (2017) Recombination rate variation in mice from an isolated
