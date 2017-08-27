@@ -8,13 +8,13 @@ description: Karl Broman's talks
 
 ###  2017
 
-Genetic analysis of high-throughput phenotypes: challenges and opportunities.</br>
+Genetic analysis of high-throughput phenotypes: challenges and opportunities.<br/>
 &nbsp; &nbsp; &nbsp; Slides:
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/SGN2017/sgn2017.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_SGN2017)<br/>
 &nbsp; &nbsp; &nbsp; Interactive graphs:
 [![body weight at 5 weeks](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/BDS2017-07/lod_and_effect)
-[![permutation test](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/BDS2017-07/perm_test)</br>
+[![permutation test](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/BDS2017-07/perm_test)<br/>
 [Workshop on Systems Genetics of Neurodegenerative Disease](http://sgn2017.org),
 Frauenchiemsee, Germany (_27 Aug_)
 
