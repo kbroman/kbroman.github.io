@@ -29,11 +29,13 @@ description: Karl Broman's publications
 
 ### <a name="articles"></a>journal articles
 
-#### In preparation
+#### To appear
 
 **Broman KW**, Woo KH. Data organization in spreadsheets.
-[![pdf](icons16/pdf-icon.png)](https://github.com/kbroman/Paper_DataOrg/blob/master/manuscript.pdf)
+[The American Statistician](), to appear
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/dataorg.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_DataOrg)
+<!-- * 148 * -->
 
 #### 2017
 
