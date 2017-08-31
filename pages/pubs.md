@@ -32,7 +32,7 @@ description: Karl Broman's publications
 #### To appear
 
 **Broman KW**, Woo KH. Data organization in spreadsheets.
-[The American Statistician](), to appear
+[The American Statistician](http://www.tandfonline.com/toc/utas20/current), to appear
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/dataorg.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_DataOrg)
 <!-- * 148 * -->
