@@ -8,6 +8,12 @@ description: Karl Broman's talks
 
 ###  2017
 
+R/qtl2: high-dimensional data & multi-parent populations
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rqtl2_uncc2017.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_UNCC2017)<br/>
+[Department of Bioinformatics and Genomics](http://bioinformatics.uncc.edu/),
+University of North Carolina at Charlotte (_22 Sep_)
+
 Genetic analysis of high-throughput phenotypes: challenges and opportunities<br/>
 &nbsp; &nbsp; &nbsp; Slides:
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/SGN2017/sgn2017.pdf)
