@@ -8,9 +8,14 @@ description: Karl Broman's talks
 
 ###  2017
 
-R/qtl2: high-dimensional data & multi-parent populations
+R/qtl2: high-dimensional data & multi-parent populations <br/>
+&nbsp; &nbsp; &nbsp; Slides:
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rqtl2_uncc2017.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_UNCC2017)<br/>
+&nbsp; &nbsp; &nbsp; Interactive graphs:
+[![lod curves](icons16/html-icon.png)](https://bit.ly/lod_and_effect)
+[![many box plots](icons16/html-icon.png)](https://bit.ly/many_boxplots)
+<br/>
 [Department of Bioinformatics and Genomics](http://bioinformatics.uncc.edu/),
 University of North Carolina at Charlotte (_22 Sep_)
 
