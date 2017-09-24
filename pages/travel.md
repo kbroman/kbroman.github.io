@@ -289,13 +289,13 @@ title: travel
 - [Systems Genetics of Neurodegenerative Disease course](http://sgn2017.org/), Aug 24-Sept 1,
   2017 ([Frauenchiemsee, Germany](http://bit.ly/2hxaxD4))
 
--->
-
 - Seminar in [Bioinformatics](http://bioinformatics.uncc.edu/) at
   [UNC-Charlotte](http://www.uncc.edu), Sep 21-22, 2017 (Charlotte,
   NC)
 
 - [Statfest](http://community.amstat.org/cmis/events/statfest), Emory University, Sep 23, 2017 (Atlanta, GA)
+
+->
 
 - Data Carpentry Workshop, NBSE Professional Development Conference,
   Sept 28, 2018 (Chicago, IL)
@@ -305,7 +305,7 @@ title: travel
 - UCSF seminar, Jan 31-Feb 2, 2018 (San Francisco, CA)
 
 - [Population, Evolutionary, & Quantitative Genetics Conference (PEQG)](http://genetics-gsa.org/peqg/2018/),
-  May 14-17, 2018 (Chapel Hill, NC)
+  May 13-16, 2018 (Madison, WI)
 
 ---
 
