@@ -295,10 +295,10 @@ title: travel
 
 - [Statfest](http://community.amstat.org/cmis/events/statfest), Emory University, Sep 23, 2017 (Atlanta, GA)
 
--->
-
 - Data Carpentry Workshop, NBSE Professional Development Conference,
   Sept 28, 2018 (Chicago, IL)
+  
+-->
 
 - [John Novembre](https://jnpopgen.org/), U Chicago, Nov 15-17, 2017
 
