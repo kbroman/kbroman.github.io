@@ -297,7 +297,7 @@ title: travel
 
 - Data Carpentry Workshop, NBSE Professional Development Conference,
   Sept 28, 2018 (Chicago, IL)
-  
+
 -->
 
 - [John Novembre](https://jnpopgen.org/), U Chicago, Nov 15-17, 2017
@@ -306,6 +306,8 @@ title: travel
 
 - [Population, Evolutionary, & Quantitative Genetics Conference (PEQG)](http://genetics-gsa.org/peqg/2018/),
   May 13-16, 2018 (Madison, WI)
+
+- Reproducible Research course, Summer Institute for Big Data, July 16-18, 2018 (Seattle, WA)
 
 ---
 
