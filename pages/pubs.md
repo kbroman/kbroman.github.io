@@ -36,6 +36,7 @@ description: Karl Broman's publications
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/dataorg.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_DataOrg)
 <!-- * 148 * -->
+<!-- https://doi.org/10.1080/00031305.2017.1375989 -->
 
 #### 2017
 
