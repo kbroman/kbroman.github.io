@@ -59,6 +59,14 @@ description: Karl Broman's teaching
 
 #### [Data Carpentry](http://www.datacarpentry.org)
 
+[National Society of Black Engineers Professional Development Conference](http://www.nsbe.org/PDC.aspx)
+Chicago, IL (28 Sept 2017)
+
+  - [Course materials](https://christinalk.github.io/2017-09-28-nsbe/)
+  - GitHub repository:
+    [web site](https://github.com/christinalk/2017-09-28-nsbe/)
+    | [R lessons](https://github.com/kbroman/Workshop_DataCarpNSBE)
+
 [UW-Madison](uw-madison-aci.github.io/2017-06-19-uwmadison-dc/)
 Madison, WI (19-20 June 2017)
 
@@ -66,7 +74,6 @@ Madison, WI (19-20 June 2017)
   - GitHub repository:
     [web site](https://github.com/uw-madison-aci/2017-06-19-uwmadison-dc/)
     | [R lessons](https://github.com/kbroman/datacarpentry_R_2017-01-10)
-
 
 [UW-Madison](https://uw-madison-aci.github.io/2017-01-10-uwmadison/),
 Madison, WI (10-11 January 2017)
