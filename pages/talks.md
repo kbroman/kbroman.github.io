@@ -8,6 +8,13 @@ description: Karl Broman's talks
 
 ###  2017
 
+Creating effective figures and tables
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/graphs2017.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Graphs)
+<br/>
+Presentation in a seminar course for MD-PhD students,
+[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Oct 25_)
+
 R/qtl2: high-dimensional data & multi-parent populations <br/>
 &nbsp; &nbsp; &nbsp; Slides:
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rqtl2_uncc2017.pdf)
