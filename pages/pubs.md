@@ -44,6 +44,7 @@ Baur B, Fox J, Robinson M, Levy S, Flister MJ, Mott R, Valdar W,
 Solberg Woods LC. Genetic fine-mapping and identification of candidate
 genes and variants for adiposity traits in outbred rats.
 [Obesity](http://www.obesityjournal.org), to appear
+[![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/29193816)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/solberg2017.pdf)
 <!-- * 149 * -->
 <!-- https://doi.org/10.1002/oby.22075 -->
