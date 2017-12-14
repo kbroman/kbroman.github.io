@@ -18,9 +18,9 @@ University of California, Berkeley; his PhD advisor was
 [Terry Speed](http://www.wehi.edu.au/faculty_members/professor_terry_speed).
 He was a postdoctoral fellow with [James Weber](https://www.preventiongenetics.com/about-us/senior-staff/) at the
 [Marshfield Clinic Research Foundation](http://research.marshfieldclinic.org),
-1997-1999. He
+1997&ndash;1999. He
 was a faculty member in the [Department of Biostatistics](http://www.jhsph.edu/departments/biostatistics/) at Johns
-Hopkins University, 1999-2007. In 2007, he moved to the
+Hopkins University, 1999&ndash;2007. In 2007, he moved to the
 [University of Wisconsin&ndash;Madison](http://www.wisc.edu),
 where he is now Professor.
 
