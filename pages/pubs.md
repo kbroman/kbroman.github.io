@@ -35,18 +35,20 @@ description: Karl Broman's publications
 [The American Statistician](http://www.tandfonline.com/toc/utas20/current), to appear
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/dataorg.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_DataOrg)
-<!-- * 148 * -->
+<!-- * 149 * -->
 <!-- https://doi.org/10.1080/00031305.2017.1375989 -->
+
+#### 2018
 
 Keele GR, Prokop JW, He H, Holl K, Littrell J, Deal A, Francic S, Cui
 L, Gatti DM, **Broman KW**, Tschannen M, Tsaih S-W, Zagloul M, Kim Y,
 Baur B, Fox J, Robinson M, Levy S, Flister MJ, Mott R, Valdar W,
-Solberg Woods LC. Genetic fine-mapping and identification of candidate
+Solberg Woods LC (2018) Genetic fine-mapping and identification of candidate
 genes and variants for adiposity traits in outbred rats.
-[Obesity](http://www.obesityjournal.org), to appear
+[Obesity](http://www.obesityjournal.org) 26:213-222
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/29193816)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/solberg2017.pdf)
-<!-- * 149 * -->
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/solberg2018.pdf)
+<!-- * 148 * -->
 <!-- https://doi.org/10.1002/oby.22075 -->
 
 #### 2017
