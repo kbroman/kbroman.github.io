@@ -316,6 +316,8 @@ title: travel
 
 - Reproducible Research course, Summer Institute for Big Data, July 16-18, 2018 (Seattle, WA)
 
+- [JSM 2018](https://ww2.amstat.org/meetings/jsm/2018/), July 29-August 2, 2018 (Vancouver, BC)
+
 ---
 
 [UW-Madison travel policies](http://www.bussvc.wisc.edu/acct/policy/ppindex.html)
