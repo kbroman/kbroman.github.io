@@ -312,6 +312,8 @@ title: travel
 - [Population, Evolutionary, & Quantitative Genetics Conference (PEQG)](http://genetics-gsa.org/peqg/2018/),
   May 13-16, 2018 (Madison, WI)
 
+- CTC meeting, June 20-22, 2018 (Glasgow, Scotland)
+
 - Reproducible Research course, Summer Institute for Big Data, July 16-18, 2018 (Seattle, WA)
 
 ---
