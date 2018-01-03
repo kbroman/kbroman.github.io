@@ -16,5 +16,5 @@ description: "Datasets for 2016-06-01 Data Carpentry workshop at UW-Madison"
 
 - R:
   - [portal_data_joined.csv](portal_data_joined.csv)
-  - [portal_data_reduced.csv](portal_data_reduced.csv)
+  - [portal_clean.csv](portal_clean.csv)
     (reduced to complete records and species with counts > 10)
