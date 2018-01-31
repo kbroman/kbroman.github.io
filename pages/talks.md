@@ -6,6 +6,21 @@ description: Karl Broman's talks
 
 
 
+###  2018
+
+18 years of R/qtl: developing, maintaining, and supporting scientific software<br/>
+&nbsp; &nbsp; &nbsp; Slides:
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rqtl2_ucsf2018.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_UCSF2018)<br/>
+&nbsp; &nbsp; &nbsp; Interactive graphs:
+[![lod curves](icons16/html-icon.png)](https://bit.ly/lod_and_effect)
+[![many box plots](icons16/html-icon.png)](https://bit.ly/many_boxplots)
+<br/>
+[BBC
+seminar](https://biophysics.ucsf.edu/seminars-events/bbc-seminar-series),
+University of California, San Francisco (_1 Feb_)
+
+
 ###  2017
 
 17 years of R/qtl: maintaining, supporting, and sustaining scientific software<br/>
