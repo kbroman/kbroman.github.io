@@ -21,10 +21,10 @@ description: Karl Broman's software
 An [R](http://www.r-project.org/) package with tools for analyzing QTL experiments.
 
 To receive announcements about updates to R/qtl, join the
-Google group, [R/qtl announcements](http://groups.google.com/group/Rqtl-announce).
+Google group, [R/qtl announcements](https://groups.google.com/group/rqtl-announce).
 
 To participate in discussion about the use of R/qtl, join the
-Google group, [R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
+Google group, [R/qtl discussion](https://groups.google.com/group/rqtl-disc)
 
 ---
 
@@ -37,6 +37,12 @@ high-dimensional data and complex cross designs (such as the
 [heterogeneous stock](https://www.ncbi.nlm.nih.gov/pubmed/11973314),
 and
 [Diversity Outbred mice](https://www.ncbi.nlm.nih.gov/pubmed/2234561)).
+
+To receive announcements about updates to R/qtl2 (and R/qtl1), join the
+Google group, [R/qtl announcements](https://groups.google.com/group/rqtl-announce).
+
+To participate in discussion about the use of R/qtl2, join the
+Google group, [R/qtl2 discussion](https://groups.google.com/group/rqtl2-disc)
 
 ---
 
