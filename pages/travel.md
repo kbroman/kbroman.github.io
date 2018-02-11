@@ -300,9 +300,9 @@ title: travel
 
 - [John Novembre](https://jnpopgen.org/), U Chicago, Nov 15-17, 2017
 
--->
-
 - UCSF seminar, Jan 31-Feb 2, 2018 (San Francisco, CA)
+
+-->
 
 - GeneNetwork hackathon, Feb 26-Mar 1, 2018 (Memphis, TN)
 
