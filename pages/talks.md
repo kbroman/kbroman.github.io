@@ -8,6 +8,18 @@ description: Karl Broman's talks
 
 ###  2018
 
+18 years of R/qtl: maintaining, supporting, and sustaining scientific software<br/>
+&nbsp; &nbsp; &nbsp; Slides:
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rqtl2_qBio2018.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_qBio2018)<br/>
+&nbsp; &nbsp; &nbsp; Interactive graph:
+[![many box plots](icons16/html-icon.png)](https://bit.ly/many_boxplots)
+<br/>
+[qBio seminar
+series](https://events.wid.wisc.edu/events/category/qbio/),
+[Wisconsin Institute for Discovery](https://wid.wisc.edu),
+University of Wisconsin&ndash;Madison (_14 Feb_)
+
 18 years of R/qtl: developing, maintaining, and supporting scientific software<br/>
 &nbsp; &nbsp; &nbsp; Slides:
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rqtl2_ucsf2018.pdf)
