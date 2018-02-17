@@ -11,8 +11,8 @@ description: Karl Broman's talks
 18 years of R/qtl: maintaining, supporting, and sustaining scientific software<br/>
 &nbsp; &nbsp; &nbsp; Slides:
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rqtl2_qBio2018.pdf)
-[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_qBio2018)<br/>
-&nbsp; &nbsp; &nbsp; Interactive graph:
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_qBio2018)
+&nbsp; Interactive graph:
 [![many box plots](icons16/html-icon.png)](https://bit.ly/many_boxplots)
 <br/>
 [qBio seminar
@@ -23,8 +23,8 @@ University of Wisconsin&ndash;Madison (_14 Feb_)
 18 years of R/qtl: developing, maintaining, and supporting scientific software<br/>
 &nbsp; &nbsp; &nbsp; Slides:
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rqtl2_ucsf2018.pdf)
-[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_UCSF2018)<br/>
-&nbsp; &nbsp; &nbsp; Interactive graphs:
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_UCSF2018)
+&nbsp; Interactive graphs:
 [![lod curves](icons16/html-icon.png)](https://bit.ly/lod_and_effect)
 [![many box plots](icons16/html-icon.png)](https://bit.ly/many_boxplots)
 <br/>
@@ -38,8 +38,8 @@ University of California, San Francisco (_1 Feb_)
 17 years of R/qtl: maintaining, supporting, and sustaining scientific software<br/>
 &nbsp; &nbsp; &nbsp; Slides:
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rqtl2_chicago2017.pdf)
-[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Chicago2017)<br/>
-&nbsp; &nbsp; &nbsp; Interactive graphs:
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Chicago2017)
+&nbsp; Interactive graphs:
 [![lod curves](icons16/html-icon.png)](https://bit.ly/lod_and_effect)
 [![many box plots](icons16/html-icon.png)](https://bit.ly/many_boxplots)
 <br/>
@@ -55,8 +55,8 @@ Presentation in a seminar course for MD-PhD students,
 R/qtl2: high-dimensional data & multi-parent populations <br/>
 &nbsp; &nbsp; &nbsp; Slides:
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rqtl2_uncc2017.pdf)
-[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_UNCC2017)<br/>
-&nbsp; &nbsp; &nbsp; Interactive graphs:
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_UNCC2017)
+&nbsp; Interactive graphs:
 [![lod curves](icons16/html-icon.png)](https://bit.ly/lod_and_effect)
 [![many box plots](icons16/html-icon.png)](https://bit.ly/many_boxplots)
 <br/>
@@ -66,8 +66,8 @@ University of North Carolina at Charlotte (_22 Sep_)
 Genetic analysis of high-throughput phenotypes: challenges and opportunities<br/>
 &nbsp; &nbsp; &nbsp; Slides:
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/SGN2017/sgn2017.pdf)
-[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_SGN2017)<br/>
-&nbsp; &nbsp; &nbsp; Interactive graphs:
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_SGN2017)
+&nbsp; Interactive graphs:
 [![lod curves](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/BDS2017-07/lod_and_effect)
 [![permutation test](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/BDS2017-07/perm_test)
 [![many box plots](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/D3/manyboxplots)
@@ -80,8 +80,8 @@ mice from Gough Island<br/>
 &nbsp; &nbsp; &nbsp; Slides:
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/BDS2017-07/bds2017-07.pdf)
 [![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/BDS2017-07/bds2017-07_withnotes.pdf)
-[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_BDS2017-07)<br/>
-&nbsp; &nbsp; &nbsp; Interactive graphs:
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_BDS2017-07)
+&nbsp; Interactive graphs:
 [![body weight at 5 weeks](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/BDS2017-07/lod_and_effect)
 [![permutation test](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/BDS2017-07/perm_test)
 [![body weight](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/BDS2017-07/iplot_bodyweight.html)
@@ -124,8 +124,8 @@ Complex trait genetics in mice
 &nbsp; &nbsp; &nbsp; Slides:
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ProspStudents2017-03/introQTL.pdf)
 [![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ProspStudents2017-03/introQTL_withnotes.pdf)
-[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ProspStudents)<br/>
-&nbsp; &nbsp; &nbsp; Interactive graphs:
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ProspStudents)
+&nbsp; Interactive graphs:
 [![LOD curve](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/D3/lod_and_effect)
 [![eQTL plot](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/D3/cistrans)<br/>
 [Biostatistics &amp; Medical Informatics](https://www.biostat.wisc.edu),
@@ -143,8 +143,8 @@ mice from Gough Island<br/>
 &nbsp; &nbsp; &nbsp; Slides:
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/APStats2017/apstats2017.pdf)
 [![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/APStats2017/apstats2017_withnotes.pdf)
-[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_APStats)<br/>
-&nbsp; &nbsp; &nbsp; Interactive graphs:
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_APStats)
+&nbsp; Interactive graphs:
 [![body weight at 5 weeks](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/APStats2017/lod_and_effect)
 [![permutation test](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/APStats2017/perm_test)
 [![body weight](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/APStats2017/iplot_bodyweight.html)
@@ -460,8 +460,8 @@ mice from Gough Island<br/>
 &nbsp; &nbsp; &nbsp; Slides:
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/CTC2014/ctc2014.pdf)
 [![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/CTC2014/ctc2014_withnotes.pdf)
-[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Gough)<br/>
-&nbsp; &nbsp; &nbsp; Interactive LOD curves: [![body weight](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/CTC2014/iplot_bodyweight.html)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Gough)
+&nbsp; Interactive LOD curves: [![body weight](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/CTC2014/iplot_bodyweight.html)
 [![growth rate](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/CTC2014/iplot_deriv_bodyweight.html)<br/>
 [Complex Trait Community 13th annual
 meeting](http://www.ctc2014.org), Berlin, Germany (_May 21_)
@@ -495,8 +495,8 @@ workshop](https://ictr.wisc.edu/SciWritingWorkshop), [Institute for Clinical and
 
 How to display data badly (plus a bit on my recent efforts to make interactive graphs) <br/>
 &nbsp; &nbsp; &nbsp; Part 1: [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/IowaState2013/graphs_combined.pdf)
-[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Graphs/tree/iowastate2013)<br/>
-&nbsp; &nbsp; &nbsp; Part 2: [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/IowaState2013/index.html)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Graphs/tree/iowastate2013)
+&nbsp; Part 2: [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/IowaState2013/index.html)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_CGD2013/tree/iowastate2013)<br/>
 (Remotely to) Graphics Working Group, [Department of Statistics](http://www.stat.iastate.edu), [Iowa State University](http://www.iastate.edu), Ames, Iowa (_Dec 5_)
 
