@@ -35,7 +35,7 @@ description: Karl Broman's publications
 [The American Statistician](http://www.tandfonline.com/toc/utas20/current), to appear
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/dataorg.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_DataOrg)
-<!-- * 149 * -->
+<!-- * 150 * -->
 <!-- https://doi.org/10.1080/00031305.2017.1375989 -->
 
 #### 2018
@@ -48,7 +48,7 @@ genes and variants for adiposity traits in outbred rats.
 [Obesity](http://www.obesityjournal.org) 26:213-222
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/29193816)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/solberg2018.pdf)
-<!-- * 148 * -->
+<!-- * 149 * -->
 <!-- https://doi.org/10.1002/oby.22075 -->
 
 #### 2017
@@ -60,7 +60,7 @@ hemagglutinin reduces viral shedding in rhesus macaques.
 [PLOS One](http://journals.plos.org/plosone/) 12:e0181738
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/28771513)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/florek2017.pdf)
-<!-- * 147 * -->
+<!-- * 148 * -->
 <!-- https://doi.org/10.1371/journal.pone.0181738 -->
 
 Wang RJ, Gray MM, Parmenter MD, **Broman KW**, Payseur
@@ -69,7 +69,7 @@ island. [Mol Ecol](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-294
 26:457-470
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/27864900)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/wang2017.pdf)
-<!-- * 146 * -->
+<!-- * 147 * -->
 <!-- https://doi.org/10.1111/mec.13932 -->
 
 #### 2016
@@ -83,7 +83,7 @@ diabetes in mouse and human islets. [PLOS Genet](http://www.plosgenetics.org) 12
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/27935966)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/keller2016.pdf)
 [![supporting info](icons16/supp-icon.png)](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006466#sec024)
-<!-- * 145 * -->
+<!-- * 146 * -->
 <!-- https://doi.org/10.1371/journal.pgen.1006466 -->
 
 Parmenter MD, Gray MM, Hogan CA, Ford IN, **Broman KW**, Vinyard CJ,
@@ -92,7 +92,7 @@ from Gough Island. [Genetics](http://genetics.org) 204:1559-1572
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/27694627)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/parmenter2016.pdf)
 [![supporting info](icons16/supp-icon.png)](http://www.genetics.org/content/early/2016/09/29/genetics.116.193805.supplemental)
-<!-- * 144 * -->
+<!-- * 145 * -->
 <!-- https://doi.org/10.1534/genetics.116.193805 -->
 
 Zigler JS Jr, Hodgkinson CA, Wright M, Klise A, Sundin O, **Broman KW**,
@@ -104,8 +104,15 @@ peripheral nervous systems. [PLOS ONE](http://www.plosone.org) 11:e0160447
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/27472223)
 [![pdf](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/zigler2016.pdf)
 [![supporting info](icons16/supp-icon.png)](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0160447#sec020)
-<!-- * 143 * -->
+<!-- * 144 * -->
 <!-- https://doi.org/10.1371/journal.pone.0160447 -->
+
+Sloan Z, Arends D, **Broman KW**, Centeno A, Furlotte N, Nijveen H,
+Yan L, Zhou X, Williams RW, Prins P (2016) GeneNetwork: framework for
+web-based genetics. [J Open Source Software](https://www.theoj.org) 1(2): 25
+[![pdf](icons16/pdf-icon.png)](https://www.theoj.org/joss-papers/joss.00025/10.21105.joss.00025.pdf)
+<!-- * 143 * -->
+<!-- https://doi.org/10.21105/joss.00025 -->
 
 De Simone M, Spagnuolo L, Lor&egrave; NI, Cigana C, De Fino I, **Broman KW**,
 Iraqi FA, Bragonzi A (2016) Mapping genetic determinants of host
