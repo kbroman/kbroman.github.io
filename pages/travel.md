@@ -302,15 +302,18 @@ title: travel
 
 - UCSF seminar, Jan 31-Feb 2, 2018 (San Francisco, CA)
 
--->
-
 - GeneNetwork hackathon, Feb 26-Mar 1, 2018 (Memphis, TN)
+
+-->
 
 - Seminar at Dept of Statistics, Colorado State University, Apr 23,
   2018 (Fort Collins, CO)
 
 - [Population, Evolutionary, & Quantitative Genetics Conference (PEQG)](http://genetics-gsa.org/peqg/2018/),
   May 13-16, 2018 (Madison, WI)
+
+- [Purdue Symposium on Statistics](http://www.stat.purdue.edu/symp2018/schedule/sessions/index.html),
+  June 6-8, 2018 (West Lafayette, IN)
 
 - CTC meeting, June 20-22, 2018 (Glasgow, Scotland)
 
