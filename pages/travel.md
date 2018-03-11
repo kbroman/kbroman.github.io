@@ -321,6 +321,8 @@ title: travel
 
 - [JSM 2018](https://ww2.amstat.org/meetings/jsm/2018/), July 29-August 2, 2018 (Vancouver, BC)
 
+- [AAAS meeting](http://meetings.aaas.org), Feb 14-18, 2019 (Washington, DC)
+
 ---
 
 [UW-Madison travel policies](http://www.bussvc.wisc.edu/acct/policy/ppindex.html)
