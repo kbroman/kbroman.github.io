@@ -8,6 +8,14 @@ description: Karl Broman's talks
 
 ###  2018
 
+Steps toward reproducible research
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr_withnotes.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)<br/>
+[David O'Connor's lab](http://labs.pathology.wisc.edu/oconnor),
+[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_19 Mar_)
+
+
 18 years of R/qtl: maintaining, supporting, and sustaining scientific software<br/>
 &nbsp; &nbsp; &nbsp; Slides:
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rqtl2_qBio2018.pdf)
