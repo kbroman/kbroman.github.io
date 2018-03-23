@@ -315,9 +315,9 @@ title: travel
 - [Purdue Symposium on Statistics](http://www.stat.purdue.edu/symp2018/schedule/sessions/index.html),
   June 6-8, 2018 (West Lafayette, IN)
 
-- CTC meeting, June 20-22, 2018 (Glasgow, Scotland)
+- [CTC meeting](http://www.complextrait.org/ctc2018/), June 20-22, 2018 (Glasgow, Scotland)
 
-- Reproducible Research course, Summer Institute for Big Data, July 16-18, 2018 (Seattle, WA)
+- Reproducible Research course, [Summer Institute for Big Data](http://www.biostat.washington.edu/suminst/sisbid), July 16-18, 2018 (Seattle, WA)
 
 - [JSM 2018](https://ww2.amstat.org/meetings/jsm/2018/), July 29-August 2, 2018 (Vancouver, BC)
 
