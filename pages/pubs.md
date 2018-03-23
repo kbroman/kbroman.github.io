@@ -31,6 +31,14 @@ description: Karl Broman's publications
 
 #### To appear
 
+Keller MP, Gatti DM, Schueler KL, Rabaglia ME, Stapleton DS, Simecek
+P, Vincent M, Allen S, Broman AT, Bacher R, Kendziorski C, **Broman
+KW**, Yandell BS, Churchill GA, Attie AD. Genetic drivers of
+pancreatic islet function. [Genetics](http://genetics.org), to appear
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/keller2018.pdf)
+<!-- * 151 * -->
+<!-- https://doi.org/10.1534/genetics.118.300864 -->
+
 **Broman KW**, Woo KH. Data organization in spreadsheets.
 [The American Statistician](http://www.tandfonline.com/toc/utas20/current), to appear
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/dataorg.pdf)
