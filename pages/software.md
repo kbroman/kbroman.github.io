@@ -88,7 +88,10 @@ These packages are part of the
 
 An [R](http://www.r-project.org) package for detecting and correcting
 sample mix-ups between two sets of measurements, such as between gene
-expression data on two tissues.
+expression data on two tissues. (Also see
+[R/lineup2](https://github.com/kbroman/lineup2), revised to be more
+general and not so closely tied to the [R/qtl](https://rqtl.org)
+package.)
 
 ---
 
