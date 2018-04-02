@@ -18,9 +18,6 @@ description: Karl Broman's teaching
 
 ### <a name="current"></a>Current courses
 
-#### [Plant breeding and plant genetics seminar](http://kbroman.org/PBPG957_Sp2018) (Agronomy 957; Spring, 2018)
-
-
 #### [Tools for reproducible research](http://kbroman.org/Tools4RR) (BMI 826-003; Spring, 2016)
 
 - [Schedule](http://kbroman.org/Tools4RR/pages/schedule.html)
@@ -490,6 +487,8 @@ How to build a web page<br/>
 ---
 
 ### <a name="old"></a>Former courses at UW-Madison
+
+#### [Plant breeding and plant genetics seminar](http://kbroman.org/PBPG957_Sp2018) (Agronomy 957; Spring, 2018)
 
 #### [Statistical methods for QTL mapping](https://www.biostat.wisc.edu/~kbroman/teaching/qtltopics) (BMI 826-001; Fall, 2012)
 
