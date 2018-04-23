@@ -8,6 +8,18 @@ description: Karl Broman's talks
 
 ###  2018
 
+18 years of R/qtl: maintaining, supporting, and sustaining scientific software<br/>
+&nbsp; &nbsp; &nbsp; Slides:
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rqtl2_CSU2018.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_CSU2018)
+&nbsp; Interactive graph:
+[![many box plots](icons16/html-icon.png)](https://bit.ly/many_boxplots)
+<br/>
+[Department of Statistics](http://www.stat.colostate.edu),
+[Colorado State University](https://www.colostate.edu)
+(_23 Apr_)
+
+
 Steps toward reproducible research
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr.pdf)
 [![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr_withnotes.pdf)
