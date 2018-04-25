@@ -37,6 +37,7 @@ KW**, Yandell BS, Churchill GA, Attie AD. Genetic drivers of
 pancreatic islet function. [Genetics](http://genetics.org), to appear
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/29567659)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/keller2018.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.118.300864)
 <!-- * 151 * -->
 <!-- https://doi.org/10.1534/genetics.118.300864 -->
 
@@ -47,6 +48,7 @@ pancreatic islet function. [Genetics](http://genetics.org), to appear
 Statistician](http://www.tandfonline.com/toc/utas20/current) 72:2-10
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/dataorg.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_DataOrg)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1080/00031305.2017.1375989)
 <!-- * 150 * -->
 <!-- https://doi.org/10.1080/00031305.2017.1375989 -->
 
@@ -58,6 +60,7 @@ genes and variants for adiposity traits in outbred rats.
 [Obesity](http://www.obesityjournal.org) 26:213-222
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/29193816)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/solberg2018.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1002/oby.22075)
 <!-- * 149 * -->
 <!-- https://doi.org/10.1002/oby.22075 -->
 
@@ -70,6 +73,7 @@ hemagglutinin reduces viral shedding in rhesus macaques.
 [PLOS One](http://journals.plos.org/plosone/) 12:e0181738
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/28771513)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/florek2017.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1371/journal.pone.0181738)
 <!-- * 148 * -->
 <!-- https://doi.org/10.1371/journal.pone.0181738 -->
 
@@ -79,6 +83,7 @@ island. [Mol Ecol](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-294
 26:457-470
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/27864900)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/wang2017.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1111/mec.13932)
 <!-- * 147 * -->
 <!-- https://doi.org/10.1111/mec.13932 -->
 
