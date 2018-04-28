@@ -98,6 +98,7 @@ diabetes in mouse and human islets. [PLOS Genet](http://www.plosgenetics.org) 12
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/27935966)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/keller2016.pdf)
 [![supporting info](icons16/supp-icon.png)](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006466#sec024)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1371/journal.pgen.1006466)
 <!-- * 146 * -->
 <!-- https://doi.org/10.1371/journal.pgen.1006466 -->
 
@@ -107,6 +108,7 @@ from Gough Island. [Genetics](http://genetics.org) 204:1559-1572
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/27694627)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/parmenter2016.pdf)
 [![supporting info](icons16/supp-icon.png)](http://www.genetics.org/content/early/2016/09/29/genetics.116.193805.supplemental)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.116.193805)
 <!-- * 145 * -->
 <!-- https://doi.org/10.1534/genetics.116.193805 -->
 
@@ -119,6 +121,7 @@ peripheral nervous systems. [PLOS ONE](http://www.plosone.org) 11:e0160447
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/27472223)
 [![pdf](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/zigler2016.pdf)
 [![supporting info](icons16/supp-icon.png)](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0160447#sec020)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1371/journal.pone.0160447)
 <!-- * 144 * -->
 <!-- https://doi.org/10.1371/journal.pone.0160447 -->
 
@@ -126,6 +129,7 @@ Sloan Z, Arends D, **Broman KW**, Centeno A, Furlotte N, Nijveen H,
 Yan L, Zhou X, Williams RW, Prins P (2016) GeneNetwork: framework for
 web-based genetics. [J Open Source Software](https://www.theoj.org) 1(2): 25
 [![pdf](icons16/pdf-icon.png)](https://www.theoj.org/joss-papers/joss.00025/10.21105.joss.00025.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.21105/joss.00025)
 <!-- * 143 * -->
 <!-- https://doi.org/10.21105/joss.00025 -->
 
@@ -135,6 +139,7 @@ susceptibility to _Pseudomonas aeruginosa_ lung infection in
 mice. [BMC Genomics](http://bmcgenomics.biomedcentral.com) 17:351
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/27169516)
 [![pdf](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/bmc_genomics_2016.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1186/s12864-016-2676-4)
 <!-- * 142 * -->
 <!-- https://doi.org/10.1186/s12864-016-2676-4 -->
 
@@ -147,6 +152,7 @@ hotspots.
 [![supplement](icons16/supp-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/transbandpaper_FileS1.pdf)
 [![data](icons16/data-icon.png)](http://bit.ly/B6BTBR)
 [![qtlpvl software](icons16/R-icon.png)](https://github.com/jianan/qtlpvl)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.115.183624)
 <!-- * 141 * -->
 <!-- https://doi.org/10.1534/genetics.115.183624 -->
 
@@ -156,6 +162,7 @@ Correlations between synaptic initiation and meiotic recombination: A study of h
 [Am J Hum Genet](http://www.cell.com/ajhg/home) 98:102-115
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/26749305)
 [![pdf](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/gruhn2016.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1016/j.ajhg.2015.11.019)
 <!-- * 140 * -->
 <!-- https://doi.org/10.1016/j.ajhg.2015.11.019 -->
 
@@ -167,6 +174,7 @@ principal component analysis and multi-trait mapping.
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/funqtl2.pdf)
 [![data](icons16/data-icon.png)](http://phenome.jax.org/db/q?rtn=projects/projdet&reqprojid=282)
 [![funqtl software](icons16/R-icon.png)](https://github.com/ikwak2/funqtl)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1534/g3.115.02413)
 <!-- * 139 * -->
 <!-- https://doi.org/10.1534/g3.115.024133 -->
 
