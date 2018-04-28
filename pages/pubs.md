@@ -189,6 +189,7 @@ pancreatic islets. [Genetics](http://genetics.org) 201:1253-1262
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/islet_chr6.pdf)
 [![supplement](icons16/supp-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/islet_chr6/FileS1.csv)
 [![data](icons16/data-icon.png)](http://bit.ly/B6BTBR)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.115.179432)
 <!-- * 138 * -->
 <!-- https://doi.org/10.1534/genetics.115.179432 -->
 
@@ -202,6 +203,7 @@ genetic data: A case study. [G3](http://g3journal.org)
 [![data](icons16/data-icon.png)](http://bit.ly/B6BTBR)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_SampleMixups)
 [![R/lineup software](icons16/R-icon.png)](https://github.com/kbroman/lineup)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1534/g3.115.019778)
 <!-- * 137 * -->
 <!-- https://doi.org/10.1534/g3.115.019778 -->
 
@@ -211,6 +213,7 @@ island mice. [Genetics](http://genetics.org) 201:213-228
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/26199233)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/gough.pdf)
 [![data](icons16/data-icon.png)](http://phenome.jax.org/db/q?rtn=projects/projdet&reqprojid=539)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.115.177790)
 <!-- * 136 * -->
 <!-- https://doi.org/10.1534/genetics.115.177790 -->
 
@@ -222,6 +225,7 @@ sunflower. [Mol Ecol](http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/25522096)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/whitney2015.pdf)
 [![Supplementary material](icons16/supp-icon.png)](http://onlinelibrary.wiley.com/doi/10.1111/mec.13044/suppinfo)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1111/mec.13044)
 <!-- * 135 * -->
 <!-- https://doi.org/10.1111/mec.13044 -->
 
@@ -232,6 +236,7 @@ trait locus mapping.
 [![pdf](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/rqtlcharts.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_Rqtlcharts)
 [![R/qtlcharts software](icons16/R-icon.png)](http://kbroman.org/qtlcharts)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.114.172742)
 <!-- * 134 * -->
 <!-- https://doi.org/10.1534/genetics.114.172742 -->
 
