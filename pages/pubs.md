@@ -250,6 +250,7 @@ induces heterosubtypic immunity in macaques.
 [J Virol](http://jvi.asm.org/) 88:13418-13428
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/25210172)
 [![pdf (446k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/florek2014.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1128/JVI.01219-14)
 <!-- * 133 * -->
 <!-- https://doi.org/10.1128/JVI.01219-14 -->
 
@@ -260,6 +261,7 @@ mice. [G3](http://g3journal.org) 4:1623-1633
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/25237114)
 [![pdf (2.5M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/gatti2014.pdf)
 [![Data](icons16/data-icon.png)](http://phenome.jax.org/db/q?rtn=projects/projdet&reqprojid=289)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1534/g3.114.013748)
 <!-- * 132 * -->
 <!-- https://doi.org/10.1534/g3.114.013748 -->
 
@@ -270,6 +272,7 @@ of independent, overlapping, and interacting chromosomal regions.
 [J Assoc Res Otolaryngol](http://jaro-online.org/) 15:721-738
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/24952082)
 [![pdf](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/street2014.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1007/s10162-014-0472-x)
 <!-- * 131 * -->
 <!-- https://doi.org/10.1007/s10162-014-0472-x -->
 
@@ -281,6 +284,7 @@ Kwak I-Y, Moore CR, Spalding EP, **Broman
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_FunQTL)
 [![Data](icons16/data-icon.png)](http://phenome.jax.org/db/q?rtn=projects/projdet&reqprojid=282)
 [![funqtl software](icons16/R-icon.png)](https://github.com/ikwak2/funqtl)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.114.166306)
 <!-- * 130 * -->
 <!-- https://doi.org/10.1534/genetics.114.166306 -->
 
@@ -290,6 +294,7 @@ Kwak I-Y, Moore CR, Spalding EP, **Broman
   [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/25364504)
 [![pdf (948k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/rqtl_14yrs.pdf)
 [![Source on GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_Rqtl_Experiences)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.5334/jors.at)
 <!-- * 129 * -->
 <!-- https://doi.org/10.5334/jors.at -->
 
@@ -299,6 +304,7 @@ Rowsey R, Gruhn J, **Broman KW**, Hunt
   test of the production line hypothesis. [Am J Hum Genet](http://www.cell.com/ajhg/) 95:108-112
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/24995869)
 [![pdf (2.0M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/rowsey2014.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1016/j.ajhg.2014.06.008)
 <!-- * 128 * -->
 <!-- https://doi.org/10.1016/j.ajhg.2014.06.008 -->
 
@@ -308,12 +314,14 @@ Huang BE, Raghavan C, Mauleon R, **Broman
   crosses. [Genetics](http://www.genetics.org) 197:401-404
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/24583583)
 [![pdf (601k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/huang2014.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.113.158014)
 <!-- * 127 * -->
 <!-- https://doi.org/10.1534/genetics.113.158014 -->
 
 Baier B, Hunt P, **Broman KW**, Hassold T (2014) Variation in genome-wide levels of meiotic recombination is established at the onset of prophase in mammalian males. [PLOS Genet](http://www.plosgenetics.org/) 10:e1004125
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/24497841)
 [![pdf (1.5M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/baier2014.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1371/journal.pgen.1004125)
 <!-- * 126 * -->
 <!-- https://doi.org/10.1371/journal.pgen.1004125 -->
 
