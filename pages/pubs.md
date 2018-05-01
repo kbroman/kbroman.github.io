@@ -29,19 +29,17 @@ description: Karl Broman's publications
 
 ### <a name="articles"></a>journal articles
 
-#### To appear
+#### 2018
 
 Keller MP, Gatti DM, Schueler KL, Rabaglia ME, Stapleton DS, Simecek
 P, Vincent M, Allen S, Broman AT, Bacher R, Kendziorski C, **Broman
 KW**, Yandell BS, Churchill GA, Attie AD. Genetic drivers of
-pancreatic islet function. [Genetics](http://genetics.org), to appear
+pancreatic islet function (2018) [Genetics](http://genetics.org) 209:335-356
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/29567659)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/keller2018.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.118.300864)
 <!-- * 151 * -->
 <!-- https://doi.org/10.1534/genetics.118.300864 -->
-
-#### 2018
 
 **Broman KW**, Woo KH (2018) Data organization in spreadsheets.
 [The American
