@@ -328,6 +328,7 @@ Baier B, Hunt P, **Broman KW**, Hassold T (2014) Variation in genome-wide levels
 Gruhn JR, Rubio C, **Broman KW**, Hunt PA, Hassold T (2013) Cytological studies of human meiosis: sex-specific differences in recombination originate at, or prior to, establishment of double-strand breaks. [PLOS ONE](http://www.plosone.org) 8:e85075
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/24376867)
 [![pdf (1.6M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/gruhn2013.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1371/journal.pone.0085075)
 <!-- * 125 * -->
 <!-- https://doi.org/10.1371/journal.pone.0085075 -->
 
@@ -338,6 +339,7 @@ High-throughput computer vision introduces the time axis to a quantitative trait
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/23979570)
 [![pdf (1.6M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/spalding.pdf)
 [![Data](icons16/data-icon.png)](http://phenome.jax.org/db/q?rtn=projects/projdet&reqprojid=282)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.113.153346)
 <!-- * 124 * -->
 <!-- https://doi.org/10.1534/genetics.113.153346 -->
 
@@ -347,6 +349,7 @@ Identification of a novel polymorphism in X-linked sterol-4-alpha-carboxylate 3-
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/23979938)
 [![pdf (1.2M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/bautz.pdf)
 [![Data](icons16/data-icon.png)](http://phenome.jax.org/db/q?rtn=projects/projdet&reqprojid=280)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1534/g3.113.007567)
 <!-- * 123 * -->
 <!-- https://doi.org/10.1534/g3.113.007567 -->
 
@@ -356,6 +359,7 @@ responses that select for escape variants are needed to control live
 attenuated simian immunodeficiency virus. [J Virol](http://jvi.asm.org/) 87:9353-9364
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/23785211)
 [![pdf (1.5M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/oconnor_jvirol.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1128/JVI.00909-13)
 <!-- * 122 * -->
 <!-- https://doi.org/10.1128/JVI.00909-13 -->
 
@@ -365,6 +369,7 @@ J, Barnes JK, Atkins A, McPherson E, Hong J, Brilliant MH, Mailick MR
 J Med Genet B Neuropsychiatr Genet](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1552-485X) 162:466-473
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/23740716)
 [![pdf (399k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/fmr1_prevalence.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1002/ajmg.b.32176)
 <!-- * 121 * -->
 <!-- https://doi.org/10.1002/ajmg.b.32176 -->
 
