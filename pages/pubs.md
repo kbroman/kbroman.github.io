@@ -381,6 +381,7 @@ onto a phylogenetic tree.  [Genetics](http://www.genetics.org) 192:267-279
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/22745229)
 [![pdf (1.9M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/phyloqtl.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/phyloQTLpaper)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.112.142448)
 <!-- * 120 * -->
 <!-- https://doi.org/10.1534/genetics.112.142448 -->
 
@@ -392,12 +393,14 @@ Rice CA, Riehl J, **Broman K**, Soukup JW, Gengler WR (2012) Comparing the degre
 Galvan A, Colombo F, Noci S, Pazzaglia S, Mancuso M, Manenti G, **Broman KW**, Saran A, Dragani TA (2012) The <i>Lsktm1</i> locus modulates lung and skin tumorigenesis in the mouse.  [G3](http://g3journal.org) 2:1041-1046
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/22973541)
 [![pdf (913k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/dragani.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1534/g3.112.003525)
 <!-- * 118 * -->
 <!-- https://doi.org/10.1534/g3.112.003525 -->
 
 Greene JM, Chin EN, Budde ML, Lhost JJ, Hines PJ, Burwitz BJ, **Broman KW**, Nelson JE, Friedrich TC, O'Connor DH (2012) <i>Ex vivo</i> SIV-specific CD8 T cell responses in heterozygous animals are primarily directed against peptides presented by a single MHC haplotype.  [PLOS ONE](http://www.plosone.org) 7:e43690
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/22928016)
 [![pdf (767k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/greene2012.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1371/journal.pone.0043690)
 <!-- * 117 * -->
 <!-- https://doi.org/10.1371/journal.pone.0043690 -->
 
@@ -407,6 +410,7 @@ Quantile-based permutation thresholds for quantitative trait loci hotspots.
 [Genetics](http://www.genetics.org) 191:1355-1365
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/22661325)
 [![pdf (1.1M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/elias.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.112.139451)
 <!-- * 116 * -->
 <!-- https://doi.org/10.1534/genetics.112.139451 -->
 
@@ -414,6 +418,7 @@ King EG, Merkes CM, McNeil CL, Hoofer SR, Sen S, **Broman KW**, Long AD, Macdona
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/22496517)
 [![pdf (1.8M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/dspr.pdf)
 [![Supplementary material](icons16/supp-icon.png)](http://genome.cshlp.org/content/22/8/1558/suppl/DC1)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1101/gr.134031.111)
 <!-- * 115 * -->
 <!-- https://doi.org/10.1101/gr.134031.111 -->
 
@@ -421,6 +426,7 @@ Wang CY, Stapleton DS, Schueler KL, Rabaglia ME, Oler AT, Keller MP, Kendziorski
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/22628617)
 [![pdf (1.0M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/tsc2.pdf)
 [![Supplementary material](icons16/supp-icon.png)](http://www.jlr.org/content/suppl/2012/05/24/jlr.M025239.DC1/jlr.M025239-1.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1194/jlr.M025239)
 <!-- * 114 * -->
 <!-- https://doi.org/10.1194/jlr.M025239 -->
 
@@ -428,12 +434,14 @@ Arends D, van der Velde KJ, Prins P, **Broman KW**, M&ouml;ller S, Jansen RC, Sw
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/22308096)
 [![pdf (424)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/xqtlWorkbench.pdf)
 \[[xqtl](http://xqtl.org)\]
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1093/bioinformatics/bts049)
 <!-- * 113 * -->
 <!-- https://doi.org/10.1093/bioinformatics/bts049 -->
 
 Amlin-Van Schaick JC, Kim S, **Broman KW**, Reilly KM (2012)  <i>Scram1</i> is a modifier of spinal cord resistance for astrocytoma on mouse chromosome 5.  [Mamm Genome](http://www.springerlink.com/content/1432-1777/) 23:277-285
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/22160242)
 [![pdf (755k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/scram1.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1007/s00335-011-9380-0)
 <!-- * 112 * -->
 <!-- https://doi.org/10.1007/s00335-011-9380-0 -->
 
@@ -441,6 +449,7 @@ Amlin-Van Schaick JC, Kim S, **Broman KW**, Reilly KM (2012)  <i>Scram1</i> is a
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/22345609)
 [![pdf (1.1M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/preCCprob.pdf)
 [![GitHub](icons16/github-icon.png)](http://www.github.com/kbroman/preCCProbPaper)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.111.132647)
 <!-- * 111 * -->
 <!-- https://doi.org/10.1534/genetics.111.132647 -->
 
@@ -448,18 +457,21 @@ Amlin-Van Schaick JC, Kim S, **Broman KW**, Reilly KM (2012)  <i>Scram1</i> is a
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/22384398)
 [![pdf (649k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/ailprob.pdf)
 [![GitHub](icons16/github-icon.png)](http://www.github.com/kbroman/ailProbPaper)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1534/g3.111.001818)
 <!-- * 110 * -->
 <!-- https://doi.org/10.1534/g3.111.001818 -->
 
 Collaborative Cross Consortium \[97 authors\] (2012)  The genome architecture of the Collaborative Cross mouse genetic reference population.   [Genetics](http://www.genetics.org) 190:389-401
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/22345608)
 [![pdf (4.9M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/cc_genomearch.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.111.132639)
 <!-- * 109 * -->
 <!-- https://doi.org/10.1534/genetics.111.132639 -->
 
 Amlin-Van Schaick JC, Kim S, DiFabio C, Lee M-H, **Broman KW**, Reilly KM (2012)  <i>Arlm1</i> is a male-specific modifier of astrocytoma resistance on mouse chr 12.  [Neuro Oncol](http://neuro-oncology.oxfordjournals.org/) 14:160-174
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/22234937)
 [![pdf (1.3M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/arlm1.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1093/neuonc/nor206)
 <!-- * 108 * -->
 <!-- https://doi.org/10.1093/neuonc/nor206 -->
 
@@ -467,6 +479,7 @@ Davis RC, Van Nas A, Castellani LW, Zhao Y, Zhou Z, Wen P, Yu S, Qi H, Rosales M
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/22010005)
 [![pdf (2.1M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/richard_davis.pdf)
 [![Supplementary material](icons16/supp-icon.png)](http://physiolgenomics.physiology.org/content/44/1/1/suppl/DC1)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1152/physiolgenomics.00003.201)
 <!-- * 107 * -->
 <!-- https://doi.org/10.1152/physiolgenomics.00003.2011 -->
 
