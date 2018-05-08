@@ -388,7 +388,9 @@ onto a phylogenetic tree.  [Genetics](http://www.genetics.org) 192:267-279
 Rice CA, Riehl J, **Broman K**, Soukup JW, Gengler WR (2012) Comparing the degree of exothermic polymerization in commonly used acrylic and provisional composite resins for intraoral appliances.  [J Vet Dent](http://www.jvdonline.org) 29: 78-83
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/23008855)
 [![pdf (1.8M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/carlos_rice.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1177/089875641202900202)
 <!-- * 119 * -->
+<!-- https://doi.org/10.1177/089875641202900202 -->
 
 Galvan A, Colombo F, Noci S, Pazzaglia S, Mancuso M, Manenti G, **Broman KW**, Saran A, Dragani TA (2012) The <i>Lsktm1</i> locus modulates lung and skin tumorigenesis in the mouse.  [G3](http://g3journal.org) 2:1041-1046
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/22973541)
