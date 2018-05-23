@@ -608,18 +608,21 @@ Shavit JA, Manichaikul A, Lemmerhirt HL, **Broman KW**, Ginsburg D (2009)
 Modifiers of von Willebrand factor identified by natural variation in inbred strains of mice.  [Blood](http://www.bloodjournal.org) 114:5368-5374
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/19789385)
 [![pdf (308k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/blood.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1182/blood-2009-07-233213)
 <!-- * 91 * -->
 <!-- https://doi.org/10.1182/blood-2009-07-233213 -->
 
 Cheng EY, Hunt PA, Naluai-Cecchini TA, Fligner CL, Fujimoto VY, Pasternack TL, Schwartz JM, Steinauer JE, Woodruff TJ, Cherry SM, Hansen TA, Vallente RU, **Broman KW**, Hassold TJ (2009)  Meiotic recombination in human oocytes.  [PLOS Genet](http://www.plosgenetics.org) 5:e1000661
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/19763179)
 [![pdf (759k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/hassold.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1371/journal.pgen.1000661)
 <!-- * 90 * -->
 <!-- https://doi.org/10.1371/journal.pgen.1000661 -->
 
 Fledel-Alon A, Wilson DJ, **Broman K**, Wen X, Ober C, Coop G, Przeworski M (2009)  Broad-scale recombination patterns underlying proper disjunctions in humans.  [PLOS Genet](http://www.plosgenetics.org) 5:e1000658
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/19763175)
 [![pdf (353k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/molly.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1371/journal.pgen.1000658)
 <!-- * 89 * -->
 <!-- https://doi.org/10.1371/journal.pgen.1000658 -->
 
@@ -629,6 +632,7 @@ S-W, Churchill GA, **Broman KW** (2009) A new
 standard genetic map for the laboratory mouse. [Genetics](http://www.genetics.org) 182:1335-1344
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/19535546)
 [![pdf (3.4M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/cox.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.109.105486)
 <!-- * 88 * -->
 <!-- https://doi.org/10.1534/genetics.109.105486 -->
 
@@ -637,18 +641,21 @@ Payseur BA (2009) Variation in genomic recombination rates among
 heterogeneous stock mice. [Genetics](http://www.genetics.org) 182:1345-1349
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/19535547)
 [![pdf (468k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/dumont.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.109.105114)
 <!-- * 87 * -->
 <!-- https://doi.org/10.1534/genetics.109.105114 -->
 
 Manichaikul A, **Broman KW** (2009)  Binary trait mapping in experimental crosses with selective genotyping.  [Genetics](http://www.genetics.org) 182:863-874
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/19416941)
 [![pdf (576k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/binarytraits.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.108.098913)
 <!-- * 86 * -->
 <!-- https://doi.org/10.1534/genetics.108.098913 -->
 
 Venkatesan M, **Broman KW**, Sellers M, Rasgon JL (2009) An initial linkage map of the West Nile Virus vector <i>Culex tarsalis</i>. [Insect Mol Biol](http://www3.interscience.wiley.com/journal/118497253/home) 18:453-463
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/19453767)
 [![pdf (265k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/ctar_map.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1111/j.1365-2583.2009.00885.x)
 <!-- * 85 * -->
 <!-- https://doi.org/10.1111/j.1365-2583.2009.00885.x -->
 
@@ -656,6 +663,7 @@ Sen &#346;, Johannes F, **Broman KW** (2009) Selective genotyping and phenotypin
 [Genetics](http://www.genetics.org) 181:1613-1626
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/19153260)
 [![pdf (469k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/sen_selgeno.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.108.094607)
 <!-- * 84 * -->
 <!-- https://doi.org/10.1534/genetics.108.094607 -->
 
@@ -666,6 +674,7 @@ allowing epistasis. [Genetics](http://www.genetics.org) 181:1077-1086
 [![pdf (889k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/multiqtl.pdf)
 \[<b>Erratum</b>: [Genetics](http://www.genetics.org) 184:607, 2010
 [![pdf (89k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/multiqtl_erratum.pdf)\]
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.108.094565)
 <!-- * 83 * -->
 <!-- https://doi.org/10.1534/genetics.108.094565 -->
 
