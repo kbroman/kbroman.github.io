@@ -686,6 +686,7 @@ Genetic architecture of complex traits: Large phenotypic effects and pervasive e
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/19066216)
 [![pdf (401k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/nadeau_css.pdf)
 [![Supplementary material](icons16/supp-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/nadeau_css_suppl.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1073/pnas.0810388105)
 <!-- * 82 * -->
 <!-- https://doi.org/10.1073/pnas.0810388105 -->
 
@@ -694,12 +695,14 @@ The <i>C. savignyi</i> genetic map and its integration with the reference sequen
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/18519652)
 [![pdf (814k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/matthill.pdf)
 [![Supplementary material](icons16/supp-icon.png)](http://genome.cshlp.org/cgi/content/full/gr.078576.108/DC1)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1101/gr.078576.108)
 <!-- * 81 * -->
 <!-- https://doi.org/10.1101/gr.078576.108 -->
 
 Lupi I, **Broman KW**, Tzuo S-C, Gutenberg A, Martino E, Caturegli P (2008)  Novel autoantigens in autoimmune hypophysitis.  [Clin Endocrinol](http://www.blackwell-synergy.com/loi/CEN) 69:269-278
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/18194487)
 [![pdf (495k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/hypophysitis.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1111/j.1365-2265.2008.03180.x)
 <!-- * 80 * -->
 <!-- https://doi.org/10.1111/j.1365-2265.2008.03180.x -->
 
@@ -707,6 +710,7 @@ Paigen K, Szatkiewicz JP, Sawyer K, Leahy N, Parvanov ED, Ng SH, Graber JH, **Br
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/18617997)
 [![pdf (491k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/recomb_anatomy.pdf)
 [![Supplementary material](icons16/supp-icon.png)](http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2440539#supplementary-material-sec)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1371/journal.pgen.1000119)
 <!-- * 79 * -->
 <!-- https://doi.org/10.1371/journal.pgen.1000119 -->
 
@@ -716,6 +720,7 @@ Middle CM, Irizarry RA, **Broman KW**, Feinberg AP (2008)  SNP-specific array-ba
 [![pdf (1.4M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/bjornsson.pdf)
 [![Supplementary material](icons16/supp-icon.png)](http://genome.cshlp.org/cgi/content/full/gr.073254.107/DC1)
 [![data](icons16/data-icon.png)](http://www.biostat.wisc.edu/~kbroman/data/index.html#feinbergase)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1101/gr.073254.107)
 <!-- * 78 * -->
 <!-- https://doi.org/10.1101/gr.073254.107 -->
 
@@ -723,6 +728,7 @@ Peirce JL, **Broman KW**, Lu L, Chesler EJ,
 Zhou G, Airey DC, Birmingham AE, Williams RW (2008)  Genome Reshuffling for Advanced Intercross Permutation (GRAIP): Simulation and permutation for advanced intercross population analysis. [PLOS ONE](http://www.plosone.org) 3(4):e1977
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/18431467)
 [![pdf (468k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/peirce2.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1371/journal.pone.0001977)
 <!-- * 77 * -->
 <!-- https://doi.org/10.1371/journal.pone.0001977 -->
 
@@ -732,6 +738,7 @@ estimate locus-specific heritability: The revised ROMP method.
 [Ann Hum Genet](http://www.blackwell-synergy.com/loi/AHG) 72:115-125
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/18042270)
 [![pdf (519k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/romp.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1111/j.1469-1809.2007.00401.x)
 <!-- * 76 * -->
 <!-- https://doi.org/10.1111/j.1469-1809.2007.00401.x -->
 
@@ -743,6 +750,7 @@ vascular remodeling during development. [Mol
 Cell Neurosci](http://www.sciencedirect.com/science/journal/10447431) 37:85-95
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/17931883)
 [![pdf (2.3M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/sinha_nuc1.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1016/j.mcn.2007.08.016)
 <!-- * 75 * -->
 <!-- https://doi.org/10.1016/j.mcn.2007.08.016 -->
 
