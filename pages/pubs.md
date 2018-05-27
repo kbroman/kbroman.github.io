@@ -764,6 +764,7 @@ and human <i>GATA4</i> mutation.  [J Mol
 Cell Cardiol](http://www.sciencedirect.com/science/journal/00222828) 43:677-685
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/17643447)
 [![pdf (1.2M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/william_pu.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1016/j.yjmcc.2007.06.004)
 <!-- * 74 * -->
 <!-- https://doi.org/10.1016/j.yjmcc.2007.06.004 -->
 
@@ -772,6 +773,7 @@ quantitative trait locus mapping under selective genotyping.
 [Genetics](http://www.genetics.org) 177:1963-1966
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/17720902)
 [![pdf (93k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/selgeno.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.107.080093)
 <!-- * 73 * -->
 <!-- https://doi.org/10.1534/genetics.107.080093 -->
 
@@ -781,12 +783,14 @@ differences in recombination rates.  [Trends Genet](http://www.sciencedirect.com
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/17964681)
 [![pdf (266k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/petkov.pdf)
 [![Supplementary material](icons16/supp-icon.png)](petkov_supp.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1016/j.tig.2007.08.015)
 <!-- * 72 * -->
 <!-- https://doi.org/10.1016/j.tig.2007.08.015 -->
 
 Peirce JL, **Broman KW**, Lu L, Williams RW (2007) A simple method for combining genetic mapping data from multiple crosses and experimental designs.  [PLOS ONE](http://www.plosone.org) 2(10):e1036
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/17940600)
 [![pdf (215k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/peirce1.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1371/journal.pone.0001036)
 <!-- * 71 * -->
 <!-- https://doi.org/10.1371/journal.pone.0001036 -->
 
@@ -795,6 +799,7 @@ Haplotype probabilities for multiple-strain recombinant inbred lines.
 [Genetics](http://www.genetics.org) 175:1267-1274
     [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/17151250)
 [![pdf (722k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/teuscher.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.106.064063)
 <!-- * 70 * -->
 <!-- https://doi.org/10.1534/genetics.106.064063 -->
 
@@ -804,6 +809,7 @@ Genome](http://www.springerlink.com/content/1432-1777/) 18:87-93
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/17347894)
 [![pdf (138k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/saunak_design.pdf)
 [![R/qtlDesign software](icons16/R-icon.png)](http://www.epibiostat.ucsf.edu/biostat/sen/qtldesign-software)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1007/s00335-006-0090-y)
 <!-- * 69 * -->
 <!-- https://doi.org/10.1007/s00335-006-0090-y -->
 
@@ -813,6 +819,7 @@ Willebrand factor levels: Quantitative trait loci analysis in a mouse model.  [J
 Haemost](http://www.journalth.com/) 5:329-335
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/17155961)
 [![pdf (1.1M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/heidiJTH.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1111/j.1538-7836.2007.02325.x)
 <!-- * 68 * -->
 <!-- https://doi.org/10.1111/j.1538-7836.2007.02325.x -->
 
@@ -822,6 +829,7 @@ cytoplasmic environment interaction for development rate in <i>Oncorhynchus
 mykiss</i>.  [Genetics](http://www.genetics.org) 175:335-347
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/17057232)
 [![pdf (1035k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/nichols.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.106.064311)
 <!-- * 67 * -->
 <!-- https://doi.org/10.1534/genetics.106.064311 -->
 
