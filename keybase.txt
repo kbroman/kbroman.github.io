@@ -4,7 +4,7 @@ https://keybase.io/kbroman
 
 I hereby claim:
 
-  * I am an admin of http://kbroman.org
+  * I am an admin of https://kbroman.org
   * I am kbroman (https://keybase.io/kbroman) on keybase.
   * I have a public key ASDXTXYHggi4u82YcSipBqLzFN0_nIi2Fx_1To3szhvg7Ao
 
@@ -21,7 +21,7 @@ To do so, I am signing this object:
         },
         "service": {
             "hostname": "kbroman.org",
-            "protocol": "http:"
+            "protocol": "https:"
         },
         "type": "web_service_binding",
         "version": 1
