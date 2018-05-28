@@ -841,6 +841,7 @@ in quantitative trait locus mapping.  [Genetics](http://www.genetics.org) 174:21
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/17028340)
 [![pdf (169k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/xchr.pdf)
 [![Data](icons16/data-icon.png)](http://phenome.jax.org/db/q?rtn=projects/projdet&reqprojid=183)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.106.061176)
 <!-- * 66 * -->
 <!-- https://doi.org/10.1534/genetics.106.061176 -->
 
@@ -852,6 +853,7 @@ exchange program: A gene based molecular epidemiological analysis.
 43:335-343
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/16980914)
 [![pdf (174k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/sadeep2.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1097/01.qai.0000230528.25083.0b)
 <!-- * 65 * -->
 <!-- https://doi.org/10.1097/01.qai.0000230528.25083.0b -->
 
@@ -862,6 +864,7 @@ susceptibility loci for skin disease in a murine psoriasis model.
 [J Immunol](http://www.jimmunol.org) 177:4612-4619
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/16982899)
 [![pdf (211k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/kess.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.4049/jimmunol.177.7.4612)
 <!-- * 64 * -->
 <!-- https://doi.org/10.4049/jimmunol.177.7.4612 -->
 
@@ -870,6 +873,7 @@ confidence intervals for the location of a quantitative trait
 locus.  [Genetics](http://www.genetics.org) 174:481-489
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/16783000)
 [![pdf (1033k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/qtlboot.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.106.061549)
 <!-- * 63 * -->
 <!-- https://doi.org/10.1534/genetics.106.061549 -->
 
@@ -881,6 +885,7 @@ maps to 18q21.2-q21.32.
 47:3919-3926
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/16936105)
 [![pdf (631k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/fuchs_c18.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1167/iovs.05-1619)
 <!-- * 62 * -->
 <!-- https://doi.org/10.1167/iovs.05-1619 -->
 
@@ -889,6 +894,7 @@ by an extension of the Haley-Knott regression method using estimating
 equations.  [Genetics](http://www.genetics.org) 173:2269-2282
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/16702423)
 [![pdf (290k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/feenstra.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.106.058537)
 <!-- * 61 * -->
 <!-- https://doi.org/10.1534/genetics.106.058537 -->
 
@@ -898,6 +904,7 @@ chromosome inactivation in mice: Definition of the <i>Xce</i> candidate
 interval.  [Genetics](http://www.genetics.org) 173:2111-2119
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/16582439)
 [![pdf (193k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/chadwick.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.105.054882)
 <!-- * 60 * -->
 <!-- https://doi.org/10.1534/genetics.105.054882 -->
 
@@ -907,6 +914,7 @@ Multiple polymorphic genes determine 'normal' hepatic and splenic iron
 status in mice.  [Hepatology](http://www3.interscience.wiley.com/cgi-bin/jhome/106570044) 44:174-185
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/16799992)
 [![pdf (902k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/hepatology.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1002/hep.21233)
 <!-- * 59 * -->
 <!-- https://doi.org/10.1002/hep.21233 -->
 
@@ -915,6 +923,7 @@ High-resolution QTL mapping reveals sign epistasis controlling
 ovariole number between two Drosophila species.  [Genetics](http://www.genetics.org) 173:197-205
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/16489225)
 [![pdf (425k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/orgogozo.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.105.054098)
 <!-- * 58 * -->
 <!-- https://doi.org/10.1534/genetics.105.054098 -->
 
@@ -925,6 +934,7 @@ mixtures evaluation using STR analytical quantification.
 27:409-415
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/16437418)
 [![pdf (125k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/sadeep.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1002/elps.200500502)
 <!-- * 57 * -->
 <!-- https://doi.org/10.1002/elps.200500502 -->
 
@@ -935,6 +945,7 @@ Tsang S, Loisel DA, Christy ES, Sun Z, Diehl J, Munroe DJ, Tuskan RG
 neurofibromatosis type 1 mouse model.  [Cancer Res](http://cancerres.aacrjournals.org/) 66:62-68
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/16397217)
 [![pdf (1.9M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/km_reilly.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1167/iovs.05-0578)
 <!-- * 56 * -->
 <!-- https://doi.org/10.1158/0008-5472.CAN-05-1480 -->
 
@@ -945,6 +956,7 @@ to a novel locus at 13pTel-13q12.13.
 [Invest Ophthalmol Vis Sci](http://www.iovs.org)  47:140-145
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/16384955)
 [![pdf (316k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/fuchs_c13.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1167/iovs.05-0578)
 <!-- * 55 * -->
 <!-- https://doi.org/10.1167/iovs.05-0578 -->
 
