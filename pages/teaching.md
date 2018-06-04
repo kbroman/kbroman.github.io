@@ -59,6 +59,14 @@ description: Karl Broman's teaching
 
 #### [Data Carpentry](http://www.datacarpentry.org)
 
+[UW-Madison](uw-madison-aci.github.io/2018-06-04-uwmadison-dc/)
+Madison, WI (6-4 Jun 2018)
+
+  - [Course materials](https://uw-madison-aci.github.io/2018-06-04-uwmadison-dc/)
+  - GitHub repository:
+    [web site](https://github.com/uw-madison-aci/2018-06-04-uwmadison-dc/)
+    | [R lessons](https://github.com/kbroman/datacarpentry_R_2018-06-04)
+
 [UW-Madison](uw-madison-aci.github.io/2018-01-08-uwmadison-dc/)
 Madison, WI (8-9 Jan 2018)
 
