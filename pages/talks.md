@@ -11,10 +11,7 @@ description: Karl Broman's talks
 R/qtl2: QTL mapping in multi-parent populations<br/>
 &nbsp; &nbsp; &nbsp; Slides:
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rqtl2_purdue2018.pdf)
-[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Purdue2018)
-&nbsp; Interactive graph:
-[![many box plots](icons16/html-icon.png)](https://bit.ly/many_boxplots)
-<br/>
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Purdue2018)<br/>
 [Purdue Symposium on Statistics](http://www.stat.purdue.edu/symp2018)
 (_7 Jun_)
 
