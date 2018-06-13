@@ -4,9 +4,14 @@ title: talks
 description: Karl Broman's talks
 ---
 
-
-
 ###  2018
+
+Cleaning genotype data in diversity outbred mice
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_CTC2018)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_CTC2018)<br/>
+[Complex Trait Community meeting](http://www.complextrait.org/ctc2018),
+Glasgow, UK (_21 Jun_)
+
 
 R/qtl2: QTL mapping in multi-parent populations
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rqtl2_purdue2018.pdf)
