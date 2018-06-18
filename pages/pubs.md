@@ -969,6 +969,7 @@ which encodes a Frizzled-related protein.
 [Proc Natl Acad Sci USA](http://www.pnas.org/) 102:9553-9558
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/15976030)
 [![pdf (859k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/nanophthalmos.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1073/pnas.0501451102)
 <!-- * 54 * -->
 <!-- https://doi.org/10.1073/pnas.0501451102 -->
 
@@ -979,6 +980,7 @@ corneal dystrophy. [Invest Ophthalmol Vis Sci](http://www.iovs.org)
 46:1934-1939
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/15914606)
 [![pdf (302k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/fuchs_iovs.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1167/iovs.04-0937)
 <!-- * 53 * -->
 <!-- https://doi.org/10.1167/iovs.04-0937 -->
 
@@ -989,6 +991,7 @@ in the <i>Sox10<sup>Dom</sup></i> model of Hirschsprung
 disease.  [Hum Mol Genet](http://hmg.oupjournals.org) 14:1549-1558
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/15843399)
 [![pdf (304k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/owens.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1093/hmg/ddi163)
 <!-- * 52 * -->
 <!-- https://doi.org/10.1093/hmg/ddi163 -->
 
@@ -999,6 +1002,7 @@ recombinant inbred lines.  [Genetics](http://www.genetics.org/) 169:1133-1146
 [![R/ricalc](icons16/R-icon.png)](https://github.com/kbroman/ricalc)
 \[**Erratum**: [Genetics](http://www.genetics.org) 173:2419, 2006
 [![pdf 30k](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/rigenome_corrigendum.pdf)\]
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.104.035212)
 <!-- * 51 * -->
 <!-- https://doi.org/10.1534/genetics.104.035212 -->
 
@@ -1008,6 +1012,7 @@ cell apoptosis control susceptibility to experimental autoimmune
 myocarditis.  [J Immunol](http://www.jimmunol.org) 174:2167-2173
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/15699148)
 [![pdf (165k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/mehmet.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.4049/jimmunol.174.4.2167)
 <!-- * 50 * -->
 <!-- https://doi.org/10.4049/jimmunol.174.4.2167 -->
 
@@ -1018,6 +1023,7 @@ older population after adjustment for possible shared environmental
 factors. [Ophthalmology](http://www.sciencedirect.com/science?_ob=JournalURL&_cdi=6278&_auth=y&_acct=C000006078&_version=1&_urlVersion=0&_userid=75682&md5=675c4528bf6537088a61588ef00d711a) 112:73-77
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/15629823)
 [![pdf (118k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/cortical.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1016/j.ophtha.2004.07.012)
 <!-- * 49 * -->
 <!-- https://doi.org/10.1016/j.ophtha.2004.07.012 -->
 
@@ -1027,6 +1033,7 @@ pedigrees.  [Genet
 Epidemiol](http://www.interscience.wiley.com/jpages/0741-0395/) 28:11-23
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/15493059)
 [![pdf (160k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/qtlpower.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1016/10.1002/gepi.20034)
 <!-- * 48 * -->
 <!-- https://doi.org/10.1016/10.1002/gepi.20034 -->
 
