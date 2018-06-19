@@ -1046,6 +1046,7 @@ exstrophy-epispadias complex: Analysis of 232 families.  [BJU
 International](http://www.blackwellpublishing.com/BJU) 94:1337-1343
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/15610117)
 [![pdf (168k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/bladder_exstrophy.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1111/j.1464-410X.2004.05170.x)
 <br/>
 **Note**: The publisher
 requires that I make the following statement: &ldquo;This is an electronic
@@ -1064,6 +1065,7 @@ Collaborative Cross, a community resource for the genetic analysis of
 complex traits.  [Nat Genet](http://www.nature.com/ng) 36:1133-1137
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/15514660)
 [![pdf (177k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/collabcross.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1111/10.1038/ng1104-1133)
 <!-- * 46 * -->
 <!-- https://doi.org/10.1111/10.1038/ng1104-1133 -->
 
@@ -1073,6 +1075,7 @@ prediction.  [Stat Appl Genet
 Mol Biol](http://www.bepress.com/sagmb/) 3(1): article 21
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/16646800)
 [![pdf (191k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/bayesmendel.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.2202/1544-6115.1063)
 <!-- * 45 * -->
 <!-- https://doi.org/10.2202/1544-6115.1063 -->
 
@@ -1083,6 +1086,7 @@ mutation that marks the emergence of breeds from the collie lineage.
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/15289602)
 [![pdf (312k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/mdr1.pdf)
 [![Supporting info](icons16/supp-icon.png)](http://www.pnas.org/cgi/content/full/0402374101/DC1)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1073/pnas.0402374101)
 <!-- * 44 * -->
 <!-- https://doi.org/10.1073/pnas.0402374101 -->
 
@@ -1091,6 +1095,7 @@ Interactions in hypoxic and hypercapnic breathing
 are genetically linked to mouse chromosomes 1 and 5.  [J Appl Physiol](http://jap.physiology.org/) 97:77-84
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/14978007)
 [![pdf (206k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/tankersley.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1152/japplphysiol.01102.2003)
 <!-- * 43 * -->
 <!-- https://doi.org/10.1152/japplphysiol.01102.2003 -->
 
@@ -1100,6 +1105,7 @@ cataract shows significant familial aggregation in an older population
 after adjustment for possible shared environmental factors.  [Invest Ophthalmol Vis Sci](http://www.iovs.org) 45:2182-2186
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/15223793)
 [![pdf (90k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/nuccat.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1167/iovs.03-1163)
 <!-- * 42 * -->
 <!-- https://doi.org/10.1167/iovs.03-1163 -->
 
@@ -1107,6 +1113,7 @@ Tankersley CG, Campen M, Bierman A, Flanders SE, **Broman KW**, Rabold R (2004) 
 heart-rate regulation in senescent mice.  [Inhal Toxicol](http://www.tandf.co.uk/journals/titles/08958378.asp) 16:381-390
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/15204754)
 [![pdf (472k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/particle_effects.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1080/08958370490439551)
 <!-- * 41 * -->
 <!-- https://doi.org/10.1080/08958370490439551 -->
 
@@ -1117,6 +1124,7 @@ Genet](http://www.springerlink.com/openurl.asp?genre=journal&issn=0340-6717) 114
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/15045582)
 [![pdf (149k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/ql.pdf)
 [![data](icons16/data-icon.png)](http://www.biostat.wisc.edu/~kbroman/data/index.html#quasilinkage)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1007/s00439-004-1109-7)
 <!-- * 40 * -->
 <!-- https://doi.org/10.1007/s00439-004-1109-7 -->
 
@@ -1127,6 +1135,7 @@ regression.  [Genet
 Epidemiol](http://www.interscience.wiley.com/jpages/0741-0395/) 26:265-272
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/15095386)
 [![pdf (131k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/vc_he.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1002/gepi.10315)
 <!-- * 39 * -->
 <!-- https://doi.org/10.1002/gepi.10315 -->
 
@@ -1136,6 +1145,7 @@ resistance at the limit of detection: Virus production without
 evolution in treated adults with undetectable HIV loads.  [J Infect Dis](http://www.journals.uchicago.edu/JID/) 189:1452-1456
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/15073683)
 [![pdf (1270k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/kieffer.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1086/382488)
 <!-- * 38 * -->
 <!-- https://doi.org/10.1086/382488 -->
 
