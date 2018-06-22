@@ -1227,7 +1227,9 @@ in experimental crosses. [J Roy Stat Soc
 B](http://www.ingenta.com/journals/browse/bpl/rssb) 64:641-656
 [![Abstract](icons16/pubmed-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/jrssb_abstract.html)
 [![pdf (326k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/jrssb.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1111/1467-9868.00354)
 <!-- * 30 * -->
+<!-- https://doi.org/10.1111/1467-9868.00354 -->
 
 Jun AS, **Broman KW**, Do DV, Akpek EK,
 Stark WJ, Gottsch JD (2002)  Endothelial dystrophy, iris hypoplasia,
