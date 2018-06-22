@@ -1157,7 +1157,9 @@ neurodegeneration, lymphocyte infiltration and major
 histocompatibility complex class II expression in the CNS.  [J Neurosci](http://www.jneurosci.org/) 23:9817-9823
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/14586010)
 [![pdf (477k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/lidman.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1523/JNEUROSCI.23-30-09817.2003)
 <!-- * 37 * -->
+<!-- https://doi.org/10.1523/JNEUROSCI.23-30-09817.2003 -->
 
 Glaser RL, **Broman KW**, Shulman RL,
 Eskenazi B, Wyrobek AJ, Jabs EW (2003)  The paternal age effect in Apert
