@@ -1166,6 +1166,7 @@ sperm. [Am J Hum
 Genet](http://www.journals.uchicago.edu/AJHG/journal/) 73:939-947
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/12900791)
 [![pdf (321k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/apert.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1086/378419)
 <!-- * 36 * -->
 <!-- https://doi.org/10.1086/378419 -->
 
@@ -1176,6 +1177,7 @@ pneumoniae</i> in mice.  [Mamm
 Genome](http://link.springer.de/link/service/journals/00335/) 14:448-453
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/12925893)
 [![pdf (154k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/denny.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1007/s00335-002-2261-9)
 <!-- * 35 * -->
 <!-- https://doi.org/10.1007/s00335-002-2261-9 -->
 
@@ -1185,6 +1187,7 @@ application to <i>Mycobacterium tuberculosis</i>.  [Proc Natl Acad Sci USA](http
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/12775759)
 [![pdf (260k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/mutagenesis.pdf)
 [![R/negenes](icons16/R-icon.png)](https://github.com/kbroman/negenes)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1073/pnas.1231432100)
 <!-- * 34 * -->
 <!-- https://doi.org/10.1073/pnas.1231432100 -->
 
@@ -1193,6 +1196,7 @@ GA (2003)  R/qtl: QTL mapping in experimental crosses.
 [Bioinformatics](http://bioinformatics.oupjournals.org) 19:889-890
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/12724300)
 [![pdf (236k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/rqtl.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1093/bioinformatics/btg112)
 <!-- * 33 * -->
 <!-- https://doi.org/10.1093/bioinformatics/btg112 -->
 
@@ -1209,6 +1213,7 @@ encephalomyelitis.  [J Immunol](http://www.jimmunol.org/)
 170:1062-1069
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/12517974)
 [![pdf (208k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/becanovic.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.4049/jimmunol.170.2.1062)
 <!-- * 31 * -->
 <!-- https://doi.org/10.4049/jimmunol.170.2.1062 -->
 
