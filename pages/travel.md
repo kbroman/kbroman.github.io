@@ -310,12 +310,12 @@ title: travel
 - [Population, Evolutionary, & Quantitative Genetics Conference (PEQG)](http://genetics-gsa.org/peqg/2018/),
   May 13-16, 2018 (Madison, WI)
 
--->
-
 - [Purdue Symposium on Statistics](http://www.stat.purdue.edu/symp2018/schedule/sessions/index.html),
   June 6-8, 2018 (West Lafayette, IN)
 
 - [CTC meeting](http://www.complextrait.org/ctc2018/), June 20-22, 2018 (Glasgow, Scotland)
+
+-->
 
 - Reproducible Research course, [Summer Institute for Big Data](http://www.biostat.washington.edu/suminst/sisbid), July 16-18, 2018 (Seattle, WA)
 
