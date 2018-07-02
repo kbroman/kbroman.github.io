@@ -1552,6 +1552,7 @@ environmental factors in common diseases.  [Genet Epidemiol](http://www.intersci
 [![Pubmed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/10597416)
 [![pdf (95k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/gaw11.pdf)
 <!-- * 2 * -->
+<!-- https://doi.org/10.1002/gepi.1370170714 -->
 
 **Broman KW**, Speed TP (1999) A review of methods for
 identifying QTLs in experimental crosses. In: Seillier-Moiseiwitsch F
