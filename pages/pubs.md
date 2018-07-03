@@ -1486,7 +1486,7 @@ Ravenel JD, Perlman EJ, **Broman KW**,
 Feinberg AP (2002) Response: Re: Loss of imprinting of Insulin-Like
 Growth Factor-II (IGF2) gene in distinguishing specific biologic
 subtypes of Wilms tumor.  [J Natl Cancer
-Inst](http://jncicancerspectrum.oupjournals.org/jnci) 94:1809-1810
+Inst](https://academic.oup.com/jnci) 94:1809-1810
 (Response to [Morison
 et al., J Natl Cancer Inst 94:1809, 2002](http://www.ncbi.nlm.nih.gov/pubmed/12464656))
 [![pdf (37k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/ravenel_ltr.pdf)
