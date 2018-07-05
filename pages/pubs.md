@@ -1296,7 +1296,7 @@ Giglio S, **Broman KW**, Matsumoto N,
 Calvari V, Gimelli G, Neumann T, Ohashi H, Voullaire L, Larizza D,
 Giorda R, Weber JL,  Ledbetter DH, Zuffardi O (2001) Olfactory
 receptor-gene clusters, genomic-inversion polymorphisms, and
-common chromosome rearrangements.  [Am J Hum Genet](http://www.journals.uchicago.edu/AJHG/journal/) 68:874-883
+common chromosome rearrangements.  [Am J Hum Genet](https://www.cell.com/ajhg/home) 68:874-883
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/11231899)
 [![pdf (1494k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/giglio.pdf)
 <!-- * 23 * -->
@@ -1323,7 +1323,7 @@ Comparison of human genetic and sequence-based physical maps.  [Nature](http://w
 
 Lichter-Konecki U, **Broman KW**, Blau EB, Konecki DS (2001) Genetic
 and physical mapping of the locus for autosomal dominant renal Fanconi
-syndrome, on chromosome 15q15.3 [Am J Hum Genet](http://www.journals.uchicago.edu/AJHG/journal/) 68:264-268
+syndrome, on chromosome 15q15.3 [Am J Hum Genet](https://www.cell.com/ajhg/home) 68:264-268
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/11090339)
 [![pdf (636k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/konecki.pdf)
 <!-- * 20 * -->
@@ -1343,14 +1343,14 @@ USA](http://www.pnas.org) 97:14478-14483
 
 Witte JS, Goddard KAB, Conti DV, Elston RC, Lin J, Suarez BK,
 **Broman KW**, Burmester JK, Weber JL, Catalona WJ (2000) Genomewide scan
-for prostate cancer-aggressiveness loci.  [Am J Hum Genet](http://www.journals.uchicago.edu/AJHG/journal/) 67:92-99
+for prostate cancer-aggressiveness loci.  [Am J Hum Genet](https://www.cell.com/ajhg/home) 67:92-99
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/10825281)
 [![pdf (243k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/prostate2.pdf)
 <!-- * 18 * -->
 <!-- https://doi.org/10.1086/302960 -->
 
 **Broman KW**, Weber JL (2000) Characterization of human crossover
-interference.  [Am J Hum Genet](http://www.journals.uchicago.edu/AJHG/journal/) 66:1911-1926
+interference.  [Am J Hum Genet](https://www.cell.com/ajhg/home) 66:1911-1926
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/10801387)
 [![pdf (291k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/interfer.pdf)
 [![Expanded version of tables 1-2](icons16/supp-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/broman_weber_tables1-2_expanded.pdf)
@@ -1360,7 +1360,7 @@ interference.  [Am J Hum Genet](http://www.journals.uchicago.edu/AJHG/journal/) 
 
 Suarez BK, Lin J, Burmester JK, **Broman KW**, Weber JL, Banerjee TK,
 Goddard KAB, Witte JS, Elston RC, Catalona WJ (2000) A genome
-screen of multiplex prostate cancer sibships.  [Am J Hum Genet](http://www.journals.uchicago.edu/AJHG/journal/) 66:933-944
+screen of multiplex prostate cancer sibships.  [Am J Hum Genet](https://www.cell.com/ajhg/home) 66:933-944
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/10712208)
 [![pdf (291k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/prostate.pdf)
 <!-- * 16 * -->
@@ -1379,7 +1379,7 @@ non-disjunction of chromosome 21.  [Hum Mol Genet](http://hmg.oupjournals.org/co
 
 **Broman KW**, Weber JL (1999) Long homozygous chromosomal
 segments in reference families from the Centre d'&Eacute;tude du
-Polymorphisme Humain.  [Am J Hum Genet](http://www.journals.uchicago.edu/AJHG/journal/) 65:1493-1500
+Polymorphisme Humain.  [Am J Hum Genet](https://www.cell.com/ajhg/home) 65:1493-1500
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/10577902)
 [![pdf (202k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/autozyg.pdf)
 [![Supplemental table (pdf 28k)](icons16/supp-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/segments.pdf)
@@ -1410,7 +1410,7 @@ familiaris</i>. [Genetics](http://www.genetics.org/) 151:803-820
 
 **Broman KW**, Murray JC, Sheffield VC, White RL, Weber JL
 (1998) Comprehensive human genetic maps: Individual and sex-specific
-variation in recombination. [Am J Hum Genet](http://www.journals.uchicago.edu/AJHG/journal/) 63:861-869
+variation in recombination. [Am J Hum Genet](https://www.cell.com/ajhg/home) 63:861-869
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/9718341)
 [![pdf (534k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/geneticmaps.pdf)
 [![Supplemental data](icons16/supp-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/mfdmaps_supp)
@@ -1464,7 +1464,7 @@ Genet](http://www.nature.com/ng) 37:209-210
 
 Sieberts SK, **Broman KW**, Gudbjartsson
 DF (2004) "Biased towards the null" means reduced power.  [Am J Hum
-Genet](http://www.journals.uchicago.edu/AJHG/journal/) 75:720-722
+Genet](https://www.cell.com/ajhg/home) 75:720-722
 (Response to [Schork and Greenwood, Am J Hum Genet
 74:306-316, 2004](http://www.ncbi.nlm.nih.gov/pubmed/14732904))
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/15338459)
@@ -1474,7 +1474,7 @@ Genet](http://www.journals.uchicago.edu/AJHG/journal/) 75:720-722
 
 **Broman KW**, Caffo BS (2003)  Simulation-based
 <i>P</i> values: Response to North et al.  [Am J Hum
-Genet](http://www.journals.uchicago.edu/AJHG/journal/) 72:496
+Genet](https://www.cell.com/ajhg/home) 72:496
 (Response to [North
 et al., Am J Hum Genet 71:439-441, 2002](http://www.ncbi.nlm.nih.gov/pubmed/12111669))
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/12596792)
@@ -1492,7 +1492,7 @@ et al., J Natl Cancer Inst 94:1809, 2002](http://www.ncbi.nlm.nih.gov/pubmed/124
 [![pdf (37k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/ravenel_ltr.pdf)
 
 **Broman KW**, Weber JL (1998) Estimation of pairwise
-relationships in the presence of genotyping errors. [Am J Hum Genet](http://www.journals.uchicago.edu/AJHG/journal/)
+relationships in the presence of genotyping errors. [Am J Hum Genet](https://www.cell.com/ajhg/home)
 63:1563-1564
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/9792888)
 [![pdf (429k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/relcheck.pdf)
