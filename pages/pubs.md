@@ -1264,7 +1264,7 @@ Niemitz EL, Jayawardena TM,
 Bell DW, Haber DA, Uejima H, Feinberg AP (2001) Loss of imprinting of
 Insulin-Like Growth Factor-II (IGF2) gene in distinguishing specific
 biologic subtypes of Wilms tumor.
-[J Natl Cancer Inst](http://jncicancerspectrum.oupjournals.org/jnci) 93:1698-1703
+[J Natl Cancer Inst](https://academic.oup.com/jnci) 93:1698-1703
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/11717330)
 [![pdf (330k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/imprinting.pdf)
 <!-- * 26 * -->
