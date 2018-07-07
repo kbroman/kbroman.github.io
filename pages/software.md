@@ -8,17 +8,17 @@ description: Karl Broman's software
     <div class="navbar-inner">
         <ul class="nav">
             <li><a href="https://github.com/kbroman">github</a></li>
-            <li><a href="http://www.rqtl.org">R/qtl</a></li>
-            <li><a href="http://kbroman.org/qtlcharts">R/qtlcharts</a></li>
+            <li><a href="https://rqtl.org">R/qtl</a></li>
+            <li><a href="https://kbroman.org/qtlcharts">R/qtlcharts</a></li>
         </ul>
     </div>
 </div>
 
 ---
 
-#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
+#### <a name="qtl"></a>[R/qtl](https://rqtl.org)
 
-An [R](http://www.r-project.org/) package with tools for analyzing QTL experiments.
+An [R](https://www.r-project.org/) package with tools for analyzing QTL experiments.
 
 To receive announcements about updates to R/qtl, join the
 Google group, [R/qtl announcements](https://groups.google.com/group/rqtl-announce).
@@ -28,9 +28,9 @@ Google group, [R/qtl discussion](https://groups.google.com/group/rqtl-disc)
 
 ---
 
-#### <a name="qtl2"></a>[R/qtl2](http://kbroman.org/qtl2)
+#### <a name="qtl2"></a>[R/qtl2](https://kbroman.org/qtl2)
 
-A reimplementation of [R/qtl](http://www.rqtl.org), to better handle
+A reimplementation of [R/qtl](https://rqtl.org), to better handle
 high-dimensional data and complex cross designs (such as the
 [Collaborative Cross](https://www.ncbi.nlm.nih.gov/pubmed/15514660),
 [MAGIC](https://www.ncbi.nlm.nih.gov/pubmed/18295532),
@@ -46,14 +46,14 @@ Google group, [R/qtl2 discussion](https://groups.google.com/group/rqtl2-disc)
 
 ---
 
-#### <a name="qtlcharts"></a>[R/qtlcharts](http://kbroman.org/qtlcharts) and [d3panels](http://kbroman.org/d3panels)
+#### <a name="qtlcharts"></a>[R/qtlcharts](https://kbroman.org/qtlcharts) and [d3panels](https://kbroman.org/d3panels)
 
-[R/qtlcharts](http://kbroman.org/qtlcharts) is an
-[R](http://www.r-project.org) package providing [D3](http://d3js.org)-based
+[R/qtlcharts](https://kbroman.org/qtlcharts) is an
+[R](https://www.r-project.org) package providing [D3](https://d3js.org)-based
 interactive graphics for QTL experiments.
 
-It is built on the [d3panels](http://kbroman.org/d3panels) library
-(written in [CoffeeScript](http://coffeescript.org/)), which provides
+It is built on the [d3panels](https://kbroman.org/d3panels) library
+(written in [CoffeeScript](https://coffeescript.org/)), which provides
 a set of graphics panels of different types (e.g., scatterplot,
 dotchart, and heatmap).
 
@@ -62,7 +62,7 @@ dotchart, and heatmap).
 
 #### <a name="D3"></a>[D3 examples](https://www.biostat.wisc.edu/~kbroman/D3/)
 
-Various examples of [D3](http://d3js.org)-based interactive graphs.
+Various examples of [D3](https://d3js.org)-based interactive graphs.
 
 ---
 
@@ -74,19 +74,19 @@ Various R functions that I find useful, assembled into an R package.
 
 #### <a name="aRxiv"></a>[aRxiv](https://github.com/ropensci/aRxiv) and <a name="IEEER"></a>[IEEER](https://github.com/ropensci/IEEER)
 
-[R](http://www.r-project.org) packages for searching
-[arXiv](http://arxiv.org) (an archive of electronic preprints for
+[R](https://www.r-project.org) packages for searching
+[arXiv](https://arxiv.org) (an archive of electronic preprints for
 computer science, mathematics, physics, quantitative biology,
 quantitative finance, and statistics) and
-[IEEE journals](http://ieeexplore.ieee.org/Xplore/home.jsp), respectively.
+[IEEE journals](https://ieeexplore.ieee.org/Xplore/home.jsp), respectively.
 These packages are part of the
-[rOpenSci project](http://ropensci.org).
+[rOpenSci project](https://ropensci.org).
 
 ---
 
 #### <a name="lineup"></a>[R/lineup](https://github.com/kbroman/lineup)
 
-An [R](http://www.r-project.org) package for detecting and correcting
+An [R](https://www.r-project.org) package for detecting and correcting
 sample mix-ups between two sets of measurements, such as between gene
 expression data on two tissues. (Also see
 [R/lineup2](https://github.com/kbroman/lineup2), revised to be more
@@ -95,25 +95,25 @@ package.)
 
 ---
 
-#### <a name="simcross"></a>[R/simcross](http://kbroman.org/simcross)
+#### <a name="simcross"></a>[R/simcross](https://kbroman.org/simcross)
 
-An [R](http://www.r-project.org) package for simulating general
+An [R](https://www.r-project.org) package for simulating general
 experimental crosses (such as advanced intercross lines and the
-diversity outcross), for use with [R/qtl](http://www.rqtl.org).
+diversity outcross), for use with [R/qtl](https://rqtl.org).
 
 ---
 
 #### <a name="xoi"></a>[R/xoi](https://github.com/kbroman/xoi)
 
-An [R](http://www.r-project.org) package for the analysis of crossover
+An [R](https://www.r-project.org) package for the analysis of crossover
 interference in experimental crosses, particularly regarding the gamma
 model.
 
 ---
 
-#### <a name="lmmlite"></a>[R/lmmlite](http://kbroman.org/lmmlite)
+#### <a name="lmmlite"></a>[R/lmmlite](https://kbroman.org/lmmlite)
 
-An [R](http://www.r-project.org) package for the fit of a simple
+An [R](https://www.r-project.org) package for the fit of a simple
 linear mixed model useful for genome-wide association studies
 (GWAS) and quantitative trait locus (QTL) mapping.
 
@@ -125,7 +125,7 @@ Software for calculation of two- and three-locus probabilities in
 multiple-strain recombinant inbred lines, and the simulation of such lines.
 See the related paper: Broman KW (2005) The genomes of
 recombinant inbred lines.  [Genetics](http://www.genetics.org/) 169:1133-1146
-\[[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/15545647) | [pdf (525k)](http://www.biostat.wisc.edu/kbroman/~publications/rigenome.pdf)\]
+\[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/15545647) | [pdf (525k)](https://www.biostat.wisc.edu/kbroman/~publications/rigenome.pdf)\]
 
 
 ---
@@ -143,7 +143,7 @@ See the related [technical report](https://www.biostat.wisc.edu/~kbroman/publica
 
 Software for analyzing cell proliferation assays using the
 normal-Poisson mixture model described by Broman et al.
-([J Immunol Meth 198:119-132, 1996](http://www.ncbi.nlm.nih.gov/pubmed/8946008)).
+([J Immunol Meth 198:119-132, 1996](https://www.ncbi.nlm.nih.gov/pubmed/8946008)).
 
 ---
 
@@ -172,7 +172,7 @@ manuscript Broman and Speed (2002) [A model
 selection approach for the identication of quantitative trait loci in
 experimental crosses](http://www.biostat.wisc.edu/~kbroman/publications/index.html#rss). J Roy Stat Soc B
 64:641-656.  Also see the [R/qtl
-package](http://www.rqtl.org).
+package](https://rqtl.org).
 
 ---
 
@@ -181,9 +181,9 @@ Version 0.67 (24 August 2000)
 Software for verifying relationships between all pairs of
 individuals in a linkage study, using the approach of Boehnke and Cox
 ([Am
-J Hum Genet, 61:423-429, 1997](http://www.ncbi.nlm.nih.gov/pubmed/9311748)), with the modification described by
+J Hum Genet, 61:423-429, 1997](https://www.ncbi.nlm.nih.gov/pubmed/9311748)), with the modification described by
 Broman and Weber ([Am
-J Hum Genet 63:1563-1564, 1998](http://www.ncbi.nlm.nih.gov/pubmed/9792888)), to allow for the presence of
+J Hum Genet 63:1563-1564, 1998](https://www.ncbi.nlm.nih.gov/pubmed/9792888)), to allow for the presence of
 genotyping errors.  We look only at the relationships MZ twins,
 parent/offspring, fullsibs, halfsibs and unrelated.
 
@@ -203,12 +203,12 @@ A perl script for converting data from linkage format to that used by
 RelCheck is included with the software.
 
 Download:
-[source](http://www.biostat.wisc.edu/software/relcheck/relcheck_0.67.tar.gz) | [windows](http://www.biostat.wisc.edu/software/relcheck/relcheck_0.67.zip)
+[source](https://www.biostat.wisc.edu/software/relcheck/relcheck_0.67.tar.gz) | [windows](https://www.biostat.wisc.edu/software/relcheck/relcheck_0.67.zip)
 
-Sample data \[[tar.gz](http://www.biostat.wisc.edu/software/relcheck/sampledata.tar.gz) |
-[zip](http://www.biostat.wisc.edu/software/relcheck/sampledata.zip)\]
-README file: \[[README.txt](http://www.biostat.wisc.edu/software/relcheck/README.txt)\]
-List of updates to the software: \[[CHANGES.txt](http://www.biostat.wisc.edu/software/relcheck/CHANGES.txt)\]
+Sample data \[[tar.gz](https://www.biostat.wisc.edu/software/relcheck/sampledata.tar.gz) |
+[zip](https://www.biostat.wisc.edu/software/relcheck/sampledata.zip)\]
+README file: \[[README.txt](https://www.biostat.wisc.edu/software/relcheck/README.txt)\]
+List of updates to the software: \[[CHANGES.txt](https://www.biostat.wisc.edu/software/relcheck/CHANGES.txt)\]
 
 ---
 
@@ -221,8 +221,8 @@ including forward selection for multiple QTLs, all pairs of loci, and
 pairwise interactions.
 
 **Note**: This is very preliminary, the input and output
-are not well documented, and I'm no longer actively developing this software.  Look at [R/qtl](http://www.rqtl.org), instead.
+are not well documented, and I'm no longer actively developing this software.  Look at [R/qtl](https://rqtl.org), instead.
 
-Download: [source](http://www.biostat.wisc.edu/software/f2/f2_0.50.tar.gz) | [windows](http://www.biostat.wisc.edu/software/f2/f2_0.50.zip)
+Download: [source](https://www.biostat.wisc.edu/software/f2/f2_0.50.tar.gz) | [windows](https://www.biostat.wisc.edu/software/f2/f2_0.50.zip)
 
-Sample data \[[tar.gz](http://www.biostat.wisc.edu/software/f2/example.tar.gz) | [zip](http://www.biostat.wisc.edu/software/f2/example.zip)\]
+Sample data \[[tar.gz](https://www.biostat.wisc.edu/software/f2/example.tar.gz) | [zip](https://www.biostat.wisc.edu/software/f2/example.zip)\]
