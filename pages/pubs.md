@@ -31,6 +31,17 @@ description: Karl Broman's publications
 
 #### 2018
 
+Palus M, Sohrabi Y, **Broman KW**, Strnad H, Šíma M, Růžek D, Volkova
+V, Slapničková M, Vojtíšková J, Mrázková L, Salát J, Lipoldová M
+(2018) A novel locus on mouse chromosome 7 that influences survival
+after infection with tick-borne encephalitis virus. [BMC
+Neurosci](https://bmcneurosci.biomedcentral.com/) 19:39
+[![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/29976152)
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/lipoldova2018.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1186/s12868-018-0438-8)
+<!-- * 152 * -->
+<!-- https://doi.org/10.1186/s12868-018-0438-8 -->
+
 Keller MP, Gatti DM, Schueler KL, Rabaglia ME, Stapleton DS, Simecek
 P, Vincent M, Allen S, Broman AT, Bacher R, Kendziorski C, **Broman
 KW**, Yandell BS, Churchill GA, Attie AD (2018) Genetic drivers of
