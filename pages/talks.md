@@ -6,6 +6,15 @@ description: Karl Broman's talks
 
 ###  2018
 
+Steps toward reproducible research
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr_withnotes.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)<br/>
+[Summer Research Program in Biomedical Data Science](https://www.biostat.wisc.edu/content/summer-research),
+[Department of Biostatistics & Medical Informatics](https://www.biostat.wisc.edu),
+[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_July 11_)
+
+
 Cleaning genotype data in diversity outbred mice
 [![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_CTC2018/broman_ctc2018.pdf)
 [![html](icons16/html-icon.png)](https://kbroman.org/Talk_CTC2018)
