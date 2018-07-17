@@ -1526,6 +1526,7 @@ machine learning and a Bayesian threshold least absolute shrinkage and
 selection operator (LASSO) model.  [BMC Proc](http://www.biomedcentral.com/bmcproc/) [3(Suppl 7)](http://www.biomedcentral.com/1753-6561/3?issue=S7):S63
 [![PubMed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/20018057)
 [![pdf (278k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/gaw16.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1186/1753-6561-3-S7-S63)
 <!-- * 93 * -->
 <!-- https://doi.org/10.1186/1753-6561-3-S7-S63 -->
 
