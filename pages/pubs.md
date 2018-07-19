@@ -1563,6 +1563,7 @@ environmental factors in common diseases.  [Genet Epidemiol](http://www.intersci
 17(Supp 1):S79-S83
 [![Pubmed](icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/10597416)
 [![pdf (95k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/gaw11.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1002/gepi.1370170714)
 <!-- * 2 * -->
 <!-- https://doi.org/10.1002/gepi.1370170714 -->
 
