@@ -50,8 +50,8 @@ description: Karl Broman's teaching
 
   - [Course materials](https://github.com/SISBID/Module3)
 
-  [Reproducible Research Workshop](https://github.com/kabagg/sisbid_2018_rr)
-  [Summer Institute in Statistics for Big Data](https://www.biostat.washington.edu/suminst/sisbid2018/modules/BD1802)
+  [Reproducible Research Workshop](https://github.com/kabagg/sisbid_2018_rr),
+  [Summer Institute in Statistics for Big Data](https://www.biostat.washington.edu/suminst/sisbid2018/modules/BD1802),
   Seattle, WA (16-18 July 2018)
 
   - [Course materials](https://github.com/kabagg/sisbid_2018_rr)
