@@ -48,6 +48,14 @@ description: Karl Broman's teaching
   [Summer Institute in Statistics for Big Data](https://www.biostat.washington.edu/suminst/sisbid2017/modules/BD1703),
   Seattle, WA (17-19 July 2017)
 
+  - [Course materials](https://github.com/SISBID/Module3)
+
+  [Reproducible Research Workshop](https://github.com/kabagg/sisbid_2018_rr)
+  [Summer Institute in Statistics for Big Data](https://www.biostat.washington.edu/suminst/sisbid2018/modules/BD1802)
+  Seattle, WA (16-18 July 2018)
+
+  - [Course materials](https://github.com/kabagg/sisbid_2018_rr)
+
 ---
 
 #### R/qtl and R/qtl2 workshop
