@@ -59,7 +59,7 @@ regarding its policy, as does the
   may provide the university repository with a copy of your
   article. If your article is already available in an open access
   repository, such as
-  [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/), or if it is
+  [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/), or if it is
   openly available at the journal's site, you may simply provide a
   link.
 

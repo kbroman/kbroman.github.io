@@ -14,7 +14,7 @@ title: Broman et al. (1998) Fig 3
 
 Broman KW, Murray JC, Sheffield VC, White RL, Weber JL (1998) Comprehensive human genetic maps: Individual
 and sex-specific variation in recombination. Am J Hum Genet 63:861-869
-[![PubMed](../icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/9718341)
+[![PubMed](../icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/9718341)
 [![pdf (534k)](../icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/geneticmaps.pdf)
 
 ![Broman et al. (1998) Fig 3](../../assets/bigpublpics/geneticmaps_fig3_lg.png)

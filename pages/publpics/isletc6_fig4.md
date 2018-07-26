@@ -18,7 +18,7 @@ Attie AD (2015)
 Identification of the bile acid transporter _Slco1a6_ as a candidate gene that broadly
 affects gene expression in mouse pancreatic islets.
 [Genetics](http://genetics.org) 201:1253-1262
-[![PubMed](../icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/26385979)
+[![PubMed](../icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/26385979)
 [![pdf](../icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/islet_chr6.pdf)
 [![supplement](../icons16/supp-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/islet_chr6/FileS1.csv)
 [![data](../icons16/data-icon.png)](http://bit.ly/B6BTBR)
