@@ -892,7 +892,7 @@ Sundin OH, **Broman KW**,
 Chang HH, Vito ECL, Stark WJ, Gottsch JD (2006)
 A common locus for late-onset Fuchs corneal dystrophy
 maps to 18q21.2-q21.32.
-[Invest Ophthalmol Vis Sci](http://www.iovs.org)
+[Invest Ophthalmol Vis Sci](https://iovs.arvojournals.org/)
 47:3919-3926
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/16936105)
 [![pdf (631k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/fuchs_c18.pdf)
@@ -964,7 +964,7 @@ Sundin OH, Jun AS, **Broman KW**, Liu SH, Sheehan SE, Vito ECL, Stark WJ,
 Gottsch JD (2006)
 Linkage of late-onset Fuchs corneal dystrophy
 to a novel locus at 13pTel-13q12.13.
-[Invest Ophthalmol Vis Sci](http://www.iovs.org)  47:140-145
+[Invest Ophthalmol Vis Sci](https://iovs.arvojournals.org)  47:140-145
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/16384955)
 [![pdf (316k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/fuchs_c13.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1167/iovs.05-0578)
@@ -987,7 +987,7 @@ which encodes a Frizzled-related protein.
 Gottsch JD, Sundin OH, Liu SH, Jun AS, **Broman KW**, Stark WJ, Vito
 EC, Narang AK, Thompson JM, Magovern M (2005) Inheritance of a novel
 <i>COL8A2</i> mutation defines a distinct early-onset subtype of Fuchs
-corneal dystrophy. [Invest Ophthalmol Vis Sci](http://www.iovs.org)
+corneal dystrophy. [Invest Ophthalmol Vis Sci](https://iovs.arvojournals.org)
 46:1934-1939
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15914606)
 [![pdf (302k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/fuchs_iovs.pdf)
@@ -1113,7 +1113,8 @@ are genetically linked to mouse chromosomes 1 and 5.  [J Appl Physiol](http://ja
 Congdon N, **Broman KW**, Lai H, Munoz B,
 Bowie H, Gilbert D, Wojciechowski R, Alston C, West SK (2004)  Nuclear
 cataract shows significant familial aggregation in an older population
-after adjustment for possible shared environmental factors.  [Invest Ophthalmol Vis Sci](http://www.iovs.org) 45:2182-2186
+after adjustment for possible shared environmental factors.  [Invest Ophthalmol Vis Sci](https://iovs.arvojournals.org)
+45:2182-2186
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15223793)
 [![pdf (90k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/nuccat.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1167/iovs.03-1163)
