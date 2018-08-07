@@ -956,7 +956,7 @@ Tsang S, Loisel DA, Christy ES, Sun Z, Diehl J, Munroe DJ, Tuskan RG
 neurofibromatosis type 1 mouse model.  [Cancer Res](http://cancerres.aacrjournals.org/) 66:62-68
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/16397217)
 [![pdf (1.9M)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/km_reilly.pdf)
-[![doi](icons16/doi-icon.png)](https://doi.org/10.1167/iovs.05-0578)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1158/0008-5472.CAN-05-1480)
 <!-- * 56 * -->
 <!-- https://doi.org/10.1158/0008-5472.CAN-05-1480 -->
 
