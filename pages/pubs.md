@@ -1246,7 +1246,7 @@ B](http://www.ingenta.com/journals/browse/bpl/rssb) 64:641-656
 Jun AS, **Broman KW**, Do DV, Akpek EK,
 Stark WJ, Gottsch JD (2002)  Endothelial dystrophy, iris hypoplasia,
 congenital cataract, and stromal thinning (EDICT) syndrome maps to
-chromosome 15q22.1-q25.3.  [Am J Ophthalmol](http://www.sciencedirect.com/science?_ob=JournalURL&_issn=00029394&_auth=y&_acct=C000006078&_version=1&_urlVersion=0&_userid=75682&md5=1485c7d9a14c09bf72794b377897346b) 134:172-176
+chromosome 15q22.1-q25.3.  [Am J Ophthalmol](https://www.ajo.com) 134:172-176
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/12140022)
 [![pdf (189k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/edict.pdf)
 <!-- * 29 * -->
