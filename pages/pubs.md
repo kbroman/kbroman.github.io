@@ -136,7 +136,7 @@ peripheral nervous systems. [PLOS ONE](http://www.plosone.org) 11:e0160447
 
 Sloan Z, Arends D, **Broman KW**, Centeno A, Furlotte N, Nijveen H,
 Yan L, Zhou X, Williams RW, Prins P (2016) GeneNetwork: framework for
-web-based genetics. [J Open Source Software](https://www.theoj.org) 1(2): 25
+web-based genetics. [J Open Source Software](https://joss.theoj.org) 1(2): 25
 [![pdf](icons16/pdf-icon.png)](https://www.theoj.org/joss-papers/joss.00025/10.21105.joss.00025.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.21105/joss.00025)
 <!-- * 143 * -->
