@@ -79,7 +79,7 @@ Florek NW, Kamlangdee A, Mutschler JP, Kingstad-Bakke B,
 Schultz-Darken N, **Broman KW**, Osorio JE, Friedrich TC (2017)
 A modified vaccinia Ankara vaccine vector expressing a mosaic H5
 hemagglutinin reduces viral shedding in rhesus macaques.
-[PLOS One](http://journals.plos.org/plosone/) 12:e0181738
+[PLoS ONE](http://journals.plos.org/plosone/) 12:e0181738
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/28771513)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/florek2017.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1371/journal.pone.0181738)
@@ -103,7 +103,7 @@ Ye SI, Leng N, Brandon CJ, Neto EC, Plaisier CL, Simonett SP, Kebede
 MA, Sheynkman GM, Klein MA, Baliga NS, Smith LM, **Broman KW**, Yandell
 BS, Kendziorski C, Attie AD (2016) The transcription factor _Nfatc2_
 regulates β-cell proliferation and genes associated with type 2
-diabetes in mouse and human islets. [PLOS Genet](http://www.plosgenetics.org) 12:e1006466
+diabetes in mouse and human islets. [PLoS Genet](http://www.plosgenetics.org) 12:e1006466
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/27935966)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/keller2016.pdf)
 [![supporting info](icons16/supp-icon.png)](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006466#sec024)
@@ -126,7 +126,7 @@ Hejtmancik F, Huang H, Patek B, Sergeev Y, Hose S, Brayton C,
 Xaiodong J, Vasquez D, Maragakis N, Mori S, Goldman D, Hoke A,
 Sinha D (2016) A spontaneous missense mutation in branched chain keto
 acid dehydrogenase kinase in the rat affects both the central and
-peripheral nervous systems. [PLOS ONE](http://www.plosone.org) 11:e0160447
+peripheral nervous systems. [PLoS ONE](http://www.plosone.org) 11:e0160447
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/27472223)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/zigler2016.pdf)
 [![supporting info](icons16/supp-icon.png)](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0160447#sec020)
@@ -327,7 +327,7 @@ Huang BE, Raghavan C, Mauleon R, **Broman
 <!-- * 127 * -->
 <!-- https://doi.org/10.1534/genetics.113.158014 -->
 
-Baier B, Hunt P, **Broman KW**, Hassold T (2014) Variation in genome-wide levels of meiotic recombination is established at the onset of prophase in mammalian males. [PLOS Genet](http://www.plosgenetics.org/) 10:e1004125
+Baier B, Hunt P, **Broman KW**, Hassold T (2014) Variation in genome-wide levels of meiotic recombination is established at the onset of prophase in mammalian males. [PLoS Genet](http://www.plosgenetics.org/) 10:e1004125
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/24497841)
 [![pdf (1.5M)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/baier2014.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1371/journal.pgen.1004125)
@@ -336,7 +336,7 @@ Baier B, Hunt P, **Broman KW**, Hassold T (2014) Variation in genome-wide levels
 
 #### 2013
 
-Gruhn JR, Rubio C, **Broman KW**, Hunt PA, Hassold T (2013) Cytological studies of human meiosis: sex-specific differences in recombination originate at, or prior to, establishment of double-strand breaks. [PLOS ONE](http://www.plosone.org) 8:e85075
+Gruhn JR, Rubio C, **Broman KW**, Hunt PA, Hassold T (2013) Cytological studies of human meiosis: sex-specific differences in recombination originate at, or prior to, establishment of double-strand breaks. [PLoS ONE](http://www.plosone.org) 8:e85075
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/24376867)
 [![pdf (1.6M)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/gruhn2013.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1371/journal.pone.0085075)
@@ -410,7 +410,7 @@ Galvan A, Colombo F, Noci S, Pazzaglia S, Mancuso M, Manenti G, **Broman KW**, S
 <!-- * 118 * -->
 <!-- https://doi.org/10.1534/g3.112.003525 -->
 
-Greene JM, Chin EN, Budde ML, Lhost JJ, Hines PJ, Burwitz BJ, **Broman KW**, Nelson JE, Friedrich TC, O'Connor DH (2012) <i>Ex vivo</i> SIV-specific CD8 T cell responses in heterozygous animals are primarily directed against peptides presented by a single MHC haplotype.  [PLOS ONE](http://www.plosone.org) 7:e43690
+Greene JM, Chin EN, Budde ML, Lhost JJ, Hines PJ, Burwitz BJ, **Broman KW**, Nelson JE, Friedrich TC, O'Connor DH (2012) <i>Ex vivo</i> SIV-specific CD8 T cell responses in heterozygous animals are primarily directed against peptides presented by a single MHC haplotype.  [PLoS ONE](http://www.plosone.org) 7:e43690
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/22928016)
 [![pdf (767k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/greene2012.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1371/journal.pone.0043690)
@@ -498,7 +498,7 @@ Davis RC, Van Nas A, Castellani LW, Zhao Y, Zhou Z, Wen P, Yu S, Qi H, Rosales M
 
 #### 2011
 
-Weinfurter JT, Brunner K, Capuano SV III, Li C, **Broman KW**, Kawaoka Y, Friedrich T (2011)  Cross-reactive T cells are involved in rapid clearance of 2009 pandemic H1N1 influenza virus in nonhuman primates.  [PLOS Pathog](http://www.plospathogens.org) 7:e1002381
+Weinfurter JT, Brunner K, Capuano SV III, Li C, **Broman KW**, Kawaoka Y, Friedrich T (2011)  Cross-reactive T cells are involved in rapid clearance of 2009 pandemic H1N1 influenza virus in nonhuman primates.  [PLoS Pathog](http://www.plospathogens.org) 7:e1002381
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/22102819)
 [![pdf (879k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/friedrich2011.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1371/journal.ppat.1002381)
@@ -562,7 +562,7 @@ to genome-wide recombination levels in male mice.  [Mamm Genome](http://www.spri
 <!-- * 100 * -->
 <!-- https://doi.org/10.1007/s00335-010-9303-5 -->
 
-Billings T, Sargent EE, Szatkiewicz JP, Leahy N, Kwak, I-Y, Bektassova N, Walker M, Hassold T, Graber JH, **Broman KW**, Petkov PM (2010)  Patterns of recombination activity on mouse chromosome 11 revealed by high resolution mapping.  [PLOS One](http://www.plosone.org) 5:e15340
+Billings T, Sargent EE, Szatkiewicz JP, Leahy N, Kwak, I-Y, Bektassova N, Walker M, Hassold T, Graber JH, **Broman KW**, Petkov PM (2010)  Patterns of recombination activity on mouse chromosome 11 revealed by high resolution mapping.  [PLoS ONE](http://www.plosone.org) 5:e15340
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/21170346)
 [![pdf (483k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/petko_chr11.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1093/bioinformatics/btq565)
@@ -576,7 +576,7 @@ Arends D, Prins P, Jansen RC, **Broman KW** (2010)  R/qtl: High-throughput multi
 <!-- * 98 * -->
 <!-- https://doi.org/10.1093/bioinformatics/btq565 -->
 
-Bader HL, Ruhe AL, Wang LW, Wong AK, Walsh KF, Packer RA, Mitelman J, Robertson KR, O'Brien DP, **Broman KW**, Shelton GD, Apte SS, Neff MW (2010) An <i>ADAMTSL2</i> founder mutation causes Musladin-Lueke Syndrome, a heritable disorder of beagle dogs, featuring stiff skin and joint contractures.  [PLOS One](http://www.plosone.org) 5:e12817
+Bader HL, Ruhe AL, Wang LW, Wong AK, Walsh KF, Packer RA, Mitelman J, Robertson KR, O'Brien DP, **Broman KW**, Shelton GD, Apte SS, Neff MW (2010) An <i>ADAMTSL2</i> founder mutation causes Musladin-Lueke Syndrome, a heritable disorder of beagle dogs, featuring stiff skin and joint contractures.  [PLoS ONE](http://www.plosone.org) 5:e12817
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/20862248)
 [![pdf (564k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/adamtsl2.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1371/journal.pone.0012817)
@@ -623,14 +623,14 @@ Modifiers of von Willebrand factor identified by natural variation in inbred str
 <!-- * 91 * -->
 <!-- https://doi.org/10.1182/blood-2009-07-233213 -->
 
-Cheng EY, Hunt PA, Naluai-Cecchini TA, Fligner CL, Fujimoto VY, Pasternack TL, Schwartz JM, Steinauer JE, Woodruff TJ, Cherry SM, Hansen TA, Vallente RU, **Broman KW**, Hassold TJ (2009)  Meiotic recombination in human oocytes.  [PLOS Genet](http://www.plosgenetics.org) 5:e1000661
+Cheng EY, Hunt PA, Naluai-Cecchini TA, Fligner CL, Fujimoto VY, Pasternack TL, Schwartz JM, Steinauer JE, Woodruff TJ, Cherry SM, Hansen TA, Vallente RU, **Broman KW**, Hassold TJ (2009)  Meiotic recombination in human oocytes.  [PLoS Genet](http://www.plosgenetics.org) 5:e1000661
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/19763179)
 [![pdf (759k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/hassold.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1371/journal.pgen.1000661)
 <!-- * 90 * -->
 <!-- https://doi.org/10.1371/journal.pgen.1000661 -->
 
-Fledel-Alon A, Wilson DJ, **Broman K**, Wen X, Ober C, Coop G, Przeworski M (2009)  Broad-scale recombination patterns underlying proper disjunctions in humans.  [PLOS Genet](http://www.plosgenetics.org) 5:e1000658
+Fledel-Alon A, Wilson DJ, **Broman K**, Wen X, Ober C, Coop G, Przeworski M (2009)  Broad-scale recombination patterns underlying proper disjunctions in humans.  [PLoS Genet](http://www.plosgenetics.org) 5:e1000658
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/19763175)
 [![pdf (353k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/molly.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1371/journal.pgen.1000658)
@@ -717,7 +717,7 @@ Lupi I, **Broman KW**, Tzuo S-C, Gutenberg A, Martino E, Caturegli P (2008)  Nov
 <!-- * 80 * -->
 <!-- https://doi.org/10.1111/j.1365-2265.2008.03180.x -->
 
-Paigen K, Szatkiewicz JP, Sawyer K, Leahy N, Parvanov ED, Ng SH, Graber JH, **Broman KW**, Petkov PM (2008)  The recombinational anatomy of a mouse chromosome.  [PLOS Genet](http://www.plosgenetics.org) 4(7):e1000119
+Paigen K, Szatkiewicz JP, Sawyer K, Leahy N, Parvanov ED, Ng SH, Graber JH, **Broman KW**, Petkov PM (2008)  The recombinational anatomy of a mouse chromosome.  [PLoS Genet](http://www.plosgenetics.org) 4(7):e1000119
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/18617997)
 [![pdf (491k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/recomb_anatomy.pdf)
 [![Supplementary material](icons16/supp-icon.png)](http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2440539#supplementary-material-sec)
@@ -736,7 +736,7 @@ Middle CM, Irizarry RA, **Broman KW**, Feinberg AP (2008)  SNP-specific array-ba
 <!-- https://doi.org/10.1101/gr.073254.107 -->
 
 Peirce JL, **Broman KW**, Lu L, Chesler EJ,
-Zhou G, Airey DC, Birmingham AE, Williams RW (2008)  Genome Reshuffling for Advanced Intercross Permutation (GRAIP): Simulation and permutation for advanced intercross population analysis. [PLOS ONE](http://www.plosone.org) 3(4):e1977
+Zhou G, Airey DC, Birmingham AE, Williams RW (2008)  Genome Reshuffling for Advanced Intercross Permutation (GRAIP): Simulation and permutation for advanced intercross population analysis. [PLoS ONE](http://www.plosone.org) 3(4):e1977
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/18431467)
 [![pdf (468k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/peirce2.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1371/journal.pone.0001977)
@@ -798,7 +798,7 @@ differences in recombination rates.  [Trends Genet](http://www.sciencedirect.com
 <!-- * 72 * -->
 <!-- https://doi.org/10.1016/j.tig.2007.08.015 -->
 
-Peirce JL, **Broman KW**, Lu L, Williams RW (2007) A simple method for combining genetic mapping data from multiple crosses and experimental designs.  [PLOS ONE](http://www.plosone.org) 2(10):e1036
+Peirce JL, **Broman KW**, Lu L, Williams RW (2007) A simple method for combining genetic mapping data from multiple crosses and experimental designs.  [PLoS ONE](http://www.plosone.org) 2(10):e1036
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/17940600)
 [![pdf (215k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/peirce1.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1371/journal.pone.0001036)
