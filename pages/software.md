@@ -121,7 +121,7 @@ linear mixed model useful for genome-wide association studies
 
 #### <a name="ricalc"></a>[R/ricalc](https://github.com/kbroman/ricalc)
 
-Software for calculation of two- and three-locus probabilities in
+An [R](https://www.r-project.org) package for calculation of two- and three-locus probabilities in
 multiple-strain recombinant inbred lines, and the simulation of such lines.
 See the related paper: Broman KW (2005) The genomes of
 recombinant inbred lines.  [Genetics](http://www.genetics.org/) 169:1133-1146
@@ -130,9 +130,21 @@ recombinant inbred lines.  [Genetics](http://www.genetics.org/) 169:1133-1146
 
 ---
 
+#### <a name="mbmixture"></a>[R/mbmixture](https://github.com/kbroman/mbmixture)
+
+An [R](https://www.r-project.org) package for evaluating whether a microbiome sample is the mixture of
+two source samples. We are thinking of shotgun sequencing data on the
+microbiome sample plus dense SNP genotype data on the two potential
+source samples. We assume that the data has been reduced to a
+three-dimensional array of read counts: the 3 possible SNP genotypes
+for the first sample &times; the 3 possible SNP genotypes of the
+second sample &times; the 2 possible SNP alleles on the reads.
+
+---
+
 #### <a name="negenes"></a>[R/negenes](https://github.com/kbroman/negenes)
 
-Software for estimating the number of essential genes in a genome
+An [R](https://www.r-project.org) package for estimating the number of essential genes in a genome
 on the basis of data from a random transposon mutagenesis experiment.
 See the related [technical report](https://www.biostat.wisc.edu/~kbroman/publications/ms0220.pdf).
 
@@ -141,7 +153,7 @@ See the related [technical report](https://www.biostat.wisc.edu/~kbroman/publica
 
 #### <a name="npem"></a>[R/npem](https://github.com/kbroman/npem)
 
-Software for analyzing cell proliferation assays using the
+An [R](https://www.r-project.org) package for analyzing cell proliferation assays using the
 normal-Poisson mixture model described by Broman et al.
 ([J Immunol Meth 198:119-132, 1996](https://www.ncbi.nlm.nih.gov/pubmed/8946008)).
 
@@ -149,7 +161,7 @@ normal-Poisson mixture model described by Broman et al.
 
 #### <a name="fingers"></a>[R/fingers](https://github.com/kbroman/fingers)
 
-Software for the inference of full sibling families with data on
+An [R](https://www.r-project.org) package for the inference of full sibling families with data on
 dominant genetic markers (such as RAPDs), following the hierarchicical
 clustering approach of Apostol et al. (1993) Theor Appl Genet
 86:991-1000.  The title follows from Fortran software written by WC
