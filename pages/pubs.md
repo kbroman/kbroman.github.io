@@ -1580,7 +1580,7 @@ Notes-Monograph Series, Vol 33, pp 114-142
 ### <a name="techreports"></a>technical reports
 
 **Broman KW** (2010) Genetic map construction with R/qtl.  Technical report #214, Department of Biostatistics & Medical Informatics, University of Wisconsin-Madison
-[![Abstract](icons16/pubmed-icon.png)](tech214_abstract.html)
+[![Abstract](icons16/pubmed-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/tech214_abstract.html)
 [![pdf (1.5M)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/tr_214.pdf)
 
 <a name="hmm"></a>**Broman KW** (2006) Use of hidden Markov models
