@@ -1586,7 +1586,7 @@ Notes-Monograph Series, Vol 33, pp 114-142
 <a name="hmm"></a>**Broman KW** (2006) Use of hidden Markov models
 for QTL mapping.  Working paper 125, Department of Biostatistics,
 Johns Hopkins University, Baltimore, MD
-[![Abstract](icons16/pubmed-icon.png)](http://www.bepress.com/jhubiostat/paper125)
+[![Abstract](icons16/pubmed-icon.png)](https://biostats.bepress.com/jhubiostat/paper125)
 [![pdf (94k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/hmm.pdf)
 
 <a name="ms0220"></a>Blades NJ, **Broman KW** (2002)
