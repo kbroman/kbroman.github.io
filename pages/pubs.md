@@ -29,6 +29,23 @@ description: Karl Broman's publications
 
 ### <a name="articles"></a>journal articles
 
+#### in preparation
+
+**Broman KW**, Gatti DM, Simecek P, Furlotte NA, Prins P, Sen &#346;,
+Yandell BS, Churchill GA (2018)
+R/qtl2: software for mapping quantitative trait loci with
+high-dimensional data and multi-parent populations. In preparation.
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/rqtl2_paper.pdf)
+
+**Broman KW**, Gatti DM, Svenson KL, Sen &#346;, Churchill GA (2018)
+Cleaning genotype data from Diversity Outbred mice. In preparation.
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/mpp_diag.pdf)
+
+Lobo AK, Traeger LL, Keller MP, Attie AD, Rey FE, **Broman KW** (2018)
+Identification of sample mix-ups and mixtures in microbiome data in
+Diversity Outbred mice. In preparation.
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/mb_mixups.pdf)
+
 #### 2018
 
 Palus M, Sohrabi Y, **Broman KW**, Strnad H, Šíma M, Růžek D, Volkova
