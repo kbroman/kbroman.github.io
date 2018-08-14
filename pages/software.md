@@ -138,7 +138,10 @@ microbiome sample plus dense SNP genotype data on the two potential
 source samples. We assume that the data has been reduced to a
 three-dimensional array of read counts: the 3 possible SNP genotypes
 for the first sample &times; the 3 possible SNP genotypes of the
-second sample &times; the 2 possible SNP alleles on the reads.
+second sample &times; the 2 possible SNP alleles on the reads. We then
+fit a model with contaminant probability _p_ = proportion of the
+microbiome sample coming from the second sample and _e_ = rate of sequencing
+errors.
 
 ---
 
