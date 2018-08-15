@@ -1100,7 +1100,7 @@ complex traits.  [Nat Genet](http://www.nature.com/ng) 36:1133-1137
 Chen S, Wang W, **Broman KW**,
 Katki HA, Parmigiani G (2004) BayesMendel: An R environment for Mendelian risk
 prediction.  [Stat Appl Genet
-Mol Biol](http://www.bepress.com/sagmb/) 3(1): article 21
+Mol Biol](https://www.degruyter.com/view/j/sagmb) 3(1): article 21
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/16646800)
 [![pdf (191k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/bayesmendel.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.2202/1544-6115.1063)
