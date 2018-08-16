@@ -1093,9 +1093,9 @@ Collaborative Cross, a community resource for the genetic analysis of
 complex traits.  [Nat Genet](http://www.nature.com/ng) 36:1133-1137
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15514660)
 [![pdf (177k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/collabcross.pdf)
-[![doi](icons16/doi-icon.png)](https://doi.org/10.1111/10.1038/ng1104-1133)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1038/ng1104-1133)
 <!-- * 46 * -->
-<!-- https://doi.org/10.1111/10.1038/ng1104-1133 -->
+<!-- https://doi.org/10.1038/ng1104-1133 -->
 
 Chen S, Wang W, **Broman KW**,
 Katki HA, Parmigiani G (2004) BayesMendel: An R environment for Mendelian risk
