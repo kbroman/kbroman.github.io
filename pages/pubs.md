@@ -1061,9 +1061,9 @@ pedigrees.  [Genet
 Epidemiol](http://www.interscience.wiley.com/jpages/0741-0395/) 28:11-23
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15493059)
 [![pdf (160k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/qtlpower.pdf)
-[![doi](icons16/doi-icon.png)](https://doi.org/10.1016/10.1002/gepi.20034)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1002/gepi.20034)
 <!-- * 48 * -->
-<!-- https://doi.org/10.1016/10.1002/gepi.20034 -->
+<!-- https://doi.org/10.1002/gepi.20034 -->
 
 #### 2004
 
