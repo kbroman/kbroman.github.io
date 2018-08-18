@@ -1519,6 +1519,8 @@ Inst](https://academic.oup.com/jnci) 94:1809-1810
 (Response to [Morison
 et al., J Natl Cancer Inst 94:1809, 2002](https://www.ncbi.nlm.nih.gov/pubmed/12464656))
 [![pdf (37k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/ravenel_ltr.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1093/jnci/94.23.1809-a)
+<!-- https://doi.org/10.1093/jnci/94.23.1809-a -->
 
 **Broman KW**, Weber JL (1998) Estimation of pairwise
 relationships in the presence of genotyping errors. [Am J Hum Genet](https://www.cell.com/ajhg/home)
