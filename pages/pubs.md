@@ -1508,6 +1508,7 @@ Genet](https://www.cell.com/ajhg/home) 72:496
 et al., Am J Hum Genet 71:439-441, 2002](https://www.ncbi.nlm.nih.gov/pubmed/12111669))
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/12596792)
 [![pdf (93k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/pvalueltr.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1086/346175)
 <!-- * 6 * -->
 <!-- https://doi.org/10.1086/346175 -->
 
