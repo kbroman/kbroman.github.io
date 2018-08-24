@@ -1028,9 +1028,9 @@ recombinant inbred lines.  [Genetics](http://www.genetics.org/) 169:1133-1146
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15545647)
 [![pdf (525k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/rigenome.pdf)
 [![R/ricalc](icons16/R-icon.png)](https://github.com/kbroman/ricalc)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.104.035212)
 \[**Erratum**: [Genetics](http://www.genetics.org) 173:2419, 2006
 [![pdf 30k](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/rigenome_corrigendum.pdf)\]
-[![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.104.035212)
 <!-- * 51 * -->
 <!-- https://doi.org/10.1534/genetics.104.035212 -->
 
