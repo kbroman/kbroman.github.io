@@ -12,7 +12,7 @@ Steps toward reproducible research
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)<br/>
 [Summer Research Program in Biomedical Data Science](https://www.biostat.wisc.edu/content/summer-research),
 [Department of Biostatistics & Medical Informatics](https://www.biostat.wisc.edu),
-[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_July 11_)
+[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Jul 11_)
 
 
 Cleaning genotype data in diversity outbred mice
@@ -20,14 +20,14 @@ Cleaning genotype data in diversity outbred mice
 [![html](icons16/html-icon.png)](https://kbroman.org/Talk_CTC2018)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_CTC2018)<br/>
 [Complex Trait Community meeting](http://www.complextrait.org/ctc2018),
-Glasgow, UK (_21 Jun_)
+Glasgow, UK (_Jun 21_)
 
 
 R/qtl2: QTL mapping in multi-parent populations
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rqtl2_purdue2018.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Purdue2018)<br/>
 [Purdue Symposium on Statistics](http://www.stat.purdue.edu/symp2018)
-(_7 Jun_)
+(_Jun 7_)
 
 18 years of R/qtl: maintaining, supporting, and sustaining scientific software<br/>
 &nbsp; &nbsp; &nbsp; Slides:
@@ -38,7 +38,7 @@ R/qtl2: QTL mapping in multi-parent populations
 <br/>
 [Department of Statistics](http://www.stat.colostate.edu),
 [Colorado State University](https://www.colostate.edu)
-(_23 Apr_)
+(_Apr 23_)
 
 
 Steps toward reproducible research
@@ -46,7 +46,7 @@ Steps toward reproducible research
 [![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)<br/>
 [David O'Connor's lab](http://labs.pathology.wisc.edu/oconnor),
-[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_19 Mar_)
+[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Mar 19_)
 
 
 18 years of R/qtl: maintaining, supporting, and sustaining scientific software<br/>
@@ -59,7 +59,7 @@ Steps toward reproducible research
 [qBio seminar
 series](https://events.wid.wisc.edu/events/category/qbio/),
 [Wisconsin Institute for Discovery](https://wid.wisc.edu),
-University of Wisconsin&ndash;Madison (_14 Feb_)
+University of Wisconsin&ndash;Madison (_Feb 14_)
 
 18 years of R/qtl: developing, maintaining, and supporting scientific software<br/>
 &nbsp; &nbsp; &nbsp; Slides:
@@ -71,7 +71,7 @@ University of Wisconsin&ndash;Madison (_14 Feb_)
 <br/>
 [BBC
 seminar](https://biophysics.ucsf.edu/seminars-events/bbc-seminar-series),
-University of California, San Francisco (_1 Feb_)
+University of California, San Francisco (_Feb 1_)
 
 
 ###  2017
@@ -84,7 +84,7 @@ University of California, San Francisco (_1 Feb_)
 [![lod curves](icons16/html-icon.png)](https://bit.ly/lod_and_effect)
 [![many box plots](icons16/html-icon.png)](https://bit.ly/many_boxplots)
 <br/>
-University of Chicago (_17 Nov_)
+University of Chicago (_Nov 17_)
 
 Creating effective figures and tables
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/graphs2017.pdf)
@@ -102,7 +102,7 @@ R/qtl2: high-dimensional data & multi-parent populations <br/>
 [![many box plots](icons16/html-icon.png)](https://bit.ly/many_boxplots)
 <br/>
 [Department of Bioinformatics and Genomics](http://bioinformatics.uncc.edu/),
-University of North Carolina at Charlotte (_22 Sep_)
+University of North Carolina at Charlotte (_Sep 22_)
 
 Genetic analysis of high-throughput phenotypes: challenges and opportunities<br/>
 &nbsp; &nbsp; &nbsp; Slides:
@@ -114,7 +114,7 @@ Genetic analysis of high-throughput phenotypes: challenges and opportunities<br/
 [![many box plots](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/D3/manyboxplots)
 <br/>
 [Workshop on Systems Genetics of Neurodegenerative Disease](http://sgn2017.org),
-Frauenchiemsee, Germany (_27 Aug_)
+Frauenchiemsee, Germany (_Aug 27_)
 
 Genetics of extreme body size evolution in
 mice from Gough Island<br/>
@@ -129,13 +129,13 @@ mice from Gough Island<br/>
 [![growth rate](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/BDS2017-07/iplot_deriv_bodyweight.html)<br/>
 [Summer Research Program in Biomedical Data Science](https://www.biostat.wisc.edu/content/summer-research),
 [Department of Biostatistics & Medical Informatics](https://www.biostat.wisc.edu),
-[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_July 26_)
+[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Jul 26_)
 
 R/qtl2: high-dimensional data & multi-parent populations
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rqtl2_ctc2017.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Rqtl2_CTC2017)<br/>
 [Complex Trait Community meeting](http://complextrait.org/ctc2017),
-Memphis, Tennessee (_June 14_)
+Memphis, Tennessee (_Jun 14_)
 
 Steps toward reproducible research
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_BDS2017.pdf)
@@ -143,7 +143,7 @@ Steps toward reproducible research
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)<br/>
 [Summer Research Program in Biomedical Data Science](https://www.biostat.wisc.edu/content/summer-research),
 [Department of Biostatistics & Medical Informatics](https://www.biostat.wisc.edu),
-[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_June 7_)
+[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Jun 7_)
 
 Steps toward reproducible research
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_JAX2017.pdf)
@@ -340,8 +340,7 @@ Reproducible research
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)
 <br/>
 [Holz Series in Research Data Management](http://researchdata.wisc.edu/holz-series/),
-[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Nov
-18_)
+[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Nov 18_)
 
 Reproducible research
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_Memphis2015.pdf)
@@ -459,8 +458,7 @@ Interactive graphics for teaching
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_iGraphs4Teaching)<br/>
 [Delta Program](http://delta.wisc.edu)
 [Round Table](http://delta.wisc.edu/events/roundtable.html),
-[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Nov
-20_)
+[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Nov 20_)
 
 Interactive graphics for high-dimensional genetic data
 [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/InteractiveGraphs4)
@@ -494,7 +492,7 @@ high-dimensional genetic data
 [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/BioVis)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_BioVis)<br/>
 [4th Symposium on
-Biological Data Visualization](http://biovis.net/year/2014/about), Boston, Massachusetts (_July 12_)
+Biological Data Visualization](http://biovis.net/year/2014/about), Boston, Massachusetts (_Jul 12_)
 
 Genetics of extreme body size evolution in
 mice from Gough Island<br/>
@@ -1011,7 +1009,7 @@ The genomes of recombinant inbred lines
 [![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/csps05.ppt)
 [![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/csps05_ho.pdf)
 <br/>
-[CSPS/IMS Joint meeting](http://math.bnu.edu.cn/statprob/CSPS-IMS2005/index.html), Beijing, China (_July 10_)
+[CSPS/IMS Joint meeting](http://math.bnu.edu.cn/statprob/CSPS-IMS2005/index.html), Beijing, China (_Jul 10_)
 
 The genomes of recombinant inbred lines
 [![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/umbc05.ppt)
