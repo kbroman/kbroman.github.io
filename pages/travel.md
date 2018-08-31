@@ -319,9 +319,14 @@ title: travel
 
 -->
 
+- Jackson Lab, Oct 14-19, 2018 (Bar Harbor, Maine)
+
 - [International Mammalian Genome Society (IMGC)
   conference](http://imgs.org/?run=conference.imgc2018), Nov 11-14,
   2018 (Rio Mar, Puerto Rico)
+
+- QTL course, <a href="http://www.icrisat.org">ICRISAT</a>, Dec, 2018
+  (Hyderabad, Andhra Pradesh, India)
 
 - rstudio::conf, Jan 15-18, 2019 (Austin, Texas)
 
