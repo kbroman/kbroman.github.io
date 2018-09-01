@@ -1464,6 +1464,7 @@ subjects. [J Immunol Meth](http://www.sciencedirect.com/science/journal/00221759
 [![pdf (740k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/jim.pdf)
 [![data](icons16/data-icon.png)](https://www.biostat.wisc.edu/~kbroman/data/jim/index.html)
 [![R/npem](icons16/R-icon.png)](https://github.com/kbroman/npem)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1016/S0022-1759(96)00136-6)
 <!-- * 9 * -->
 <!-- https://doi.org/10.1016/S0022-1759(96)00136-6 -->
 
