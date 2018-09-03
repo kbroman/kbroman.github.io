@@ -1443,6 +1443,7 @@ variation in recombination. [Am J Hum Genet](https://www.cell.com/ajhg/home) 63:
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/9718341)
 [![pdf (534k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/geneticmaps.pdf)
 [![Supplemental data](icons16/supp-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/mfdmaps_supp)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1086/302011)
 <!-- * 11 * -->
 <!-- https://doi.org/10.1086/302011 -->
 
