@@ -1422,7 +1422,8 @@ maps. [Genet Epidemiol](http://www.interscience.wiley.com/jpages/0741-0395/)
 16:337-343
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/10207715)
 [![pdf (51k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/framework.pdf)
-[![Build your own map](icons16/html-icon.png)](http://research.marshfieldclinic.org/genetics/MarkerSearch/buildMap.asp)
+<!-- [![Build your own map](icons16/html-icon.png)](http://research.marshfieldclinic.org/genetics/MarkerSearch/buildMap.asp) -->
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1002/(SICI)1098-2272(1999)16:4<337::AID-GEPI1>3.0.CO;2-T)
 <!-- * 13 * -->
 <!-- https://doi.org/10.1002/(SICI)1098-2272(1999)16:4<337::AID-GEPI1>3.0.CO;2-T -->
 
