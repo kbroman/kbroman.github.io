@@ -1412,6 +1412,7 @@ Polymorphisme Humain.  [Am J Hum Genet](https://www.cell.com/ajhg/home) 65:1493-
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/10577902)
 [![pdf (202k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/autozyg.pdf)
 [![Supplemental table (pdf 28k)](icons16/supp-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/segments.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1086/302661)
 \[[Errata](https://www.biostat.wisc.edu/~kbroman/publications/autozyg_errors.html)\]
 <!-- * 14 * -->
 <!-- https://doi.org/10.1086/302661 -->
