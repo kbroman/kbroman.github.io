@@ -6,6 +6,14 @@ description: Karl Broman's talks
 
 ###  2018
 
+Data management
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/datamgmt.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_DataMgmt)<br/>
+[KL2 Scholar Program](https://ictr.wisc.edu/program/kl2-scholar-program/),
+[School of Medicine and Public Health](https://www.med.wisc.edu),
+[University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Sep 5_)
+
+
 Steps toward reproducible research
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr.pdf)
 [![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr_withnotes.pdf)
