@@ -36,6 +36,8 @@ Yandell BS, Churchill GA (2018)
 R/qtl2: software for mapping quantitative trait loci with
 high-dimensional data and multi-parent populations. In preparation.
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/rqtl2_paper.pdf)
+[![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_Rqtl2)
+[![R/qtl2 software](icons16/R-icon.png)](https://kbroman.org/qtl2)
 
 **Broman KW**, Gatti DM, Svenson KL, Sen &#346;, Churchill GA (2018)
 Cleaning genotype data from Diversity Outbred mice. In preparation.
