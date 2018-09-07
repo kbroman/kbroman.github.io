@@ -1401,6 +1401,7 @@ non-disjunction of chromosome 21.  [Hum Mol Genet](http://hmg.oupjournals.org/co
 9:515-523
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/10699174)
 [![pdf (196k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/nondisj.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1093/hmg/9.4.515)
 <!-- * 15 * -->
 <!-- https://doi.org/10.1093/hmg/9.4.515 -->
 
