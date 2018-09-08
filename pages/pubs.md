@@ -1394,6 +1394,7 @@ Goddard KAB, Witte JS, Elston RC, Catalona WJ (2000) A genome
 screen of multiplex prostate cancer sibships.  [Am J Hum Genet](https://www.cell.com/ajhg/home) 66:933-944
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/10712208)
 [![pdf (291k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/prostate.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1086/302818)
 <!-- * 16 * -->
 <!-- https://doi.org/10.1086/302818 -->
 
