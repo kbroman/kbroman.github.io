@@ -1386,6 +1386,7 @@ interference.  [Am J Hum Genet](https://www.cell.com/ajhg/home) 66:1911-1926
 [![pdf (291k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/interfer.pdf)
 [![Expanded version of tables 1-2](icons16/supp-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/broman_weber_tables1-2_expanded.pdf)
 [![Expanded version of figure 3](icons16/supp-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/broman_weber_fig3_expanded.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1086/302923)
 <!-- * 17 * -->
 <!-- https://doi.org/10.1086/302923 -->
 
