@@ -1370,6 +1370,7 @@ influence phenotypes of the metabolic syndrome.  [Proc Natl Acad Sci
 USA](http://www.pnas.org) 97:14478-14483
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/11121050)
 [![pdf (200k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/tops.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1073/pnas.97.26.14478)
 <!-- * 19 * -->
 <!-- https://doi.org/10.1073/pnas.97.26.14478 -->
 
