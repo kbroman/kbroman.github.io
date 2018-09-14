@@ -76,8 +76,7 @@ pancreatic islet function. [Genetics](http://genetics.org) 209:335-356
 <!-- https://doi.org/10.1534/genetics.118.300864 -->
 
 **Broman KW**, Woo KH (2018) Data organization in spreadsheets.
-[The American
-Statistician](http://www.tandfonline.com/toc/utas20/current) 72:2-10
+[Am Stat](http://www.tandfonline.com/toc/utas20/current) 72:2-10
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/dataorg.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_DataOrg)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1080/00031305.2017.1375989)
