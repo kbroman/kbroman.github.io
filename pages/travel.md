@@ -325,7 +325,7 @@ title: travel
   conference](http://imgs.org/?run=conference.imgc2018), Nov 11-14,
   2018 (Rio Mar, Puerto Rico)
 
-- QTL course, <a href="http://www.icrisat.org">ICRISAT</a>, Dec, 2018
+- QTL course, <a href="http://www.icrisat.org">ICRISAT</a>, Dec 3-8, 2018
   (Hyderabad, Andhra Pradesh, India)
 
 - rstudio::conf, Jan 15-18, 2019 (Austin, Texas)
