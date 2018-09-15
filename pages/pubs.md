@@ -1360,6 +1360,7 @@ and physical mapping of the locus for autosomal dominant renal Fanconi
 syndrome, on chromosome 15q15.3 [Am J Hum Genet](https://www.cell.com/ajhg/home) 68:264-268
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/11090339)
 [![pdf (636k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/konecki.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1086/316923)
 <!-- * 20 * -->
 <!-- https://doi.org/10.1086/316923 -->
 
