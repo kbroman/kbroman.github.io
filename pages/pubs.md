@@ -1352,6 +1352,7 @@ Comparison of human genetic and sequence-based physical maps.  [Nature](http://w
 409:951-953
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/11237020)
 [![pdf (129k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/genphys.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1038/35057185)
 <!-- * 21 * -->
 <!-- https://doi.org/10.1038/35057185 -->
 
