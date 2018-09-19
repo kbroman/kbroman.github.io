@@ -1333,6 +1333,7 @@ receptor-gene clusters, genomic-inversion polymorphisms, and
 common chromosome rearrangements.  [Am J Hum Genet](https://www.cell.com/ajhg/home) 68:874-883
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/11231899)
 [![pdf (1494k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/giglio.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1086/319506)
 <!-- * 23 * -->
 <!-- https://doi.org/10.1086/319506 -->
 
