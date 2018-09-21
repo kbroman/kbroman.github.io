@@ -1301,6 +1301,7 @@ biologic subtypes of Wilms tumor.
 [J Natl Cancer Inst](https://academic.oup.com/jnci) 93:1698-1703
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/11717330)
 [![pdf (330k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/imprinting.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1093/jnci/93.22.1698)
 <!-- * 26 * -->
 <!-- https://doi.org/10.1093/jnci/93.22.1698 -->
 
