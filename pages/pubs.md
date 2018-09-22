@@ -1271,6 +1271,7 @@ congenital cataract, and stromal thinning (EDICT) syndrome maps to
 chromosome 15q22.1-q25.3.  [Am J Ophthalmol](https://www.ajo.com) 134:172-176
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/12140022)
 [![pdf (189k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/edict.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1016/S0002-9394(02)01401-0)
 <!-- * 29 * -->
 <!-- https://doi.org/10.1016/S0002-9394(02)01401-0 -->
 
