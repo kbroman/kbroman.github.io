@@ -705,9 +705,9 @@ identification of quantitative trait loci in experimental crosses,
 allowing epistasis. [Genetics](http://www.genetics.org) 181:1077-1086
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/19104078)
 [![pdf (889k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/multiqtl.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.108.094565)
 \[<b>Erratum</b>: [Genetics](http://www.genetics.org) 184:607, 2010
 [![pdf (89k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/multiqtl_erratum.pdf)\]
-[![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.108.094565)
 <!-- * 83 * -->
 <!-- https://doi.org/10.1534/genetics.108.094565 -->
 
