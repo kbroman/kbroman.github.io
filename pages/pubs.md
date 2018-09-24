@@ -1323,9 +1323,9 @@ purposes without the permission of the publisher.&rdquo;
 sibships. [Genet Epidemiol](http://www.interscience.wiley.com/jpages/0741-0395/) 20:307-315
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/11255240)
 [![pdf (107k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/sibfreq.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1002/gepi.2)
 \[**Erratum**: [Genet Epidemiol](http://www.interscience.wiley.com/jpages/0741-0395/) 23:465-466, 2002
 [![pdf 56k](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/sibfreq_erratum.pdf)\]
-[![doi](icons16/doi-icon.png)](https://doi.org/10.1002/gepi.2)
 <!-- * 24 * -->
 <!-- https://doi.org/10.1002/gepi.2 -->
 
