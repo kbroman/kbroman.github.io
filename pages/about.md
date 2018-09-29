@@ -21,8 +21,7 @@ He was a postdoctoral fellow with James Weber at the
 1997&ndash;1999. He
 was a faculty member in the [Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/) at Johns
 Hopkins University, 1999&ndash;2007. In 2007, he moved to the
-[University of Wisconsin&ndash;Madison](https://www.wisc.edu),
-where he is now Professor.
+[University of Wisconsin&ndash;Madison](https://www.wisc.edu).
 
 Karl is a Senior Editor for [_Genetics_](http://www.genetics.org),
 Academic Editor for [_PeerJ_](https://peerj.com), and
