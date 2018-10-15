@@ -11,6 +11,7 @@ keywords: Broman, QTL, R/qtl, quantitative trait loci, statistics, statistical g
           <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
           <li><a href="https://github.com/kbroman">github</a></li>
           <li><a href="https://kbroman.org/blog">blog</a></li>
+          <li><a href="https://twitter.com/kwbroman">@kwbroman</a></li>
       </ul>
   </div>
 </div>
