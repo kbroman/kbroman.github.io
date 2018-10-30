@@ -6,6 +6,14 @@ description: Karl Broman's talks
 
 ###  2018
 
+Creating effective figures and tables
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/graphs2018.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Graphs)
+<br/>
+Presentation in a seminar course for MD-PhD students,
+[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Oct 29_)
+
+
 Cleaning genotype data in diversity outbred mice
 [![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_JAX2018/jax2018.pdf)
 [![html](icons16/html-icon.png)](https://kbroman.org/Talk_JAX2018)
