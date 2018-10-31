@@ -317,13 +317,9 @@ title: travel
 
 - Reproducible Research course, [Summer Institute for Big Data](http://www.biostat.washington.edu/suminst/sisbid), July 16-18, 2018 (Seattle, WA)
 
--->
-
 - Jackson Lab, Oct 14-19, 2018 (Bar Harbor, Maine)
 
-- [International Mammalian Genome Society (IMGC)
-  conference](http://imgs.org/?run=conference.imgc2018), Nov 11-14,
-  2018 (Rio Mar, Puerto Rico)
+-->
 
 - QTL course, <a href="http://www.icrisat.org">ICRISAT</a>, Dec 3-8, 2018
   (Hyderabad, Andhra Pradesh, India)
