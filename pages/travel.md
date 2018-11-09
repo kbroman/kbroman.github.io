@@ -324,7 +324,7 @@ title: travel
 - QTL course, <a href="http://www.icrisat.org">ICRISAT</a>, Dec 3-8, 2018
   (Hyderabad, Andhra Pradesh, India)
 
-- rstudio::conf, Jan 15-18, 2019 (Austin, Texas)
+- [rstudio::conf](https://www.rstudio.com/conference/), Jan 15-18, 2019 (Austin, Texas)
 
 - [AAAS meeting](http://meetings.aaas.org), Feb 14-18, 2019 (Washington, DC)
 
