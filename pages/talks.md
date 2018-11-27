@@ -7,6 +7,13 @@ description: Karl Broman's talks
 ###  2018
 
 Steps toward reproducible research
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/cmp2018.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_CMP2018)<br/>
+[Cellular & Molecular Pathology Graduate Program](http://cmp.wisc.edu),
+[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Nov 29_)
+
+
+Steps toward reproducible research
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr.pdf)
 [![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)<br/>
