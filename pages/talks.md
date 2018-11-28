@@ -660,7 +660,7 @@ Identifying and correcting sample mix-ups in high-dimensional data
 International Biometric Society/ENAR meeting, Washington, DC (_Apr 2_)
 
 Programming style
-[![pdf](icons16/pdf-icon.png)](programming_style.pdf)
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/programming_style.pdf)
 <br/>
 Biostatistics training program, [Department of Biostatistics and Medical Informatics](https://www.biostat.wisc.edu), [School of Medicine and Public Health](http://www.med.wisc.edu), [University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Feb 29_)
 
