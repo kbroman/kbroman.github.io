@@ -553,7 +553,7 @@ Creating effective figures and tables
 QTL mapping for phenotypes measured over time
 [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/FunQTL)
 [![github](icons16/github-icon.png)](http://github.com/kbroman/Talk_FunQTL)
-[![tgz](icons16/tgz-icon.png)](FunQTL.tgz)
+[![tgz](icons16/tgz-icon.png)](https://www.biostat.wisc.edu/~kbroman/FunQTL.tgz)
 <br/>
 [Danforth Plant Science
 Center](http://www.danforthcenter.org/), St. Louis, Missouri (_Feb 19_)
@@ -614,7 +614,7 @@ Biostatistics training program, [Department of Biostatistics and Medical Informa
 QTL mapping for phenotypes measured over time
 [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/FunQTL)
 [![github](icons16/github-icon.png)](http://github.com/kbroman/Talk_FunQTL)
-[![tgz](icons16/tgz-icon.png)](FunQTL.tgz)
+[![tgz](icons16/tgz-icon.png)](https://www.biostat.wisc.edu/~kbroman/FunQTL.tgz)
 <br/>
 Plant Breeding Symposium, [Department of Agronomy](http://www.agronomy.ksu.edu), [Kansas State University](http://www.ksu.edu), Manhattan, KS (_Apr 2_)
 
