@@ -345,6 +345,16 @@ Sep 18-24, 2002
 
 ---
 
+#### [2nd International Workshop on Advanced R and R/qtl](https://www.icrisat.org/event/2nd-international-workshop-on-advanced-r-r-qtl/)
+
+[ICRISAT](http://www.icrisat.org), Patancheru, Andhra Pradesh, India
+(Dec 3-7, 2018)
+
+<https://github.com/kbroman/icrisat2018>
+
+
+---
+
 #### [Training course on field trial & QTL analysis using R & R/qtl](http://www.icrisat.org/rcourse.htm)
 
 [ICRISAT](http://www.icrisat.org), Patancheru, Andhra Pradesh, India
