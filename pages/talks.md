@@ -507,7 +507,7 @@ Harvard School of Public Health, Boston, Massachusetts (_Nov 6_)
 Open access publishing: A researcher's perspective
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/openaccess2014.pdf)
 [![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/openaccess2014_withnotes.pdf)
-[![github](icons16/github-icon.png)](http://github.com/kbroman/Talk_OpenAccess)<br/>
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_OpenAccess)<br/>
 [Scholarly Publishing Symposium](http://www.library.wisc.edu/news/scholarly-publishing-symposium-2014/),
 [University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Oct 30_)
 
@@ -552,7 +552,7 @@ Creating effective figures and tables
 
 QTL mapping for phenotypes measured over time
 [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/FunQTL)
-[![github](icons16/github-icon.png)](http://github.com/kbroman/Talk_FunQTL)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_FunQTL)
 [![tgz](icons16/tgz-icon.png)](https://www.biostat.wisc.edu/~kbroman/FunQTL.tgz)
 <br/>
 [Danforth Plant Science
@@ -585,42 +585,42 @@ Open access publishing: A researcher's perspective
 
 A brief introduction to git &amp; GitHub (with [Samuel G. Younkin](http://www.stat.wisc.edu/~syounkin/))
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/GitPrimer.pdf)
-[![github](icons16/github-icon.png)](http://github.com/syounkin/GitPrimer)<br/>
+[![github](icons16/github-icon.png)](https://github.com/syounkin/GitPrimer)<br/>
 Informal presentation to graduate students, [Department of Statistics](http://www.stat.wisc.edu), [University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Oct 18_)
 
 How to display data badly
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/graphs_combined.pdf)
-[![github](icons16/github-icon.png)](http://github.com/kbroman/Talk_Graphs)<br/>
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Graphs)<br/>
 Lecture to MD/PhD students, [School of Medicine and Public Health](http://www.med.wisc.edu/), [University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Oct 16_)
 
 Interactive graphics for high-dimensional genetic data  [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/CGD2013/presentation.html)
-[![github](icons16/github-icon.png)](http://github.com/kbroman/Talk_CGD2013)<br/>
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_CGD2013)<br/>
 Jackson Laboratory, [Center for Genome Dynamics](http://cgd.jax.org), Bar Harbor, Maine (_Jun 25_)
 
 MAGIC design and other topics
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/magic_web.pdf)
-[![github](icons16/github-icon.png)](http://github.com/kbroman/Talk_MAGIC)<br/>
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_MAGIC)<br/>
 [Workshop on MAGIC-type populations](http://mus.well.ox.ac.uk/19genomes/MAGIC-WORKSHOP/) in Cambridge, UK (_Jun 12_)
 
 Interactive graphics for high-dimensional genetic data  [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/CTC2013)
-[![github](icons16/github-icon.png)](http://github.com/kbroman/Talk_CTC2013)<br/>
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_CTC2013)<br/>
 [Complex Trait Community 12th annual meeting](http://rqtl.org/ctc2013), Madison, Wisconsin (_May 31_)
 
 Why aren&rsquo;t all of our graphs interactive?  [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/InteractiveGraphs3)
-[![github](icons16/github-icon.png)](http://github.com/kbroman/Talk_InteractiveGraphs3)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_InteractiveGraphs3)
 [![tgz](icons16/tgz-icon.png)](InteractiveGraphs3.tgz)<br/>
 Biostatistics training program, [Department of Biostatistics and Medical Informatics](https://www.biostat.wisc.edu), [School of Medicine and Public Health](http://www.med.wisc.edu), [University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Apr 8_)
 
 QTL mapping for phenotypes measured over time
 [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/FunQTL)
-[![github](icons16/github-icon.png)](http://github.com/kbroman/Talk_FunQTL)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_FunQTL)
 [![tgz](icons16/tgz-icon.png)](https://www.biostat.wisc.edu/~kbroman/FunQTL.tgz)
 <br/>
 Plant Breeding Symposium, [Department of Agronomy](http://www.agronomy.ksu.edu), [Kansas State University](http://www.ksu.edu), Manhattan, KS (_Apr 2_)
 
 Interactive graphics for high-dimensional genetic data
 [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/InteractiveGraphs2)
-[![github](icons16/github-icon.png)](http://github.com/kbroman/Talk_InteractiveGraphs2)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_InteractiveGraphs2)
 <br/>
 International Biometric Society/ENAR meeting, Orlando, FL (_Mar 13_)
 
@@ -644,7 +644,7 @@ How to display data badly
 [Department of Pathology and Laboratory Medicine](http://www.pathology.wisc.edu), [University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Oct 17_)
 
 Why aren&rsquo;t all of our graphs interactive?  [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/InteractiveGraphs)
-[![github](icons16/github-icon.png)](http://github.com/kbroman/Talk_InteractiveGraphs1)<br/>
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_InteractiveGraphs1)<br/>
 [Department of Biostatistics](http://www.biostat.jhsph.edu), [Johns Hopkins Bloomberg School of Public Health](http://www.jhsph.edu), Baltimore, MD (_Oct 5_)
 
 Identifying and correcting sample mix-ups in high-dimensional data
