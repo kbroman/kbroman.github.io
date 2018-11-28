@@ -70,7 +70,7 @@ description: Karl Broman's teaching
 #### [Data Carpentry](http://www.datacarpentry.org)
 
 [UW-Madison](uw-madison-aci.github.io/2018-08-27-uwmadison-dc/)
-Madison, WI (27-28 Jun 2018)
+Madison, WI (27-28 Aug 2018)
 
   - [Course materials](https://uw-madison-aci.github.io/2018-08-27-uwmadison-dc/)
   - GitHub repository:
