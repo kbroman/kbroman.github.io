@@ -328,6 +328,8 @@ title: travel
 
 - [AAAS meeting](http://meetings.aaas.org), Feb 14-18, 2019 (Washington, DC)
 
+- CTC meeting, Jun 9-11, 2019 (La Jolla, CA)
+
 ---
 
 [UW-Madison travel policies](http://www.bussvc.wisc.edu/acct/policy/ppindex.html)
