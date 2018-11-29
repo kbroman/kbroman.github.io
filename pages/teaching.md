@@ -43,6 +43,16 @@ description: Karl Broman's teaching
 
 ### <a name="shortcourses"></a>Short courses
 
+#### [2nd International Workshop on Advanced R and R/qtl](https://www.icrisat.org/event/2nd-international-workshop-on-advanced-r-r-qtl/)
+
+[ICRISAT](http://www.icrisat.org), Patancheru, Andhra Pradesh, India
+(Dec 3-7, 2018)
+
+<https://github.com/kbroman/icrisat2018>
+
+
+---
+
 #### Reproducible Research Workshop
   [Reproducible Research Workshop](https://github.com/SISBID/Module3),
   [Summer Institute in Statistics for Big Data](https://www.biostat.washington.edu/suminst/sisbid2017/modules/BD1703),
@@ -341,16 +351,6 @@ Sep 18-24, 2002
 
 - Statistics Overview: [pdf (552k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2002/jax_stathandouts.pdf)
 - Introduction to QTL mapping: [pdf (488k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2002/jax_qtlhandouts.pdf)
-
-
----
-
-#### [2nd International Workshop on Advanced R and R/qtl](https://www.icrisat.org/event/2nd-international-workshop-on-advanced-r-r-qtl/)
-
-[ICRISAT](http://www.icrisat.org), Patancheru, Andhra Pradesh, India
-(Dec 3-7, 2018)
-
-<https://github.com/kbroman/icrisat2018>
 
 
 ---
