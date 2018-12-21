@@ -31,16 +31,6 @@ description: Karl Broman's publications
 
 #### in preparation
 
-**Broman KW**, Gatti DM, Simecek P, Furlotte NA, Prins P, Sen &#346;,
-Yandell BS, Churchill GA (2018)
-R/qtl2: software for mapping quantitative trait loci with
-high-dimensional data and multi-parent populations.
-[bioRxiv](https://www.biorxiv.org) doi:[10.1101/414748](https://doi.org/10.1101/414748)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/rqtl2_paper.pdf)
-[![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_Rqtl2)
-[![R/qtl2 software](icons16/R-icon.png)](https://kbroman.org/qtl2)
-[![doi](icons16/doi-icon.png)](https://doi.org/10.1101/414748)
-
 **Broman KW**, Gatti DM, Svenson KL, Sen &#346;, Churchill GA (2018)
 Cleaning genotype data from Diversity Outbred mice. In preparation.
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/mpp_diag.pdf)
@@ -52,6 +42,21 @@ Diversity Outbred mice. In preparation.
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/mb_mixups.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_MBmixups)
 [![R/mbmixture software](icons16/R-icon.png)](https://github.com/kbroman/mbmixture)
+
+
+#### to appear
+
+**Broman KW**, Gatti DM, Simecek P, Furlotte NA, Prins P, Sen &#346;,
+Yandell BS, Churchill GA (2018)
+R/qtl2: software for mapping quantitative trait loci with
+high-dimensional data and multi-parent populations.
+[Genetics](http://genetics.org), to appear
+([bioRxiv](https://www.biorxiv.org) doi:[10.1101/414748](https://doi.org/10.1101/414748))
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/rqtl2_paper.pdf)
+[![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_Rqtl2)
+[![R/qtl2 software](icons16/R-icon.png)](https://kbroman.org/qtl2)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1101/414748)
+
 
 #### 2018
 
