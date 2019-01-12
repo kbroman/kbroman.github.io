@@ -31,10 +31,12 @@ description: Karl Broman's publications
 
 #### in preparation
 
-**Broman KW**, Gatti DM, Svenson KL, Sen &#346;, Churchill GA (2018)
-Cleaning genotype data from Diversity Outbred mice. In preparation.
+**Broman KW**, Gatti DM, Svenson KL, Sen &#346;, Churchill GA (2019)
+Cleaning genotype data from Diversity Outbred mice.
+[bioRxiv](https://www.biorxiv.org/) doi:[10.1101/518308](https://doi.org/10.1101/518308)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/mpp_diag.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_MPPdiag)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1101/518308)
 
 Lobo AK, Traeger LL, Keller MP, Attie AD, Rey FE, **Broman KW** (2018)
 Identification of sample mix-ups and mixtures in microbiome data in
@@ -47,7 +49,7 @@ Diversity Outbred mice. In preparation.
 #### to appear
 
 **Broman KW**, Gatti DM, Simecek P, Furlotte NA, Prins P, Sen &#346;,
-Yandell BS, Churchill GA (2018)
+Yandell BS, Churchill GA (2019)
 R/qtl2: software for mapping quantitative trait loci with
 high-dimensional data and multi-parent populations.
 [Genetics](http://genetics.org), to appear
