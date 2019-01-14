@@ -4,6 +4,15 @@ title: talks
 description: Karl Broman's talks
 ---
 
+###  2019
+
+R/qtl2: rewrite of a very old R package
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rqtl2_rstudio2019.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_RStudio2019)<br/>
+[rstudio::conf](http://www.cvent.com/events/rstudio-conf-austin/event-summary-dd6d75526f3c4554b67c4de32aeffb47.aspx),
+Austin, Texas (_Jan 17_)
+
+
 ###  2018
 
 Steps toward reproducible research
