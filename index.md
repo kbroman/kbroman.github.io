@@ -61,6 +61,5 @@ Table of Contents:
         Lab1
     </a>
   </td>
-  </td>
 </tr>
 </table>
