@@ -319,16 +319,18 @@ title: travel
 
 - Jackson Lab, Oct 14-19, 2018 (Bar Harbor, Maine)
 
--->
-
 - QTL course, <a href="http://www.icrisat.org">ICRISAT</a>, Dec 3-8, 2018
   (Hyderabad, Andhra Pradesh, India)
+
+-->
 
 - [rstudio::conf](https://www.rstudio.com/conference/), Jan 15-18, 2019 (Austin, Texas)
 
 - [AAAS meeting](http://meetings.aaas.org), Feb 14-18, 2019 (Washington, DC)
 
-- CTC meeting, Jun 9-11, 2019 (La Jolla, CA)
+- [CTC meeting](http://ratgenes.org/ctc2019), Jun 9-11, 2019 (La Jolla, CA)
+
+- [JSM](https://ww2.amstat.org/meetings/jsm/2019), Jul 28 - Aug 1, 2019 (Denver, CO)
 
 ---
 
