@@ -52,3 +52,15 @@ description: Developed at BITS Pilani, KK Birla Goa Campus
   </div>
 </div>
 -->
+Table of Contents:
+
+<table class="wide">
+<tr>
+  <td>
+    <a href="pages/Lab1.html">
+        Lab1
+    </a>
+  </td>
+  </td>
+</tr>
+</table>
