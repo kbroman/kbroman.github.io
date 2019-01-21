@@ -275,7 +275,7 @@ trait locus mapping.
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/25527287)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/rqtlcharts.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_Rqtlcharts)
-[![R/qtlcharts software](icons16/R-icon.png)](http://kbroman.org/qtlcharts)
+[![R/qtlcharts software](icons16/R-icon.png)](https://kbroman.org/qtlcharts)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.114.172742)
 <!-- * 134 * -->
 <!-- https://doi.org/10.1534/genetics.114.172742 -->
