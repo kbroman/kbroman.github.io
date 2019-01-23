@@ -322,11 +322,18 @@ title: travel
 - QTL course, <a href="http://www.icrisat.org">ICRISAT</a>, Dec 3-8, 2018
   (Hyderabad, Andhra Pradesh, India)
 
--->
-
 - [rstudio::conf](https://www.rstudio.com/conference/), Jan 15-18, 2019 (Austin, Texas)
 
+-->
+
 - [AAAS meeting](http://meetings.aaas.org), Feb 14-18, 2019 (Washington, DC)
+
+- Reproducible Research workshop, [Reproducible Publications at AGILE
+  Conferences](http://o2r.info/reproducible-agile/initiative/), April
+  1-4, 2019 (Delft, The Netherlands)
+
+- Reproducible Research workshop, Boston University, May 14, 2019
+  (Boston, MA)
 
 - [CTC meeting](http://ratgenes.org/ctc2019), Jun 9-11, 2019 (La Jolla, CA)
 
