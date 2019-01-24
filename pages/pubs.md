@@ -40,10 +40,12 @@ Cleaning genotype data from Diversity Outbred mice.
 
 Lobo AK, Traeger LL, Keller MP, Attie AD, Rey FE, **Broman KW** (2018)
 Identification of sample mix-ups and mixtures in microbiome data in
-Diversity Outbred mice. In preparation.
+Diversity Outbred mice.
+[bioRxiv](https://www.biorxiv.org/) doi:[10.1101/529040](https://doi.org/10.1101/529040)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/mb_mixups.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_MBmixups)
 [![R/mbmixture software](icons16/R-icon.png)](https://github.com/kbroman/mbmixture)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1101/529040)
 
 
 #### to appear
