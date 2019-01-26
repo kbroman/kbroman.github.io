@@ -328,6 +328,10 @@ title: travel
 
 - [AAAS meeting](http://meetings.aaas.org), Feb 14-18, 2019 (Washington, DC)
 
+- [Chicago R Unconference](https://chirunconf.github.io/), Center for
+  [Spatial Data Analysis](https://spatial.uchicago.edu), University of
+  Chicago, Mar 9-10, 2019 (Chicago, IL)
+
 - Reproducible Research workshop, [Reproducible Publications at AGILE
   Conferences](http://o2r.info/reproducible-agile/initiative/), April
   1-4, 2019 (Delft, The Netherlands)
