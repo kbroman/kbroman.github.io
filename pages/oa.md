@@ -85,7 +85,7 @@ ex/g27-copyrightable-instructions-materials-ownership-use-and-control/),
 
   - [List of journals that have requested waivers from the UC policy](http://osc.universityofcalifornia.edu/open-access-policy/publisher-communications/)
 
-- [Annotated/deconstructed version of those policies](http://kbroman.org/pages/annotated_oa.html)
+- [Annotated/deconstructed version of those policies](https://kbroman.org/pages/annotated_oa.html)
 
 - [University of Illinois Urbana-Champaign policy](http://www.senate.illinois.edu/sc1512.pdf)
 

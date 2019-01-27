@@ -18,10 +18,10 @@ description: Karl Broman's teaching
 
 ### <a name="current"></a>Current courses
 
-#### [Tools for reproducible research](http://kbroman.org/Tools4RR) (BMI 826-003; Spring, 2016)
+#### [Tools for reproducible research](https://kbroman.org/Tools4RR) (BMI 826-003; Spring, 2016)
 
-- [Schedule](http://kbroman.org/Tools4RR/pages/schedule.html)
-- [Resources and further reading](http://kbroman.org/Tools4RR/pages/resources.html)
+- [Schedule](https://kbroman.org/Tools4RR/pages/schedule.html)
+- [Resources and further reading](https://kbroman.org/Tools4RR/pages/resources.html)
 
 #### Statistical methods for molecular biology (Stat 877), with many others
 
@@ -204,8 +204,8 @@ Oct 16-Oct 22, 2016
 - [R/qtl](http://www.rqtl.org) laboratory:
   [pdf (50k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2016/rqtltour2.pdf)
   | [code](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2016/rqtltour2.R)
-- [R/qtlcharts](http://kbroman.org/qtlcharts):
-  [user guide](http://kbroman.org/qtlcharts/assets/vignettes/userGuide.html)
+- [R/qtlcharts](https://kbroman.org/qtlcharts):
+  [user guide](https://kbroman.org/qtlcharts/assets/vignettes/userGuide.html)
 
 Sep 27-Oct 3, 2015
 
@@ -222,8 +222,8 @@ Sep 27-Oct 3, 2015
 - [R/qtl](http://www.rqtl.org) laboratory:
   [pdf (50k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2014/rqtltour2.pdf)
   | [code](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2014/rqtltour2.R)
-- [R/qtlcharts](http://kbroman.org/qtlcharts):
-  [user guide](http://kbroman.org/qtlcharts/assets/vignettes/userGuide.html)
+- [R/qtlcharts](https://kbroman.org/qtlcharts):
+  [user guide](https://kbroman.org/qtlcharts/assets/vignettes/userGuide.html)
 
 Sep 27-Oct 4, 2014
 
@@ -449,7 +449,7 @@ Summer, 2002
 Statistical Consulting course, [Department of Statistics](http://www.stat.wisc.edu), [UW&ndash;Madison](http://www.wisc.edu) <br/>
 
 - [Slides (pdf)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/consulting.pdf) [[source on github](http://github.com/kbroman/Talk_StatConsulting.git)]
-- [Related blog post](http://kbroman.wordpress.com/2013/04/02/thoughts-on-statistical-consulting/)
+- [Related blog post](https://kbroman.wordpress.com/2013/04/02/thoughts-on-statistical-consulting/)
 
 
 ---
@@ -524,7 +524,7 @@ How to build a web page<br/>
 
 ### <a name="old"></a>Former courses at UW-Madison
 
-#### [Plant breeding and plant genetics seminar](http://kbroman.org/PBPG957_Sp2018) (Agronomy 957; Spring, 2018)
+#### [Plant breeding and plant genetics seminar](https://kbroman.org/PBPG957_Sp2018) (Agronomy 957; Spring, 2018)
 
 #### [Statistical methods for QTL mapping](https://www.biostat.wisc.edu/~kbroman/teaching/qtltopics) (BMI 826-001; Fall, 2012)
 
