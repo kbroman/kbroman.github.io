@@ -39,4 +39,4 @@ predictors (BLUPs) of the eight haplotype effects in the additive
 model, along with the LOD curve on chromosome 1. (E) SNP association
 results in the region of the chromosome 1 QTL, along with genes in the
 region; SNPs with LOD scores within 1.5 of the maximum are highlighted
-in pink. All figures are produced with R/qtl2.
+in pink. All figures are produced with [R/qtl2](https://kbroman.org/qtl2).
