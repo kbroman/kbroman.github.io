@@ -48,19 +48,18 @@ Diversity Outbred mice.
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1101/529040)
 
 
-#### to appear
+#### 2019
 
 **Broman KW**, Gatti DM, Simecek P, Furlotte NA, Prins P, Sen &#346;,
 Yandell BS, Churchill GA (2019)
 R/qtl2: software for mapping quantitative trait loci with
 high-dimensional data and multi-parent populations.
-[Genetics](http://genetics.org), to appear
-([bioRxiv](https://www.biorxiv.org) doi:[10.1101/414748](https://doi.org/10.1101/414748))
+[Genetics](http://genetics.org) 211:495-502
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/30591514)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/rqtl2_paper.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_Rqtl2)
 [![R/qtl2 software](icons16/R-icon.png)](https://kbroman.org/qtl2)
-[![doi](icons16/doi-icon.png)](https://doi.org/10.1101/414748)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.118.301595)
 
 
 #### 2018
