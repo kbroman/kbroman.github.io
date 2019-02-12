@@ -6,6 +6,13 @@ description: Karl Broman's talks
 
 ###  2019
 
+Salvaging a genetics project: Identifying and correcting sample
+mix-ups in high-dimensional data
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/bds2019.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_SampleMixups) <br/>
+[Bio-Data Science Training Program](https://www.biostat.wisc.edu/content/predoctoral-training-program-bio-data-science-bds), [University of Wisconsin&ndash;Madison](https://www.wisc.edu)
+(_Feb 21_)
+
 Why reproducible research?
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/whyrr2019.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_WhyRR) <br/>
