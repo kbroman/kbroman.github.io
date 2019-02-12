@@ -6,6 +6,11 @@ description: Karl Broman's talks
 
 ###  2019
 
+Collaborating reproducibly
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rrcollab_aaas2019.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_AAAS2019) </br>
+[AAAS meeting](https://meetings.aaas.org/), Washington, DC (_Feb 17_)
+
 R/qtl2: rewrite of a very old R package
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rqtl2_rstudio2019.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_RStudio2019)
