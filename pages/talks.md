@@ -40,7 +40,7 @@ Steps toward reproducible research
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/cmp2018.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_CMP2018)<br/>
 [Cellular & Molecular Pathology Graduate Program](http://cmp.wisc.edu),
-[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Nov 29_)
+[University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Nov 29_)
 
 
 Steps toward reproducible research
@@ -48,7 +48,7 @@ Steps toward reproducible research
 [![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)<br/>
 [CIBM program](http://www.cibm.wisc.edu),
-[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Nov 27_)
+[University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Nov 27_)
 
 
 Creating effective figures and tables
@@ -56,7 +56,7 @@ Creating effective figures and tables
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Graphs)
 <br/>
 Presentation in a seminar course for MD-PhD students,
-[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Oct 29_)
+[University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Oct 29_)
 
 
 Cleaning genotype data in diversity outbred mice
@@ -80,7 +80,7 @@ Steps toward reproducible research
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)<br/>
 [Summer Research Program in Biomedical Data Science](https://www.biostat.wisc.edu/content/summer-research),
 [Department of Biostatistics & Medical Informatics](https://www.biostat.wisc.edu),
-[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Jul 11_)
+[University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Jul 11_)
 
 
 Cleaning genotype data in diversity outbred mice
@@ -114,7 +114,7 @@ Steps toward reproducible research
 [![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)<br/>
 [David O'Connor's lab](http://labs.pathology.wisc.edu/oconnor),
-[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Mar 19_)
+[University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Mar 19_)
 
 
 18 years of R/qtl: maintaining, supporting, and sustaining scientific software<br/>
@@ -159,7 +159,7 @@ Creating effective figures and tables
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Graphs)
 <br/>
 Presentation in a seminar course for MD-PhD students,
-[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Oct 25_)
+[University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Oct 25_)
 
 R/qtl2: high-dimensional data & multi-parent populations <br/>
 &nbsp; &nbsp; &nbsp; Slides:
@@ -197,7 +197,7 @@ mice from Gough Island<br/>
 [![growth rate](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/BDS2017-07/iplot_deriv_bodyweight.html)<br/>
 [Summer Research Program in Biomedical Data Science](https://www.biostat.wisc.edu/content/summer-research),
 [Department of Biostatistics & Medical Informatics](https://www.biostat.wisc.edu),
-[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Jul 26_)
+[University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Jul 26_)
 
 R/qtl2: high-dimensional data & multi-parent populations
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rqtl2_ctc2017.pdf)
@@ -211,7 +211,7 @@ Steps toward reproducible research
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)<br/>
 [Summer Research Program in Biomedical Data Science](https://www.biostat.wisc.edu/content/summer-research),
 [Department of Biostatistics & Medical Informatics](https://www.biostat.wisc.edu),
-[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Jun 7_)
+[University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Jun 7_)
 
 Steps toward reproducible research
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_JAX2017.pdf)
@@ -238,7 +238,7 @@ Complex trait genetics in mice
 [![LOD curve](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/D3/lod_and_effect)
 [![eQTL plot](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/D3/cistrans)<br/>
 [Biostatistics &amp; Medical Informatics](https://www.biostat.wisc.edu),
-[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Mar 31_)
+[University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Mar 31_)
 
 Steps toward reproducible research
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rrworkshop_2017-03.pdf)
@@ -272,7 +272,7 @@ Creating effective figures and tables
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Graphs)
 <br/>
 [Department of Pathology and Laboratory Medicine](http://www.pathology.wisc.edu),
-[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Jan 26_)
+[University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Jan 26_)
 
 
 
@@ -298,7 +298,7 @@ Creating effective figures and tables
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Graphs/tree/MDPhD2016)
 <br/>
 Presentation in a seminar course for MD-PhD students,
-[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Oct 26_)
+[University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Oct 26_)
 
 Creating effective figures and tables
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/graphs_CDHA2016.pdf)
@@ -306,7 +306,7 @@ Creating effective figures and tables
 <br/>
 [Demography Training Seminar](http://www.ssc.wisc.edu/cdha/seminars/training.html),
 [Center for Demography of Health and Aging](http://www.ssc.wisc.edu/cdha/),
-[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Oct 5_)
+[University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Oct 5_)
 
 Dissection and fine-mapping of _trans_-eQTL hotspots
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/qrw2016.pdf)
@@ -355,14 +355,14 @@ Steps toward reproducible research
 [![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_CBB2016_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)<br/>
 [Computational Biology and Biostatistics Summer Research Program](https://www.biostat.wisc.edu/content/computational-biology-and-biostatistics-summer-research-program-cbb),
-[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Jun 7_)
+[University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Jun 7_)
 
 Steps toward reproducible research
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_ComBEE2016.pdf)
 [![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_ComBEE2016_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)<br/>
 [Computational Biology, Ecology & Evolution](https://sites.google.com/a/wisc.edu/combee/),
-[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_May 25_)
+[University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_May 25_)
 
 Dissection and fine-mapping of _trans_-eQTL hotspots
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/cornell2016.pdf)
@@ -408,7 +408,7 @@ Reproducible research
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)
 <br/>
 [Holz Series in Research Data Management](http://researchdata.wisc.edu/holz-series/),
-[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Nov 18_)
+[University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Nov 18_)
 
 Reproducible research
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_Memphis2015.pdf)
@@ -433,13 +433,13 @@ Creating effective figures and tables
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Graphs/tree/MDPhD2014)
 <br/>
 Presentation in a seminar course for MD-PhD students,
-[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Oct 28_)
+[University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Oct 28_)
 
 Interactive graphics for genetic data
 [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/BMI2015)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_BMI2015)<br/>
 [Department of Biostatistics and Medical Informatics](https://www.biostat.wisc.edu),
-[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Oct 16_)
+[University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Oct 16_)
 
 The genetic analysis of high-throughput phenotypes
 [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/Texas2015)
@@ -464,7 +464,7 @@ Reproducible research
 [![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_SIBS2015_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes/tree/SIBS2015)
 <br/>
-[Summer Institute for Training in Biostatistics (SIBS)](https://www.biostat.wisc.edu/content/summer-institute-training-biostatistics-sibs), [University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Jul 9_)
+[Summer Institute for Training in Biostatistics (SIBS)](https://www.biostat.wisc.edu/content/summer-institute-training-biostatistics-sibs), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Jul 9_)
 
 Dissecting and fine-mapping _trans_-eQTL hotspots
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/trans_eqtl_hotspots.pdf)
@@ -489,14 +489,14 @@ Reproducible research
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes/tree/MoMiEE)
 <br/>
 Molecular Microbial Ecology and Evolution (MoMiEE) group,
-[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_May 11_)
+[University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_May 11_)
 
 Interactive graphics
 [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/Showcase2015)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Showcase2015)<br/>
 [16th Annual Showcase](http://quality.wisc.edu/showcase.htm),
 [Center for Quality Improvement](http://quality.wisc.edu/),
-[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Apr 14_)
+[University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Apr 14_)
 
 Interactive graphics for high-dimensional genetic data
 [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/WEHI2015)
@@ -526,7 +526,7 @@ Interactive graphics for teaching
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_iGraphs4Teaching)<br/>
 [Delta Program](http://delta.wisc.edu)
 [Round Table](http://delta.wisc.edu/events/roundtable.html),
-[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Nov 20_)
+[University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Nov 20_)
 
 Interactive graphics for high-dimensional genetic data
 [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/InteractiveGraphs4)
@@ -539,21 +539,21 @@ Open access publishing: A researcher's perspective
 [![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/openaccess2014_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_OpenAccess)<br/>
 [Scholarly Publishing Symposium](http://www.library.wisc.edu/news/scholarly-publishing-symposium-2014/),
-[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Oct 30_)
+[University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Oct 30_)
 
 Creating effective figures and tables
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/graphs_MDPhD2014.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Graphs/tree/MDPhD2014)
 <br/>
 Presentation in a seminar course for MD-PhD students,
-[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Oct 29_)
+[University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Oct 29_)
 
 How to display data badly
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/graphs_cmp2014.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Graphs/tree/cmp2014)
 <br/>
 [Department of Pathology and Laboratory Medicine](http://www.pathology.wisc.edu),
-[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Sep 17_)
+[University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Sep 17_)
 
 Interactive graphics for
 high-dimensional genetic data
@@ -578,7 +578,7 @@ Creating effective figures and tables
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Graphs/tree/ictr2014)
 <br/>
 [Institute for Clinical and Translational Research](http://ictr.wisc.edu),
-[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_May 16_)
+[University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_May 16_)
 
 QTL mapping for phenotypes measured over time
 [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/FunQTL)
@@ -594,7 +594,7 @@ Creating effective figures and tables
 <br/>
 [Manuscript writing
 workshop](https://ictr.wisc.edu/SciWritingWorkshop), [Institute for Clinical and Translational Research](http://ictr.wisc.edu),
-[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Jan 24_)
+[University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Jan 24_)
 
 
 
@@ -611,17 +611,17 @@ Open access publishing: A researcher's perspective
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/openaccess.pdf)
 [![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/openaccess_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_OpenAccess/tree/2013-10)<br/>
-[Open Access, Open Data @ UW](http://researchdata.wisc.edu/open-access-open-data/) symposium, [University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Oct 24_)
+[Open Access, Open Data @ UW](http://researchdata.wisc.edu/open-access-open-data/) symposium, [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Oct 24_)
 
 A brief introduction to git &amp; GitHub (with [Samuel G. Younkin](http://www.stat.wisc.edu/~syounkin/))
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/GitPrimer.pdf)
 [![github](icons16/github-icon.png)](https://github.com/syounkin/GitPrimer)<br/>
-Informal presentation to graduate students, [Department of Statistics](http://www.stat.wisc.edu), [University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Oct 18_)
+Informal presentation to graduate students, [Department of Statistics](http://www.stat.wisc.edu), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Oct 18_)
 
 How to display data badly
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/graphs_combined.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Graphs)<br/>
-Lecture to MD/PhD students, [School of Medicine and Public Health](http://www.med.wisc.edu/), [University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Oct 16_)
+Lecture to MD/PhD students, [School of Medicine and Public Health](http://www.med.wisc.edu/), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Oct 16_)
 
 Interactive graphics for high-dimensional genetic data  [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/CGD2013/presentation.html)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_CGD2013)<br/>
@@ -639,7 +639,7 @@ Interactive graphics for high-dimensional genetic data  [![html](icons16/html-ic
 Why aren&rsquo;t all of our graphs interactive?  [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/InteractiveGraphs3)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_InteractiveGraphs3)
 [![tgz](icons16/tgz-icon.png)](InteractiveGraphs3.tgz)<br/>
-Biostatistics training program, [Department of Biostatistics and Medical Informatics](https://www.biostat.wisc.edu), [School of Medicine and Public Health](http://www.med.wisc.edu), [University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Apr 8_)
+Biostatistics training program, [Department of Biostatistics and Medical Informatics](https://www.biostat.wisc.edu), [School of Medicine and Public Health](http://www.med.wisc.edu), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Apr 8_)
 
 QTL mapping for phenotypes measured over time
 [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/FunQTL)
@@ -657,12 +657,12 @@ International Biometric Society/ENAR meeting, Orlando, FL (_Mar 13_)
 Identifying and correcting sample mix-ups in high-dimensional genetic data
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/anisci2013.pdf)
 <br/>
-[Department of Animal Sciences](http://http://www.ansci.wisc.edu), [University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Feb 12_)
+[Department of Animal Sciences](http://http://www.ansci.wisc.edu), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Feb 12_)
 
 Identifying and correcting sample mix-ups in high-dimensional genetic data
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/bmi2013.pdf)
 <br/>
-[Department of Biostatistics and Medical Informatics](https://www.biostat.wisc.edu), [University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Feb 8_)
+[Department of Biostatistics and Medical Informatics](https://www.biostat.wisc.edu), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Feb 8_)
 
 
 
@@ -671,7 +671,7 @@ Identifying and correcting sample mix-ups in high-dimensional genetic data
 How to display data badly
 [![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/graphs_uwpath2012.pptx)
 <br/>
-[Department of Pathology and Laboratory Medicine](http://www.pathology.wisc.edu), [University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Oct 17_)
+[Department of Pathology and Laboratory Medicine](http://www.pathology.wisc.edu), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Oct 17_)
 
 Why aren&rsquo;t all of our graphs interactive?  [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/InteractiveGraphs)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_InteractiveGraphs1)<br/>
@@ -692,7 +692,7 @@ International Biometric Society/ENAR meeting, Washington, DC (_Apr 2_)
 Programming style
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/programming_style.pdf)
 <br/>
-Biostatistics training program, [Department of Biostatistics and Medical Informatics](https://www.biostat.wisc.edu), [School of Medicine and Public Health](http://www.med.wisc.edu), [University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Feb 29_)
+Biostatistics training program, [Department of Biostatistics and Medical Informatics](https://www.biostat.wisc.edu), [School of Medicine and Public Health](http://www.med.wisc.edu), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Feb 29_)
 
 
 
@@ -756,7 +756,7 @@ Mapping QTL to a phylogenetic tree
 How to give a scientific presentation
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/giving_talks.pdf)
 <br/>
-Biostatistics training program, [Department of Biostatistics and Medical Informatics](https://www.biostat.wisc.edu), [School of Medicine and Public Health](http://www.med.wisc.edu), [University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Apr 5_)
+Biostatistics training program, [Department of Biostatistics and Medical Informatics](https://www.biostat.wisc.edu), [School of Medicine and Public Health](http://www.med.wisc.edu), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Apr 5_)
 
 Mapping QTL to a phylogenetic tree
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/michstate10.pdf)
@@ -771,7 +771,7 @@ Integrative Genomics Seminar Series, [Vanderbilt University](http://www.vanderbi
 Mapping QTL to a phylogenetic tree
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/uwevolution10.pdf)
 <br/>
-[Evolution seminar series](http://www.evolution.wisc.edu/seminars.php), [University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Mar 4_)
+[Evolution seminar series](http://www.evolution.wisc.edu/seminars.php), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Mar 4_)
 
 Mapping QTL to a phylogenetic tree
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/unc10.pdf)
@@ -796,25 +796,25 @@ Mapping QTL to a phylogenetic tree
 <br/>
 [Laboratory of
 Genetics](http://www.genetics.wisc.edu), [University of
-Wisconsin&ndash;Madison](http://www.wisc.edu) (_Nov 18_)
+Wisconsin&ndash;Madison](https://www.wisc.edu) (_Nov 18_)
 
 An applied statistician does probability: It&rsquo;s not pretty
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/uwstat09.pdf)
 <br/>
 [Department of Statistics](http://www.stat.wisc.edu/),
-[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Oct 7_)
+[University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Oct 7_)
 
 How to display data badly
 [![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/graphs_uwpath09.ppt)
 <br/>
-[Department of Pathology and Laboratory Medicine](http://www.pathology.wisc.edu), [University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Sep 30_)
+[Department of Pathology and Laboratory Medicine](http://www.pathology.wisc.edu), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Sep 30_)
 
 Genetic maps: Past, present and future
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/chair09.pdf)
 <br/>
 [Department of Biostatistics and Medical Informatics](https://www.biostat.wisc.edu),
 [School of Medicine and Public Health](http://www.med.wisc.edu/),
-[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Sep 17_)
+[University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Sep 17_)
 
 Genotype probabilities in the pre-CC
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/jax_cgd_09.pdf)
@@ -837,12 +837,12 @@ Mapping multiple QTL in experimental crosses
 Crossover interference and the sex difference in recombination
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/uwstat08.pdf)
 <br/>
-[Department of Statistics](http://www.stat.wisc.edu), [University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Sep 10_)
+[Department of Statistics](http://www.stat.wisc.edu), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Sep 10_)
 
 Mapping multiple QTL in experimental crosses
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/gstpretreat08.pdf)
 <br/>
-[Genomic Sciences Training Program](http://www.gstp.wisc.edu) [annual retreat](http://www.gstp.wisc.edu/events/retreat.htm), [University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Jun 9_)
+[Genomic Sciences Training Program](http://www.gstp.wisc.edu) [annual retreat](http://www.gstp.wisc.edu/events/retreat.htm), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Jun 9_)
 
 Mapping multiple QTL in experimental crosses
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/banff08.pdf)
@@ -857,24 +857,24 @@ Mapping multiple QTL in experimental crosses
 Genetic maps: Past, present and future
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/cibm08.pdf)
 <br/>
-[Computation and Informatics in Biology and Medicine (CIBM)](http://www.cibm.wisc.edu) [seminar series](http://www.cibm.wisc.edu/seminars.html), [University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Apr 22_)
+[Computation and Informatics in Biology and Medicine (CIBM)](http://www.cibm.wisc.edu) [seminar series](http://www.cibm.wisc.edu/seminars.html), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Apr 22_)
 
 Genetic maps: Past, present and future
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/geneticmaps08.pdf)
 <br/>
-[Evolution seminar series](http://www.evolution.wisc.edu/seminars.php), [University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Feb 21_)
+[Evolution seminar series](http://www.evolution.wisc.edu/seminars.php), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Feb 21_)
 
 Mapping multiple QTL in experimental crosses
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/animalbreeding08.pdf)
 [![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/animalbreeding08_bw-2x2.pdf)
 <br/>
-Graduate Seminar, [Department of Animal Sciences](http://www.anisci.wisc.edu), [University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Feb 12_)
+Graduate Seminar, [Department of Animal Sciences](http://www.anisci.wisc.edu), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Feb 12_)
 
 How to display data badly
 [![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/graphs_uwpath08.ppt)
 [![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/graphs_uwpath08_handout.pdf)
 <br/>
-[Department of Pathology and Laboratory Medicine](http://www.pathology.wisc.edu), [University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Jan 30_)
+[Department of Pathology and Laboratory Medicine](http://www.pathology.wisc.edu), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Jan 30_)
 
 
 
@@ -904,7 +904,7 @@ Crossover interference and the sex difference in recombination
 [![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/geneticsRetreat07_bw-2x2.pdf)
 <br/>
 Annual Retreat, [Laboratory of Genetics](http://www.genetics.wisc.edu),
-[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Oct 5_)
+[University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Oct 5_)
 
 Mapping multiple QTL in experimental crosses
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/niu07b.pdf)
@@ -927,7 +927,7 @@ Mapping multiple QTL in experimental crosses
 <br/>
 [Department of
 Biostatistics and Medical Informatics](https://www.biostat.wisc.edu), [University of
-Wisconsin&ndash;Madison](http://www.wisc.edu) (_Mar 22_)
+Wisconsin&ndash;Madison](https://www.wisc.edu) (_Mar 22_)
 
 The genomes of recombinant inbred lines
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/la07.pdf)
@@ -997,7 +997,7 @@ The genomes of recombinant inbred lines
 [![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/wisc06.ppt)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/wisc06_ho.pdf)
 <br/>
-[Genetics](http://www.genetics.wisc.edu), [University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_Apr 5_)
+[Genetics](http://www.genetics.wisc.edu), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Apr 5_)
 
 Principles of experimental design and sample
 size determination for animal-based research
