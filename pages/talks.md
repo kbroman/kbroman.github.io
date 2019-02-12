@@ -6,6 +6,14 @@ description: Karl Broman's talks
 
 ###  2019
 
+Why reproducible research?
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/whyrr.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_WhyRR) <br/>
+[Emerging Research Scholars
+Program](https://www.library.wisc.edu/ers-data/), [Steenbock
+Library](https://www.library.wisc.edu/steenbock/), [University of Wisconsin&ndash;Madison](https://www.wisc.edu)
+(_Feb 19_)
+
 Collaborating reproducibly
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rrcollab_aaas2019.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_AAAS2019) <br/>
