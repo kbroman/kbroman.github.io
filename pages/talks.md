@@ -22,7 +22,8 @@ Library](https://www.library.wisc.edu/steenbock/), [University of Wisconsin&ndas
 (_Feb 19_)
 
 Collaborating reproducibly
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rrcollab_aaas2019.pdf)
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rrcollab_aaas2019_nonotes.pdf)
+[![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rrcollab_aaas2019.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_AAAS2019) <br/>
 [AAAS meeting](https://meetings.aaas.org/), Washington, DC (_Feb 17_)
 
