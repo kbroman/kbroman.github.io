@@ -324,9 +324,9 @@ title: travel
 
 - [rstudio::conf](https://www.rstudio.com/conference/), Jan 15-18, 2019 (Austin, Texas)
 
--->
-
 - [AAAS meeting](http://meetings.aaas.org), Feb 14-18, 2019 (Washington, DC)
+
+-->
 
 - [Chicago R Unconference](https://chirunconf.github.io/), Center for
   [Spatial Data Analysis](https://spatial.uchicago.edu), University of
