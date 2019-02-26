@@ -18,26 +18,19 @@ description: Karl Broman's teaching
 
 ### <a name="current"></a>Current courses
 
-#### [Tools for reproducible research](https://kbroman.org/Tools4RR) (BMI 826-003; Spring, 2016)
-
-- [Schedule](https://kbroman.org/Tools4RR/pages/schedule.html)
-- [Resources and further reading](https://kbroman.org/Tools4RR/pages/resources.html)
-
 #### Statistical methods for molecular biology (Stat 877), with many others
 
-- [QTL mapping part 1 (pdf)](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/broman_qtl1.pdf)
-- [QTL mapping part 2 (pdf)](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/broman_qtl2.pdf)
-- [R/qtl tutorial (pdf)](http://www.rqtl.org/tutorials/rqtltour2.pdf)
+- [Introduction to QTL
+  mapping](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/1_introqtl.pdf)
+- [R/qtl script](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/1_rqtl.R)
+- [Multi-parent populations](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/2_mpp.pdf)
+- [Steps toward reproducible research](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/3_repro_research.pdf)
 - Homework: \[[assignment
-(pdf)](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/hw1.pdf) | [data (csv)](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/hw1.csv)\]
+(pdf)](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/hw3.pdf) | [data (csv)](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/hw3.csv)\]
 <!--
- | [solutions (html)](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/hw1_solns.html)
- | [source (Rmd)](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/hw1_solns.Rmd)\]
+ | [solutions (html)](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/hw3_solns.html)
+ | [source (Rmd)](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/hw3_solns.Rmd)\]
 -->
-- Older lectures:
-  - [Meiosis and recombination](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/broman_recombination.pdf)
-  - [Nonparametric linkage analysis in humans](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/broman_nplinkage.pdf)
-  - [QTL mapping in humans](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/broman_humanqtl.pdf)
 
 ---
 
@@ -523,6 +516,11 @@ How to build a web page<br/>
 ---
 
 ### <a name="old"></a>Former courses at UW-Madison
+
+#### [Tools for reproducible research](https://kbroman.org/Tools4RR) (BMI 826-003; Spring, 2016)
+
+- [Schedule](https://kbroman.org/Tools4RR/pages/schedule.html)
+- [Resources and further reading](https://kbroman.org/Tools4RR/pages/resources.html)
 
 #### [Plant breeding and plant genetics seminar](https://kbroman.org/PBPG957_Sp2018) (Agronomy 957; Spring, 2018)
 
