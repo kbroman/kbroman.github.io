@@ -23,6 +23,10 @@ description: Karl Broman's teaching
 - [Introduction to QTL
   mapping](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/1_introqtl.pdf)
 - [R/qtl script](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/1_rqtl.R)
+- Interactive graphs:
+  [EM algorithm](https://www.biostat.wisc.edu/~kbroman/D3/em_alg/) |
+  [LOD curves and QTL effects](https://www.biostat.wisc.edu/~kbroman/D3/lod_and_effect/) |
+  [permutation test](https://www.biostat.wisc.edu/~kbroman/D3/lod_random/)
 - [Multi-parent populations](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/2_mpp.pdf)
 - [Steps toward reproducible research](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/3_repro_research.pdf)
 - Homework: \[[assignment
