@@ -49,7 +49,7 @@ Diversity Outbred mice.
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1101/529040)
 
 
-#### To appear
+#### to appear
 
 **Broman KW**, Gatti DM, Svenson KL, Sen &#346;, Churchill GA (2019)
 Cleaning genotype data from Diversity Outbred mice.
