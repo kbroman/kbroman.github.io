@@ -76,6 +76,8 @@ high-dimensional data and multi-parent populations.
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_Rqtl2)
 [![R/qtl2 software](icons16/R-icon.png)](https://kbroman.org/qtl2)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.118.301595)
+<!-- * 153 * -->
+<!-- https://doi.org/10.1534/genetics.118.301595 -->
 
 
 #### 2018
