@@ -54,10 +54,14 @@ Diversity Outbred mice.
 **Broman KW**, Gatti DM, Svenson KL, Sen &#346;, Churchill GA (2019)
 Cleaning genotype data from Diversity Outbred mice.
 [G3](http://g3journal.org), to appear
-[bioRxiv](https://www.biorxiv.org/) doi:[10.1101/518308](https://doi.org/10.1101/518308)
+([bioRxiv](https://www.biorxiv.org/) doi:[10.1101/518308](https://doi.org/10.1101/518308))
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/mpp_diag.pdf)
+[![supporting info](icons16/supp-icon.png)](https://doi.org/10.25387/g3.7848395)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_MPPdiag)
-[![doi](icons16/doi-icon.png)](https://doi.org/10.1101/518308)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1534/g3.119.400165)
+
+<!-- * 154 * -->
+<!-- https://doi.org/10.1534/g3.119.400165 -->
 
 
 #### 2019
