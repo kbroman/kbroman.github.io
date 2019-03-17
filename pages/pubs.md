@@ -55,6 +55,7 @@ Diversity Outbred mice.
 Cleaning genotype data from Diversity Outbred mice.
 [G3](http://g3journal.org), to appear
 ([bioRxiv](https://www.biorxiv.org/) doi:[10.1101/518308](https://doi.org/10.1101/518308))
+[![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/30877082)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/mpp_diag.pdf)
 [![supporting info](icons16/supp-icon.png)](https://doi.org/10.25387/g3.7848395)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_MPPdiag)
