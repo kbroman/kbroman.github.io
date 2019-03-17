@@ -60,7 +60,6 @@ Cleaning genotype data from Diversity Outbred mice.
 [![supporting info](icons16/supp-icon.png)](https://doi.org/10.25387/g3.7848395)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_MPPdiag)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/g3.119.400165)
-
 <!-- * 154 * -->
 <!-- https://doi.org/10.1534/g3.119.400165 -->
 
