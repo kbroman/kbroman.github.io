@@ -343,7 +343,7 @@ title: travel
 
 - [JSM](https://ww2.amstat.org/meetings/jsm/2019), Jul 28 - Aug 1, 2019 (Denver, CO)
 
-- Systems genetics workshop, Jackson Lab, Oct, 2019 (Bar Harbor, ME)
+- Systems genetics workshop, Jackson Lab, Oct 21-26, 2019 (Bar Harbor, ME)
 
 ---
 
