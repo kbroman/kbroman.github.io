@@ -39,13 +39,6 @@ Testing pleiotropy vs. separate QTL in multiparental populations.
 [![qtl2pleio software](icons16/R-icon.png)](https://github.com/fboehm/qtl2pleio)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1101/550939)
 
-**Broman KW**, Gatti DM, Svenson KL, Sen &#346;, Churchill GA (2019)
-Cleaning genotype data from Diversity Outbred mice.
-[bioRxiv](https://www.biorxiv.org/) doi:[10.1101/518308](https://doi.org/10.1101/518308)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/mpp_diag.pdf)
-[![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_MPPdiag)
-[![doi](icons16/doi-icon.png)](https://doi.org/10.1101/518308)
-
 Lobo AK, Traeger LL, Keller MP, Attie AD, Rey FE, **Broman KW** (2019)
 Identification of sample mix-ups and mixtures in microbiome data in
 Diversity Outbred mice.
@@ -54,6 +47,21 @@ Diversity Outbred mice.
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_MBmixups)
 [![R/mbmixture software](icons16/R-icon.png)](https://github.com/kbroman/mbmixture)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1101/529040)
+
+
+#### to appear
+
+**Broman KW**, Gatti DM, Svenson KL, Sen &#346;, Churchill GA (2019)
+Cleaning genotype data from Diversity Outbred mice.
+[G3](http://g3journal.org), to appear
+([bioRxiv](https://www.biorxiv.org/) doi:[10.1101/518308](https://doi.org/10.1101/518308))
+[![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/30877082)
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/mpp_diag.pdf)
+[![supporting info](icons16/supp-icon.png)](https://doi.org/10.25387/g3.7848395)
+[![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_MPPdiag)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1534/g3.119.400165)
+<!-- * 154 * -->
+<!-- https://doi.org/10.1534/g3.119.400165 -->
 
 
 #### 2019
@@ -68,6 +76,8 @@ high-dimensional data and multi-parent populations.
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_Rqtl2)
 [![R/qtl2 software](icons16/R-icon.png)](https://kbroman.org/qtl2)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.118.301595)
+<!-- * 153 * -->
+<!-- https://doi.org/10.1534/genetics.118.301595 -->
 
 
 #### 2018
@@ -273,7 +283,7 @@ sunflower. [Mol Ecol](http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291
 24:2194-2211
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/25522096)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/whitney2015.pdf)
-[![Supplementary material](icons16/supp-icon.png)](http://onlinelibrary.wiley.com/doi/10.1111/mec.13044/suppinfo)
+[![supplementary material](icons16/supp-icon.png)](http://onlinelibrary.wiley.com/doi/10.1111/mec.13044/suppinfo)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1111/mec.13044)
 <!-- * 135 * -->
 <!-- https://doi.org/10.1111/mec.13044 -->
@@ -470,7 +480,7 @@ Quantile-based permutation thresholds for quantitative trait loci hotspots.
 King EG, Merkes CM, McNeil CL, Hoofer SR, Sen S, **Broman KW**, Long AD, Macdonald SJ (2012)  Genetic dissection of a model complex trait using the <i>Drosophila</i> Synthetic Population Resource.  [Genome Res](http://www.genome.org/) 22:1558-1566
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/22496517)
 [![pdf (1.8M)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/dspr.pdf)
-[![Supplementary material](icons16/supp-icon.png)](http://genome.cshlp.org/content/22/8/1558/suppl/DC1)
+[![supplementary material](icons16/supp-icon.png)](http://genome.cshlp.org/content/22/8/1558/suppl/DC1)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1101/gr.134031.111)
 <!-- * 115 * -->
 <!-- https://doi.org/10.1101/gr.134031.111 -->
@@ -478,7 +488,7 @@ King EG, Merkes CM, McNeil CL, Hoofer SR, Sen S, **Broman KW**, Long AD, Macdona
 Wang CY, Stapleton DS, Schueler KL, Rabaglia ME, Oler AT, Keller MP, Kendziorski CM, **Broman KW**, Yandell BS, Schadt EE, Attie ED (2012)  <i>Tsc2</i>, a positional candidate gene underlying a quantitative trait locus for hepatic steatosis.  [J Lipid Res](http://www.jlr.org) 53:1493-1501
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/22628617)
 [![pdf (1.0M)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/tsc2.pdf)
-[![Supplementary material](icons16/supp-icon.png)](http://www.jlr.org/content/suppl/2012/05/24/jlr.M025239.DC1/jlr.M025239-1.pdf)
+[![supplementary material](icons16/supp-icon.png)](http://www.jlr.org/content/suppl/2012/05/24/jlr.M025239.DC1/jlr.M025239-1.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1194/jlr.M025239)
 <!-- * 114 * -->
 <!-- https://doi.org/10.1194/jlr.M025239 -->
@@ -531,7 +541,7 @@ Amlin-Van Schaick JC, Kim S, DiFabio C, Lee M-H, **Broman KW**, Reilly KM (2012)
 Davis RC, Van Nas A, Castellani LW, Zhao Y, Zhou Z, Wen P, Yu S, Qi H, Rosales M, Schadt EE, **Broman KW**, Peterfy M, Lusis AJ (2012)  Systems genetics of susceptibility to obesity-induced diabetes in mice.  [Physiol Genomics](http://physiolgenomics.physiology.org/) 44:1-13
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/22010005)
 [![pdf (2.1M)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/richard_davis.pdf)
-[![Supplementary material](icons16/supp-icon.png)](http://physiolgenomics.physiology.org/content/44/1/1/suppl/DC1)
+[![supplementary material](icons16/supp-icon.png)](http://physiolgenomics.physiology.org/content/44/1/1/suppl/DC1)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1152/physiolgenomics.00003.201)
 <!-- * 107 * -->
 <!-- https://doi.org/10.1152/physiolgenomics.00003.2011 -->
@@ -556,7 +566,7 @@ Durrant C, Mott R, Iraqi FA, Pomp D, Threadgill D,
 Pardo-Manuel de Villena F, Churchill GA (2011)  Genetic analysis of complex traits in the emerging Collaborative Cross.  [Genome Res](http://www.genome.org/) 21: 1213-1222
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/21406540)
 [![pdf (1.0M)](icons16/pdf-icon.png)](preCC.pdf)
-[![Supplementary material](icons16/supp-icon.png)](http://genome.cshlp.org/content/21/8/1213/suppl/DC1)
+[![supplementary material](icons16/supp-icon.png)](http://genome.cshlp.org/content/21/8/1213/suppl/DC1)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1101/gr.111310.110)
 <!-- * 105 * -->
 <!-- https://doi.org/10.1101/gr.111310.110 -->
@@ -626,7 +636,7 @@ Bader HL, Ruhe AL, Wang LW, Wong AK, Walsh KF, Packer RA, Mitelman J, Robertson 
 Jurisic G, Sundberg JP, Bleich A, Leiter EH, **Broman KW**, Buechler G, Alley L, Vestweber D, Detmar M (2010)  Quantitative lymphatic vessel trait analysis suggests <i>Vcam1</i> as candidate modifier gene of inflammatory bowel disease.  [Genes Immun](http://www.nature.com/gene) 11:219-231
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/20220769)
 [![pdf (1013k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/jurisic.pdf)
-[![Supplementary material](icons16/supp-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/jurisic_supp.pdf)
+[![supplementary material](icons16/supp-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/jurisic_supp.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1038/gene.2010.4)
 <!-- * 96 * -->
 <!-- https://doi.org/10.1038/gene.2010.4 -->
@@ -648,7 +658,7 @@ Greene JM, Lhost JJ, Burwitz BJ, Budde ML, Macnair CE, Weiker MK, Gostick E, Fri
 Wong AK, Ruhe AL, Dumont BL, Robertson KR, Guerrero G, Shull SM, Ziegle JS, Millon LV, **Broman KW**, Payseur BA, Neff MW (2010)  A comprehensive linkage map of the dog genome.  [Genetics](http://www.genetics.org) 184:595-605
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/19966068)
 [![pdf (32M)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/dogmap2010.pdf)
-[![Supporting Information](icons16/supp-icon.png)](http://www.genetics.org/cgi/content/full/genetics.109.106831/DC1)
+[![supporting information](icons16/supp-icon.png)](http://www.genetics.org/cgi/content/full/genetics.109.106831/DC1)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.109.106831)
 <!-- * 92 * -->
 <!-- https://doi.org/10.1534/genetics.109.106831 -->
@@ -736,7 +746,7 @@ Genetic architecture of complex traits: Large phenotypic effects and pervasive e
 [Proc Natl Acad Sci USA](http://www.pnas.org) 105:19910-19914
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/19066216)
 [![pdf (401k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/nadeau_css.pdf)
-[![Supplementary material](icons16/supp-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/nadeau_css_suppl.pdf)
+[![supplementary material](icons16/supp-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/nadeau_css_suppl.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1073/pnas.0810388105)
 <!-- * 82 * -->
 <!-- https://doi.org/10.1073/pnas.0810388105 -->
@@ -745,7 +755,7 @@ Hill M, **Broman KW**, Stupka E, Smith WC, Jiang D, Sidow A (2008)
 The <i>C. savignyi</i> genetic map and its integration with the reference sequence facilitates insights into chordate genome evolution.  [Genome Res](http://www.genome.org/) 18:1369-1379
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/18519652)
 [![pdf (814k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/matthill.pdf)
-[![Supplementary material](icons16/supp-icon.png)](http://genome.cshlp.org/cgi/content/full/gr.078576.108/DC1)
+[![supplementary material](icons16/supp-icon.png)](http://genome.cshlp.org/cgi/content/full/gr.078576.108/DC1)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1101/gr.078576.108)
 <!-- * 81 * -->
 <!-- https://doi.org/10.1101/gr.078576.108 -->
@@ -760,7 +770,7 @@ Lupi I, **Broman KW**, Tzuo S-C, Gutenberg A, Martino E, Caturegli P (2008)  Nov
 Paigen K, Szatkiewicz JP, Sawyer K, Leahy N, Parvanov ED, Ng SH, Graber JH, **Broman KW**, Petkov PM (2008)  The recombinational anatomy of a mouse chromosome.  [PLoS Genet](http://www.plosgenetics.org) 4(7):e1000119
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/18617997)
 [![pdf (491k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/recomb_anatomy.pdf)
-[![Supplementary material](icons16/supp-icon.png)](http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2440539#supplementary-material-sec)
+[![supplementary material](icons16/supp-icon.png)](http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2440539#supplementary-material-sec)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1371/journal.pgen.1000119)
 <!-- * 79 * -->
 <!-- https://doi.org/10.1371/journal.pgen.1000119 -->
@@ -769,7 +779,7 @@ Bjornsson HT, Albert TJ, Ladd-Acosta CM, Green RD, Rongione MA,
 Middle CM, Irizarry RA, **Broman KW**, Feinberg AP (2008)  SNP-specific array-based allele-specific expression analysis.  [Genome Res](http://www.genome.org/) 18:771-779
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/18369178)
 [![pdf (1.4M)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/bjornsson.pdf)
-[![Supplementary material](icons16/supp-icon.png)](http://genome.cshlp.org/cgi/content/full/gr.073254.107/DC1)
+[![supplementary material](icons16/supp-icon.png)](http://genome.cshlp.org/cgi/content/full/gr.073254.107/DC1)
 [![data](icons16/data-icon.png)](https://www.biostat.wisc.edu/~kbroman/data/index.html#feinbergase)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1101/gr.073254.107)
 <!-- * 78 * -->
@@ -833,7 +843,7 @@ Szatkiewicz JP, Paigen K (2007)  Crossover interference underlies sex
 differences in recombination rates.  [Trends Genet](http://www.sciencedirect.com/science/journal/01689525) 23:539-542
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/17964681)
 [![pdf (266k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/petkov.pdf)
-[![Supplementary material](icons16/supp-icon.png)](petkov_supp.pdf)
+[![supplementary material](icons16/supp-icon.png)](petkov_supp.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1016/j.tig.2007.08.015)
 <!-- * 72 * -->
 <!-- https://doi.org/10.1016/j.tig.2007.08.015 -->
@@ -1136,7 +1146,7 @@ mutation that marks the emergence of breeds from the collie lineage.
 [Proc Natl Acad Sci USA](http://www.pnas.org/) 101:11725-11730
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15289602)
 [![pdf (312k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/mdr1.pdf)
-[![Supporting info](icons16/supp-icon.png)](http://www.pnas.org/cgi/content/full/0402374101/DC1)
+[![supporting info](icons16/supp-icon.png)](http://www.pnas.org/cgi/content/full/0402374101/DC1)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1073/pnas.0402374101)
 <!-- * 44 * -->
 <!-- https://doi.org/10.1073/pnas.0402374101 -->

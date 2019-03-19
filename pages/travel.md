@@ -326,11 +326,11 @@ title: travel
 
 - [AAAS meeting](http://meetings.aaas.org), Feb 14-18, 2019 (Washington, DC)
 
--->
-
 - [Chicago R Unconference](https://chirunconf.github.io/), Center for
   [Spatial Data Analysis](https://spatial.uchicago.edu), University of
   Chicago, Mar 9-10, 2019 (Chicago, IL)
+
+-->
 
 - Reproducible Research workshop, [Reproducible Publications at AGILE
   Conferences](http://o2r.info/reproducible-agile/initiative/), April
@@ -342,6 +342,8 @@ title: travel
 - [CTC meeting](http://ratgenes.org/ctc2019), Jun 9-11, 2019 (La Jolla, CA)
 
 - [JSM](https://ww2.amstat.org/meetings/jsm/2019), Jul 28 - Aug 1, 2019 (Denver, CO)
+
+- Systems genetics workshop, Jackson Lab, Oct 21-26, 2019 (Bar Harbor, ME)
 
 ---
 
