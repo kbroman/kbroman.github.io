@@ -34,7 +34,7 @@ description: Karl Broman's publications
 Boehm FJ, Chesler EJ, Yandell BS, **Broman KW** (2019)
 Testing pleiotropy vs. separate QTL in multiparental populations.
 [bioRxiv](https://www.biorxiv.org/) doi:[10.1101/550939](https://doi.org/10.1101/550939)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/qtl2pleio.pdf)
+[![pdf](icons16/pdf-icon.png)](https://www.biorxiv.org/content/biorxiv/early/2019/02/15/550939.full.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/fboehm/qtl2pleio-manuscript)
 [![qtl2pleio software](icons16/R-icon.png)](https://github.com/fboehm/qtl2pleio)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1101/550939)
@@ -43,7 +43,7 @@ Lobo AK, Traeger LL, Keller MP, Attie AD, Rey FE, **Broman KW** (2019)
 Identification of sample mix-ups and mixtures in microbiome data in
 Diversity Outbred mice.
 [bioRxiv](https://www.biorxiv.org/) doi:[10.1101/529040](https://doi.org/10.1101/529040)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/mb_mixups.pdf)
+[![pdf](icons16/pdf-icon.png)](https://www.biorxiv.org/content/biorxiv/early/2019/01/23/529040.full.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_MBmixups)
 [![R/mbmixture software](icons16/R-icon.png)](https://github.com/kbroman/mbmixture)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1101/529040)
@@ -56,7 +56,7 @@ Cleaning genotype data from Diversity Outbred mice.
 [G3](http://g3journal.org), to appear
 ([bioRxiv](https://www.biorxiv.org/) doi:[10.1101/518308](https://doi.org/10.1101/518308))
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/30877082)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/mpp_diag.pdf)
+[![pdf](icons16/pdf-icon.png)](http://www.g3journal.org/content/ggg/early/2019/03/15/g3.119.400165.full.pdf)
 [![supporting info](icons16/supp-icon.png)](https://doi.org/10.25387/g3.7848395)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_MPPdiag)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/g3.119.400165)
@@ -72,7 +72,7 @@ R/qtl2: software for mapping quantitative trait loci with
 high-dimensional data and multi-parent populations.
 [Genetics](http://genetics.org) 211:495-502
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/30591514)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/rqtl2_paper.pdf)
+[![pdf](icons16/pdf-icon.png)](http://www.genetics.org/content/genetics/211/2/495.full.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_Rqtl2)
 [![R/qtl2 software](icons16/R-icon.png)](https://kbroman.org/qtl2)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.118.301595)
@@ -88,7 +88,7 @@ V, Slapničková M, Vojtíšková J, Mrázková L, Salát J, Lipoldová M
 after infection with tick-borne encephalitis virus. [BMC
 Neurosci](https://bmcneurosci.biomedcentral.com/) 19:39
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/29976152)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/lipoldova2018.pdf)
+[![pdf](icons16/pdf-icon.png)](https://bmcneurosci.biomedcentral.com/track/pdf/10.1186/s12868-018-0438-8)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1186/s12868-018-0438-8)
 <!-- * 152 * -->
 <!-- https://doi.org/10.1186/s12868-018-0438-8 -->
@@ -105,7 +105,7 @@ pancreatic islet function. [Genetics](http://genetics.org) 209:335-356
 
 **Broman KW**, Woo KH (2018) Data organization in spreadsheets.
 [Am Stat](http://www.tandfonline.com/toc/utas20/current) 72:2-10
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/dataorg.pdf)
+[![pdf](icons16/pdf-icon.png)](https://www.tandfonline.com/doi/pdf/10.1080/00031305.2017.1375989)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_DataOrg)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1080/00031305.2017.1375989)
 <!-- * 150 * -->
@@ -118,7 +118,7 @@ Solberg Woods LC (2018) Genetic fine-mapping and identification of candidate
 genes and variants for adiposity traits in outbred rats.
 [Obesity](http://www.obesityjournal.org) 26:213-222
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/29193816)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/solberg2018.pdf)
+[![pdf](icons16/pdf-icon.png)](https://onlinelibrary.wiley.com/doi/epdf/10.1002/oby.22075)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1002/oby.22075)
 <!-- * 149 * -->
 <!-- https://doi.org/10.1002/oby.22075 -->
@@ -131,7 +131,7 @@ A modified vaccinia Ankara vaccine vector expressing a mosaic H5
 hemagglutinin reduces viral shedding in rhesus macaques.
 [PLoS ONE](http://journals.plos.org/plosone/) 12:e0181738
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/28771513)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/florek2017.pdf)
+[![pdf](icons16/pdf-icon.png)](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0181738&type=printable)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1371/journal.pone.0181738)
 <!-- * 148 * -->
 <!-- https://doi.org/10.1371/journal.pone.0181738 -->
@@ -155,7 +155,7 @@ BS, Kendziorski C, Attie AD (2016) The transcription factor _Nfatc2_
 regulates β-cell proliferation and genes associated with type 2
 diabetes in mouse and human islets. [PLoS Genet](http://www.plosgenetics.org) 12:e1006466
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/27935966)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/keller2016.pdf)
+[![pdf](icons16/pdf-icon.png)](https://journals.plos.org/plosgenetics/article/file?id=10.1371/journal.pgen.1006466&type=printable)
 [![supporting info](icons16/supp-icon.png)](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006466#sec024)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1371/journal.pgen.1006466)
 <!-- * 146 * -->
@@ -165,7 +165,7 @@ Parmenter MD, Gray MM, Hogan CA, Ford IN, **Broman KW**, Vinyard CJ,
 Payseur BA (2016) Genetics of skeletal evolution in unusually large mice
 from Gough Island. [Genetics](http://genetics.org) 204:1559-1572
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/27694627)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/parmenter2016.pdf)
+[![pdf](icons16/pdf-icon.png)](http://www.genetics.org/content/genetics/204/4/1559.full.pdf)
 [![supporting info](icons16/supp-icon.png)](http://www.genetics.org/content/early/2016/09/29/genetics.116.193805.supplemental)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.116.193805)
 <!-- * 145 * -->
@@ -178,7 +178,7 @@ Sinha D (2016) A spontaneous missense mutation in branched chain keto
 acid dehydrogenase kinase in the rat affects both the central and
 peripheral nervous systems. [PLoS ONE](http://www.plosone.org) 11:e0160447
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/27472223)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/zigler2016.pdf)
+[![pdf](icons16/pdf-icon.png)](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0160447&type=printable)
 [![supporting info](icons16/supp-icon.png)](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0160447#sec020)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1371/journal.pone.0160447)
 <!-- * 144 * -->
@@ -197,7 +197,7 @@ Iraqi FA, Bragonzi A (2016) Mapping genetic determinants of host
 susceptibility to _Pseudomonas aeruginosa_ lung infection in
 mice. [BMC Genomics](http://bmcgenomics.biomedcentral.com) 17:351
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/27169516)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/bmc_genomics_2016.pdf)
+[![pdf](icons16/pdf-icon.png)](https://bmcgenomics.biomedcentral.com/track/pdf/10.1186/s12864-016-2676-4)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1186/s12864-016-2676-4)
 <!-- * 142 * -->
 <!-- https://doi.org/10.1186/s12864-016-2676-4 -->
@@ -207,7 +207,7 @@ Tian J, Keller MP, Broman AT, Kendziorski C, Yandell BS, Attie AD,
 hotspots.
 [Genetics](http://genetics.org) 202:1563-1574
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/26837753)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/transbandpaper_wsupp.pdf)
+[![pdf](icons16/pdf-icon.png)](http://www.genetics.org/content/genetics/202/4/1563.full.pdf)
 [![supplement](icons16/supp-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/transbandpaper_FileS1.pdf)
 [![data](icons16/data-icon.png)](http://bit.ly/B6BTBR)
 [![qtlpvl software](icons16/R-icon.png)](https://github.com/jianan/qtlpvl)
@@ -220,7 +220,7 @@ Rubio C, **Broman KW**, Hunt PA, Hassold T (2016)
 Correlations between synaptic initiation and meiotic recombination: A study of humans and mice.
 [Am J Hum Genet](http://www.cell.com/ajhg/home) 98:102-115
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/26749305)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/gruhn2016.pdf)
+[![pdf](icons16/pdf-icon.png)](https://www.cell.com/ajhg/pdfExtended/S0002-9297(15)00490-5)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1016/j.ajhg.2015.11.019)
 <!-- * 140 * -->
 <!-- https://doi.org/10.1016/j.ajhg.2015.11.019 -->
@@ -230,10 +230,10 @@ trait loci underlying function-valued traits using functional
 principal component analysis and multi-trait mapping.
 [G3](http://g3journal.org) 6:79-86
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/26530421)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/funqtl2.pdf)
+[![pdf](icons16/pdf-icon.png)](http://www.g3journal.org/content/ggg/6/1/79.full.pdf)
 [![data](icons16/data-icon.png)](http://phenome.jax.org/db/q?rtn=projects/projdet&reqprojid=282)
 [![funqtl software](icons16/R-icon.png)](https://github.com/ikwak2/funqtl)
-[![doi](icons16/doi-icon.png)](https://doi.org/10.1534/g3.115.02413)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1534/g3.115.024133)
 <!-- * 139 * -->
 <!-- https://doi.org/10.1534/g3.115.024133 -->
 
