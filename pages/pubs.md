@@ -245,7 +245,7 @@ Attie AD (2015) Identification of the bile acid transporter _Slco1a6_ as a
 candidate gene that broadly affects gene expression in mouse
 pancreatic islets. [Genetics](http://genetics.org) 201:1253-1262
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/26385979)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/islet_chr6.pdf)
+[![pdf](icons16/pdf-icon.png)](http://www.genetics.org/content/genetics/201/3/1253.full.pdf)
 [![supplement](icons16/supp-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/islet_chr6/FileS1.csv)
 [![data](icons16/data-icon.png)](http://bit.ly/B6BTBR)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.115.179432)
@@ -258,7 +258,7 @@ Identification and correction of sample mix-ups in expression
 genetic data: A case study. [G3](http://g3journal.org)
 5:2177-2186
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/26290572)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/sample_mixups.pdf)
+[![pdf](icons16/pdf-icon.png)](http://www.g3journal.org/content/ggg/5/10/2177.full.pdf)
 [![data](icons16/data-icon.png)](http://bit.ly/B6BTBR)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_SampleMixups)
 [![R/lineup software](icons16/R-icon.png)](https://github.com/kbroman/lineup)
@@ -270,7 +270,7 @@ Gray MM, Parmenter MD, Hogan CA, Ford I, Cuthbert RJ, Ryan PG, **Broman
 KW**, Payseur BA (2015) Genetics of rapid and extreme size evolution in
 island mice. [Genetics](http://genetics.org) 201:213-228
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/26199233)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/gough.pdf)
+[![pdf](icons16/pdf-icon.png)](http://www.genetics.org/content/genetics/201/1/213.full.pdf)
 [![data](icons16/data-icon.png)](http://phenome.jax.org/db/q?rtn=projects/projdet&reqprojid=539)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.115.177790)
 <!-- * 136 * -->
@@ -292,7 +292,7 @@ sunflower. [Mol Ecol](http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291
 trait locus mapping.
 [Genetics](http://genetics.org) 199:359-361
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/25527287)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/rqtlcharts.pdf)
+[![pdf](icons16/pdf-icon.png)](http://www.genetics.org/content/genetics/199/2/359.full.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_Rqtlcharts)
 [![R/qtlcharts software](icons16/R-icon.png)](https://kbroman.org/qtlcharts)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.114.172742)
