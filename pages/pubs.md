@@ -308,7 +308,7 @@ Modified vaccinia Ankara encoding influenza virus hemagglutinin
 induces heterosubtypic immunity in macaques.
 [J Virol](http://jvi.asm.org/) 88:13418-13428
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/25210172)
-[![pdf (446k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/florek2014.pdf)
+[![pdf (446k)](icons16/pdf-icon.png)](https://jvi.asm.org/content/jvi/88/22/13418.full.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1128/JVI.01219-14)
 <!-- * 133 * -->
 <!-- https://doi.org/10.1128/JVI.01219-14 -->
@@ -318,7 +318,7 @@ N, Cheng R, Pomp D, Palmer A, Chesler EJ, **Broman KW**, Churchill GA
 (2014) Quantitative trait locus mapping methods for Diversity Outbred
 mice. [G3](http://g3journal.org) 4:1623-1633
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/25237114)
-[![pdf (2.5M)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/gatti2014.pdf)
+[![pdf (2.5M)](icons16/pdf-icon.png)](http://www.g3journal.org/content/ggg/4/9/1623.full.pdf)
 [![Data](icons16/data-icon.png)](http://phenome.jax.org/db/q?rtn=projects/projdet&reqprojid=289)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/g3.114.013748)
 <!-- * 132 * -->
@@ -335,11 +335,12 @@ of independent, overlapping, and interacting chromosomal regions.
 <!-- * 131 * -->
 <!-- https://doi.org/10.1007/s10162-014-0472-x -->
 
-Kwak I-Y, Moore CR, Spalding EP, **Broman
-  KW** (2014) A simple regression-based method to map quantitative trait loci underlying
-  function-valued phenotypes. [Genetics](http://www.genetics.org) 197: 1409-1416
+Kwak I-Y, Moore CR, Spalding EP, **Broman KW** (2014) A simple
+regression-based method to map quantitative trait loci underlying
+function-valued phenotypes. [Genetics](http://www.genetics.org) 197:
+1409-1416
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/24931408)
-[![pdf (1.2M)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/funqtl.pdf)
+[![pdf (1.2M)](icons16/pdf-icon.png)](http://www.genetics.org/content/genetics/197/4/1409.full.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_FunQTL)
 [![Data](icons16/data-icon.png)](http://phenome.jax.org/db/q?rtn=projects/projdet&reqprojid=282)
 [![funqtl software](icons16/R-icon.png)](https://github.com/ikwak2/funqtl)
@@ -347,39 +348,37 @@ Kwak I-Y, Moore CR, Spalding EP, **Broman
 <!-- * 130 * -->
 <!-- https://doi.org/10.1534/genetics.114.166306 -->
 
-**Broman KW** (2014) Fourteen years of R/qtl: Just
-  barely sustainable. [J Open Res Softw](http://openresearchsoftware.metajnl.com/)
-  2(1):e11
-  [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/25364504)
+**Broman KW** (2014) Fourteen years of R/qtl: Just barely sustainable.
+[J Open Res Softw](http://openresearchsoftware.metajnl.com/) 2(1):e11
+[![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/25364504)
 [![pdf (948k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/rqtl_14yrs.pdf)
 [![Source on GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_Rqtl_Experiences)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.5334/jors.at)
 <!-- * 129 * -->
 <!-- https://doi.org/10.5334/jors.at -->
 
-Rowsey R, Gruhn J, **Broman KW**, Hunt
-  PA, Hassold T (2014)
-  Examining variation in recombination levels in the human female: A
-  test of the production line hypothesis. [Am J Hum Genet](http://www.cell.com/ajhg/) 95:108-112
+Rowsey R, Gruhn J, **Broman KW**, Hunt PA, Hassold T (2014)
+Examining variation in recombination levels in the human female: A
+test of the production line hypothesis. [Am J Hum Genet](http://www.cell.com/ajhg/) 95:108-112
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/24995869)
-[![pdf (2.0M)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/rowsey2014.pdf)
+[![pdf (2.0M)](icons16/pdf-icon.png)](http://www.genetics.org/content/genetics/197/4/1409.full.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1016/j.ajhg.2014.06.008)
 <!-- * 128 * -->
 <!-- https://doi.org/10.1016/j.ajhg.2014.06.008 -->
 
 Huang BE, Raghavan C, Mauleon R, **Broman
-  KW**, Leung H (2014) Efficient imputation of missing markers in
-  low-coverage genotyping-by-sequencing data from multi-parent
-  crosses. [Genetics](http://www.genetics.org) 197:401-404
+KW**, Leung H (2014) Efficient imputation of missing markers in
+low-coverage genotyping-by-sequencing data from multi-parent
+crosses. [Genetics](http://www.genetics.org) 197:401-404
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/24583583)
-[![pdf (601k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/huang2014.pdf)
+[![pdf (601k)](icons16/pdf-icon.png)](http://www.genetics.org/content/genetics/197/1/401.full.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.113.158014)
 <!-- * 127 * -->
 <!-- https://doi.org/10.1534/genetics.113.158014 -->
 
 Baier B, Hunt P, **Broman KW**, Hassold T (2014) Variation in genome-wide levels of meiotic recombination is established at the onset of prophase in mammalian males. [PLoS Genet](http://www.plosgenetics.org/) 10:e1004125
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/24497841)
-[![pdf (1.5M)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/baier2014.pdf)
+[![pdf (1.5M)](icons16/pdf-icon.png)](https://journals.plos.org/plosgenetics/article/file?id=10.1371/journal.pgen.1004125&type=printable)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1371/journal.pgen.1004125)
 <!-- * 126 * -->
 <!-- https://doi.org/10.1371/journal.pgen.1004125 -->
