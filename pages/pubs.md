@@ -563,7 +563,7 @@ Sarkar A, Wang J, Wang W, Zhang Q, **Broman KW**, Korstanje R,
 Durrant C, Mott R, Iraqi FA, Pomp D, Threadgill D,
 Pardo-Manuel de Villena F, Churchill GA (2011)  Genetic analysis of complex traits in the emerging Collaborative Cross.  [Genome Res](http://www.genome.org/) 21: 1213-1222
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/21406540)
-[![pdf (1.0M)](icons16/pdf-icon.png)](preCC.pdf)
+[![pdf (1.0M)](icons16/pdf-icon.png)](https://genome.cshlp.org/content/21/8/1213.full.pdf)
 [![supplementary material](icons16/supp-icon.png)](http://genome.cshlp.org/content/21/8/1213/suppl/DC1)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1101/gr.111310.110)
 <!-- * 105 * -->
