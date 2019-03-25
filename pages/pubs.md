@@ -548,7 +548,7 @@ Davis RC, Van Nas A, Castellani LW, Zhao Y, Zhou Z, Wen P, Yu S, Qi H, Rosales M
 
 Weinfurter JT, Brunner K, Capuano SV III, Li C, **Broman KW**, Kawaoka Y, Friedrich T (2011)  Cross-reactive T cells are involved in rapid clearance of 2009 pandemic H1N1 influenza virus in nonhuman primates.  [PLoS Pathog](http://www.plospathogens.org) 7:e1002381
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/22102819)
-[![pdf (879k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/friedrich2011.pdf)
+[![pdf (879k)](icons16/pdf-icon.png)](https://journals.plos.org/plospathogens/article/file?id=10.1371/journal.ppat.1002381&type=printable)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1371/journal.ppat.1002381)
 <!-- * 106 * -->
 <!-- https://doi.org/10.1371/journal.ppat.1002381 -->
@@ -571,21 +571,21 @@ Pardo-Manuel de Villena F, Churchill GA (2011)  Genetic analysis of complex trai
 
 Greene JM, Wiseman RW, Lank SM, Bimber BN, Karl JA, Burwitz BJ, Lhost JJ, Hawkins OE, Kunstman KJ, **Broman KW**, Wolinsky SM, Hildebrand WH, O'Connor DH (2011)  Differential MHC class I expression in distinct leukocyte subsets.  [BMC Immunol](http://www.biomedcentral.com/bmcimmunol) 12:39
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/21762519)
-[![pdf (747k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/greene2011.pdf)
+[![pdf (747k)](icons16/pdf-icon.png)](https://bmcimmunol.biomedcentral.com/track/pdf/10.1186/1471-2172-12-39)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1186/1471-2172-12-39)
 <!-- * 104 * -->
 <!-- https://doi.org/10.1186/1471-2172-12-39 -->
 
 Bradley KM, Breyer JP, Melville DB, **Broman KW**, Knapik EW, Smith JR (2011)  An SNP-based linkage map for zebrafish reveals sex determination loci.  [G3](http://www.g3journal.org) 1:3-9
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/21949597)
-[![pdf (1.0M)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/zfishmap.pdf)
+[![pdf (1.0M)](icons16/pdf-icon.png)](http://www.g3journal.org/content/ggg/1/1/3.full.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/g3.111.000190)
 <!-- * 103 * -->
 <!-- https://doi.org/10.1534/g3.111.000190 -->
 
 Moreland AJ, Guethlein LA, Reeves RK, **Broman KW**, Johnson RP, Parham P, O'Connor DH, Bimber BN (2011)  Characterization of killer immunoglobulin-like receptor genetics and comprehensive genotyping by pyrosequencing in rhesus macaques.  [BMC Genomics](http://www.biomedcentral.com/bmcgenomics/) 12:295
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/21645414)
-[![pdf (1.1M)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/bimber.pdf)
+[![pdf (1.1M)](icons16/pdf-icon.png)](https://bmcgenomics.biomedcentral.com/track/pdf/10.1186/1471-2164-12-295)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1186/1471-2164-12-295)
 <!-- * 102 * -->
 <!-- https://doi.org/10.1186/1471-2164-12-295 -->
