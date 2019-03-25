@@ -613,7 +613,7 @@ to genome-wide recombination levels in male mice.  [Mamm Genome](http://www.spri
 Billings T, Sargent EE, Szatkiewicz JP, Leahy N, Kwak, I-Y, Bektassova N, Walker M, Hassold T, Graber JH, **Broman KW**, Petkov PM (2010)  Patterns of recombination activity on mouse chromosome 11 revealed by high resolution mapping.  [PLoS ONE](http://www.plosone.org) 5:e15340
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/21170346)
 [![pdf (483k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/petko_chr11.pdf)
-[![doi](icons16/doi-icon.png)](https://doi.org/10.1093/bioinformatics/btq565)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1371/journal.pone.0015340)
 <!-- * 99 * -->
 <!-- https://doi.org/10.1371/journal.pone.0015340 -->
 
