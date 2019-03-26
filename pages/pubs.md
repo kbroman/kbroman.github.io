@@ -605,35 +605,35 @@ melanogaster</i> and fine-mapping by selective sweep analysis.
 Murdoch B, Owen N, Shirley S, Crumb S, **Broman KW**, Hassold T (2010) Multiple loci contribute
 to genome-wide recombination levels in male mice.  [Mamm Genome](http://www.springerlink.com/content/1432-1777/) 21:550-555
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/21113599)
-[![pdf (341k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/hassoldqtl.pdf)
+[![pdf (341k)](icons16/pdf-icon.png)](https://link.springer.com/content/pdf/10.1007%2Fs00335-010-9303-5.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1007/s00335-010-9303-5)
 <!-- * 100 * -->
 <!-- https://doi.org/10.1007/s00335-010-9303-5 -->
 
 Billings T, Sargent EE, Szatkiewicz JP, Leahy N, Kwak, I-Y, Bektassova N, Walker M, Hassold T, Graber JH, **Broman KW**, Petkov PM (2010)  Patterns of recombination activity on mouse chromosome 11 revealed by high resolution mapping.  [PLoS ONE](http://www.plosone.org) 5:e15340
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/21170346)
-[![pdf (483k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/petko_chr11.pdf)
+[![pdf (483k)](icons16/pdf-icon.png)](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0015340&type=printable)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1371/journal.pone.0015340)
 <!-- * 99 * -->
 <!-- https://doi.org/10.1371/journal.pone.0015340 -->
 
 Arends D, Prins P, Jansen RC, **Broman KW** (2010)  R/qtl: High-throughput multiple QTL mapping.  [Bioinformatics](http://bioinformatics.oupjournals.org) 26:2990-2992
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/20966004)
-[![pdf (181k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/mqm.pdf)
+[![pdf (181k)](icons16/pdf-icon.png)](https://academic.oup.com/bioinformatics/article-pdf/26/23/2990/589814/btq565.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1093/bioinformatics/btq565)
 <!-- * 98 * -->
 <!-- https://doi.org/10.1093/bioinformatics/btq565 -->
 
 Bader HL, Ruhe AL, Wang LW, Wong AK, Walsh KF, Packer RA, Mitelman J, Robertson KR, O'Brien DP, **Broman KW**, Shelton GD, Apte SS, Neff MW (2010) An <i>ADAMTSL2</i> founder mutation causes Musladin-Lueke Syndrome, a heritable disorder of beagle dogs, featuring stiff skin and joint contractures.  [PLoS ONE](http://www.plosone.org) 5:e12817
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/20862248)
-[![pdf (564k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/adamtsl2.pdf)
+[![pdf (564k)](icons16/pdf-icon.png)](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0012817&type=printable)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1371/journal.pone.0012817)
 <!-- * 97 * -->
 <!-- https://doi.org/10.1371/journal.pone.0012817 -->
 
 Jurisic G, Sundberg JP, Bleich A, Leiter EH, **Broman KW**, Buechler G, Alley L, Vestweber D, Detmar M (2010)  Quantitative lymphatic vessel trait analysis suggests <i>Vcam1</i> as candidate modifier gene of inflammatory bowel disease.  [Genes Immun](http://www.nature.com/gene) 11:219-231
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/20220769)
-[![pdf (1013k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/jurisic.pdf)
+[![pdf (1013k)](icons16/pdf-icon.png)](https://www.nature.com/articles/gene20104.pdf)
 [![supplementary material](icons16/supp-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/jurisic_supp.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1038/gene.2010.4)
 <!-- * 96 * -->
@@ -648,14 +648,14 @@ Burrage LC, Baskin-Hill AE, Sinasac DS, Singer JB, Croniger CM, Kirby A, Kulboka
 
 Greene JM, Lhost JJ, Burwitz BJ, Budde ML, Macnair CE, Weiker MK, Gostick E, Friedrich TC, **Broman KW**, Price DA, O'Connor SL, O'Connor DH (2010)  Extralymphoid CD8<sup>+</sup> T cells resident in tissue from Simian Immunodeficiency Virus SIVmac239&Delta;nef-vaccinated macaques suppress SIVmac239 replication <i>ex vivo</i>.  [J Virol](http://jvi.asm.org/) 84:3362-3372
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/20089651)
-[![pdf (3.4M)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/greene2010.pdf)
+[![pdf (3.4M)](icons16/pdf-icon.png)](https://jvi.asm.org/content/jvi/84/7/3362.full.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1128/JVI.02028-09)
 <!-- * 94 * -->
 <!-- https://doi.org/10.1128/JVI.02028-09 -->
 
 Wong AK, Ruhe AL, Dumont BL, Robertson KR, Guerrero G, Shull SM, Ziegle JS, Millon LV, **Broman KW**, Payseur BA, Neff MW (2010)  A comprehensive linkage map of the dog genome.  [Genetics](http://www.genetics.org) 184:595-605
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/19966068)
-[![pdf (32M)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/dogmap2010.pdf)
+[![pdf (32M)](icons16/pdf-icon.png)](http://www.genetics.org/content/genetics/184/2/595.full.pdf)
 [![supporting information](icons16/supp-icon.png)](http://www.genetics.org/cgi/content/full/genetics.109.106831/DC1)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.109.106831)
 <!-- * 92 * -->
