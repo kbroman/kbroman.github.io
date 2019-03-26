@@ -30,10 +30,8 @@ description: Karl Broman's teaching
 - [Multi-parent populations](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/2_mpp.pdf)
 - [Steps toward reproducible research](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/3_repro_research.pdf)
 - Homework: \[[assignment
-(pdf)](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/hw3.pdf) | [data (csv)](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/hw3.csv)\]
-
- | [solutions (html)](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/hw3_solns.html)
- | [source (Rmd)](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/hw3_solns.Rmd)\]
+(pdf)](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/hw3.pdf)
+| [data (csv)](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/hw3.csv) | [solutions (html)](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/hw3_solns.html) | [source (Rmd)](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/hw3_solns.Rmd)\]
 
 
 ---
