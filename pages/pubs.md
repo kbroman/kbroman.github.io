@@ -744,7 +744,7 @@ Shao H, Burrage LC, Sinasac DS, Hill AE, Ernest SR, O'Brien W, Courtland HW, Jep
 Genetic architecture of complex traits: Large phenotypic effects and pervasive epistasis.
 [Proc Natl Acad Sci USA](http://www.pnas.org) 105:19910-19914
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/19066216)
-[![pdf (401k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/nadeau_css.pdf)
+[![pdf (401k)](icons16/pdf-icon.png)](https://www.pnas.org/content/pnas/105/50/19910.full.pdf)
 [![supplementary material](icons16/supp-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/nadeau_css_suppl.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1073/pnas.0810388105)
 <!-- * 82 * -->
@@ -753,7 +753,7 @@ Genetic architecture of complex traits: Large phenotypic effects and pervasive e
 Hill M, **Broman KW**, Stupka E, Smith WC, Jiang D, Sidow A (2008)
 The <i>C. savignyi</i> genetic map and its integration with the reference sequence facilitates insights into chordate genome evolution.  [Genome Res](http://www.genome.org/) 18:1369-1379
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/18519652)
-[![pdf (814k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/matthill.pdf)
+[![pdf (814k)](icons16/pdf-icon.png)](https://genome.cshlp.org/content/18/8/1369.full.pdf)
 [![supplementary material](icons16/supp-icon.png)](http://genome.cshlp.org/cgi/content/full/gr.078576.108/DC1)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1101/gr.078576.108)
 <!-- * 81 * -->
@@ -768,7 +768,7 @@ Lupi I, **Broman KW**, Tzuo S-C, Gutenberg A, Martino E, Caturegli P (2008)  Nov
 
 Paigen K, Szatkiewicz JP, Sawyer K, Leahy N, Parvanov ED, Ng SH, Graber JH, **Broman KW**, Petkov PM (2008)  The recombinational anatomy of a mouse chromosome.  [PLoS Genet](http://www.plosgenetics.org) 4(7):e1000119
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/18617997)
-[![pdf (491k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/recomb_anatomy.pdf)
+[![pdf (491k)](icons16/pdf-icon.png)](https://journals.plos.org/plosgenetics/article/file?id=10.1371/journal.pgen.1000119&type=printable)
 [![supplementary material](icons16/supp-icon.png)](http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2440539#supplementary-material-sec)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1371/journal.pgen.1000119)
 <!-- * 79 * -->
@@ -777,7 +777,7 @@ Paigen K, Szatkiewicz JP, Sawyer K, Leahy N, Parvanov ED, Ng SH, Graber JH, **Br
 Bjornsson HT, Albert TJ, Ladd-Acosta CM, Green RD, Rongione MA,
 Middle CM, Irizarry RA, **Broman KW**, Feinberg AP (2008)  SNP-specific array-based allele-specific expression analysis.  [Genome Res](http://www.genome.org/) 18:771-779
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/18369178)
-[![pdf (1.4M)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/bjornsson.pdf)
+[![pdf (1.4M)](icons16/pdf-icon.png)](https://genome.cshlp.org/content/18/5/771.full.pdf)
 [![supplementary material](icons16/supp-icon.png)](http://genome.cshlp.org/cgi/content/full/gr.073254.107/DC1)
 [![data](icons16/data-icon.png)](https://www.biostat.wisc.edu/~kbroman/data/index.html#feinbergase)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1101/gr.073254.107)
@@ -787,7 +787,7 @@ Middle CM, Irizarry RA, **Broman KW**, Feinberg AP (2008)  SNP-specific array-ba
 Peirce JL, **Broman KW**, Lu L, Chesler EJ,
 Zhou G, Airey DC, Birmingham AE, Williams RW (2008)  Genome Reshuffling for Advanced Intercross Permutation (GRAIP): Simulation and permutation for advanced intercross population analysis. [PLoS ONE](http://www.plosone.org) 3(4):e1977
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/18431467)
-[![pdf (468k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/peirce2.pdf)
+[![pdf (468k)](icons16/pdf-icon.png)](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0001977&type=printable)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1371/journal.pone.0001977)
 <!-- * 77 * -->
 <!-- https://doi.org/10.1371/journal.pone.0001977 -->
@@ -795,9 +795,9 @@ Zhou G, Airey DC, Birmingham AE, Williams RW (2008)  Genome Reshuffling for Adva
 Roy-Gagnon M-H, Mathias RA, Fallin MD, Jee SH, **Broman KW**, Wilson AF (2008) An extension of the
 regression of offspring on mid-parent to test for association and
 estimate locus-specific heritability: The revised ROMP method.
-[Ann Hum Genet](http://www.blackwell-synergy.com/loi/AHG) 72:115-125
+[Ann Hum Genet](https://onlinelibrary.wiley.com/journal/14691809) 72:115-125
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/18042270)
-[![pdf (519k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/romp.pdf)
+[![pdf (519k)](icons16/pdf-icon.png)](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1469-1809.2007.00401.x)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1111/j.1469-1809.2007.00401.x)
 <!-- * 76 * -->
 <!-- https://doi.org/10.1111/j.1469-1809.2007.00401.x -->
