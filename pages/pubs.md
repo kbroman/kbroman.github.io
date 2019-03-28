@@ -832,7 +832,7 @@ Manichaikul A, Palmer AA, Sen &#346;, **Broman KW** (2007)  Significance thresho
 quantitative trait locus mapping under selective genotyping.
 [Genetics](http://www.genetics.org) 177:1963-1966
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/17720902)
-[![pdf (93k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/selgeno.pdf)
+[![pdf (93k)](icons16/pdf-icon.png)](http://www.genetics.org/content/genetics/177/3/1963.full.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.107.080093)
 <!-- * 73 * -->
 <!-- https://doi.org/10.1534/genetics.107.080093 -->
@@ -849,7 +849,7 @@ differences in recombination rates.  [Trends Genet](http://www.sciencedirect.com
 
 Peirce JL, **Broman KW**, Lu L, Williams RW (2007) A simple method for combining genetic mapping data from multiple crosses and experimental designs.  [PLoS ONE](http://www.plosone.org) 2(10):e1036
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/17940600)
-[![pdf (215k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/peirce1.pdf)
+[![pdf (215k)](icons16/pdf-icon.png)](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0001036&type=printable)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1371/journal.pone.0001036)
 <!-- * 71 * -->
 <!-- https://doi.org/10.1371/journal.pone.0001036 -->
@@ -858,7 +858,7 @@ Teuscher F, **Broman KW** (2007)
 Haplotype probabilities for multiple-strain recombinant inbred lines.
 [Genetics](http://www.genetics.org) 175:1267-1274
     [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/17151250)
-[![pdf (722k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/teuscher.pdf)
+[![pdf (722k)](icons16/pdf-icon.png)](http://www.genetics.org/content/genetics/175/3/1267.full.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.106.064063)
 <!-- * 70 * -->
 <!-- https://doi.org/10.1534/genetics.106.064063 -->
@@ -878,7 +878,7 @@ KW**, Shavit JA, Ginsburg D (2007)  Genetic regulation of plasma von
 Willebrand factor levels: Quantitative trait loci analysis in a mouse model.  [J Thromb
 Haemost](http://www.journalth.com/) 5:329-335
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/17155961)
-[![pdf (1.1M)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/heidiJTH.pdf)
+[![pdf (1.1M)](icons16/pdf-icon.png)](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1538-7836.2007.02325.x)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1111/j.1538-7836.2007.02325.x)
 <!-- * 68 * -->
 <!-- https://doi.org/10.1111/j.1538-7836.2007.02325.x -->
@@ -888,7 +888,7 @@ Wheeler PA, Thorgaard GH (2007)  Quantitative trait loci by maternal
 cytoplasmic environment interaction for development rate in <i>Oncorhynchus
 mykiss</i>.  [Genetics](http://www.genetics.org) 175:335-347
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/17057232)
-[![pdf (1035k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/nichols.pdf)
+[![pdf (1035k)](icons16/pdf-icon.png)](http://www.genetics.org/content/genetics/175/1/335.full.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.106.064311)
 <!-- * 67 * -->
 <!-- https://doi.org/10.1534/genetics.106.064311 -->
