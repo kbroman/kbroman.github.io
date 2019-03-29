@@ -899,7 +899,7 @@ mykiss</i>.  [Genetics](http://www.genetics.org) 175:335-347
 Manichaikul A, Southard-Smith EM, Churchill GA (2006)  The X chromosome
 in quantitative trait locus mapping.  [Genetics](http://www.genetics.org) 174:2151-2158
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/17028340)
-[![pdf (169k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/xchr.pdf)
+[![pdf (169k)](icons16/pdf-icon.png)](http://www.genetics.org/content/genetics/174/4/2151.full.pdf)
 [![Data](icons16/data-icon.png)](http://phenome.jax.org/db/q?rtn=projects/projdet&reqprojid=183)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.106.061176)
 <!-- * 66 * -->
@@ -923,7 +923,7 @@ T, Holmdahl R, Scharffetter-Kochanek K (2006) Identification of
 susceptibility loci for skin disease in a murine psoriasis model.
 [J Immunol](http://www.jimmunol.org) 177:4612-4619
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/16982899)
-[![pdf (211k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/kess.pdf)
+[![pdf (211k)](icons16/pdf-icon.png)](http://www.jimmunol.org/content/jimmunol/177/7/4612.full.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.4049/jimmunol.177.7.4612)
 <!-- * 64 * -->
 <!-- https://doi.org/10.4049/jimmunol.177.7.4612 -->
@@ -932,7 +932,7 @@ Manichaikul A, Dupuis J, Sen &#346;, **Broman KW** (2006)  Poor performance of b
 confidence intervals for the location of a quantitative trait
 locus.  [Genetics](http://www.genetics.org) 174:481-489
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/16783000)
-[![pdf (1033k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/qtlboot.pdf)
+[![pdf (1033k)](icons16/pdf-icon.png)](http://www.genetics.org/content/genetics/174/1/481.full.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.106.061549)
 <!-- * 63 * -->
 <!-- https://doi.org/10.1534/genetics.106.061549 -->
@@ -944,7 +944,7 @@ maps to 18q21.2-q21.32.
 [Invest Ophthalmol Vis Sci](https://iovs.arvojournals.org/)
 47:3919-3926
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/16936105)
-[![pdf (631k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/fuchs_c18.pdf)
+[![pdf (631k)](icons16/pdf-icon.png)](https://iovs.arvojournals.org/data/journals/iovs/933235/z7g00906003919.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1167/iovs.05-1619)
 <!-- * 62 * -->
 <!-- https://doi.org/10.1167/iovs.05-1619 -->
@@ -953,7 +953,7 @@ Feenstra B, Skovgaard IM, **Broman KW** (2006) Mapping quantitative trait loci
 by an extension of the Haley-Knott regression method using estimating
 equations.  [Genetics](http://www.genetics.org) 173:2269-2282
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/16702423)
-[![pdf (290k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/feenstra.pdf)
+[![pdf (290k)](icons16/pdf-icon.png)](http://www.genetics.org/content/genetics/173/4/2269.full.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.106.058537)
 <!-- * 61 * -->
 <!-- https://doi.org/10.1534/genetics.106.058537 -->
@@ -963,7 +963,7 @@ KW**, Bartolomei MS, Willard HF (2006)  Genetic control of X
 chromosome inactivation in mice: Definition of the <i>Xce</i> candidate
 interval.  [Genetics](http://www.genetics.org) 173:2111-2119
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/16582439)
-[![pdf (193k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/chadwick.pdf)
+[![pdf (193k)](icons16/pdf-icon.png)](http://www.genetics.org/content/genetics/173/4/2103.full.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.105.054882)
 <!-- * 60 * -->
 <!-- https://doi.org/10.1534/genetics.105.054882 -->
@@ -973,7 +973,7 @@ Grant GR, Robinson SW, Edwards RE, Clothier B, Davies R, Judah DJ,
 Multiple polymorphic genes determine 'normal' hepatic and splenic iron
 status in mice.  [Hepatology](http://www3.interscience.wiley.com/cgi-bin/jhome/106570044) 44:174-185
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/16799992)
-[![pdf (902k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/hepatology.pdf)
+[![pdf (902k)](icons16/pdf-icon.png)](https://aasldpubs.onlinelibrary.wiley.com/doi/epdf/10.1002/hep.21233)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1002/hep.21233)
 <!-- * 59 * -->
 <!-- https://doi.org/10.1002/hep.21233 -->
@@ -982,7 +982,7 @@ Orgogozo V, **Broman KW**, Stern DL (2006)
 High-resolution QTL mapping reveals sign epistasis controlling
 ovariole number between two Drosophila species.  [Genetics](http://www.genetics.org) 173:197-205
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/16489225)
-[![pdf (425k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/orgogozo.pdf)
+[![pdf (425k)](icons16/pdf-icon.png)](http://www.genetics.org/content/genetics/173/1/197.full.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.105.054098)
 <!-- * 58 * -->
 <!-- https://doi.org/10.1534/genetics.105.054098 -->
@@ -1004,7 +1004,7 @@ Tsang S, Loisel DA, Christy ES, Sun Z, Diehl J, Munroe DJ, Tuskan RG
 <i>Nstr2</i> to control resistance to nerve sheath tumors in a
 neurofibromatosis type 1 mouse model.  [Cancer Res](http://cancerres.aacrjournals.org/) 66:62-68
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/16397217)
-[![pdf (1.9M)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/km_reilly.pdf)
+[![pdf (1.9M)](icons16/pdf-icon.png)](http://cancerres.aacrjournals.org/sites/all/libraries/pdfjs/web/viewer.html?file=/content/canres/66/1/62.full.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1158/0008-5472.CAN-05-1480)
 <!-- * 56 * -->
 <!-- https://doi.org/10.1158/0008-5472.CAN-05-1480 -->
@@ -1015,7 +1015,7 @@ Linkage of late-onset Fuchs corneal dystrophy
 to a novel locus at 13pTel-13q12.13.
 [Invest Ophthalmol Vis Sci](https://iovs.arvojournals.org)  47:140-145
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/16384955)
-[![pdf (316k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/fuchs_c13.pdf)
+[![pdf (316k)](icons16/pdf-icon.png)](https://iovs.arvojournals.org/data/journals/iovs/932934/z7g00106000140.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1167/iovs.05-0578)
 <!-- * 55 * -->
 <!-- https://doi.org/10.1167/iovs.05-0578 -->
