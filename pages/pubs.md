@@ -1028,7 +1028,7 @@ Weinberg EM (2005)  Extreme hyperopia is the result of null mutations in <i>MFRP
 which encodes a Frizzled-related protein.
 [Proc Natl Acad Sci USA](http://www.pnas.org/) 102:9553-9558
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15976030)
-[![pdf (859k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/nanophthalmos.pdf)
+[![pdf (859k)](icons16/pdf-icon.png)](https://www.pnas.org/content/pnas/102/27/9553.full.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1073/pnas.0501451102)
 <!-- * 54 * -->
 <!-- https://doi.org/10.1073/pnas.0501451102 -->
@@ -1039,7 +1039,7 @@ EC, Narang AK, Thompson JM, Magovern M (2005) Inheritance of a novel
 corneal dystrophy. [Invest Ophthalmol Vis Sci](https://iovs.arvojournals.org)
 46:1934-1939
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15914606)
-[![pdf (302k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/fuchs_iovs.pdf)
+[![pdf (302k)](icons16/pdf-icon.png)](https://iovs.arvojournals.org/data/journals/iovs/933232/z7g00605001934.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1167/iovs.04-0937)
 <!-- * 53 * -->
 <!-- https://doi.org/10.1167/iovs.04-0937 -->
@@ -1050,7 +1050,7 @@ Genome-wide linkage identifies novel modifier loci of aganglionosis
 in the <i>Sox10<sup>Dom</sup></i> model of Hirschsprung
 disease.  [Hum Mol Genet](http://hmg.oupjournals.org) 14:1549-1558
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15843399)
-[![pdf (304k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/owens.pdf)
+[![pdf (304k)](icons16/pdf-icon.png)](https://academic.oup.com/hmg/article-pdf/14/11/1549/17241377/ddi163.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1093/hmg/ddi163)
 <!-- * 52 * -->
 <!-- https://doi.org/10.1093/hmg/ddi163 -->
@@ -1058,11 +1058,11 @@ disease.  [Hum Mol Genet](http://hmg.oupjournals.org) 14:1549-1558
 **Broman KW** (2005) The genomes of
 recombinant inbred lines.  [Genetics](http://www.genetics.org/) 169:1133-1146
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15545647)
-[![pdf (525k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/rigenome.pdf)
+[![pdf (525k)](icons16/pdf-icon.png)](http://www.genetics.org/content/genetics/169/2/1133.full.pdf)
 [![R/ricalc](icons16/R-icon.png)](https://github.com/kbroman/ricalc)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.104.035212)
 \[**Erratum**: [Genetics](http://www.genetics.org) 173:2419, 2006
-[![pdf 30k](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/rigenome_corrigendum.pdf)\]
+[![pdf 30k](icons16/pdf-icon.png)](http://www.genetics.org/content/genetics/173/4/2419.full.pdf)\]
 <!-- * 51 * -->
 <!-- https://doi.org/10.1534/genetics.104.035212 -->
 
@@ -1071,7 +1071,7 @@ KW**, Rose NR (2005) Two autoimmune diabetes loci influencing T
 cell apoptosis control susceptibility to experimental autoimmune
 myocarditis.  [J Immunol](http://www.jimmunol.org) 174:2167-2173
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15699148)
-[![pdf (165k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/mehmet.pdf)
+[![pdf (165k)](icons16/pdf-icon.png)](http://www.jimmunol.org/content/jimmunol/174/4/2167.full.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.4049/jimmunol.174.4.2167)
 <!-- * 50 * -->
 <!-- https://doi.org/10.4049/jimmunol.174.4.2167 -->
