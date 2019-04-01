@@ -1105,18 +1105,8 @@ Clinical and molecular characterization of the bladder
 exstrophy-epispadias complex: Analysis of 232 families.  [BJU
 International](http://www.blackwellpublishing.com/BJU) 94:1337-1343
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15610117)
-[![pdf (168k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/bladder_exstrophy.pdf)
+[![pdf (168k)](icons16/pdf-icon.png)](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1464-410X.2004.05170.x)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1111/j.1464-410X.2004.05170.x)
-<br/>
-**Note**: The publisher
-requires that I make the following statement: &ldquo;This is an electronic
-version of an article published in BJU International: complete
-citation information for the final version of the paper, as published
-in the print edition of BJU International, is available on the
-Blackwell Synergy online delivery service, accessible via the journals
-website at [www.blackwellpublishing.com/BJU](http://www.blackwellpublishing.com/BJU)
-or
-[www.blackwell-synergy.com](http://www.blackwell-synergy.com).&rdquo;{:small}
 <!-- * 47 * -->
 <!-- https://doi.org/10.1111/j.1464-410X.2004.05170.x -->
 
@@ -1124,7 +1114,7 @@ The Complex Trait Consortium \[113 authors (2004) The
 Collaborative Cross, a community resource for the genetic analysis of
 complex traits.  [Nat Genet](http://www.nature.com/ng) 36:1133-1137
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15514660)
-[![pdf (177k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/collabcross.pdf)
+[![pdf (177k)](icons16/pdf-icon.png)](https://www.nature.com/articles/ng1104-1133.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1038/ng1104-1133)
 <!-- * 46 * -->
 <!-- https://doi.org/10.1038/ng1104-1133 -->
@@ -1145,7 +1135,7 @@ mutation that marks the emergence of breeds from the collie lineage.
 [Proc Natl Acad Sci USA](http://www.pnas.org/) 101:11725-11730
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15289602)
 [![pdf (312k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/mdr1.pdf)
-[![supporting info](icons16/supp-icon.png)](http://www.pnas.org/cgi/content/full/0402374101/DC1)
+[![supporting info](icons16/supp-icon.png)](https://www.pnas.org/content/pnas/101/32/11725.full.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1073/pnas.0402374101)
 <!-- * 44 * -->
 <!-- https://doi.org/10.1073/pnas.0402374101 -->
@@ -1154,7 +1144,7 @@ Tankersley CG, **Broman KW** (2004)
 Interactions in hypoxic and hypercapnic breathing
 are genetically linked to mouse chromosomes 1 and 5.  [J Appl Physiol](http://jap.physiology.org/) 97:77-84
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/14978007)
-[![pdf (206k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/tankersley.pdf)
+[![pdf (206k)](icons16/pdf-icon.png)](https://www.physiology.org/doi/pdf/10.1152/japplphysiol.01102.2003)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1152/japplphysiol.01102.2003)
 <!-- * 43 * -->
 <!-- https://doi.org/10.1152/japplphysiol.01102.2003 -->
@@ -1165,7 +1155,7 @@ cataract shows significant familial aggregation in an older population
 after adjustment for possible shared environmental factors.  [Invest Ophthalmol Vis Sci](https://iovs.arvojournals.org)
 45:2182-2186
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15223793)
-[![pdf (90k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/nuccat.pdf)
+[![pdf (90k)](icons16/pdf-icon.png)](https://iovs.arvojournals.org/data/journals/iovs/932927/z7g00704002182.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1167/iovs.03-1163)
 <!-- * 42 * -->
 <!-- https://doi.org/10.1167/iovs.03-1163 -->
@@ -1205,7 +1195,7 @@ Persaud D, Siliciano RF (2004) Genotypic analysis of HIV-1 drug
 resistance at the limit of detection: Virus production without
 evolution in treated adults with undetectable HIV loads.  [J Infect Dis](http://www.journals.uchicago.edu/JID/) 189:1452-1456
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15073683)
-[![pdf (1270k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/kieffer.pdf)
+[![pdf (1270k)](icons16/pdf-icon.png)](https://academic.oup.com/jid/article-pdf/189/8/1452/2450121/189-8-1452.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1086/382488)
 <!-- * 38 * -->
 <!-- https://doi.org/10.1086/382488 -->
