@@ -9,6 +9,7 @@ description: Karl Broman's software
         <ul class="nav">
             <li><a href="https://github.com/kbroman">github</a></li>
             <li><a href="http://rqtl.org">R/qtl</a></li>
+            <li><a href="https://kbroman.org/qtl2">R/qtl2</a></li>
             <li><a href="https://kbroman.org/qtlcharts">R/qtlcharts</a></li>
         </ul>
     </div>
