@@ -330,11 +330,11 @@ title: travel
   [Spatial Data Analysis](https://spatial.uchicago.edu), University of
   Chicago, Mar 9-10, 2019 (Chicago, IL)
 
--->
-
 - Reproducible Research workshop, [Reproducible Publications at AGILE
   Conferences](http://o2r.info/reproducible-agile/initiative/), April
   1-4, 2019 (Delft, The Netherlands)
+
+-->
 
 - Reproducible Research workshop, Boston University, May 14, 2019
   (Boston, MA)
