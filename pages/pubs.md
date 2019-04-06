@@ -1207,7 +1207,7 @@ KW**, Olsson T, Piehl F (2003) Discrete gene loci regulate
 neurodegeneration, lymphocyte infiltration and major
 histocompatibility complex class II expression in the CNS.  [J Neurosci](http://www.jneurosci.org/) 23:9817-9823
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/14586010)
-[![pdf (477k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/lidman.pdf)
+[![pdf (477k)](icons16/pdf-icon.png)](http://www.jneurosci.org/content/jneuro/23/30/9817.full.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1523/JNEUROSCI.23-30-09817.2003)
 <!-- * 37 * -->
 <!-- https://doi.org/10.1523/JNEUROSCI.23-30-09817.2003 -->
@@ -1215,10 +1215,9 @@ histocompatibility complex class II expression in the CNS.  [J Neurosci](http://
 Glaser RL, **Broman KW**, Shulman RL,
 Eskenazi B, Wyrobek AJ, Jabs EW (2003)  The paternal age effect in Apert
 syndrome is due in part to the increased frequency of mutations in
-sperm. [Am J Hum
-Genet](http://www.journals.uchicago.edu/AJHG/journal/) 73:939-947
+sperm. [Am J Hum Genet](http://www.journals.uchicago.edu/AJHG/journal/) 73:939-947
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/12900791)
-[![pdf (321k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/apert.pdf)
+[![pdf (321k)](icons16/pdf-icon.png)](https://www.cell.com/action/showPdf?pii=S0002-9297%2807%2963640-4)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1086/378419)
 <!-- * 36 * -->
 <!-- https://doi.org/10.1086/378419 -->
@@ -1238,7 +1237,7 @@ Lamichhane G, Zignol M, Blades NJ, Geiman DE, Dougherty A, **Broman KW**, Bishai
 for predicting essential genes at subsaturation levels of mutagenesis:
 application to <i>Mycobacterium tuberculosis</i>.  [Proc Natl Acad Sci USA](http://www.pnas.org/) 100:7213-7218
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/12775759)
-[![pdf (260k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/mutagenesis.pdf)
+[![pdf (260k)](icons16/pdf-icon.png)](https://www.pnas.org/content/pnas/100/12/7213.full.pdf)
 [![R/negenes](icons16/R-icon.png)](https://github.com/kbroman/negenes)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1073/pnas.1231432100)
 <!-- * 34 * -->
@@ -1248,7 +1247,7 @@ application to <i>Mycobacterium tuberculosis</i>.  [Proc Natl Acad Sci USA](http
 GA (2003)  R/qtl: QTL mapping in experimental crosses.
 [Bioinformatics](http://bioinformatics.oupjournals.org) 19:889-890
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/12724300)
-[![pdf (236k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/rqtl.pdf)
+[![pdf (236k)](icons16/pdf-icon.png)](https://academic.oup.com/bioinformatics/article-pdf/19/7/889/499910/btg112.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1093/bioinformatics/btg112)
 <!-- * 33 * -->
 <!-- https://doi.org/10.1093/bioinformatics/btg112 -->
@@ -1256,7 +1255,7 @@ GA (2003)  R/qtl: QTL mapping in experimental crosses.
 **Broman KW** (2003)  Mapping quantitative trait loci
 in the case of a spike in the phenotype distribution.  [Genetics](http://www.genetics.org/) 163:1169-1175
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/12663553)
-[![pdf (250k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/twopart.pdf)
+[![pdf (250k)](icons16/pdf-icon.png)](http://www.genetics.org/content/genetics/163/3/1169.full.pdf)
 <!-- * 32 * -->
 
 Becanovic K, Wallstrom E, Kornek B, Glaser A, **Broman KW**, Dahlman I, Olofsson P, Holmdahl R,
@@ -1265,7 +1264,7 @@ oligodendrocyte glycoprotein-induced experimental autoimmune
 encephalomyelitis.  [J Immunol](http://www.jimmunol.org/)
 170:1062-1069
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/12517974)
-[![pdf (208k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/becanovic.pdf)
+[![pdf (208k)](icons16/pdf-icon.png)](https://rss.onlinelibrary.wiley.com/doi/epdf/10.1111/1467-9868.00354)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.4049/jimmunol.170.2.1062)
 <!-- * 31 * -->
 <!-- https://doi.org/10.4049/jimmunol.170.2.1062 -->
