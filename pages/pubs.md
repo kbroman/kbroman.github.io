@@ -1276,7 +1276,7 @@ selection approach for the identification of quantitative trait loci
 in experimental crosses. [J Roy Stat Soc
 B](http://www.ingenta.com/journals/browse/bpl/rssb) 64:641-656
 [![Abstract](icons16/pubmed-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/jrssb_abstract.html)
-[![pdf (326k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/jrssb.pdf)
+[![pdf (326k)](icons16/pdf-icon.png)](https://rss.onlinelibrary.wiley.com/doi/epdf/10.1111/1467-9868.00354)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1111/1467-9868.00354)
 <!-- * 30 * -->
 <!-- https://doi.org/10.1111/1467-9868.00354 -->
@@ -1295,7 +1295,7 @@ chromosome 15q22.1-q25.3.  [Am J Ophthalmol](https://www.ajo.com) 134:172-176
 Paigen K (2002) Crossover interference in the mouse.  [Genetics](http://www.genetics.org/)
 160:1123-1131
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/11901128)
-[![pdf (165k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/mousebc.pdf)
+[![pdf (165k)](icons16/pdf-icon.png)](http://www.genetics.org/content/genetics/160/3/1123.full.pdf)
 <!-- * 28 * -->
 
 #### 2001
