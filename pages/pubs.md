@@ -1307,7 +1307,7 @@ linked to the breast cancer metastasis suppressor gene <i>Brms1</i>.
 [Cancer
 Research](http://cancerres.aacrjournals.org) 61:8866-8872
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/11751410)
-[![pdf (314k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/hunter.pdf)
+[![pdf (314k)](icons16/pdf-icon.png)](http://cancerres.aacrjournals.org/content/61/24/8866.full-text.pdf)
 <!-- * 27 * -->
 
 Ravenel JD, **Broman KW**, Perlman EJ,
@@ -1317,7 +1317,7 @@ Insulin-Like Growth Factor-II (IGF2) gene in distinguishing specific
 biologic subtypes of Wilms tumor.
 [J Natl Cancer Inst](https://academic.oup.com/jnci) 93:1698-1703
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/11717330)
-[![pdf (330k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/imprinting.pdf)
+[![pdf (330k)](icons16/pdf-icon.png)](https://academic.oup.com/jnci/article-pdf/93/22/1698/9849084/1698.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1093/jnci/93.22.1698)
 <!-- * 26 * -->
 <!-- https://doi.org/10.1093/jnci/93.22.1698 -->
@@ -1351,7 +1351,7 @@ Giorda R, Weber JL,  Ledbetter DH, Zuffardi O (2001) Olfactory
 receptor-gene clusters, genomic-inversion polymorphisms, and
 common chromosome rearrangements.  [Am J Hum Genet](https://www.cell.com/ajhg/home) 68:874-883
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/11231899)
-[![pdf (1494k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/giglio.pdf)
+[![pdf (1494k)](icons16/pdf-icon.png)](https://www.cell.com/action/showPdf?pii=S0002-9297%2807%2961414-1)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1086/319506)
 <!-- * 23 * -->
 <!-- https://doi.org/10.1086/319506 -->
@@ -1372,7 +1372,7 @@ Doggett NA, Ghebranious N, **Broman KW**, Weber JL (2001)
 Comparison of human genetic and sequence-based physical maps.  [Nature](http://www.nature.com/nature/)
 409:951-953
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/11237020)
-[![pdf (129k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/genphys.pdf)
+[![pdf (129k)](icons16/pdf-icon.png)](https://www.nature.com/articles/35057185.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1038/35057185)
 <!-- * 21 * -->
 <!-- https://doi.org/10.1038/35057185 -->
@@ -1381,7 +1381,7 @@ Lichter-Konecki U, **Broman KW**, Blau EB, Konecki DS (2001) Genetic
 and physical mapping of the locus for autosomal dominant renal Fanconi
 syndrome, on chromosome 15q15.3 [Am J Hum Genet](https://www.cell.com/ajhg/home) 68:264-268
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/11090339)
-[![pdf (636k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/konecki.pdf)
+[![pdf (636k)](icons16/pdf-icon.png)](https://www.cell.com/action/showPdf?pii=S0002-9297%2807%2962495-1)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1086/316923)
 <!-- * 20 * -->
 <!-- https://doi.org/10.1086/316923 -->
