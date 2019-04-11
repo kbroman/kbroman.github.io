@@ -1394,7 +1394,7 @@ J, Comuzzie AG (2000) Quantitative trait loci on chromosomes 3 and 17
 influence phenotypes of the metabolic syndrome.  [Proc Natl Acad Sci
 USA](http://www.pnas.org) 97:14478-14483
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/11121050)
-[![pdf (200k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/tops.pdf)
+[![pdf (200k)](icons16/pdf-icon.png)](https://www.pnas.org/content/pnas/97/26/14478.full.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1073/pnas.97.26.14478)
 <!-- * 19 * -->
 <!-- https://doi.org/10.1073/pnas.97.26.14478 -->
@@ -1403,7 +1403,7 @@ Witte JS, Goddard KAB, Conti DV, Elston RC, Lin J, Suarez BK,
 **Broman KW**, Burmester JK, Weber JL, Catalona WJ (2000) Genomewide scan
 for prostate cancer-aggressiveness loci.  [Am J Hum Genet](https://www.cell.com/ajhg/home) 67:92-99
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/10825281)
-[![pdf (243k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/prostate2.pdf)
+[![pdf (243k)](icons16/pdf-icon.png)](https://www.cell.com/action/showPdf?pii=S0002-9297%2807%2962435-5)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1086/302960)
 <!-- * 18 * -->
 <!-- https://doi.org/10.1086/302960 -->
@@ -1411,7 +1411,7 @@ for prostate cancer-aggressiveness loci.  [Am J Hum Genet](https://www.cell.com/
 **Broman KW**, Weber JL (2000) Characterization of human crossover
 interference.  [Am J Hum Genet](https://www.cell.com/ajhg/home) 66:1911-1926
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/10801387)
-[![pdf (291k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/interfer.pdf)
+[![pdf (291k)](icons16/pdf-icon.png)](https://www.cell.com/action/showPdf?pii=S0002-9297%2807%2963543-5)
 [![Expanded version of tables 1-2](icons16/supp-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/broman_weber_tables1-2_expanded.pdf)
 [![Expanded version of figure 3](icons16/supp-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/broman_weber_fig3_expanded.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1086/302923)
@@ -1422,7 +1422,7 @@ Suarez BK, Lin J, Burmester JK, **Broman KW**, Weber JL, Banerjee TK,
 Goddard KAB, Witte JS, Elston RC, Catalona WJ (2000) A genome
 screen of multiplex prostate cancer sibships.  [Am J Hum Genet](https://www.cell.com/ajhg/home) 66:933-944
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/10712208)
-[![pdf (291k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/prostate.pdf)
+[![pdf (291k)](icons16/pdf-icon.png)](https://www.cell.com/action/showPdf?pii=S0002-9297%2807%2964020-8)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1086/302818)
 <!-- * 16 * -->
 <!-- https://doi.org/10.1086/302818 -->
@@ -1432,7 +1432,7 @@ variation in recombination in female meiosis: A risk factor for
 non-disjunction of chromosome 21.  [Hum Mol Genet](http://hmg.oupjournals.org/contents-by-date.0.shtml)
 9:515-523
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/10699174)
-[![pdf (196k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/nondisj.pdf)
+[![pdf (196k)](icons16/pdf-icon.png)](https://academic.oup.com/hmg/article-pdf/9/4/515/9462879/090515.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1093/hmg/9.4.515)
 <!-- * 15 * -->
 <!-- https://doi.org/10.1093/hmg/9.4.515 -->
