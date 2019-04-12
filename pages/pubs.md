@@ -1443,7 +1443,7 @@ non-disjunction of chromosome 21.  [Hum Mol Genet](http://hmg.oupjournals.org/co
 segments in reference families from the Centre d'&Eacute;tude du
 Polymorphisme Humain.  [Am J Hum Genet](https://www.cell.com/ajhg/home) 65:1493-1500
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/10577902)
-[![pdf (202k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/autozyg.pdf)
+[![pdf (202k)](icons16/pdf-icon.png)](https://www.cell.com/action/showPdf?pii=S0002-9297%2807%2962677-9)
 [![Supplemental table (pdf 28k)](icons16/supp-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/segments.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1086/302661)
 \[[Errata](https://www.biostat.wisc.edu/~kbroman/publications/autozyg_errors.html)\]
@@ -1466,7 +1466,7 @@ Ziegle JS, Ostrander EA, Rine J (1999) A
 second-generation genetic linkage map of the domestic dog, <i>Canis
 familiaris</i>. [Genetics](http://www.genetics.org/) 151:803-820
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/9927471)
-[![pdf (262k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/dogmaps.pdf)
+[![pdf (262k)](icons16/pdf-icon.png)](http://www.genetics.org/content/genetics/151/2/803.full.pdf)
 [![Supplemental data](icons16/supp-icon.png)](https://www.biostat.wisc.edu/~kbroman/data/index.html#dogs)
 <!-- * 12 * -->
 
