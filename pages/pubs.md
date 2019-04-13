@@ -1476,7 +1476,7 @@ familiaris</i>. [Genetics](http://www.genetics.org/) 151:803-820
 (1998) Comprehensive human genetic maps: Individual and sex-specific
 variation in recombination. [Am J Hum Genet](https://www.cell.com/ajhg/home) 63:861-869
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/9718341)
-[![pdf (534k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/geneticmaps.pdf)
+[![pdf (534k)](icons16/pdf-icon.png)](https://www.cell.com/action/showPdf?pii=S0002-9297%2807%2961389-5)
 [![Supplemental data](icons16/supp-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/mfdmaps_supp)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1086/302011)
 <!-- * 11 * -->
@@ -1486,7 +1486,7 @@ variation in recombination. [Am J Hum Genet](https://www.cell.com/ajhg/home) 63:
 antigen-responsive T cell frequencies in PBMC from human
 subjects. [Stat Sci](https://www.imstat.org/journals-and-publications/statistical-science/) 13:4-8
 [![Abstract](icons16/pubmed-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/statsci_abstract.html)
-[![pdf (556k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/statsci.pdf)
+[![pdf (556k)](icons16/pdf-icon.png)](https://projecteuclid.org/download/pdf_1/euclid.ss/1028905971)
 [![data](icons16/data-icon.png)](https://www.biostat.wisc.edu/~kbroman/data/index.html#jim)
 [![R/npem](icons16/R-icon.png)](https://github.com/kbroman/npem)
 <!-- * 10 * -->
