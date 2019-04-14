@@ -1508,7 +1508,7 @@ Dernburg AF, **Broman KW**, Fung JC, Marshall WF, Philips J,
 Agard DA, Sedat JW (1996) Perturbation of nuclear architecture by
 long-distance chromosome interactions. [Cell](http://www.cell.com) 85:745-759
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/8646782)
-[![pdf (11M)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/cell.pdf)
+[![pdf (11M)](icons16/pdf-icon.png)](https://www.cell.com/action/showPdf?pii=S0092-8674%2800%2981240-4)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1016/S0092-8674(00)81240-4)
 <!-- * 8 * -->
 <!-- https://doi.org/10.1016/S0092-8674(00)81240-4 -->
