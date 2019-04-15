@@ -1537,7 +1537,7 @@ Genet](https://www.cell.com/ajhg/home) 75:720-722
 (Response to [Schork and Greenwood, Am J Hum Genet
 74:306-316, 2004](https://www.ncbi.nlm.nih.gov/pubmed/14732904))
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15338459)
-[![pdf (60k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/on_schork.pdf)
+[![pdf (60k)](icons16/pdf-icon.png)](https://www.cell.com/action/showPdf?pii=S0002-9297%2807%2962726-8)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1086/424756)
 <!-- * 7 * -->
 <!-- https://doi.org/10.1086/424756 -->
@@ -1548,7 +1548,7 @@ Genet](https://www.cell.com/ajhg/home) 72:496
 (Response to [North
 et al., Am J Hum Genet 71:439-441, 2002](https://www.ncbi.nlm.nih.gov/pubmed/12111669))
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/12596792)
-[![pdf (93k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/pvalueltr.pdf)
+[![pdf (93k)](icons16/pdf-icon.png)](https://www.cell.com/action/showPdf?pii=S0002-9297%2807%2960559-X)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1086/346175)
 <!-- * 6 * -->
 <!-- https://doi.org/10.1086/346175 -->
@@ -1560,7 +1560,7 @@ subtypes of Wilms tumor.  [J Natl Cancer
 Inst](https://academic.oup.com/jnci) 94:1809-1810
 (Response to [Morison
 et al., J Natl Cancer Inst 94:1809, 2002](https://www.ncbi.nlm.nih.gov/pubmed/12464656))
-[![pdf (37k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/ravenel_ltr.pdf)
+[![pdf (37k)](icons16/pdf-icon.png)](https://academic.oup.com/jnci/article-pdf/94/23/1809/9849282/1809.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1093/jnci/94.23.1809-a)
 <!-- https://doi.org/10.1093/jnci/94.23.1809-a -->
 
@@ -1568,7 +1568,7 @@ et al., J Natl Cancer Inst 94:1809, 2002](https://www.ncbi.nlm.nih.gov/pubmed/12
 relationships in the presence of genotyping errors. [Am J Hum Genet](https://www.cell.com/ajhg/home)
 63:1563-1564
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/9792888)
-[![pdf (429k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/relcheck.pdf)
+[![pdf (429k)](icons16/pdf-icon.png)](https://www.cell.com/action/showPdf?pii=S0002-9297%2807%2961592-4)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1086/302112)
 <!-- * 5 * -->
 <!-- https://doi.org/10.1086/302112 -->
@@ -1588,7 +1588,7 @@ interactions in rheumatoid arthritis by a two-step approach with
 machine learning and a Bayesian threshold least absolute shrinkage and
 selection operator (LASSO) model.  [BMC Proc](http://www.biomedcentral.com/bmcproc/) [3(Suppl 7)](http://www.biomedcentral.com/1753-6561/3?issue=S7):S63
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/20018057)
-[![pdf (278k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/gaw16.pdf)
+[![pdf (278k)](icons16/pdf-icon.png)](https://bmcproc.biomedcentral.com/track/pdf/10.1186/1753-6561-3-S7-S63)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1186/1753-6561-3-S7-S63)
 <!-- * 93 * -->
 <!-- https://doi.org/10.1186/1753-6561-3-S7-S63 -->
@@ -1625,7 +1625,7 @@ Wijsman EM, MacCluer JE. Genetics Workshop 11: Analysis of genetic and
 environmental factors in common diseases.  [Genet Epidemiol](http://www.interscience.wiley.com/jpages/0741-0395/)
 17(Supp 1):S79-S83
 [![Pubmed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/10597416)
-[![pdf (95k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/gaw11.pdf)
+[![pdf (95k)](icons16/pdf-icon.png)](https://onlinelibrary.wiley.com/doi/epdf/10.1002/gepi.1370170714)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1002/gepi.1370170714)
 <!-- * 2 * -->
 <!-- https://doi.org/10.1002/gepi.1370170714 -->
