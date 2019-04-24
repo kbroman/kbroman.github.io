@@ -341,7 +341,7 @@ title: travel
 
 - LMM hackathon, UTHSC, May 22-25, 2019 (Memphis, TN)
 
-- [CTC meeting](http://ratgenes.org/ctc2019), Jun 9-11, 2019 (La Jolla, CA)
+- [CTC meeting](http://ratgenes.org/ctc2019), Jun 8-12, 2019 (La Jolla, CA)
 
 - [MAGIC workshop](http://mtweb.cs.ucl.ac.uk/mus/www/MAGICdiverse/MAGIC_workshop.htm),
   July 23-24, 2019 (Oxford, UK)
