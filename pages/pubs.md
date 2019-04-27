@@ -31,6 +31,15 @@ description: Karl Broman's publications
 
 #### in preparation
 
+Kemis JH, Linke V, Barrett KL, Boehm FJ, Traeger LL, Keller MP,
+Rabaglia ME, Schueler KL, Stapleton DS, Gatti DM, Churchill GA,
+Amador-Noguez D, Russell JD, Yandell BS, **Broman KW**, Coon JJ, Attie
+AD, Rey FE (2019) Genetic determinants of gut microbiota composition
+and bile acid profiles in mice. [bioRxiv](https://www.biorxiv.org/)
+doi:[10.1101/571075](https://doi.org/10.1101/571075)
+[![pdf](icons16/pdf-icon.png)](https://www.biorxiv.org/content/biorxiv/early/2019/03/07/571075.full.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1101/571075)
+
 Boehm FJ, Chesler EJ, Yandell BS, **Broman KW** (2019)
 Testing pleiotropy vs. separate QTL in multiparental populations.
 [bioRxiv](https://www.biorxiv.org/) doi:[10.1101/550939](https://doi.org/10.1101/550939)
