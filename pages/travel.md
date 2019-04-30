@@ -344,7 +344,7 @@ title: travel
 - [CTC meeting](http://ratgenes.org/ctc2019), Jun 8-12, 2019 (La Jolla, CA)
 
 - [MAGIC workshop](http://mtweb.cs.ucl.ac.uk/mus/www/MAGICdiverse/MAGIC_workshop.htm),
-  July 21-25, 2019 (Oxford, UK)
+  July 21-25, 2019 (Cambridge, UK)
 
 - [JSM](https://ww2.amstat.org/meetings/jsm/2019), Jul 28 - Aug 1, 2019 (Denver, CO)
 
