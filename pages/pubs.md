@@ -43,7 +43,7 @@ doi:[10.1101/571075](https://doi.org/10.1101/571075)
 Boehm FJ, Chesler EJ, Yandell BS, **Broman KW** (2019)
 Testing pleiotropy vs. separate QTL in multiparental populations.
 [bioRxiv](https://www.biorxiv.org/) doi:[10.1101/550939](https://doi.org/10.1101/550939)
-[![pdf](icons16/pdf-icon.png)](https://www.biorxiv.org/content/biorxiv/early/2019/02/15/550939.full.pdf)
+[![pdf](icons16/pdf-icon.png)](https://www.biorxiv.org/content/biorxiv/early/2019/04/30/550939.full-text.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/fboehm/qtl2pleio-manuscript)
 [![qtl2pleio software](icons16/R-icon.png)](https://github.com/fboehm/qtl2pleio)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1101/550939)
