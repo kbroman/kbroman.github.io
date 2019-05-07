@@ -24,9 +24,9 @@ keywords: Broman, QTL, R/qtl, quantitative trait loci, statistics, statistical g
     </a>
   </td>
   <td class="right">
-    <a href="pages/publpics/tian2016_fig4.html">
-        <img src="assets/publpics/tian2016_fig4.png" alt="Tian et
-        al. (2016) Fig 4" title="Tian et al. (2016) Fig 4"/>
+    <a href="pages/publpics/mppdiag_fig4.html">
+        <img src="assets/publpics/mppdiag_fig4.png" alt="Broman et
+        al. (2019) Fig 4" title="Broman et al. (2019) Fig 4"/>
     </a>
   </td>
 </tr>
