@@ -1466,9 +1466,9 @@ maps. [Genet Epidemiol](http://www.interscience.wiley.com/jpages/0741-0395/)
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/10207715)
 [![pdf (51k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/framework.pdf)
 <!-- [![Build your own map](icons16/html-icon.png)](http://research.marshfieldclinic.org/genetics/MarkerSearch/buildMap.asp) -->
-[![doi](icons16/doi-icon.png)](https://doi.org/10.1002/(SICI)1098-2272(1999)16:4<337::AID-GEPI1>3.0.CO;2-T)
+[![doi](icons16/doi-icon.png)](https://doi.org/fb5x3q)
 <!-- * 13 * -->
-<!-- https://doi.org/10.1002/(SICI)1098-2272(1999)16:4<337::AID-GEPI1>3.0.CO;2-T -->
+<!-- https://doi.org/10/fb5x3q -->
 
 Neff MW, **Broman KW**, Mellersh CS, Ray K, Acland GM, Aguirre GD,
 Ziegle JS, Ostrander EA, Rine J (1999) A
@@ -1509,18 +1509,18 @@ subjects. [J Immunol Meth](http://www.sciencedirect.com/science/journal/00221759
 [![pdf (740k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/jim.pdf)
 [![data](icons16/data-icon.png)](https://www.biostat.wisc.edu/~kbroman/data/jim/index.html)
 [![R/npem](icons16/R-icon.png)](https://github.com/kbroman/npem)
-[![doi](icons16/doi-icon.png)](https://doi.org/10.1016/S0022-1759(96)00136-6)
+[![doi](icons16/doi-icon.png)](https://doi.org/b54v33)
 <!-- * 9 * -->
-<!-- https://doi.org/10.1016/S0022-1759(96)00136-6 -->
+<!-- https://doi.org/10/b54v33 -->
 
 Dernburg AF, **Broman KW**, Fung JC, Marshall WF, Philips J,
 Agard DA, Sedat JW (1996) Perturbation of nuclear architecture by
 long-distance chromosome interactions. [Cell](http://www.cell.com) 85:745-759
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/8646782)
 [![pdf (11M)](icons16/pdf-icon.png)](https://www.cell.com/action/showPdf?pii=S0092-8674%2800%2981240-4)
-[![doi](icons16/doi-icon.png)](https://doi.org/10.1016/S0092-8674(00)81240-4)
+[![doi](icons16/doi-icon.png)](https://doi.org/fnjj8p)
 <!-- * 8 * -->
-<!-- https://doi.org/10.1016/S0092-8674(00)81240-4 -->
+<!-- https://doi.org/10/fnjj8p -->
 
 ### <a name="editorials"></a>editorials
 
