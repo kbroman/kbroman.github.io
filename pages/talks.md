@@ -6,6 +6,12 @@ description: Karl Broman's talks
 
 ###  2019
 
+Steps toward reproducible research
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rrboston2019_nonotes.pdf)
+[![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rrboston2019.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_RRBoston2019) <br/>
+Boston University, Boston, Massachusetts (_May 14_)
+
 Salvaging a genetics project: Identifying and correcting sample
 mix-ups in high-dimensional data
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/bds2019.pdf)
