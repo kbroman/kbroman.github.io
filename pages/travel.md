@@ -334,10 +334,10 @@ title: travel
   Conferences](http://o2r.info/reproducible-agile/initiative/), April
   1-4, 2019 (Delft, The Netherlands)
 
--->
-
 - Reproducible Research workshop, Boston University, May 14, 2019
   (Boston, MA)
+
+-->
 
 - LMM hackathon, UTHSC, May 22-25, 2019 (Memphis, TN)
 
