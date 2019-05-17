@@ -55,10 +55,11 @@ Diversity Outbred mice.
 Boehm FJ, Chesler EJ, Yandell BS, **Broman KW** (2019)
 Testing pleiotropy vs. separate QTL in multiparental populations.
 [G3](http://g3journal.org), to appear
+[![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/31092608)
 [![pdf](icons16/pdf-icon.png)](https://www.g3journal.org/content/ggg/early/2019/05/15/g3.119.400098.full.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/fboehm/qtl2pleio-manuscript)
 [![qtl2pleio software](icons16/R-icon.png)](https://github.com/fboehm/qtl2pleio)
-[![doi](icons16/doi-icon.png)](https://doi.org/10.1101/400098)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1101/g3.119.400098)
 <!-- * 155 * -->
 <!-- https://doi.org/10.1534/g3.119.400098 -->
 
