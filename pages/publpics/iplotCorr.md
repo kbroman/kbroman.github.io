@@ -7,7 +7,7 @@ title: R/qtlcharts example
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="geneticmaps_fig3.html">prev</a></li>
-          <li><a href="tian2016_fig4.html">next</a></li>
+          <li><a href="mppdiag_fig4.html">next</a></li>
       </ul>
   </div>
 </div>
