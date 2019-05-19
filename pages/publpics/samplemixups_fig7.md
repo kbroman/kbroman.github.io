@@ -6,7 +6,7 @@ title: Broman et al. (2015) Fig 7
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="mppdiag_fig4.html">prev</a></li>
+          <li><a href="tian2016_fig4.html">prev</a></li>
           <li><a href="rqtl2_fig1.html">next</a></li>
       </ul>
   </div>
@@ -21,6 +21,8 @@ mix-ups in expression genetic data: A case study. [G3](http://g3journal.org)
 [![data](../icons16/data-icon.png)](http://bit.ly/B6BTBR)
 [![GitHub](../icons16/github-icon.png)](https://github.com/kbroman/Paper_SampleMixups)
 [![R/lineup software](../icons16/R-icon.png)](https://github.com/kbroman/lineup)
+[![doi](../icons16/doi-icon.png)](https://doi.org/10.1534/g3.115.019778)
+
 
 ![Broman et al. (2015) Fig 7](../../assets/bigpublpics/samplemixups_fig7_lg.png)
 

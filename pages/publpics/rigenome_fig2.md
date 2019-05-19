@@ -16,6 +16,7 @@ Broman KW (2005) The genomes of
 recombinant inbred lines. Genetics 169:1133-1146
 [![PubMed](../icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15545647)
 [![pdf (525k)](../icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/rigenome.pdf)
+[![doi](../icons16/doi-icon.png)](https://doi.org/10.1534/genetics.104.035212)
 
 ![Broman (2005) Fig 2](../../assets/bigpublpics/rigenome_fig2_lg.png)
 

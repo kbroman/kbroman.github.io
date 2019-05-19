@@ -18,6 +18,7 @@ quantitative trait loci onto a phylogenetic tree.  Genetics
 [![PubMed](../icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/22745229)
 [![pdf (1.9M)](../icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/phyloqtl.pdf)
 [![source on github](../icons16/github-icon.png)](https://github.com/kbroman/phyloQTLpaper)
+[![doi](../icons16/doi-icon.png)](https://doi.org/10.1534/genetics.112.142448)
 
 ![Broman et al. (2012) Fig 2](../../assets/bigpublpics/phyloqtl_fig2_lg.png)
 

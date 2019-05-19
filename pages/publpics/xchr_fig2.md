@@ -17,6 +17,7 @@ Churchill GA (2006) The X chromosome in quantitative trait locus
 mapping.  Genetics 174:2151-2158
 [![PubMed](../icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/17028340)
 [![pdf (169k)](../icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/xchr.pdf)
+[![doi](../icons16/doi-icon.png)](https://doi.org/10.1534/genetics.106.061176)
 
 ![Broman et al. (2006) Fig 2](../../assets/bigpublpics/xchr_fig2_lg.png)
 

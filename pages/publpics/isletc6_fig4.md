@@ -7,7 +7,7 @@ title: Tian et al. (2015) Fig 4
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="rqtl2_fig1.html">prev</a></li>
-          <li><a href="tian2016_fig4.html">next</a></li>
+          <li><a href="rqtlbook.html">next</a></li>
       </ul>
   </div>
 </div>
@@ -22,6 +22,7 @@ affects gene expression in mouse pancreatic islets.
 [![pdf](../icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/islet_chr6.pdf)
 [![supplement](../icons16/supp-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/islet_chr6/FileS1.csv)
 [![data](../icons16/data-icon.png)](http://bit.ly/B6BTBR)
+[![doi](../icons16/doi-icon.png)](https://doi.org/10.1534/genetics.115.179432)
 
 ![Tian et al. (2015) Fig 4](../../assets/bigpublpics/isletc6_fig4_lg.png)
 
