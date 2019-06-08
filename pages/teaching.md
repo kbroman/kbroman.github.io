@@ -38,6 +38,19 @@ description: Karl Broman's teaching
 
 ### <a name="shortcourses"></a>Short courses
 
+#### Analysis of BXD mouse lines with R/qtl2
+
+[Complex Trait Community meeting](http://ratgenes.org/ctc2019), San
+Diego, CA (June 9, 2019)
+
+<https://github.com/kbroman/Teaching_CTC2019>
+
+[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/kbroman/Teaching_CTC2019/master?filepath=CTC2019_tutorial.ipynb)
+
+
+---
+
+
 #### [2nd International Workshop on Advanced R and R/qtl](https://www.icrisat.org/event/2nd-international-workshop-on-advanced-r-r-qtl/)
 
 [ICRISAT](http://www.icrisat.org), Patancheru, Andhra Pradesh, India
