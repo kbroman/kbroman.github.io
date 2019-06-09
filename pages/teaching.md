@@ -45,8 +45,9 @@ Diego, CA (June 9, 2019)
 
 <https://github.com/kbroman/Teaching_CTC2019>
 
-[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/kbroman/Teaching_CTC2019/master?filepath=CTC2019_tutorial.ipynb)
+Jupyter notebook: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/kbroman/Teaching_CTC2019/master?filepath=CTC2019_tutorial.ipynb)
 
+RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kbroman/Teaching_CTC2019/master?urlpath=rstudio)
 
 ---
 
