@@ -732,7 +732,8 @@ Salvaging an eQTL project: Identifying and correcting sample mix-ups
 Identifying sample mix-ups in eQTL data
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/mousegenet2011.pdf)
 <br/>
-[Mouse Genetics 2011](http://www.mousegenetics2011.org), Washington, DC (_Jun 23_)
+[Mouse Genetics 2011](http://www.mousegenetics2011.org) (and 10th
+Complex Trait Community meeting), Washington, DC (_Jun 23_)
 
 Mapping quantitative trait loci in mice
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/multiqtl_ireland11.pdf)
