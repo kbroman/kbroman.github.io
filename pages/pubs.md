@@ -22,10 +22,12 @@ description: Karl Broman's publications
 ### <a name="book"></a>book
 
 **Broman KW**, Sen &#346; (2009) A Guide to QTL Mapping with R/qtl.  Springer, New York
-[![Online complements](icons16/html-icon.png)](http://www.rqtl.org/book)
+[![Online complements](icons16/html-icon.png)](http://rqtl.org/book)
 [![Amazon](icons16/amazon-icon.png)](https://www.amazon.com/gp/product/0387921249?ie=UTF8&tag=7210-20)
-[![Springer](icons16/springer-icon.png)](http://www.springer.com/978-0-387-92124-2)
-[![R/qtl](icons16/R-icon.png)](http://www.rqtl.org)
+[![Springer](icons16/springer-icon.png)](https://www.springer.com/978-0-387-92124-2)
+[![R/qtl](icons16/R-icon.png)](http://rqtl.org)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1007/978-0-387-92125-9)
+
 
 ### <a name="articles"></a>journal articles
 
