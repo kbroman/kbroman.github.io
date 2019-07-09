@@ -52,21 +52,18 @@ Diversity Outbred mice.
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1101/529040)
 
 
-#### to appear
+#### 2019
 
 Boehm FJ, Chesler EJ, Yandell BS, **Broman KW** (2019)
 Testing pleiotropy vs. separate QTL in multiparental populations.
-[G3](http://g3journal.org), to appear
+[G3](http://g3journal.org) 9:2317-2324
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/31092608)
-[![pdf](icons16/pdf-icon.png)](https://www.g3journal.org/content/ggg/early/2019/05/15/g3.119.400098.full.pdf)
+[![pdf](icons16/pdf-icon.png)](https://www.g3journal.org/content/ggg/9/7/2317.full.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/fboehm/qtl2pleio-manuscript)
 [![qtl2pleio software](icons16/R-icon.png)](https://github.com/fboehm/qtl2pleio)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/g3.119.400098)
 <!-- * 155 * -->
 <!-- https://doi.org/10.1534/g3.119.400098 -->
-
-
-#### 2019
 
 **Broman KW**, Gatti DM, Svenson KL, Sen &#346;, Churchill GA (2019)
 Cleaning genotype data from Diversity Outbred mice.
