@@ -62,8 +62,17 @@ Testing pleiotropy vs. separate QTL in multiparental populations.
 [![GitHub](icons16/github-icon.png)](https://github.com/fboehm/qtl2pleio-manuscript)
 [![qtl2pleio software](icons16/R-icon.png)](https://github.com/fboehm/qtl2pleio)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/g3.119.400098)
-<!-- * 155 * -->
+<!-- * 156 * -->
 <!-- https://doi.org/10.1534/g3.119.400098 -->
+
+Boehm F, Yandell B, **Broman KW** (2019) qtl2pleio: Testing pleiotropy
+vs. separate QTL in multiparental populations. [J Open Source
+Software](https://joss.theoj.org) 4(38):1435
+[![pdf](icons16/pdf-icon.png)](https://www.theoj.org/joss-papers/joss.01435/10.21105.joss.01435.pdf)
+[![qtl2pleio software](icons16/R-icon.png)](https://github.com/fboehm/qtl2pleio)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.21105/joss.01435)
+<!-- * 155 * -->
+<!-- https://doi.org/10.21105/joss.01435 -->
 
 **Broman KW**, Gatti DM, Svenson KL, Sen &#346;, Churchill GA (2019)
 Cleaning genotype data from Diversity Outbred mice.
@@ -196,7 +205,7 @@ peripheral nervous systems. [PLoS ONE](http://www.plosone.org) 11:e0160447
 
 Sloan Z, Arends D, **Broman KW**, Centeno A, Furlotte N, Nijveen H,
 Yan L, Zhou X, Williams RW, Prins P (2016) GeneNetwork: framework for
-web-based genetics. [J Open Source Software](https://joss.theoj.org) 1(2): 25
+web-based genetics. [J Open Source Software](https://joss.theoj.org) 1(2):25
 [![pdf](icons16/pdf-icon.png)](https://www.theoj.org/joss-papers/joss.00025/10.21105.joss.00025.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.21105/joss.00025)
 <!-- * 143 * -->
