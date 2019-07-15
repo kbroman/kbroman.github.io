@@ -6,6 +6,13 @@ description: Karl Broman's talks
 
 ###  2019
 
+Why Javascript?
+[![html](icons16/html-icon.png)](https://kbroman.org/Talk_JSM2019)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_JSM2019)<br/>
+[Joint Statistical Meetings](https://www.amstat.org/meetings/jsm/2019/),
+Denver, Colorado (_Jul 30_)
+
+
 Sample mix-ups and mixtures in microbiome data in DO mice
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ctc2019.pdf)
 [![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ctc2019_withnotes.pdf)
