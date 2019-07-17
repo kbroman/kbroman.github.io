@@ -12,6 +12,11 @@ Why Javascript?
 [Joint Statistical Meetings](https://www.amstat.org/meetings/jsm/2019/),
 Denver, Colorado (_Jul 30_)
 
+QTL mapping in MAGIC populations with R/qtl2
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_MAGIC2019/magic2019.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_MAGIC2019) <br/>
+[MAGIC 2019 workshop](http://mtweb.cs.ucl.ac.uk/mus/www/MAGICdiverse/MAGIC_workshop.htm),
+[NIAB Innovation Farm](https://www.innovationfarm.co.uk/), Cambridge, UK (_Jul 23_)
 
 Sample mix-ups and mixtures in microbiome data in DO mice
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ctc2019.pdf)
@@ -19,7 +24,6 @@ Sample mix-ups and mixtures in microbiome data in DO mice
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_CTC2019) <br/>
 [Complex Trait Community meeting](http://ratgenes.org/ctc2019),
 San Diego, California (_Jun 10_)
-
 
 Steps toward reproducible research
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rrboston2019_nonotes.pdf)
