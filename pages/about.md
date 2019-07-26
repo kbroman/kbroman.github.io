@@ -41,6 +41,7 @@ his [D3 examples](https://www.biostat.wisc.edu/~kbroman/D3).
 [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/broman_cv.pdf)<br/>
 [orcid](https://orcid.org): [0000-0002-4914-6671](https://orcid.org/0000-0002-4914-6671)<br/>
 [google scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=42tCp5UAAAAJ&view_op=list_works)<br/>
+[pubmed](https://www.ncbi.nlm.nih.gov/pubmed/?term=broman+kw)<br/>
 [impactstory](https://impactstory.org/u/0000-0002-4914-6671)<br/>
 [github](https://github.com/kbroman)<br/>
 [blog](https://kbroman.org/blog) <br/>
