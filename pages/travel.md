@@ -344,9 +344,9 @@ title: travel
 - [MAGIC workshop](http://mtweb.cs.ucl.ac.uk/mus/www/MAGICdiverse/MAGIC_workshop.htm),
   July 21-25, 2019 (Cambridge, UK)
 
--->
-
 - [JSM](https://ww2.amstat.org/meetings/jsm/2019), Jul 28 - Aug 1, 2019 (Denver, CO)
+
+-->
 
 - Systems genetics workshop, Jackson Lab, Oct 21-26, 2019 (Bar Harbor, ME)
 
