@@ -73,14 +73,12 @@ Various R functions that I find useful, assembled into an R package.
 
 ---
 
-#### <a name="aRxiv"></a>[aRxiv](https://github.com/ropensci/aRxiv) and <a name="IEEER"></a>[IEEER](https://github.com/ropensci/IEEER)
+#### <a name="aRxiv"></a>[aRxiv](https://github.com/ropensci/aRxiv)
 
-[R](https://www.r-project.org) packages for searching
+[R](https://www.r-project.org) package for searching
 [arXiv](https://arxiv.org) (an archive of electronic preprints for
 computer science, mathematics, physics, quantitative biology,
-quantitative finance, and statistics) and
-[IEEE journals](https://ieeexplore.ieee.org/Xplore/home.jsp), respectively.
-These packages are part of the
+quantitative finance, and statistics). The package is part of the
 [rOpenSci project](https://ropensci.org).
 
 ---
