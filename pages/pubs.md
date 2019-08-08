@@ -33,15 +33,6 @@ description: Karl Broman's publications
 
 #### in preparation
 
-Kemis JH, Linke V, Barrett KL, Boehm FJ, Traeger LL, Keller MP,
-Rabaglia ME, Schueler KL, Stapleton DS, Gatti DM, Churchill GA,
-Amador-Noguez D, Russell JD, Yandell BS, **Broman KW**, Coon JJ, Attie
-AD, Rey FE (2019) Genetic determinants of gut microbiota composition
-and bile acid profiles in mice. [bioRxiv](https://www.biorxiv.org/)
-doi:[10.1101/571075](https://doi.org/10.1101/571075)
-[![pdf](icons16/pdf-icon.png)](https://www.biorxiv.org/content/biorxiv/early/2019/03/07/571075.full.pdf)
-[![doi](icons16/doi-icon.png)](https://doi.org/10.1101/571075)
-
 Lobo AK, Traeger LL, Keller MP, Attie AD, Rey FE, **Broman KW** (2019)
 Identification of sample mix-ups and mixtures in microbiome data in
 Diversity Outbred mice.
@@ -53,6 +44,16 @@ Diversity Outbred mice.
 
 
 #### to appear
+
+Kemis JH, Linke V, Barrett KL, Boehm FJ, Traeger LL, Keller MP,
+Rabaglia ME, Schueler KL, Stapleton DS, Gatti DM, Churchill GA,
+Amador-Noguez D, Russell JD, Yandell BS, **Broman KW**, Coon JJ, Attie
+AD, Rey FE (2019) Genetic determinants of gut microbiota composition
+and bile acid profiles in mice. [PLoS Genet](https://journals.plos.org/plosgenetics), to appear
+([bioRxiv](https://www.biorxiv.org/)
+doi:[10.1101/571075](https://doi.org/10.1101/571075))
+[![pdf](icons16/pdf-icon.png)](https://www.biorxiv.org/content/biorxiv/early/2019/03/07/571075.full.pdf)
+<!-- * 158 * -->
 
 Keller MP, Rabaglia ME, Schueler KL, Stapleton DS, Gatti DM, Vincent
 M, Mitok KA, Wang Z, Ishimura T, Simonett SP, Emfinger CH, Das R, Beck
@@ -186,7 +187,7 @@ Ye SI, Leng N, Brandon CJ, Neto EC, Plaisier CL, Simonett SP, Kebede
 MA, Sheynkman GM, Klein MA, Baliga NS, Smith LM, **Broman KW**, Yandell
 BS, Kendziorski C, Attie AD (2016) The transcription factor _Nfatc2_
 regulates β-cell proliferation and genes associated with type 2
-diabetes in mouse and human islets. [PLoS Genet](http://www.plosgenetics.org) 12:e1006466
+diabetes in mouse and human islets. [PLoS Genet](https://journals.plos.org/plosgenetics) 12:e1006466
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/27935966)
 [![pdf](icons16/pdf-icon.png)](https://journals.plos.org/plosgenetics/article/file?id=10.1371/journal.pgen.1006466&type=printable)
 [![supporting info](icons16/supp-icon.png)](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006466#sec024)
@@ -409,7 +410,7 @@ crosses. [Genetics](http://www.genetics.org) 197:401-404
 <!-- * 127 * -->
 <!-- https://doi.org/10.1534/genetics.113.158014 -->
 
-Baier B, Hunt P, **Broman KW**, Hassold T (2014) Variation in genome-wide levels of meiotic recombination is established at the onset of prophase in mammalian males. [PLoS Genet](http://www.plosgenetics.org/) 10:e1004125
+Baier B, Hunt P, **Broman KW**, Hassold T (2014) Variation in genome-wide levels of meiotic recombination is established at the onset of prophase in mammalian males. [PLoS Genet](https://journals.plos.org/plosgenetics) 10:e1004125
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/24497841)
 [![pdf (1.5M)](icons16/pdf-icon.png)](https://journals.plos.org/plosgenetics/article/file?id=10.1371/journal.pgen.1004125&type=printable)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1371/journal.pgen.1004125)
@@ -704,14 +705,14 @@ Modifiers of von Willebrand factor identified by natural variation in inbred str
 <!-- * 91 * -->
 <!-- https://doi.org/10.1182/blood-2009-07-233213 -->
 
-Cheng EY, Hunt PA, Naluai-Cecchini TA, Fligner CL, Fujimoto VY, Pasternack TL, Schwartz JM, Steinauer JE, Woodruff TJ, Cherry SM, Hansen TA, Vallente RU, **Broman KW**, Hassold TJ (2009)  Meiotic recombination in human oocytes.  [PLoS Genet](http://www.plosgenetics.org) 5:e1000661
+Cheng EY, Hunt PA, Naluai-Cecchini TA, Fligner CL, Fujimoto VY, Pasternack TL, Schwartz JM, Steinauer JE, Woodruff TJ, Cherry SM, Hansen TA, Vallente RU, **Broman KW**, Hassold TJ (2009)  Meiotic recombination in human oocytes.  [PLoS Genet](https://journals.plos.org/plosgenetics) 5:e1000661
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/19763179)
 [![pdf (759k)](icons16/pdf-icon.png)](https://journals.plos.org/plosgenetics/article/file?id=10.1371/journal.pgen.1000661&type=printable)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1371/journal.pgen.1000661)
 <!-- * 90 * -->
 <!-- https://doi.org/10.1371/journal.pgen.1000661 -->
 
-Fledel-Alon A, Wilson DJ, **Broman K**, Wen X, Ober C, Coop G, Przeworski M (2009)  Broad-scale recombination patterns underlying proper disjunctions in humans.  [PLoS Genet](http://www.plosgenetics.org) 5:e1000658
+Fledel-Alon A, Wilson DJ, **Broman K**, Wen X, Ober C, Coop G, Przeworski M (2009)  Broad-scale recombination patterns underlying proper disjunctions in humans.  [PLoS Genet](https://journals.plos.org/plosgenetics) 5:e1000658
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/19763175)
 [![pdf (353k)](icons16/pdf-icon.png)](https://journals.plos.org/plosgenetics/article/file?id=10.1371/journal.pgen.1000658&type=printable)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1371/journal.pgen.1000658)
@@ -799,7 +800,7 @@ Lupi I, **Broman KW**, Tzuo S-C, Gutenberg A, Martino E, Caturegli P (2008)  Nov
 <!-- * 80 * -->
 <!-- https://doi.org/10.1111/j.1365-2265.2008.03180.x -->
 
-Paigen K, Szatkiewicz JP, Sawyer K, Leahy N, Parvanov ED, Ng SH, Graber JH, **Broman KW**, Petkov PM (2008)  The recombinational anatomy of a mouse chromosome.  [PLoS Genet](http://www.plosgenetics.org) 4(7):e1000119
+Paigen K, Szatkiewicz JP, Sawyer K, Leahy N, Parvanov ED, Ng SH, Graber JH, **Broman KW**, Petkov PM (2008)  The recombinational anatomy of a mouse chromosome.  [PLoS Genet](https://journals.plos.org/plosgenetics) 4(7):e1000119
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/18617997)
 [![pdf (491k)](icons16/pdf-icon.png)](https://journals.plos.org/plosgenetics/article/file?id=10.1371/journal.pgen.1000119&type=printable)
 [![supplementary material](icons16/supp-icon.png)](http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2440539#supplementary-material-sec)
