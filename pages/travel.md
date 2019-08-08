@@ -348,7 +348,7 @@ title: travel
 
 -->
 
-- Systems genetics workshop, Jackson Lab, Oct 21-26, 2019 (Bar Harbor, ME)
+- Nothing planned
 
 ---
 
