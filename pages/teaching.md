@@ -40,21 +40,21 @@ description: Karl Broman's teaching
 
 #### Analysis of BXD mouse lines with R/qtl2
 
-[Complex Trait Community meeting](http://ratgenes.org/ctc2019), San
+[Complex Trait Community meeting](https://ratgenes.org/ctc2019), San
 Diego, CA (June 9, 2019)
 
 <https://github.com/kbroman/Teaching_CTC2019>
 
-Jupyter notebook: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/kbroman/Teaching_CTC2019/master?filepath=CTC2019_tutorial.ipynb)
+Jupyter notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kbroman/Teaching_CTC2019/master?filepath=CTC2019_tutorial.ipynb)
 
-RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kbroman/Teaching_CTC2019/master?urlpath=rstudio)
+RStudio: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kbroman/Teaching_CTC2019/master?urlpath=rstudio)
 
 ---
 
 
 #### [2nd International Workshop on Advanced R and R/qtl](https://www.icrisat.org/event/2nd-international-workshop-on-advanced-r-r-qtl/)
 
-[ICRISAT](http://www.icrisat.org), Patancheru, Andhra Pradesh, India
+[ICRISAT](https://www.icrisat.org), Patancheru, Andhra Pradesh, India
 (Dec 3-7, 2018)
 
 <https://github.com/kbroman/icrisat2018>
@@ -86,7 +86,7 @@ RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2
 
 ---
 
-#### [Data Carpentry](http://www.datacarpentry.org)
+#### [Data Carpentry](https://www.datacarpentry.org)
 
 [UW-Madison](uw-madison-aci.github.io/2018-08-27-uwmadison-dc/)
 Madison, WI (27-28 Aug 2018)
@@ -112,7 +112,7 @@ Madison, WI (8-9 Jan 2018)
     [web site](https://github.com/uw-madison-aci/2018-01-08-uwmadison-dc/)
     | [R lessons](https://github.com/kbroman/datacarpentry_R_2018-01-08)
 
-[National Society of Black Engineers Professional Development Conference](http://www.nsbe.org/PDC.aspx)
+[National Society of Black Engineers Professional Development Conference](https://www.nsbe.org/PDC.aspx)
 Chicago, IL (28 Sept 2017)
 
   - [Course materials](https://christinalk.github.io/2017-09-28-nsbe/)
@@ -131,7 +131,7 @@ Madison, WI (19-20 June 2017)
 [UW-Madison](https://uw-madison-aci.github.io/2017-01-10-uwmadison/),
 Madison, WI (10-11 January 2017)
 
-  - [Course materials](http://uw-madison-aci.github.io/2017-01-10-uwmadison/)
+  - [Course materials](https://uw-madison-aci.github.io/2017-01-10-uwmadison/)
   - GitHub repository:
     [web site](https://github.com/uw-madison-aci/2017-01-10-uwmadison/)
     | [R lessons](https://github.com/kbroman/datacarpentry_R_2017-01-10)
@@ -139,35 +139,35 @@ Madison, WI (10-11 January 2017)
 [UW-Madison](https://uw-madison-aci.github.io/2016-08-23-uwmadison/),
 Madison, WI (23-24 August 2016)
 
-  - [Course materials](http://uw-madison-aci.github.io/2016-08-23-uwmadison/)
+  - [Course materials](https://uw-madison-aci.github.io/2016-08-23-uwmadison/)
   - GitHub repository:
     [web site](https://github.com/uw-madison-aci/2016-08-23-uwmadison/)
     | [R lessons](https://github.com/kbroman/datacarpentry_R_2016-08-23/)
 
-[UW-Madison](http://uw-madison-aci.github.io/2016-06-01-uwmadison/),
+[UW-Madison](https://uw-madison-aci.github.io/2016-06-01-uwmadison/),
 Madison, WI (1-2 June 2016)
 
-  - [Course materials](http://uw-madison-aci.github.io/2016-06-01-uwmadison/)
+  - [Course materials](https://uw-madison-aci.github.io/2016-06-01-uwmadison/)
   - GitHub repository:
     [web site](https://github.com/uw-madison-aci/2016-06-01-uwmadison/)
     | [R lessons](https://github.com/kbroman/datacarpentry_R_2016-06-01/)
 
-#### [Software Carpentry](http://software-carpentry.org/)
+#### [Software Carpentry](https://software-carpentry.org/)
 
-[UW-Madison](http://uw-madison-aci.github.io/2015-06-03-wisc/)
+[UW-Madison](https://uw-madison-aci.github.io/2015-06-03-wisc/)
 (for Social Scientists),
 Madison, WI (3-4 June, 2015)
 
   - [Course materials](https://github.com/UW-Madison-ACI/boot-camps/blob/2015-06-03/README.md#day-1)
   - [GitHub repository](https://github.com/UW-Madison-ACI/boot-camps/tree/2015-06-03)
 
-[Washington State University](http://karawoo.com/2015-04-27-wsu/),
+[Washington State University](https://karawoo.com/2015-04-27-wsu/),
 Pullman, WA (27-28 April 2015)
 
-  - [Course materials](http://karawoo.com/2015-04-27-wsu/syllabus/index.html)
+  - [Course materials](https://karawoo.com/2015-04-27-wsu/syllabus/index.html)
   - [GitHub repository](https://github.com/karawoo/2015-04-27-wsu/)
 
-[UW-Madison](http://uw-madison-aci.github.io/2014-08-25-wisc/),
+[UW-Madison](https://uw-madison-aci.github.io/2014-08-25-wisc/),
 Madison, WI (25-26 August 2014)
 
   - [Course materials](https://github.com/UW-Madison-ACI/boot-camps/blob/2014-08-25/README.md#day-1)
@@ -194,7 +194,7 @@ Madison, WI (25-26 August 2014)
 
 ---
 
-#### <a name="JAX"></a>[Short course on Systems Genetics](http://courses.jax.org/2014/systems-genetics.html) at The Jackson Lab
+#### <a name="JAX"></a>[Short course on Systems Genetics](https://courses.jax.org/2014/systems-genetics.html) at The Jackson Lab
 
 Oct 16-Oct 22, 2016
 
@@ -364,9 +364,9 @@ Sep 18-24, 2002
 
 ---
 
-#### [Training course on field trial & QTL analysis using R & R/qtl](http://www.icrisat.org/rcourse.htm)
+#### Training course on field trial & QTL analysis using R & R/qtl
 
-[ICRISAT](http://www.icrisat.org), Patancheru, Andhra Pradesh, India
+[ICRISAT](https://www.icrisat.org), Patancheru, Andhra Pradesh, India
 (Dec 3-6, 2012)
 
 - Introduction to QTL mapping:
@@ -381,7 +381,7 @@ Sep 18-24, 2002
 
 ---
 
-#### [NeuroproMiSe training course in genetic analysis and bioinformatics](http://www.inflam.lu.se/index.php?option=com_content&task=view&id=91&Itemid=56)
+#### NeuroproMiSe training course in genetic analysis and bioinformatics
 
 Lund, Sweden (Jan 8-12, 2007)
 
@@ -392,12 +392,12 @@ Lund, Sweden (Jan 8-12, 2007)
 - Multiple QTL mapping:
   \[ [lecture](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Lund/2007/lec3.pdf) | [handout](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Lund/2007/handout3.pdf) \]
 - A brief tour of R/qtl:
-  \[ [handout](https://www.biostat.wisc.edu/~kbroman/teaching/misc/http://www.rqtl.org/rqtltour.pdf) | [code](https://www.biostat.wisc.edu/~kbroman/teaching/misc/http://www.rqtl.org/rqtltour.R) | [additional functions](https://www.biostat.wisc.edu/~kbroman/teaching/misc/http://www.rqtl.org/multqtlfunc.R) \]
+  \[ [handout](http://www.rqtl.org/rqtltour.pdf) | [code](http://www.rqtl.org/rqtltour.R) | [additional functions](http://www.rqtl.org/multqtlfunc.R) \]
 
 
 ---
 
-#### [Summer Institute in Statistical Genetics](https://www.biostat.wisc.edu/~kbroman/teaching/misc/http://www.biostat.washington.edu/sisg06/), QTL Mapping II module
+#### Summer Institute in Statistical Genetics, QTL Mapping II module
 
 (formerly at NC State University, now held at the University of
 Washington, Seattle) <br/>
@@ -455,9 +455,9 @@ Summer, 2002
 
 #### My experiences in statistical consulting
 
-Statistical Consulting course, [Department of Statistics](http://www.stat.wisc.edu), [UW&ndash;Madison](http://www.wisc.edu) <br/>
+Statistical Consulting course, [Department of Statistics](https://www.stat.wisc.edu), [UW&ndash;Madison](https://www.wisc.edu) <br/>
 
-- [Slides (pdf)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/consulting.pdf) [[source on github](http://github.com/kbroman/Talk_StatConsulting.git)]
+- [Slides (pdf)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/consulting.pdf) [[source on github](https://github.com/kbroman/Talk_StatConsulting.git)]
 - [Related blog post](https://kbroman.wordpress.com/2013/04/02/thoughts-on-statistical-consulting/)
 
 
@@ -478,12 +478,12 @@ to Animal Testing](http://caat.jhsph.edu), Johns Hopkins University<br/>
 
 #### Recombination and linkage
 
-NS 881  ([Dale Schoeller](http://www.nutrisci.wisc.edu/FACULTYPAGES/f_schoeller.html)) <br/>
-[Department of Nutritional Sciences](http://www.nutrisci.wisc.edu/), [University of Wisconsin - Madison](http://www.wisc.edu)<br/>
+NS 881  (Dale Schoeller) <br/>
+[Department of Nutritional Sciences](https://www.nutrisci.wisc.edu/), [University of Wisconsin - Madison](https://www.wisc.edu)<br/>
 20 Feb 2008:  \[ [ppt (2.2M)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/NutritionCourse/nutrition_course_2008-02.ppt) | [pdf (1.1M)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/NutritionCourse/nutrition_handout.pdf) \]
 
-PHS 904 Genetic Epidemiology ([Engelman](http://www.pophealth.wisc.edu/faculty/cengelman.html)) <br/>
-[Population Health Sciences](http://www.pophealth.wisc.edu/), [University of Wisconsin - Madison](http://www.wisc.edu)<br/>
+PHS 904 Genetic Epidemiology ([Engelman](https://pophealth.wisc.edu/corinne-engelman)) <br/>
+[Population Health Sciences](https://pophealth.wisc.edu/), [University of Wisconsin - Madison](https://www.wisc.edu)<br/>
 24 Jan 2008:  \[ [ppt (3.8M)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/corinne/corinne_course_2008-01.ppt) | [pdf (1.3M)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Corinne/corinne_course_2008-01_handout.pdf) \]
 
 
@@ -505,7 +505,7 @@ Human Genetics, Johns Hopkins School of Medicine <br/>
 
 ---
 
-#### [Hopkins Biostatistics Student Computing Club](http://www.biostat.jhsph.edu/bit/compintro/)
+#### [Hopkins Biostatistics Student Computing Club](https://www.biostat.jhsph.edu/bit/compintro/)
 
 Mathematica<br/>
 27 Apr 2007: \[[pdf (70k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/ComputingClub/mathematica.pdf) | [b/w pdf (77k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/ComputingClub/mathematica_handout.pdf) |
@@ -520,8 +520,8 @@ How to build a web page<br/>
 
 #### Perl for human linkage analysis
 
-[Biocomputing I: Perl for bioinformatics](http://www.pinedalab.jhsph.edu/Teaching/PerlForBioinformatics) (Pineda)<br/>
-[Biostatistics](http://www.biostat.jhsph.edu), [Johns Hopkins Bloomberg School of Public Health](http://www.jhsph.edu)<br/>
+Biocomputing I: Perl for bioinformatics (Pineda)<br/>
+[Biostatistics](https://www.biostat.jhsph.edu), [Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu)<br/>
 26 Oct 2005:  [pdf (42k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/perl4linkage_ho.pdf)<br/>
  6 Dec 2004:  [pdf (42k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/perl4linkage_ho.pdf)<br/>
 24 Oct 2003:  [pdf (42k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/perl4linkage_handout.pdf)<br/>
