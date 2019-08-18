@@ -661,7 +661,7 @@ MAGIC design and other topics
 
 Interactive graphics for high-dimensional genetic data  [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/CTC2013)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_CTC2013)<br/>
-[Complex Trait Community 12th annual meeting](http://rqtl.org/ctc2013), Madison, Wisconsin (_May 31_)
+[Complex Trait Community 12th annual meeting](https://rqtl.org/ctc2013), Madison, Wisconsin (_May 31_)
 
 Why aren&rsquo;t all of our graphs interactive?  [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/InteractiveGraphs3)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_InteractiveGraphs3)

@@ -187,7 +187,7 @@ Madison, WI (25-26 August 2014)
 - Multiple QTL mapping:
   [pdf](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Texas/multiqtl.pdf) |
   [b/w pdf, 2 slides per page](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Texas/multiqtl_2up.pdf)
-- [R/qtl](http://www.rqtl.org) laboratory:
+- [R/qtl](https://rqtl.org) laboratory:
   [pdf](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Texas/rqtltour2.pdf)
   | [code](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Texas/rqtltour2.R)
 
@@ -210,7 +210,7 @@ Oct 16-Oct 22, 2016
   [pdf](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2016/multiqtl.pdf)
 - Multivariate QTL mapping:
   [pdf](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2016/multivariate.pdf)
-- [R/qtl](http://www.rqtl.org) laboratory:
+- [R/qtl](https://rqtl.org) laboratory:
   [pdf (50k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2016/rqtltour2.pdf)
   | [code](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2016/rqtltour2.R)
 - [R/qtlcharts](https://kbroman.org/qtlcharts):
@@ -228,7 +228,7 @@ Sep 27-Oct 3, 2015
 - Multiple QTL mapping:
   [pdf](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2015/multiqtl.pdf) |
   [b/w pdf, 2 slides per page](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2015/multiqtl_2up.pdf)
-- [R/qtl](http://www.rqtl.org) laboratory:
+- [R/qtl](https://rqtl.org) laboratory:
   [pdf (50k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2014/rqtltour2.pdf)
   | [code](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2014/rqtltour2.R)
 - [R/qtlcharts](https://kbroman.org/qtlcharts):
@@ -249,7 +249,7 @@ Sep 27-Oct 4, 2014
 - Multiple QTL mapping:
   [pdf](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2014/multiqtl.pdf) |
   [b/w pdf, 2 slides per page](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2014/multiqtl_2up.pdf)
-- [R/qtl](http://www.rqtl.org) laboratory:
+- [R/qtl](https://rqtl.org) laboratory:
   [pdf (50k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2014/rqtltour2.pdf)
   | [code](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2014/rqtltour2.R)
 
@@ -259,7 +259,7 @@ Sep 8-14, 2013
 [pdf (382k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2013/intro_2up.pdf)
 - Multiple QTL mapping:
   [pdf (5.2M)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2013/multiqtl_2up.pdf)
-- [R/qtl](http://www.rqtl.org) laboratory:
+- [R/qtl](https://rqtl.org) laboratory:
   [pdf (50k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2013/rqtltour2.pdf)
   | [code](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2013/rqtltour2.R)
 
@@ -269,7 +269,7 @@ Oct 28-Nov 4, 2012
   [pdf (381k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2012/intro_2up.pdf)
 - Multiple QTL mapping:
   [pdf (5.2M)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2012/multiqtl_2up.pdf)
-- [R/qtl](http://www.rqtl.org) laboratory:
+- [R/qtl](https://rqtl.org) laboratory:
   [pdf (50k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2012/rqtltour2.pdf)
   | [code](Jax/2012/rqtltour2.R)
 
@@ -279,7 +279,7 @@ Oct 2-9, 2011
   [pdf (1.2M)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2011/intro_2up.pdf)
 - Multiple QTL mapping:
   [pdf (4.9M)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2011/multiqtl_2up.pdf)
-- [R/qtl](http://www.rqtl.org) laboratory:
+- [R/qtl](https://rqtl.org) laboratory:
   [pdf (51k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2011/rqtltour2.pdf)
   | [code](Jax/2011/rqtltour2.R)
 
@@ -289,7 +289,7 @@ Sep 19-25, 2010
   [pdf (268k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2010/intro_2up.pdf)
 - Multiple QTL mapping:
   [pdf (4.8M)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2010/multiqtl_2up.pdf)
-- [R/qtl](http://www.rqtl.org) laboratory:
+- [R/qtl](https://rqtl.org) laboratory:
   [pdf (51k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2010/rqtltour2.pdf)
   | [code](Jax/2010/rqtltour2.R)
 
@@ -299,7 +299,7 @@ Oct 19-25, 2009
   [pdf (268k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2009/intro_2up.pdf)
 - Multiple QTL mapping:
   [pdf (4.8M)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2009/multiqtl_2up.pdf)
-- [R/qtl](http://www.rqtl.org) laboratory:
+- [R/qtl](https://rqtl.org) laboratory:
   [pdf (51k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2009/rqtltour2.pdf)
   | [code](Jax/2009/rqtltour2.R)
 
@@ -309,7 +309,7 @@ Sep 23-29, 2008
   [pdf (268k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2008/intro_2up.pdf)
 - Multiple QTL mapping:
   [pdf (813k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2008/multiqtl_2up.pdf)
-- [R/qtl](http://www.rqtl.org) laboratory:
+- [R/qtl](https://rqtl.org) laboratory:
   [pdf (138k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2008/rqtltour.pdf)
   | [code](Jax/2008/rqtltour.R)
 
@@ -321,7 +321,7 @@ Oct 11-17, 2007
 
 - Introduction to QTL mapping:
   [pdf (4.2M)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2007/qtlhandout.pdf)
-- [R/qtl](http://www.rqtl.org) laboratory:
+- [R/qtl](https://rqtl.org) laboratory:
   [pdf (125k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2007/rqtltour.pdf)
   | [code](Jax/2007/rqtltour.R)
 
@@ -329,7 +329,7 @@ Sep 16-22, 2006
 
 - Introduction to QTL mapping:
   [pdf (491k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2006/qtlhandout.pdf)
-- [R/qtl](http://www.rqtl.org) laboratory:
+- [R/qtl](https://rqtl.org) laboratory:
   [pdf (69k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2006/rqtltour.pdf)
   | [code](Jax/2006/rqtltour.R)
 
@@ -337,7 +337,7 @@ Oct 5-11, 2005
 
 - Introduction to QTL mapping:
   [pdf (453k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2005/qtlhandout.pdf)
-- [R/qtl](http://www.rqtl.org) laboratory:
+- [R/qtl](https://rqtl.org) laboratory:
   [pdf (69k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2005/rqtltour.pdf)
   | [code](Jax/2005/rqtltour.R)
 
@@ -345,7 +345,7 @@ Sep 16-22, 2004
 
 - Introduction to QTL mapping:
   [pdf (460k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2004/qtlhandout.pdf)
-- [R/qtl](http://www.rqtl.org) laboratory:
+- [R/qtl](https://rqtl.org) laboratory:
   [pdf (69k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2004/rqtltour.pdf)
   | [code](Jax/2004/rqtltour.R)
 
@@ -353,7 +353,7 @@ Oct 9-15, 2003
 
 - Introduction to QTL mapping:
   [pdf (477k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2003/qtlhandouts.pdf)
-- [R/qtl](http://www.rqtl.org) laboratory:
+- [R/qtl](https://rqtl.org) laboratory:
   [pdf (54k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Jax/2003/rqtllab.pdf) | [code](Jax/2003/rqtllab.R)
 
 Sep 18-24, 2002
@@ -375,7 +375,7 @@ Sep 18-24, 2002
 - Multiple QTL mapping:
   \[[pdf (4.9M)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Hyderabad/multiqtl.pdf) |
   [b/w, 2 slides per page](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Hyderabad/multiqtl_2up.pdf)\]
-- [R/qtl](http://www.rqtl.org) laboratory:
+- [R/qtl](https://rqtl.org) laboratory:
   \[[pdf (91k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Hyderabad/rqtltour3.pdf) |
   [code](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Hyderabad/rqtltour3.R)\]
 
@@ -392,7 +392,7 @@ Lund, Sweden (Jan 8-12, 2007)
 - Multiple QTL mapping:
   \[ [lecture](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Lund/2007/lec3.pdf) | [handout](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Lund/2007/handout3.pdf) \]
 - A brief tour of R/qtl:
-  \[ [handout](http://www.rqtl.org/rqtltour.pdf) | [code](http://www.rqtl.org/rqtltour.R) | [additional functions](http://www.rqtl.org/multqtlfunc.R) \]
+  \[ [handout](https://rqtl.org/rqtltour.pdf) | [code](https://rqtl.org/rqtltour.R) | [additional functions](https://rqtl.org/multqtlfunc.R) \]
 
 
 ---
@@ -407,7 +407,7 @@ Summer, 2006
 - Introduction:  [pdf (280k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2006/intro_handout.pdf)
 - Model selection: [pdf (243k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2006/modelsel_handout.pdf)
 - HMMs and the pseudomarker algorithm: [pdf (1143k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2006/hmm_imp_handout.pdf)
-- [R/qtl](http://www.rqtl.org) lab:
+- [R/qtl](https://rqtl.org) lab:
   [pdf (70k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2006/rqtllab.pdf) |
   [code](https://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2006/rqtllab.R)
 
@@ -417,7 +417,7 @@ Summer, 2005
 - Introduction:  [pdf (668k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2005/intro_handout.pdf)
 - Model selection: [pdf (51k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2005/modelsel_handout.pdf)
 - HMMs and the pseudomarker algorithm: [pdf (1160k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2005/hmm_imp_handout.pdf)
-- [R/qtl](http://www.rqtl.org) lab:
+- [R/qtl](https://rqtl.org) lab:
   [pdf (68k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2005/rqtllab.pdf) |
   [code](https://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2005/rqtllab.R)
 
@@ -427,7 +427,7 @@ Summer, 2004
 - Introduction:  [pdf (638k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2004/intro_handout.pdf)
 - Model selection: [pdf (51k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2004/modelsel_handout.pdf)
 - HMMs and the pseudomarker algorithm: [pdf (1161k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2004/hmm_imp_handout.pdf)
-- [R/qtl](http://www.rqtl.org) lab:
+- [R/qtl](https://rqtl.org) lab:
   [pdf (67k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2004/rqtllab.pdf) |
   [code](https://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2004/rqtllab.R)
 
@@ -437,7 +437,7 @@ Summer, 2003
 - Introduction:  [pdf (331k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2003/intro_ho.pdf)
 - Model selection: [pdf (76k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2003/modelsel_ho.pdf)
 - HMMs and the pseudomarker algorithm: [pdf (1186k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2003/hmm_imp_ho.pdf)
-- [R/qtl](http://www.rqtl.org) lab:
+- [R/qtl](https://rqtl.org) lab:
   [pdf (69k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2003/rqtllab.pdf)
 
 
@@ -446,7 +446,7 @@ Summer, 2002
 - Introduction:  [pdf (755k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2002/session1_ho.pdf)
 - HMMs and the pseudomarker algorithm: [pdf (1312k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2002/session3_ho.pdf)
 - Model selection: [pdf (285k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2002/session4_ho.pdf)
-- [R/qtl](http://www.rqtl.org) description/demo: [pdf (24k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2002/rqtl_ho.pdf)
+- [R/qtl](https://rqtl.org) description/demo: [pdf (24k)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/SISG/2002/rqtl_ho.pdf)
 
 
 ---

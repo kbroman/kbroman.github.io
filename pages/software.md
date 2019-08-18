@@ -8,7 +8,7 @@ description: Karl Broman's software
     <div class="navbar-inner">
         <ul class="nav">
             <li><a href="https://github.com/kbroman">github</a></li>
-            <li><a href="http://rqtl.org">R/qtl</a></li>
+            <li><a href="https://rqtl.org">R/qtl</a></li>
             <li><a href="https://kbroman.org/qtl2">R/qtl2</a></li>
             <li><a href="https://kbroman.org/qtlcharts">R/qtlcharts</a></li>
         </ul>
@@ -17,7 +17,7 @@ description: Karl Broman's software
 
 ---
 
-#### <a name="qtl"></a>[R/qtl](http://rqtl.org)
+#### <a name="qtl"></a>[R/qtl](https://rqtl.org)
 
 An [R](https://www.r-project.org/) package with tools for analyzing QTL experiments.
 
@@ -31,7 +31,7 @@ Google group, [R/qtl discussion](https://groups.google.com/group/rqtl-disc)
 
 #### <a name="qtl2"></a>[R/qtl2](https://kbroman.org/qtl2)
 
-A reimplementation of [R/qtl](http://rqtl.org), to better handle
+A reimplementation of [R/qtl](https://rqtl.org), to better handle
 high-dimensional data and complex cross designs (such as the
 [Collaborative Cross](https://www.ncbi.nlm.nih.gov/pubmed/15514660),
 [MAGIC](https://www.ncbi.nlm.nih.gov/pubmed/18295532),
@@ -89,7 +89,7 @@ An [R](https://www.r-project.org) package for detecting and correcting
 sample mix-ups between two sets of measurements, such as between gene
 expression data on two tissues. (Also see
 [R/lineup2](https://github.com/kbroman/lineup2), revised to be more
-general and not so closely tied to the [R/qtl](http://rqtl.org)
+general and not so closely tied to the [R/qtl](https://rqtl.org)
 package.)
 
 ---
@@ -98,7 +98,7 @@ package.)
 
 An [R](https://www.r-project.org) package for simulating general
 experimental crosses (such as advanced intercross lines and the
-diversity outcross), for use with [R/qtl](http://rqtl.org).
+diversity outcross), for use with [R/qtl](https://rqtl.org).
 
 ---
 
@@ -186,7 +186,7 @@ manuscript Broman and Speed (2002) [A model
 selection approach for the identication of quantitative trait loci in
 experimental crosses](https://www.biostat.wisc.edu/~kbroman/publications/index.html#rss). J Roy Stat Soc B
 64:641-656.  Also see the [R/qtl
-package](http://rqtl.org).
+package](https://rqtl.org).
 
 ---
 
@@ -235,7 +235,7 @@ including forward selection for multiple QTLs, all pairs of loci, and
 pairwise interactions.
 
 **Note**: This is very preliminary, the input and output
-are not well documented, and I'm no longer actively developing this software.  Look at [R/qtl](http://rqtl.org), instead.
+are not well documented, and I'm no longer actively developing this software.  Look at [R/qtl](https://rqtl.org), instead.
 
 Download: [source](https://www.biostat.wisc.edu/software/f2/f2_0.50.tar.gz) | [windows](https://www.biostat.wisc.edu/software/f2/f2_0.50.zip)
 

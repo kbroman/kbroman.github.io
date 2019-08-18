@@ -22,10 +22,10 @@ description: Karl Broman's publications
 ### <a name="book"></a>book
 
 **Broman KW**, Sen &#346; (2009) A Guide to QTL Mapping with R/qtl.  Springer, New York
-[![Online complements](icons16/html-icon.png)](http://rqtl.org/book)
+[![Online complements](icons16/html-icon.png)](https://rqtl.org/book)
 [![Amazon](icons16/amazon-icon.png)](https://www.amazon.com/gp/product/0387921249?ie=UTF8&tag=7210-20)
 [![Springer](icons16/springer-icon.png)](https://www.springer.com/978-0-387-92124-2)
-[![R/qtl](icons16/R-icon.png)](http://rqtl.org)
+[![R/qtl](icons16/R-icon.png)](https://rqtl.org)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1007/978-0-387-92125-9)
 
 
@@ -654,6 +654,7 @@ Billings T, Sargent EE, Szatkiewicz JP, Leahy N, Kwak, I-Y, Bektassova N, Walker
 Arends D, Prins P, Jansen RC, **Broman KW** (2010)  R/qtl: High-throughput multiple QTL mapping.  [Bioinformatics](http://bioinformatics.oupjournals.org) 26:2990-2992
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/20966004)
 [![pdf (181k)](icons16/pdf-icon.png)](https://academic.oup.com/bioinformatics/article-pdf/26/23/2990/589814/btq565.pdf)
+[![R/qtl](icons16/R-icon.png)](https://rqtl.org)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1093/bioinformatics/btq565)
 <!-- * 98 * -->
 <!-- https://doi.org/10.1093/bioinformatics/btq565 -->
@@ -1282,6 +1283,7 @@ GA (2003)  R/qtl: QTL mapping in experimental crosses.
 [Bioinformatics](http://bioinformatics.oupjournals.org) 19:889-890
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/12724300)
 [![pdf (236k)](icons16/pdf-icon.png)](https://academic.oup.com/bioinformatics/article-pdf/19/7/889/499910/btg112.pdf)
+[![R/qtl](icons16/R-icon.png)](https://rqtl.org)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1093/bioinformatics/btg112)
 <!-- * 33 * -->
 <!-- https://doi.org/10.1093/bioinformatics/btg112 -->
