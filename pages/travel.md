@@ -348,7 +348,8 @@ title: travel
 
 -->
 
-- Nothing planned
+- Michigan State Plant Breeding, Genetics and Biotechnology (PBGB)
+  Symposium, Dec 12-13, 2019 (East Lansing, MI)
 
 ---
 
