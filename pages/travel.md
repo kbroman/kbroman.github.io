@@ -348,7 +348,7 @@ title: travel
 
 -->
 
-- St. Olaf and Carleton Colleges, Oct 7-8, 2019 (Northfield, MN)
+- St. Olaf and Carleton Colleges, Sep 30 - Oct 1, 2019 (Northfield, MN)
 
 - Michigan State Plant Breeding, Genetics and Biotechnology (PBGB)
   Symposium, Dec 12-13, 2019 (East Lansing, MI)
