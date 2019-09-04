@@ -24,6 +24,7 @@ description: Karl Broman's teaching
 - [schedule](https://kbroman.org/BMI881/schedule.html)
 - [syllabus](https://kbroman.org/BMI881/syllabus.html)
 - [assignments](https://kbroman.org/BMI881/assignments.html)
+- [resources](https://kbroman.org/BMI881/resources.html)
 
 
 #### Statistical methods for molecular biology (Stat 877), with many others
