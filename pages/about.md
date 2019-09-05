@@ -23,8 +23,7 @@ was a faculty member in the [Department of Biostatistics](https://www.jhsph.edu/
 Hopkins University, 1999&ndash;2007. In 2007, he moved to the
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu).
 
-Karl is a Senior Editor for [_Genetics_](http://www.genetics.org),
-Academic Editor for [_PeerJ_](https://peerj.com), and
+Karl is a Senior Editor for [_Genetics_](http://www.genetics.org) and
 a member of the [_BMC Biology_](https://bmcbiol.biomedcentral.com)
 [Editorial Board](https://bmcbiol.biomedcentral.com/about/editorial-board).
 
