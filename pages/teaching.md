@@ -18,9 +18,8 @@ description: Karl Broman's teaching
 
 ### <a name="current"></a>Current courses
 
-#### Biomedical data science scholarly literature (BMI 881)
+#### [Biomedical data science scholarly literature (BMI 881)](https://kbroman.org/BMI881)
 
-- [website](https://kbroman.org/BMI881)
 - [schedule](https://kbroman.org/BMI881/schedule.html)
 - [syllabus](https://kbroman.org/BMI881/syllabus.html)
 - [assignments](https://kbroman.org/BMI881/assignments.html)
