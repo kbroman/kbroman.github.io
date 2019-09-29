@@ -6,12 +6,10 @@ description: Karl Broman's talks
 
 ###  2019
 
-<!--
 Opportunities in biomedical data science
 [![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_Carleton2019/carleton2019.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Carleton2019)<br/>
 [Carleton College](https://www.carleton.edu), Northfield, Minnesota (_Oct 1_)
--->
 
 Genetics of extreme body size evolution in mice from Gough Island<br/>
 &nbsp; &nbsp; &nbsp; Slides:
