@@ -466,7 +466,7 @@ Summer, 2002
 Statistical Consulting course, [Department of Statistics](https://www.stat.wisc.edu), [UW&ndash;Madison](https://www.wisc.edu) <br/>
 
 - [Slides (pdf)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/consulting.pdf) [[source on github](https://github.com/kbroman/Talk_StatConsulting.git)]
-- [Related blog post](https://kbroman.wordpress.com/2013/04/02/thoughts-on-statistical-consulting/)
+- [Related blog post](https://kbroman.org/blog/2013/04/02/thoughts-on-statistical-consulting/)
 
 
 ---
