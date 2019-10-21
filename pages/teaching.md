@@ -26,6 +26,22 @@ description: Karl Broman's teaching
 - [resources](https://kbroman.org/BMI881/resources.html)
 
 
+#### [Biomedical data science scholarly literature (BMI 882)](https://kbroman.org/BMI882)
+
+- [schedule](https://kbroman.org/BMI882/schedule.html)
+- [syllabus](https://kbroman.org/BMI882/syllabus.html)
+- [assignments](https://kbroman.org/BMI882/assignments.html)
+- [resources](https://kbroman.org/BMI882/resources.html)
+
+
+#### [Advanced data analysis (BMI 826)](https://kbroman.org/AdvData)
+
+- [schedule](https://kbroman.org/AdvData/schedule.html)
+- [syllabus](https://kbroman.org/AdvData/syllabus.html)
+- [assignments](https://kbroman.org/AdvData/assignments.html)
+- [resources](https://kbroman.org/AdvData/resources.html)
+
+
 #### Statistical methods for molecular biology (Stat 877), with many others
 
 - [Introduction to QTL
