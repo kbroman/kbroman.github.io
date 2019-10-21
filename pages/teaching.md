@@ -18,7 +18,7 @@ description: Karl Broman's teaching
 
 ### <a name="current"></a>Current courses
 
-#### [Biomedical data science scholarly literature (BMI 881)](https://kbroman.org/BMI881)
+#### [Biomedical data science scholarly literature (BMI 881, Fall 2019)](https://kbroman.org/BMI881)
 
 - [schedule](https://kbroman.org/BMI881/schedule.html)
 - [syllabus](https://kbroman.org/BMI881/syllabus.html)
@@ -26,7 +26,7 @@ description: Karl Broman's teaching
 - [resources](https://kbroman.org/BMI881/resources.html)
 
 
-#### [Biomedical data science scholarly literature (BMI 882)](https://kbroman.org/BMI882)
+#### [Biomedical data science scholarly literature (BMI 882, Spring 2020)](https://kbroman.org/BMI882)
 
 - [schedule](https://kbroman.org/BMI882/schedule.html)
 - [syllabus](https://kbroman.org/BMI882/syllabus.html)
@@ -34,7 +34,7 @@ description: Karl Broman's teaching
 - [resources](https://kbroman.org/BMI882/resources.html)
 
 
-#### [Advanced data analysis (BMI 826)](https://kbroman.org/AdvData)
+#### [Advanced data analysis (BMI 826, Spring 2020)](https://kbroman.org/AdvData)
 
 - [schedule](https://kbroman.org/AdvData/schedule.html)
 - [syllabus](https://kbroman.org/AdvData/syllabus.html)
@@ -42,7 +42,7 @@ description: Karl Broman's teaching
 - [resources](https://kbroman.org/AdvData/resources.html)
 
 
-#### Statistical methods for molecular biology (Stat 877), with many others
+#### Statistical methods for molecular biology (Stat 877), with many others (Spring 2019)
 
 - [Introduction to QTL
   mapping](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/1_introqtl.pdf)
