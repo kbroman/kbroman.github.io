@@ -6,6 +6,12 @@ description: Karl Broman's talks
 
 ###  2019
 
+Steps toward reproducible research
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr_withnotes.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)<br/>
+Lecture to MD/PhD students, [School of Medicine and Public Health](http://www.med.wisc.edu/), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Oct 28_)
+
 Opportunities in biomedical data science
 [![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_Carleton2019/carleton2019.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Carleton2019)<br/>
