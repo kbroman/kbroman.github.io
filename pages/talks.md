@@ -7,7 +7,7 @@ description: Karl Broman's talks
 ###  2019
 
 Social media for data scientists
-[![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_SocialMedia)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_SocialMedia/socialmedia.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_SocialMedia)<br/>
 Bio-Data Science Training Program,
 [Department of Biostatistics & Medical Informatics](https://biostat.wisc.edu),
