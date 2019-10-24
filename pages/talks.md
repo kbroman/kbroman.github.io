@@ -6,6 +6,13 @@ description: Karl Broman's talks
 
 ###  2019
 
+Social media for data scientists
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_SocialMedia)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_SocialMedia)<br/>
+Bio-Data Science Training Program,
+[Department of Biostatistics & Medical Informatics](https://biostat.wisc.edu),
+[University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Oct 30_)
+
 Steps toward reproducible research
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr.pdf)
 [![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr_withnotes.pdf)
@@ -59,7 +66,9 @@ Salvaging a genetics project: Identifying and correcting sample
 mix-ups in high-dimensional data
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/bds2019.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_SampleMixups) <br/>
-[Bio-Data Science Training Program](https://www.biostat.wisc.edu/content/predoctoral-training-program-bio-data-science-bds), [University of Wisconsin&ndash;Madison](https://www.wisc.edu)
+[Bio-Data Science Training Program](https://www.biostat.wisc.edu/content/predoctoral-training-program-bio-data-science-bds),
+[Department of Biostatistics & Medical Informatics](https://biostat.wisc.edu),
+[University of Wisconsin&ndash;Madison](https://www.wisc.edu)
 (_Feb 21_)
 
 Why reproducible research?
