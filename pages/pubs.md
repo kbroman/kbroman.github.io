@@ -700,7 +700,7 @@ Wong AK, Ruhe AL, Dumont BL, Robertson KR, Guerrero G, Shull SM, Ziegle JS, Mill
 Shavit JA, Manichaikul A, Lemmerhirt HL, **Broman KW**, Ginsburg D (2009)
 Modifiers of von Willebrand factor identified by natural variation in inbred strains of mice.  [Blood](http://www.bloodjournal.org) 114:5368-5374
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/19789385)
-[![pdf (308k)](icons16/pdf-icon.png)](http://www.bloodjournal.org/content/bloodjournal/114/26/5368.full.pdf)
+[![pdf](icons16/pdf-icon.png)](https://ashpublications.org/blood/article-pdf/114/26/5368/1320816/zh805109005368.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1182/blood-2009-07-233213)
 <!-- * 91 * -->
 <!-- https://doi.org/10.1182/blood-2009-07-233213 -->
