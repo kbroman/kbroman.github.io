@@ -348,10 +348,10 @@ title: travel
 
 - St. Olaf and Carleton Colleges, Sep 30 - Oct 1, 2019 (Northfield, MN)
 
--->
-
 - Michigan State Plant Breeding, Genetics and Biotechnology (PBGB)
   Symposium, Dec 12-13, 2019 (East Lansing, MI)
+
+-->
 
 - [TAGC meeting](http://conferences.genetics-gsa.org/tagc/2020/index), Apr 22-26, 2020 (Washington, DC)
 
