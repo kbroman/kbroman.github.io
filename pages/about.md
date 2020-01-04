@@ -32,8 +32,8 @@ genomics &ndash; particularly the analysis of meiotic recombination and the
 genetic dissection of complex traits in experimental organisms. The
 latter is often called &ldquo;QTL mapping.&rdquo; A QTL is a
 _quantitative trait locus_ &ndash; a genetic locus that influences a
-quantitative trait. Recently he has been focusing on the development
-of interactive data visualizations for high-dimensional genetic data;
+quantitative trait. He is enthusiastic about the value
+of interactive data visualizations for exploring high-dimensional genetic data;
 see his [R/qtlcharts package](https://kbroman.org/qtlcharts) and
 his [D3 examples](https://www.biostat.wisc.edu/~kbroman/D3).
 
