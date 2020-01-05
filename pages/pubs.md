@@ -831,7 +831,7 @@ regression of offspring on mid-parent to test for association and
 estimate locus-specific heritability: The revised ROMP method.
 [Ann Hum Genet](https://onlinelibrary.wiley.com/journal/14691809) 72:115-125
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/18042270)
-[![pdf (519k)](icons16/pdf-icon.png)](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1469-1809.2007.00401.x)
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/romp.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1111/j.1469-1809.2007.00401.x)
 <!-- * 76 * -->
 <!-- https://doi.org/10.1111/j.1469-1809.2007.00401.x -->
