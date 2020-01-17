@@ -42,7 +42,7 @@ Diversity Outbred mice.
 [![R/mbmixture software](icons16/R-icon.png)](https://github.com/kbroman/mbmixture)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1101/529040)
 
-#### in press
+#### to appear
 
 Rodriguez-Gil JL, Watkins-Chow DE, Baxter LL, Elliot G, Harper UL,
 Wincovitch SM, Wedel JC, Incao AA, Huebecker M, Boehm FJ, Garver WS,
