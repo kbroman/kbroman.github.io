@@ -50,7 +50,11 @@ Porter FD, **Broman KW**, Platt FM, Pavan BJ. Genetic background
 modifies phenotypic severity and longevity in a mouse model of
 Niemann-Pick Disease Type C1.
 [Dis Model Mech](https://dmm.biologists.org/), to appear
+[![pdf](icons16/pdf-icon.png)](https://dmm.biologists.org/content/dmm/early/2020/01/25/dmm.042614.full.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1242/dmm.042614)
 <!-- * 159 * -->
+<!-- https://doi.org/10.1242/dmm.042614) -->
+
 
 #### 2019
 
