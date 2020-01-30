@@ -1598,3 +1598,11 @@ What is (are?) statistics?
 <br/>
 [Center for Medical Genetics](http://research.marshfieldclinic.org/genetics/),
 Marshfield Medical Research Foundation, Marshfield, Wisconsin (_Jan 8_)
+
+
+### 1996
+
+Analysis of a T cell frequency assay
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_Pullman1996/pullman1996.pdf)
+<br/>
+WNAR, Pullman, Washington (_Jun_)
