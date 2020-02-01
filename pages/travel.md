@@ -355,6 +355,8 @@ title: travel
 
 - [TAGC meeting](http://conferences.genetics-gsa.org/tagc/2020/index), Apr 22-26, 2020 (Washington, DC)
 
+- [ReScience workshop](http://rescience.github.io/ten-years/), Jun 22, 2020 (Bordeaux, France)
+
 - CTC meeting, Sep 2-4, 2020 (Manchester, UK)
 
 ---
