@@ -58,17 +58,6 @@ Niemann-Pick Disease Type C1.
 
 #### 2019
 
-Keller MP, Rabaglia ME, Schueler KL, Stapleton DS, Gatti DM, Vincent
-M, Mitok KA, Wang Z, Ishimura T, Simonett SP, Emfinger CH, Das R, Beck
-T, Kendziorski C, **Broman KW**, Yandell BS, Churchill GA, Attie AD (2019)
-Gene loci associated with insulin secretion in islets from
-non-diabetic mice. [J Clin Invest](https://www.jci.org) 130:4419-4432
-[![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/31343992)
-[![pdf](icons16/pdf-icon.png)](https://www.jci.org/articles/view/129143/pdf)
-[![doi](icons16/doi-icon.png)](https://doi.org/10.1172/JCI129143)
-<!-- * 158 * -->
-<!-- https://doi.org/10.1172/JCI129143 -->
-
 Kemis JH, Linke V, Barrett KL, Boehm FJ, Traeger LL, Keller MP,
 Rabaglia ME, Schueler KL, Stapleton DS, Gatti DM, Churchill GA,
 Amador-Noguez D, Russell JD, Yandell BS, **Broman KW**, Coon JJ, Attie
@@ -78,8 +67,19 @@ and bile acid profiles in mice. [PLoS Genet](https://journals.plos.org/plosgenet
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/31465442)
 [![pdf](icons16/pdf-icon.png)](https://journals.plos.org/plosgenetics/article/file?id=10.1371/journal.pgen.1008073&type=printable)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1371/journal.pgen.1008073)
-<!-- * 157 * -->
+<!-- * 158 * -->
 <!-- https://doi.org/10.1371/journal.pgen.1008073 -->
+
+Keller MP, Rabaglia ME, Schueler KL, Stapleton DS, Gatti DM, Vincent
+M, Mitok KA, Wang Z, Ishimura T, Simonett SP, Emfinger CH, Das R, Beck
+T, Kendziorski C, **Broman KW**, Yandell BS, Churchill GA, Attie AD (2019)
+Gene loci associated with insulin secretion in islets from
+non-diabetic mice. [J Clin Invest](https://www.jci.org) 130:4419-4432
+[![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/31343992)
+[![pdf](icons16/pdf-icon.png)](https://www.jci.org/articles/view/129143/pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1172/JCI129143)
+<!-- * 157 * -->
+<!-- https://doi.org/10.1172/JCI129143 -->
 
 Boehm FJ, Chesler EJ, Yandell BS, **Broman KW** (2019)
 Testing pleiotropy vs. separate QTL in multiparental populations.
