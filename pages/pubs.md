@@ -156,6 +156,7 @@ pancreatic islet function. [Genetics](http://genetics.org) 209:335-356
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1080/00031305.2017.1375989)
 <!-- * 150 * -->
 <!-- https://doi.org/10.1080/00031305.2017.1375989 -->
+<!-- shortened doi https://doi.org/gdz6cm -->
 
 Keele GR, Prokop JW, He H, Holl K, Littrell J, Deal A, Francic S, Cui
 L, Gatti DM, **Broman KW**, Tschannen M, Tsaih S-W, Zagloul M, Kim Y,
