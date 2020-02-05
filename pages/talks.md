@@ -1230,6 +1230,7 @@ Identifying essential genes in <em>M. tuberculosis</em>
 by random transposon mutagenesis
 [![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/mfd04.ppt)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/mfd04_ho.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Mtb)
 <br/>
 [Marshfield Clinic
 Research Foundation](http://research.marshfieldclinic.org/), Marshfield, Wisconsin (_Oct 5_)
@@ -1304,6 +1305,7 @@ The breakpoint process on recombinant inbred chromosomes
 Identifying essential genes in <em>M. tuberculosis</em>
 by random transposon mutagenesis
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/sk04_ho.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Mtb)
 <br/>
 [Dept of Biostatistics,
 University at Buffalo](http://phhp.buffalo.edu/biostat) in Buffalo, New York (_Apr 8_)
@@ -1334,6 +1336,7 @@ Research Institute](http://www.msri.org), Berkeley, California (_Feb 12_)
 Identifying essential genes in <em>M. tuberculosis</em>
 by random transposon mutagenesis
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/sk04_ho.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Mtb)
 <br/>
 [Department of
 Epidemiology and Biostatistics](http://www.mskcc.org/mskcc/html/3159.cfm), [Memorial
@@ -1345,6 +1348,7 @@ Sloan-Kettering Cancer Center](http://www.mskcc.org/mskcc/html/44.cfm), New York
 Identifying essential genes in <em>M. tuberculosis</em>
 by random transposon mutagenesis
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ucla03_ho.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Mtb)
 <br/>
 Departments of [Statistics](http://www.stat.wisc.edu/)
 and [Biostatistics & Medical Informatics](https://www.biostat.wisc.edu/), University of Wisconsin&ndash;Madison (_Nov 12_)
@@ -1352,6 +1356,7 @@ and [Biostatistics & Medical Informatics](https://www.biostat.wisc.edu/), Univer
 Identifying essential genes in <em>M. tuberculosis</em>
 by random transposon mutagenesis
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ucla03_ho.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Mtb)
 <br/>
 [Department of Statistics](http://www.stat.ucla.edu/),
 University of California, Los Angeles (_Nov 4_)
@@ -1359,6 +1364,7 @@ University of California, Los Angeles (_Nov 4_)
 Identifying essential genes in <em>M. tuberculosis</em>
 by random transposon mutagenesis
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/unc03_ho.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Mtb)
 <br/>
 [Department of Biostatistics](http://www.sph.unc.edu/bios), University of North
 Carolina at Chapel Hill (_Oct 23_)
@@ -1366,12 +1372,14 @@ Carolina at Chapel Hill (_Oct 23_)
 Identifying essential genes in <em>M. tuberculosis</em>
 by random transposon mutagenesis
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/haverford_ho.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Mtb)
 <br/>
 Haverford-Bryn Mayr Mathematics Colloquium, [Haverford College](http://www.haverford.edu/math/), Haverford, Pennsylvania (_Oct 20_)
 
 Identifying essential genes in <em>M. tuberculosis</em>
 by random transposon mutagenesis
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/jsm03_ho.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Mtb)
 <br/>
 Joint Statistical Meetings, San Francisco (_Aug 5_)
 
@@ -1386,12 +1394,14 @@ and Use Committee](http://www.jhu.edu/animalcare) seminar (_Jun 26_)
 Identifying essential genes in
 _M. tuberculosis_ by random transposon mutagenesis
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ucsf03_ho.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Mtb)
 <br/>
 [Hopkins Expressionists](http://astor.som.jhmi.edu/hex) (_Jun 25_)
 
 Identifying essential genes in
 _M. tuberculosis_ by random transposon mutagenesis
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ucsf03_ho.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Mtb)
 <br/>
 [Department of Biostatistics](http://www.biostat.ucsf.edu/), University of California, San Francisco (_Mar 13_)
 
@@ -1413,6 +1423,7 @@ Identification of the essential genes in the
 _M. tuberculosis_ genome by random transposon
 mutagenesis
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/mtb_ho.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Mtb)
 <br/>
 [Department of
 Biostatistics](http://www.biostat.jhsph.edu), [Johns Hopkins Bloomberg School of
