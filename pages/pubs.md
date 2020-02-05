@@ -471,7 +471,7 @@ attenuated simian immunodeficiency virus. [J Virol](http://jvi.asm.org/) 87:9353
 <!-- https://doi.org/10.1128/JVI.00909-13 -->
 
 Maenner MJ, Baker MW, **Broman KW**, Tian J, Barnes JK, Atkins A, McPherson E, Hong J, Brilliant MH, Mailick MR
-(2013) <i>FMR1</i> CGG expansions: Prevalence and sex ratios.  [Am
+(2013) _FMR1_ CGG expansions: Prevalence and sex ratios.  [Am
 J Med Genet B Neuropsychiatr Genet](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1552-485X) 162:466-473
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/23740716)
 [![pdf (399k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/fmr1_prevalence.pdf)
@@ -498,14 +498,14 @@ Rice CA, Riehl J, **Broman K**, Soukup JW, Gengler WR (2012) Comparing the degre
 <!-- * 119 * -->
 <!-- https://doi.org/10.1177/089875641202900202 -->
 
-Galvan A, Colombo F, Noci S, Pazzaglia S, Mancuso M, Manenti G, **Broman KW**, Saran A, Dragani TA (2012) The <i>Lsktm1</i> locus modulates lung and skin tumorigenesis in the mouse.  [G3](http://g3journal.org) 2:1041-1046
+Galvan A, Colombo F, Noci S, Pazzaglia S, Mancuso M, Manenti G, **Broman KW**, Saran A, Dragani TA (2012) The _Lsktm1_ locus modulates lung and skin tumorigenesis in the mouse.  [G3](http://g3journal.org) 2:1041-1046
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/22973541)
 [![pdf (913k)](icons16/pdf-icon.png)](http://www.g3journal.org/content/ggg/2/9/1041.full.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/g3.112.003525)
 <!-- * 118 * -->
 <!-- https://doi.org/10.1534/g3.112.003525 -->
 
-Greene JM, Chin EN, Budde ML, Lhost JJ, Hines PJ, Burwitz BJ, **Broman KW**, Nelson JE, Friedrich TC, O'Connor DH (2012) <i>Ex vivo</i> SIV-specific CD8 T cell responses in heterozygous animals are primarily directed against peptides presented by a single MHC haplotype.  [PLoS ONE](http://www.plosone.org) 7:e43690
+Greene JM, Chin EN, Budde ML, Lhost JJ, Hines PJ, Burwitz BJ, **Broman KW**, Nelson JE, Friedrich TC, O'Connor DH (2012) _Ex vivo_ SIV-specific CD8 T cell responses in heterozygous animals are primarily directed against peptides presented by a single MHC haplotype.  [PLoS ONE](http://www.plosone.org) 7:e43690
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/22928016)
 [![pdf (767k)](icons16/pdf-icon.png)](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0043690&type=printable)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1371/journal.pone.0043690)
@@ -522,7 +522,7 @@ Quantile-based permutation thresholds for quantitative trait loci hotspots.
 <!-- * 116 * -->
 <!-- https://doi.org/10.1534/genetics.112.139451 -->
 
-King EG, Merkes CM, McNeil CL, Hoofer SR, Sen S, **Broman KW**, Long AD, Macdonald SJ (2012)  Genetic dissection of a model complex trait using the <i>Drosophila</i> Synthetic Population Resource.  [Genome Res](http://www.genome.org/) 22:1558-1566
+King EG, Merkes CM, McNeil CL, Hoofer SR, Sen S, **Broman KW**, Long AD, Macdonald SJ (2012)  Genetic dissection of a model complex trait using the _Drosophila_ Synthetic Population Resource.  [Genome Res](http://www.genome.org/) 22:1558-1566
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/22496517)
 [![pdf (1.8M)](icons16/pdf-icon.png)](https://genome.cshlp.org/content/22/8/1558.full.pdf)
 [![supplementary material](icons16/supp-icon.png)](http://genome.cshlp.org/content/22/8/1558/suppl/DC1)
@@ -530,7 +530,7 @@ King EG, Merkes CM, McNeil CL, Hoofer SR, Sen S, **Broman KW**, Long AD, Macdona
 <!-- * 115 * -->
 <!-- https://doi.org/10.1101/gr.134031.111 -->
 
-Wang CY, Stapleton DS, Schueler KL, Rabaglia ME, Oler AT, Keller MP, Kendziorski CM, **Broman KW**, Yandell BS, Schadt EE, Attie ED (2012)  <i>Tsc2</i>, a positional candidate gene underlying a quantitative trait locus for hepatic steatosis.  [J Lipid Res](http://www.jlr.org) 53:1493-1501
+Wang CY, Stapleton DS, Schueler KL, Rabaglia ME, Oler AT, Keller MP, Kendziorski CM, **Broman KW**, Yandell BS, Schadt EE, Attie ED (2012)  _Tsc2_, a positional candidate gene underlying a quantitative trait locus for hepatic steatosis.  [J Lipid Res](http://www.jlr.org) 53:1493-1501
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/22628617)
 [![pdf (1.0M)](icons16/pdf-icon.png)](http://www.jlr.org/content/53/8/1493.full.pdf)
 [![supplementary material](icons16/supp-icon.png)](http://www.jlr.org/content/suppl/2012/05/24/jlr.M025239.DC1/jlr.M025239-1.pdf)
@@ -546,7 +546,7 @@ Arends D, van der Velde KJ, Prins P, **Broman KW**, M&ouml;ller S, Jansen RC, Sw
 <!-- * 113 * -->
 <!-- https://doi.org/10.1093/bioinformatics/bts049 -->
 
-Amlin-Van Schaick JC, Kim S, **Broman KW**, Reilly KM (2012)  <i>Scram1</i> is a modifier of spinal cord resistance for astrocytoma on mouse chromosome 5.  [Mamm Genome](http://www.springerlink.com/content/1432-1777/) 23:277-285
+Amlin-Van Schaick JC, Kim S, **Broman KW**, Reilly KM (2012)  _Scram1_ is a modifier of spinal cord resistance for astrocytoma on mouse chromosome 5.  [Mamm Genome](http://www.springerlink.com/content/1432-1777/) 23:277-285
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/22160242)
 [![pdf (755k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/scram1.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1007/s00335-011-9380-0)
@@ -576,7 +576,7 @@ Collaborative Cross Consortium \[97 authors\] (2012)  The genome architecture of
 <!-- * 109 * -->
 <!-- https://doi.org/10.1534/genetics.111.132639 -->
 
-Amlin-Van Schaick JC, Kim S, DiFabio C, Lee M-H, **Broman KW**, Reilly KM (2012)  <i>Arlm1</i> is a male-specific modifier of astrocytoma resistance on mouse chr 12.  [Neuro Oncol](http://neuro-oncology.oxfordjournals.org/) 14:160-174
+Amlin-Van Schaick JC, Kim S, DiFabio C, Lee M-H, **Broman KW**, Reilly KM (2012)  _Arlm1_ is a male-specific modifier of astrocytoma resistance on mouse chr 12.  [Neuro Oncol](http://neuro-oncology.oxfordjournals.org/) 14:160-174
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/22234937)
 [![pdf (1.3M)](icons16/pdf-icon.png)](https://academic.oup.com/neuro-oncology/article-pdf/14/2/160/6226748/nor206.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1093/neuonc/nor206)
@@ -638,8 +638,8 @@ Moreland AJ, Guethlein LA, Reeves RK, **Broman KW**, Johnson RP, Parham P, O'Con
 <!-- https://doi.org/10.1186/1471-2164-12-295 -->
 
 Svetec N, Werzner A, Wilches R, Pavlidis P, &Aacute;lvarez-Castro JM, **Broman KW**, Metzler D, Stephan W (2011)  Identification
-of X-linked quantitative trait loci affecting cold tolerance in <i>Drosophila
-melanogaster</i> and fine-mapping by selective sweep analysis.
+of X-linked quantitative trait loci affecting cold tolerance in _Drosophila
+melanogaster_ and fine-mapping by selective sweep analysis.
  [Mol Ecol](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-294X) 20:530-544
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/21199023)
 [![pdf (450k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/werzner.pdf)
@@ -672,14 +672,14 @@ Arends D, Prins P, Jansen RC, **Broman KW** (2010)  R/qtl: High-throughput multi
 <!-- * 98 * -->
 <!-- https://doi.org/10.1093/bioinformatics/btq565 -->
 
-Bader HL, Ruhe AL, Wang LW, Wong AK, Walsh KF, Packer RA, Mitelman J, Robertson KR, O'Brien DP, **Broman KW**, Shelton GD, Apte SS, Neff MW (2010) An <i>ADAMTSL2</i> founder mutation causes Musladin-Lueke Syndrome, a heritable disorder of beagle dogs, featuring stiff skin and joint contractures.  [PLoS ONE](http://www.plosone.org) 5:e12817
+Bader HL, Ruhe AL, Wang LW, Wong AK, Walsh KF, Packer RA, Mitelman J, Robertson KR, O'Brien DP, **Broman KW**, Shelton GD, Apte SS, Neff MW (2010) An _ADAMTSL2_ founder mutation causes Musladin-Lueke Syndrome, a heritable disorder of beagle dogs, featuring stiff skin and joint contractures.  [PLoS ONE](http://www.plosone.org) 5:e12817
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/20862248)
 [![pdf (564k)](icons16/pdf-icon.png)](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0012817&type=printable)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1371/journal.pone.0012817)
 <!-- * 97 * -->
 <!-- https://doi.org/10.1371/journal.pone.0012817 -->
 
-Jurisic G, Sundberg JP, Bleich A, Leiter EH, **Broman KW**, Buechler G, Alley L, Vestweber D, Detmar M (2010)  Quantitative lymphatic vessel trait analysis suggests <i>Vcam1</i> as candidate modifier gene of inflammatory bowel disease.  [Genes Immun](http://www.nature.com/gene) 11:219-231
+Jurisic G, Sundberg JP, Bleich A, Leiter EH, **Broman KW**, Buechler G, Alley L, Vestweber D, Detmar M (2010)  Quantitative lymphatic vessel trait analysis suggests _Vcam1_ as candidate modifier gene of inflammatory bowel disease.  [Genes Immun](http://www.nature.com/gene) 11:219-231
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/20220769)
 [![pdf (1013k)](icons16/pdf-icon.png)](https://www.nature.com/articles/gene20104.pdf)
 [![supplementary material](icons16/supp-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/jurisic_supp.pdf)
@@ -694,7 +694,7 @@ Burrage LC, Baskin-Hill AE, Sinasac DS, Singer JB, Croniger CM, Kirby A, Kulboka
 <!-- * 95 * -->
 <!-- https://doi.org/10.1007/s00335-010-9247-9 -->
 
-Greene JM, Lhost JJ, Burwitz BJ, Budde ML, Macnair CE, Weiker MK, Gostick E, Friedrich TC, **Broman KW**, Price DA, O'Connor SL, O'Connor DH (2010)  Extralymphoid CD8<sup>+</sup> T cells resident in tissue from Simian Immunodeficiency Virus SIVmac239&Delta;nef-vaccinated macaques suppress SIVmac239 replication <i>ex vivo</i>.  [J Virol](http://jvi.asm.org/) 84:3362-3372
+Greene JM, Lhost JJ, Burwitz BJ, Budde ML, Macnair CE, Weiker MK, Gostick E, Friedrich TC, **Broman KW**, Price DA, O'Connor SL, O'Connor DH (2010)  Extralymphoid CD8<sup>+</sup> T cells resident in tissue from Simian Immunodeficiency Virus SIVmac239&Delta;nef-vaccinated macaques suppress SIVmac239 replication _ex vivo_.  [J Virol](http://jvi.asm.org/) 84:3362-3372
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/20089651)
 [![pdf (3.4M)](icons16/pdf-icon.png)](https://jvi.asm.org/content/jvi/84/7/3362.full.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1128/JVI.02028-09)
@@ -759,7 +759,7 @@ Manichaikul A, **Broman KW** (2009)  Binary trait mapping in experimental crosse
 <!-- * 86 * -->
 <!-- https://doi.org/10.1534/genetics.108.098913 -->
 
-Venkatesan M, **Broman KW**, Sellers M, Rasgon JL (2009) An initial linkage map of the West Nile Virus vector <i>Culex tarsalis</i>. [Insect Mol Biol](http://www3.interscience.wiley.com/journal/118497253/home) 18:453-463
+Venkatesan M, **Broman KW**, Sellers M, Rasgon JL (2009) An initial linkage map of the West Nile Virus vector _Culex tarsalis_. [Insect Mol Biol](http://www3.interscience.wiley.com/journal/118497253/home) 18:453-463
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/19453767)
 [![pdf (265k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/ctar_map.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1111/j.1365-2583.2009.00885.x)
@@ -780,7 +780,7 @@ allowing epistasis. [Genetics](http://www.genetics.org) 181:1077-1086
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/19104078)
 [![pdf (889k)](icons16/pdf-icon.png)](http://www.genetics.org/content/genetics/181/3/1077.full.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.108.094565)
-\[<b>Erratum</b>: [Genetics](http://www.genetics.org) 184:607, 2010
+\[**Erratum**: [Genetics](http://www.genetics.org) 184:607, 2010
 [![pdf (89k)](icons16/pdf-icon.png)](http://www.genetics.org/content/genetics/184/2/607.1.full.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.109.112912)\]
 <!-- * 83 * -->
@@ -799,7 +799,7 @@ Genetic architecture of complex traits: Large phenotypic effects and pervasive e
 <!-- https://doi.org/10.1073/pnas.0810388105 -->
 
 Hill M, **Broman KW**, Stupka E, Smith WC, Jiang D, Sidow A (2008)
-The <i>C. savignyi</i> genetic map and its integration with the reference sequence facilitates insights into chordate genome evolution.  [Genome Res](http://www.genome.org/) 18:1369-1379
+The _C. savignyi_ genetic map and its integration with the reference sequence facilitates insights into chordate genome evolution.  [Genome Res](http://www.genome.org/) 18:1369-1379
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/18519652)
 [![pdf (814k)](icons16/pdf-icon.png)](https://genome.cshlp.org/content/18/8/1369.full.pdf)
 [![supplementary material](icons16/supp-icon.png)](http://genome.cshlp.org/cgi/content/full/gr.078576.108/DC1)
@@ -868,7 +868,7 @@ Rajagopal SK, Ma Q, Obler D, Shen J, Manichaikul A,
 Tomita-Mitchell A, Boardman K, Briggs C, Garg V, Srivastava D,
 Goldmuntz E, **Broman KW**, Benson DW,
 Smoot LB, Pu, WT (2007)  Spectrum of heart disease associated with murine
-and human <i>GATA4</i> mutation.  [J Mol
+and human _GATA4_ mutation.  [J Mol
 Cell Cardiol](http://www.sciencedirect.com/science/journal/00222828) 43:677-685
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/17643447)
 [![pdf (1.2M)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/william_pu.pdf)
@@ -933,8 +933,8 @@ Haemost](http://www.journalth.com/) 5:329-335
 
 Nichols KM, **Broman KW**, Sundin K, Young JM,
 Wheeler PA, Thorgaard GH (2007)  Quantitative trait loci by maternal
-cytoplasmic environment interaction for development rate in <i>Oncorhynchus
-mykiss</i>.  [Genetics](http://www.genetics.org) 175:335-347
+cytoplasmic environment interaction for development rate in _Oncorhynchus
+mykiss_.  [Genetics](http://www.genetics.org) 175:335-347
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/17057232)
 [![pdf (1035k)](icons16/pdf-icon.png)](http://www.genetics.org/content/genetics/175/1/335.full.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.106.064311)
@@ -1008,7 +1008,7 @@ equations.  [Genetics](http://www.genetics.org) 173:2269-2282
 
 Chadwick LH, Pertz L, **Broman
 KW**, Bartolomei MS, Willard HF (2006)  Genetic control of X
-chromosome inactivation in mice: Definition of the <i>Xce</i> candidate
+chromosome inactivation in mice: Definition of the _Xce_ candidate
 interval.  [Genetics](http://www.genetics.org) 173:2111-2119
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/16582439)
 [![pdf (193k)](icons16/pdf-icon.png)](http://www.genetics.org/content/genetics/173/4/2103.full.pdf)
@@ -1048,8 +1048,8 @@ mixtures evaluation using STR analytical quantification.
 
 Reilly KM, **Broman KW**, Bronson RT,
 Tsang S, Loisel DA, Christy ES, Sun Z, Diehl J, Munroe DJ, Tuskan RG
-(2006) An imprinted locus epistatically influences <i>Nstr1</i> and
-<i>Nstr2</i> to control resistance to nerve sheath tumors in a
+(2006) An imprinted locus epistatically influences _Nstr1_ and
+_Nstr2_ to control resistance to nerve sheath tumors in a
 neurofibromatosis type 1 mouse model.  [Cancer Res](http://cancerres.aacrjournals.org/) 66:62-68
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/16397217)
 [![pdf (1.9M)](icons16/pdf-icon.png)](http://cancerres.aacrjournals.org/sites/all/libraries/pdfjs/web/viewer.html?file=/content/canres/66/1/62.full.pdf)
@@ -1072,7 +1072,7 @@ to a novel locus at 13pTel-13q12.13.
 
 Sundin OH, Leppert GS, Silva ED, Yang J-M, Dharmaraj S, Maumenee
 IH, Santos LC, Parsa CF, Traboulsi EI, **Broman KW**, DiBernardo C, Sunness JS, Toy J,
-Weinberg EM (2005)  Extreme hyperopia is the result of null mutations in <i>MFRP</i>,
+Weinberg EM (2005)  Extreme hyperopia is the result of null mutations in _MFRP_,
 which encodes a Frizzled-related protein.
 [Proc Natl Acad Sci USA](http://www.pnas.org/) 102:9553-9558
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15976030)
@@ -1083,7 +1083,7 @@ which encodes a Frizzled-related protein.
 
 Gottsch JD, Sundin OH, Liu SH, Jun AS, **Broman KW**, Stark WJ, Vito
 EC, Narang AK, Thompson JM, Magovern M (2005) Inheritance of a novel
-<i>COL8A2</i> mutation defines a distinct early-onset subtype of Fuchs
+_COL8A2_ mutation defines a distinct early-onset subtype of Fuchs
 corneal dystrophy. [Invest Ophthalmol Vis Sci](https://iovs.arvojournals.org)
 46:1934-1939
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15914606)
@@ -1095,7 +1095,7 @@ corneal dystrophy. [Invest Ophthalmol Vis Sci](https://iovs.arvojournals.org)
 Owens SE, **Broman KW**,
 Wiltshire T, Elmore JB, Bradley KM, Smith JR, Southard-Smith EM (2005)
 Genome-wide linkage identifies novel modifier loci of aganglionosis
-in the <i>Sox10<sup>Dom</sup></i> model of Hirschsprung
+in the _Sox10<sup>Dom</sup>_ model of Hirschsprung
 disease.  [Hum Mol Genet](http://hmg.oupjournals.org) 14:1549-1558
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15843399)
 [![pdf (304k)](icons16/pdf-icon.png)](https://academic.oup.com/hmg/article-pdf/14/11/1549/17241377/ddi163.pdf)
@@ -1178,7 +1178,7 @@ Mol Biol](https://www.degruyter.com/view/j/sagmb) 3(1): article 21
 <!-- https://doi.org/10.2202/1544-6115.1063 -->
 
 Neff MW, Robertson KR, Wong AK, Safra N, **Broman KW**, Slatkin M, Mealey KL, Pedersen NC (2004)
-Breed distribution and history of canine <i>mdr1-1&Delta;</i>, a pharmacogenetic
+Breed distribution and history of canine _mdr1-1&Delta;_, a pharmacogenetic
 mutation that marks the emergence of breeds from the collie lineage.
 [Proc Natl Acad Sci USA](http://www.pnas.org/) 101:11725-11730
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15289602)
@@ -1272,8 +1272,8 @@ sperm. [Am J Hum Genet](http://www.journals.uchicago.edu/AJHG/journal/) 73:939-9
 
 Denny P, Hopes E, Gingles N, **Broman
 KW**, McPheat W, Morten J, Alexander J, Andrew PW, Brown SDM (2003)  A
-major locus conferring susceptibility to infection by <i>Streptococcus
-pneumoniae</i> in mice.  [Mamm
+major locus conferring susceptibility to infection by _Streptococcus
+pneumoniae_ in mice.  [Mamm
 Genome](http://link.springer.de/link/service/journals/00335/) 14:448-453
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/12925893)
 [![pdf (154k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/denny.pdf)
@@ -1283,7 +1283,7 @@ Genome](http://link.springer.de/link/service/journals/00335/) 14:448-453
 
 Lamichhane G, Zignol M, Blades NJ, Geiman DE, Dougherty A, **Broman KW**, Bishai WR (2003)  A post-genomic method
 for predicting essential genes at subsaturation levels of mutagenesis:
-application to <i>Mycobacterium tuberculosis</i>.  [Proc Natl Acad Sci USA](http://www.pnas.org/) 100:7213-7218
+application to _Mycobacterium tuberculosis_.  [Proc Natl Acad Sci USA](http://www.pnas.org/) 100:7213-7218
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/12775759)
 [![pdf (260k)](icons16/pdf-icon.png)](https://www.pnas.org/content/pnas/100/12/7213.full.pdf)
 [![R/negenes](icons16/R-icon.png)](https://github.com/kbroman/negenes)
@@ -1352,7 +1352,7 @@ Paigen K (2002) Crossover interference in the mouse.  [Genetics](http://www.gene
 Hunter KW, **Broman KW**, Le Voyer T,
 Lukes L, Cozma D, Debies MT, Rouse J, Welch DR (2001)
 Predisposition to efficient mammary tumor metastatic progression is
-linked to the breast cancer metastasis suppressor gene <i>Brms1</i>.
+linked to the breast cancer metastasis suppressor gene _Brms1_.
 [Cancer
 Research](http://cancerres.aacrjournals.org) 61:8866-8872
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/11751410)
@@ -1407,7 +1407,7 @@ common chromosome rearrangements.  [Am J Hum Genet](https://www.cell.com/ajhg/ho
 
 Boyartchuk VL, **Broman KW**, Mosher RE,
 D'Orazio SEF, Starnbach MN, Dietrich WF (2001) Multigenic control of
-<i>Listeria monocytogenes</i> susceptibility in mice.  [Nat Genet](http://www.nature.com/ng/) 27:259-260
+_Listeria monocytogenes_ susceptibility in mice.  [Nat Genet](http://www.nature.com/ng/) 27:259-260
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/11242105)
 [![pdf (609k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/victor.pdf)
 [![methods (pdf 113k)](icons16/supp-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/victor_methods.pdf)
@@ -1512,8 +1512,8 @@ maps. [Genet Epidemiol](http://www.interscience.wiley.com/jpages/0741-0395/)
 
 Neff MW, **Broman KW**, Mellersh CS, Ray K, Acland GM, Aguirre GD,
 Ziegle JS, Ostrander EA, Rine J (1999) A
-second-generation genetic linkage map of the domestic dog, <i>Canis
-familiaris</i>. [Genetics](http://www.genetics.org/) 151:803-820
+second-generation genetic linkage map of the domestic dog, _Canis
+familiaris_. [Genetics](http://www.genetics.org/) 151:803-820
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/9927471)
 [![pdf (262k)](icons16/pdf-icon.png)](http://www.genetics.org/content/genetics/151/2/803.full.pdf)
 [![Supplemental data](icons16/supp-icon.png)](https://www.biostat.wisc.edu/~kbroman/data/index.html#dogs)
@@ -1592,7 +1592,7 @@ Genet](https://www.cell.com/ajhg/home) 75:720-722
 <!-- https://doi.org/10.1086/424756 -->
 
 **Broman KW**, Caffo BS (2003)  Simulation-based
-<i>P</i> values: Response to North et al.  [Am J Hum
+_P_ values: Response to North et al.  [Am J Hum
 Genet](https://www.cell.com/ajhg/home) 72:496
 (Response to [North
 et al., Am J Hum Genet 71:439-441, 2002](https://www.ncbi.nlm.nih.gov/pubmed/12111669))
@@ -1624,7 +1624,7 @@ relationships in the presence of genotyping errors. [Am J Hum Genet](https://www
 
 ### <a name="chapters"></a>proceedings and book chapters
 
-**Broman KW** (2012) Applied statistics and exposition (commentary).  In: Dudoit S (ed) <i>Selected Works of Terry Speed</i>, Springer, pp 353-355
+**Broman KW** (2012) Applied statistics and exposition (commentary).  In: Dudoit S (ed) _Selected Works of Terry Speed_, Springer, pp 353-355
 [![Springer](icons16/springer-icon.png)](http://link.springer.com/book/10.1007/978-1-4614-1347-9)
 [![Amazon](icons16/amazon-icon.png)](https://www.amazon.com/gp/product/146141346X?ie=UTF8&tag=7210-20)
 \[**Note**: The [PDFs at Springer](http://link.springer.com/book/10.1007/978-1-4614-1347-9)
@@ -1644,7 +1644,7 @@ selection operator (LASSO) model.  [BMC Proc](http://www.biomedcentral.com/bmcpr
 
 **Broman KW**, Heath SC (2007)  Managing and
   manipulating genetic data.  In: Barnes MR,
-Gray IC (eds) <i>Bioinformatics for Geneticists</i>, 2nd edition,
+Gray IC (eds) _Bioinformatics for Geneticists_, 2nd edition,
   Wiley, pp. 17-31
 [![Abstract](icons16/pubmed-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/bioinfchap_abstract.html)
 [![pdf (250k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/bioinf_chapter.pdf)
