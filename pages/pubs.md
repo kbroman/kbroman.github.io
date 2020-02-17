@@ -33,6 +33,12 @@ description: Karl Broman's publications
 
 #### in preparation
 
+**Broman KW** (2020) \[Rp\] Identifying essential genes by mutagenesis. In
+preparation for the [ReScience Ten Years Reproducibility
+Challenge](https://rescience.github.io/ten-years)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/Paper_ReScience2020/article/article.pdf)
+[![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_ReScience2020)
+
 Lobo AK, Traeger LL, Keller MP, Attie AD, Rey FE, **Broman KW** (2019)
 Identification of sample mix-ups and mixtures in microbiome data in
 Diversity Outbred mice.
