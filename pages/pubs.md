@@ -33,7 +33,7 @@ description: Karl Broman's publications
 
 #### in preparation
 
-**Broman KW** (2020) \[Rp\] Identifying essential genes by mutagenesis. In
+**Broman KW** (2020) Identifying essential genes by mutagenesis. In
 preparation for the [ReScience Ten Years Reproducibility
 Challenge](https://rescience.github.io/ten-years)
 [![pdf](icons16/pdf-icon.png)](https://kbroman.org/Paper_ReScience2020/article/article.pdf)
