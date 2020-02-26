@@ -477,6 +477,17 @@ Summer, 2002
 
 ### <a name="misc"></a>Miscellaneous lectures
 
+#### BMI 773 (Clinical research informatics)
+
+- Steps toward reproducible research
+  [![pdf icon](https://kbroman.org/pages/icons16/pdf-icon.png)](https://kbroman.org/BMI773/steps2rr.pdf)
+  [![notes icon](https://kbroman.org/pages/icons16/notes-icon.png)](https://kbroman.org/BMI773/steps2rr_notes.pdf)
+- Exploratory data analysis
+<!--
+  [![pdf icon](https://kbroman.org/pages/icons16/pdf-icon.png)](https://kbroman.org/BMI773/eda.pdf)
+  [![notes icon](https://kbroman.org/pages/icons16/notes-icon.png)](https://kbroman.org/BMI773/eda_notes.pdf)
+-->
+
 #### My experiences in statistical consulting
 
 Statistical Consulting course, [Department of Statistics](https://www.stat.wisc.edu), [UW&ndash;Madison](https://www.wisc.edu) <br/>
