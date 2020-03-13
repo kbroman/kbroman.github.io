@@ -351,14 +351,15 @@ title: travel
 - Michigan State Plant Breeding, Genetics and Biotechnology (PBGB)
   Symposium, Dec 12-13, 2019 (East Lansing, MI)
 
--->
-
 - [TAGC meeting](http://conferences.genetics-gsa.org/tagc/2020/index), Apr 22-26, 2020 (Washington, DC)
 
 - [ReScience workshop](http://rescience.github.io/ten-years/), Jun 22, 2020 (Bordeaux, France)
   <https://sygefor.reseau-urfist.fr/#/training/8514/9622>
 
 - CTC meeting, Sep 2-4, 2020 (Manchester, UK)
+
+-->
+
 
 ---
 
