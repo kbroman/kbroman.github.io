@@ -48,16 +48,16 @@ Diversity Outbred mice.
 [![R/mbmixture software](icons16/R-icon.png)](https://github.com/kbroman/mbmixture)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1101/529040)
 
-#### to appear
+#### 2020
 
 Rodriguez-Gil JL, Watkins-Chow DE, Baxter LL, Elliot G, Harper UL,
 Wincovitch SM, Wedel JC, Incao AA, Huebecker M, Boehm FJ, Garver WS,
-Porter FD, **Broman KW**, Platt FM, Pavan BJ. Genetic background
+Porter FD, **Broman KW**, Platt FM, Pavan BJ (2020) Genetic background
 modifies phenotypic severity and longevity in a mouse model of
 Niemann-Pick Disease Type C1.
-[Dis Model Mech](https://dmm.biologists.org/), to appear
+[Dis Model Mech](https://dmm.biologists.org/) 13:dmm042614
 [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/31996359)
-[![pdf](icons16/pdf-icon.png)](https://dmm.biologists.org/content/dmm/early/2020/01/25/dmm.042614.full.pdf)
+[![pdf](icons16/pdf-icon.png)](https://dmm.biologists.org/content/13/3/dmm042614.full-text.pdf?with-ds=yes)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1242/dmm.042614)
 <!-- * 159 * -->
 <!-- https://doi.org/10.1242/dmm.042614) -->
