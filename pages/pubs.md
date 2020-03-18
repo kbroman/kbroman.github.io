@@ -69,7 +69,7 @@ Rabaglia ME, Schueler KL, Stapleton DS, Gatti DM, Churchill GA,
 Amador-Noguez D, Russell JD, Yandell BS, **Broman KW**, Coon JJ, Attie
 AD, Rey FE (2019) Genetic determinants of gut microbiota composition
 and bile acid profiles in mice. [PLoS Genet](https://journals.plos.org/plosgenetics)
-15: e1008073
+15:e1008073
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/31465442)
 [![pdf](icons16/pdf-icon.png)](https://journals.plos.org/plosgenetics/article/file?id=10.1371/journal.pgen.1008073&type=printable)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1371/journal.pgen.1008073)
