@@ -591,7 +591,7 @@ Biocomputing I: Perl for bioinformatics (Pineda)<br/>
 
 - Coding practices:
   \[[pdf (35k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/coding_ho.pdf) |
-  [books](statprog/coding_refs.html)\]
+  [books](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/coding_refs.html)\]
 - C Programming I:
   \[[pdf (56k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog1_ho.pdf) |
   [books](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog_refs.html) |
