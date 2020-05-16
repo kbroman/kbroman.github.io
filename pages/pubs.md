@@ -55,7 +55,7 @@ Lebek S, Schallschmidt T, Arends D, Schumacher F, Kleuser B, Haltenhof
 T, Heyd F, Gancheva S, **Broman KW**, Roden M, Joost HG, Chadt A,
 Al-Hasani H, Vogel H, Jonas W, Schürmann A (2020) Immunity-related
 GTPase induces lipophagy to prevent excess hepatic lipid accumulation.
-[J Heptol](https://www.journal-of-hepatology.eu/), to appear
+[J Hepatol](https://www.journal-of-hepatology.eu/), to appear
 [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/32376415)
 [![pdf](icons16/pdf-icon.png)](https://www.journal-of-hepatology.eu/article/S0168-8278(20)30275-0/pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1016/j.jhep.2020.04.031)
