@@ -140,7 +140,7 @@ for the first sample &times; the 3 possible SNP genotypes of the
 second sample &times; the 2 possible SNP alleles on the reads. We then
 fit a model with contaminant probability _p_ = proportion of the
 microbiome sample coming from the second sample and _e_ = rate of sequencing
-errors.
+errors. See the related [preprint](https://doi.org/10.1101/529040).
 
 ---
 
