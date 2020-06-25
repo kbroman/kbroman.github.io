@@ -83,14 +83,16 @@ quantitative finance, and statistics). The package is part of the
 
 ---
 
-#### <a name="lineup"></a>[R/lineup](https://github.com/kbroman/lineup)
+#### <a
+name="lineup"></a>[R/lineup](https://github.com/kbroman/lineup) and [R/lineup2](https://github.com/kbroman/lineup2)
 
-An [R](https://www.r-project.org) package for detecting and correcting
+[R](https://www.r-project.org) packages for detecting and correcting
 sample mix-ups between two sets of measurements, such as between gene
-expression data on two tissues. (Also see
-[R/lineup2](https://github.com/kbroman/lineup2), revised to be more
-general and not so closely tied to the [R/qtl](https://rqtl.org)
-package.)
+expression data on two tissues.
+[R/lineup](https://github.com/kbroman/lineup) is closely tied to the
+[R/qtl package](https:rqtl.org).
+[R/lineup2](https://github.com/kbroman/lineup2) is a redesign to be
+more general.
 
 ---
 
