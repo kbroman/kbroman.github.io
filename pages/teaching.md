@@ -18,28 +18,20 @@ description: Karl Broman's teaching
 
 ### <a name="current"></a>Current courses
 
-#### [Advanced data analysis (BMI 826, Spring 2020)](https://kbroman.org/AdvData)
-
-- [schedule](https://kbroman.org/AdvData/schedule.html)
-- [syllabus](https://kbroman.org/AdvData/syllabus.html)
-- [assignments](https://kbroman.org/AdvData/assignments.html)
-- [resources](https://kbroman.org/AdvData/resources.html)
-
-
-#### [Biomedical data science scholarly literature (BMI 882, Spring 2020)](https://kbroman.org/BMI882)
-
-- [schedule](https://kbroman.org/BMI882/schedule.html)
-- [syllabus](https://kbroman.org/BMI882/syllabus.html)
-- [assignments](https://kbroman.org/BMI882/assignments.html)
-- [resources](https://kbroman.org/BMI882/resources.html)
-
-
-#### [Biomedical data science scholarly literature (BMI 881, Fall 2019)](https://kbroman.org/BMI881)
+#### [Biomedical data science scholarly literature (BMI 881, Fall 2020)](https://kbroman.org/BMI881)
 
 - [schedule](https://kbroman.org/BMI881/schedule.html)
 - [syllabus](https://kbroman.org/BMI881/syllabus.html)
 - [assignments](https://kbroman.org/BMI881/assignments.html)
 - [resources](https://kbroman.org/BMI881/resources.html)
+
+
+#### [Biomedical data science scholarly literature (BMI 882, Spring 2021)](https://kbroman.org/BMI882)
+
+- [schedule](https://kbroman.org/BMI882/schedule.html)
+- [syllabus](https://kbroman.org/BMI882/syllabus.html)
+- [assignments](https://kbroman.org/BMI882/assignments.html)
+- [resources](https://kbroman.org/BMI882/resources.html)
 
 
 #### Statistical methods for molecular biology (Stat 877), with many others (Spring 2019)
@@ -565,6 +557,14 @@ Biocomputing I: Perl for bioinformatics (Pineda)<br/>
 ---
 
 ### <a name="old"></a>Former courses at UW-Madison
+
+#### [Advanced data analysis (BMI 826, Spring 2020)](https://kbroman.org/AdvData)
+
+- [schedule](https://kbroman.org/AdvData/schedule.html)
+- [syllabus](https://kbroman.org/AdvData/syllabus.html)
+- [assignments](https://kbroman.org/AdvData/assignments.html)
+- [resources](https://kbroman.org/AdvData/resources.html)
+
 
 #### [Tools for reproducible research](https://kbroman.org/Tools4RR) (BMI 826-003; Spring, 2016)
 
