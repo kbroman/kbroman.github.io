@@ -46,6 +46,9 @@ Diversity Outbred mice.
 [ReScience C](https://rescience.github.io), to appear
 [![pdf](icons16/pdf-icon.png)](https://kbroman.org/Paper_ReScience2020/article/article.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_ReScience2020)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.3959516)
+<!-- * 161 * -->
+<!-- https://doi.org/10.5281/zenodo.3959516 -->
 
 Schwerbel K, Kamitz A, Krahmer N, Hallahan N, Jähnert M, Gottmann P,
 Lebek S, Schallschmidt T, Arends D, Schumacher F, Kleuser B, Haltenhof
