@@ -42,6 +42,14 @@ Diversity Outbred mice.
 
 #### to appear
 
+Linke V, Overmyer KA, Miller IJ, Brademan DR, Hutchins PD, Trujillo
+EA, Reddy TR, Russell JD, Cushing EM, Schueler DL, Stapleton DS,
+Rabaglia ME, Keller MP, Gatti DM, Keele GR, Pham D, **Broman KW**,
+Churchill GA, Attie AD, Coon JJ (2020) A large-scale genome-lipid
+association map guides lipid identification. [Nat
+Metab](https://www.nature.com/natmetab), to appear
+<!-- * 162 * -->
+
 **Broman KW** (2020) Reproducibility report: Identifying essential genes by mutagenesis.
 [ReScience C](https://rescience.github.io), to appear
 [![pdf](icons16/pdf-icon.png)](https://kbroman.org/Paper_ReScience2020/article/article.pdf)
