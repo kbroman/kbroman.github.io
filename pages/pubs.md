@@ -52,14 +52,6 @@ association map guides lipid identification. [Nat
 Metab](https://www.nature.com/natmetab), to appear
 <!-- * 162 * -->
 
-**Broman KW** (2020) Reproducibility report: Identifying essential genes by mutagenesis.
-[ReScience C](https://rescience.github.io), to appear
-[![pdf](icons16/pdf-icon.png)](https://kbroman.org/Paper_ReScience2020/article/article.pdf)
-[![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_ReScience2020)
-[![doi](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.3959516)
-<!-- * 161 * -->
-<!-- https://doi.org/10.5281/zenodo.3959516 -->
-
 Schwerbel K, Kamitz A, Krahmer N, Hallahan N, Jähnert M, Gottmann P,
 Lebek S, Schallschmidt T, Arends D, Schumacher F, Kleuser B, Haltenhof
 T, Heyd F, Gancheva S, **Broman KW**, Roden M, Joost HG, Chadt A,
@@ -69,10 +61,18 @@ GTPase induces lipophagy to prevent excess hepatic lipid accumulation.
 [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/32376415)
 [![pdf](icons16/pdf-icon.png)](https://www.journal-of-hepatology.eu/article/S0168-8278(20)30275-0/pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1016/j.jhep.2020.04.031)
-<!-- * 160 * -->
+<!-- * 161 * -->
 <!-- https://doi.org/10.1016/j.jhep.2020.04.031 -->
 
 #### 2020
+
+**Broman KW** (2020) Reproducibility report: Identifying essential genes by mutagenesis.
+[ReScience C](https://rescience.github.io) 6 (1): #12
+[![pdf](icons16/pdf-icon.png)](https://zenodo.org/record/3959516/files/article.pdf)
+[![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_ReScience2020)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.3959516)
+<!-- * 160 * -->
+<!-- https://doi.org/10.5281/zenodo.3959516 -->
 
 Rodriguez-Gil JL, Watkins-Chow DE, Baxter LL, Elliot G, Harper UL,
 Wincovitch SM, Wedel JC, Incao AA, Huebecker M, Boehm FJ, Garver WS,
