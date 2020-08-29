@@ -50,22 +50,6 @@ description: Karl Broman's teaching
 - [resources](https://kbroman.org/BMI884/resources.html)
 
 
-#### Statistical methods for molecular biology (Stat 877), with many others (Spring 2019)
-
-- [Introduction to QTL
-  mapping](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/1_introqtl.pdf)
-- [R/qtl script](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/1_rqtl.R)
-- Interactive graphs:
-  [EM algorithm](https://www.biostat.wisc.edu/~kbroman/D3/em_alg/) |
-  [LOD curves and QTL effects](https://www.biostat.wisc.edu/~kbroman/D3/lod_and_effect/) |
-  [permutation test](https://www.biostat.wisc.edu/~kbroman/D3/lod_random/)
-- [Multi-parent populations](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/2_mpp.pdf)
-- [Steps toward reproducible research](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/3_repro_research.pdf)
-- Homework: \[[assignment
-(pdf)](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/hw3.pdf)
-| [data (csv)](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/hw3.csv) | [solutions (html)](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/hw3_solns.html) | [source (Rmd)](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/hw3_solns.Rmd)\]
-
-
 ---
 
 ### <a name="shortcourses"></a>Short courses
@@ -580,6 +564,22 @@ Biocomputing I: Perl for bioinformatics (Pineda)<br/>
 - [syllabus](https://kbroman.org/AdvData/syllabus.html)
 - [assignments](https://kbroman.org/AdvData/assignments.html)
 - [resources](https://kbroman.org/AdvData/resources.html)
+
+
+#### Statistical methods for molecular biology (Stat 877), with many others (Spring 2019)
+
+- [Introduction to QTL
+  mapping](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/1_introqtl.pdf)
+- [R/qtl script](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/1_rqtl.R)
+- Interactive graphs:
+  [EM algorithm](https://www.biostat.wisc.edu/~kbroman/D3/em_alg/) |
+  [LOD curves and QTL effects](https://www.biostat.wisc.edu/~kbroman/D3/lod_and_effect/) |
+  [permutation test](https://www.biostat.wisc.edu/~kbroman/D3/lod_random/)
+- [Multi-parent populations](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/2_mpp.pdf)
+- [Steps toward reproducible research](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/3_repro_research.pdf)
+- Homework: \[[assignment
+(pdf)](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/hw3.pdf)
+| [data (csv)](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/hw3.csv) | [solutions (html)](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/hw3_solns.html) | [source (Rmd)](https://www.biostat.wisc.edu/~kbroman/teaching/uwstatgen/hw3_solns.Rmd)\]
 
 
 #### [Tools for reproducible research](https://kbroman.org/Tools4RR) (BMI 826-003; Spring, 2016)
