@@ -34,6 +34,8 @@ description: Karl Broman's teaching
 - [resources](https://kbroman.org/BMI883/resources.html)
 
 
+---
+
 #### [Biomedical data science scholarly literature 2 (BMI 882, Spring 2021)](https://kbroman.org/BMI882)
 
 - [schedule](https://kbroman.org/BMI882/schedule.html)
