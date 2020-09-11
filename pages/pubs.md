@@ -31,6 +31,17 @@ description: Karl Broman's publications
 
 ### <a name="articles"></a>journal articles
 
+#### submitted
+
+Tran Q, **Broman KW** (2020)
+Treatment of the X chromosome in mapping multiple quantitative trait
+loci.
+<!-- [bioRxiv](https://www.biorxiv.org)
+doi:[10.1101/](https://doi.org/10.1101/) -->
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/Paper_qtlX/qtlX.pdf)
+[![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_qtlX)
+<!-- [![doi](icons16/doi-icon.png)](https://doi.org/10.1101/) -->
+
 #### in preparation
 
 Lobo AK, Traeger LL, Keller MP, Attie AD, Rey FE, **Broman KW** (2019)
