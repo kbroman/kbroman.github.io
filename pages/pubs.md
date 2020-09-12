@@ -36,11 +36,11 @@ description: Karl Broman's publications
 Tran Q, **Broman KW** (2020)
 Treatment of the X chromosome in mapping multiple quantitative trait
 loci.
-<!-- [bioRxiv](https://www.biorxiv.org)
-doi:[10.1101/](https://doi.org/10.1101/) -->
-[![pdf](icons16/pdf-icon.png)](https://kbroman.org/Paper_qtlX/qtlX.pdf)
+[bioRxiv](https://www.biorxiv.org)
+doi:[10.1101/2020.09.11.294017](https://doi.org/10.1101/2020.09.11.294017)
+[![pdf](icons16/pdf-icon.png)](https://www.biorxiv.org/content/10.1101/2020.09.11.294017v1.full.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_qtlX)
-<!-- [![doi](icons16/doi-icon.png)](https://doi.org/10.1101/) -->
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1101/2020.09.11.294017)
 
 #### in preparation
 
