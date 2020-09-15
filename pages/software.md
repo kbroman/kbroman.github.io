@@ -83,8 +83,7 @@ quantitative finance, and statistics). The package is part of the
 
 ---
 
-#### <a
-name="lineup"></a>[R/lineup](https://github.com/kbroman/lineup) and [R/lineup2](https://github.com/kbroman/lineup2)
+#### <a name="lineup"></a>[R/lineup](https://github.com/kbroman/lineup) and <a name="lineup2"></a>[R/lineup2](https://github.com/kbroman/lineup2)
 
 [R](https://www.r-project.org) packages for detecting and correcting
 sample mix-ups between two sets of measurements, such as between gene
