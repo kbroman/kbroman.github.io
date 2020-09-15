@@ -16,7 +16,7 @@ title: R/qtlcharts example
 interactive data visualizations for QTL data; <br/>
 see Broman (2015) Genetics 199:359-361
 [![PubMed](../icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/25527287)
-[![pdf](../icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/rqtlcharts.pdf)
+[![pdf](../icons16/pdf-icon.png)](https://www.genetics.org/content/genetics/199/2/359.full.pdf)
 [![GitHub](../icons16/github-icon.png)](https://github.com/kbroman/Paper_Rqtlcharts)
 [![doi](../icons16/doi-icon.png)](https://doi.org/10.1534/genetics.114.172742)
 

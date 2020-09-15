@@ -16,7 +16,7 @@ Broman KW, Kim S, Sen &#346;, An&eacute; C, Payseur BA (2012) Mapping
 quantitative trait loci onto a phylogenetic tree.  Genetics
 192:267-279
 [![PubMed](../icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/22745229)
-[![pdf (1.9M)](../icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/phyloqtl.pdf)
+[![pdf (1.9M)](../icons16/pdf-icon.png)](https://www.genetics.org/content/genetics/192/1/267.full.pdf)
 [![source on github](../icons16/github-icon.png)](https://github.com/kbroman/phyloQTLpaper)
 [![doi](../icons16/doi-icon.png)](https://doi.org/10.1534/genetics.112.142448)
 
