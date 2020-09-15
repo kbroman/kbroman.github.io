@@ -16,7 +16,7 @@ Broman KW, Gatti DM, Simecek P, Furlotte NA, Prins P, Sen &#346;,
 Yandell BS, Churchill GA (2019)
 R/qtl2: software for mapping quantitative trait loci with
 high-dimensional data and multi-parent populations.
-[Genetics](http://genetics.org) 211:495-502
+[Genetics](https://genetics.org) 211:495-502
 [![PubMed](../icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/30591514)
 [![pdf](../icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/rqtl2_paper.pdf)
 [![GitHub](../icons16/github-icon.png)](https://github.com/kbroman/Paper_Rqtl2)
