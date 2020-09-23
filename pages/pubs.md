@@ -61,6 +61,9 @@ Rabaglia ME, Keller MP, Gatti DM, Keele GR, Pham D, **Broman KW**,
 Churchill GA, Attie AD, Coon JJ (2020) A large-scale genome-lipid
 association map guides lipid identification. [Nat
 Metab](https://www.nature.com/natmetab), to appear
+[![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/32958938)
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/linke2020.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1038/s42255-020-00278-3)
 <!-- * 162 * -->
 
 #### 2020
