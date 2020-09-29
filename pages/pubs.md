@@ -833,7 +833,7 @@ allowing epistasis. [Genetics](https://www.genetics.org) 181:1077-1086
 
 Shao H, Burrage LC, Sinasac DS, Hill AE, Ernest SR, O'Brien W, Courtland HW, Jepsen KJ, Kirby A, Kulbokas EJ, Daly MJ, **Broman KW**, Lander ES, Nadeau JH (2008)
 Genetic architecture of complex traits: Large phenotypic effects and pervasive epistasis.
-[Proc Natl Acad Sci USA](http://www.pnas.org) 105:19910-19914
+[Proc Natl Acad Sci USA](https://www.pnas.org) 105:19910-19914
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/19066216)
 [![pdf (401k)](icons16/pdf-icon.png)](https://www.pnas.org/content/pnas/105/50/19910.full.pdf)
 [![supplementary material](icons16/supp-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/nadeau_css_suppl.pdf)
@@ -860,7 +860,7 @@ Lupi I, **Broman KW**, Tzuo S-C, Gutenberg A, Martino E, Caturegli P (2008)  Nov
 Paigen K, Szatkiewicz JP, Sawyer K, Leahy N, Parvanov ED, Ng SH, Graber JH, **Broman KW**, Petkov PM (2008)  The recombinational anatomy of a mouse chromosome.  [PLoS Genet](https://journals.plos.org/plosgenetics) 4(7):e1000119
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/18617997)
 [![pdf (491k)](icons16/pdf-icon.png)](https://journals.plos.org/plosgenetics/article/file?id=10.1371/journal.pgen.1000119&type=printable)
-[![supplementary material](icons16/supp-icon.png)](http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2440539#supplementary-material-sec)
+[![supplementary material](icons16/supp-icon.png)](https://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2440539#supplementary-material-sec)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1371/journal.pgen.1000119)
 <!-- * 79 * -->
 <!-- https://doi.org/10.1371/journal.pgen.1000119 -->
@@ -898,7 +898,7 @@ Hackler L, Malpic-Ilanos T, Samtani S, Grebe R, Goldberg MF,
 Hejtmancik JF, Nath A, Zack DJ, Fariss RN, McLeod DS, Sundin O, **Broman KW**, Lutty GA, Zigler JS
 Jr (2008) &#946;A3/A1-crystallin in astroglial cells regulates retinal
 vascular remodeling during development. [Mol
-Cell Neurosci](http://www.sciencedirect.com/science/journal/10447431) 37:85-95
+Cell Neurosci](https://www.sciencedirect.com/science/journal/10447431) 37:85-95
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/17931883)
 [![pdf (2.3M)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/sinha_nuc1.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1016/j.mcn.2007.08.016)
@@ -912,7 +912,7 @@ Tomita-Mitchell A, Boardman K, Briggs C, Garg V, Srivastava D,
 Goldmuntz E, **Broman KW**, Benson DW,
 Smoot LB, Pu, WT (2007)  Spectrum of heart disease associated with murine
 and human _GATA4_ mutation.  [J Mol
-Cell Cardiol](http://www.sciencedirect.com/science/journal/00222828) 43:677-685
+Cell Cardiol](https://www.sciencedirect.com/science/journal/00222828) 43:677-685
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/17643447)
 [![pdf (1.2M)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/william_pu.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1016/j.yjmcc.2007.06.004)
@@ -930,7 +930,7 @@ quantitative trait locus mapping under selective genotyping.
 
 Petkov PM, **Broman KW**,
 Szatkiewicz JP, Paigen K (2007)  Crossover interference underlies sex
-differences in recombination rates.  [Trends Genet](http://www.sciencedirect.com/science/journal/01689525) 23:539-542
+differences in recombination rates.  [Trends Genet](https://www.sciencedirect.com/science/journal/01689525) 23:539-542
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/17964681)
 [![pdf (266k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/petkov.pdf)
 [![supplementary material](icons16/supp-icon.png)](petkov_supp.pdf)
@@ -991,7 +991,7 @@ Manichaikul A, Southard-Smith EM, Churchill GA (2006)  The X chromosome
 in quantitative trait locus mapping.  [Genetics](https://www.genetics.org) 174:2151-2158
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/17028340)
 [![pdf (169k)](icons16/pdf-icon.png)](https://www.genetics.org/content/genetics/174/4/2151.full.pdf)
-[![Data](icons16/data-icon.png)](http://phenome.jax.org/db/q?rtn=projects/projdet&reqprojid=183)
+[![Data](icons16/data-icon.png)](https://phenome.jax.org/projects/Broman1)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.106.061176)
 <!-- * 66 * -->
 <!-- https://doi.org/10.1534/genetics.106.061176 -->
