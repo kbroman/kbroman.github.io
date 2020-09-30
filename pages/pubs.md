@@ -1587,7 +1587,7 @@ subjects. [Stat Sci](https://www.imstat.org/journals-and-publications/statistica
 
 **Broman K**, Speed T, Tigges M (1996) Estimation of
 antigen-responsive T cell frequencies in PBMC from human
-subjects. [J Immunol Meth](http://www.sciencedirect.com/science/journal/00221759) 198:119-132
+subjects. [J Immunol Meth](https://www.sciencedirect.com/science/journal/00221759) 198:119-132
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/8946008)
 [![pdf (740k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/jim.pdf)
 [![data](icons16/data-icon.png)](https://www.biostat.wisc.edu/~kbroman/data/jim/index.html)
@@ -1598,7 +1598,7 @@ subjects. [J Immunol Meth](http://www.sciencedirect.com/science/journal/00221759
 
 Dernburg AF, **Broman KW**, Fung JC, Marshall WF, Philips J,
 Agard DA, Sedat JW (1996) Perturbation of nuclear architecture by
-long-distance chromosome interactions. [Cell](http://www.cell.com) 85:745-759
+long-distance chromosome interactions. [Cell](https://www.cell.com) 85:745-759
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/8646782)
 [![pdf (11M)](icons16/pdf-icon.png)](https://www.cell.com/action/showPdf?pii=S0092-8674%2800%2981240-4)
 [![doi](icons16/doi-icon.png)](https://doi.org/fnjj8p)
@@ -1609,13 +1609,13 @@ long-distance chromosome interactions. [Cell](http://www.cell.com) 85:745-759
 
 **Broman KW** (2005)  Mapping expression in
 randomized rodent genomes.  [Nat
-Genet](http://www.nature.com/ng) 37:209-210
+Genet](https://www.nature.com/ng) 37:209-210
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15731750)
 [![pdf (349k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/expression_mapping.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1038/ng0305-209)
 <!-- https://doi.org/10.1038/ng0305-209 -->
 
-**Broman KW**, Feingold E (2004) SNPs made routine. [Nat Methods](http://www.nature.com/nmeth) 1:104-105
+**Broman KW**, Feingold E (2004) SNPs made routine. [Nat Methods](https://www.nature.com/nmeth) 1:104-105
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15782170)
 [![pdf (70k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/natmeth.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1038/nmeth1104-104)
@@ -1668,9 +1668,9 @@ relationships in the presence of genotyping errors. [Am J Hum Genet](https://www
 ### <a name="chapters"></a>proceedings and book chapters
 
 **Broman KW** (2012) Applied statistics and exposition (commentary).  In: Dudoit S (ed) _Selected Works of Terry Speed_, Springer, pp 353-355
-[![Springer](icons16/springer-icon.png)](http://link.springer.com/book/10.1007/978-1-4614-1347-9)
+[![Springer](icons16/springer-icon.png)](https://link.springer.com/book/10.1007/978-1-4614-1347-9)
 [![Amazon](icons16/amazon-icon.png)](https://www.amazon.com/gp/product/146141346X?ie=UTF8&tag=7210-20)
-\[**Note**: The [PDFs at Springer](http://link.springer.com/book/10.1007/978-1-4614-1347-9)
+\[**Note**: The [PDFs at Springer](https://link.springer.com/book/10.1007/978-1-4614-1347-9)
 are free.\]
 
 Gonz&aacute;lez-Recio O, L&oacute;pez de
@@ -1678,7 +1678,7 @@ Maturana E, Vega AT, Engelman CD, **Broman KW** (2009) Detecting
 single-nucleotide polymorphism by single-nucleotide polymorphism
 interactions in rheumatoid arthritis by a two-step approach with
 machine learning and a Bayesian threshold least absolute shrinkage and
-selection operator (LASSO) model.  [BMC Proc](http://www.biomedcentral.com/bmcproc/) [3(Suppl 7)](http://www.biomedcentral.com/1753-6561/3?issue=S7):S63
+selection operator (LASSO) model.  [BMC Proc](https://bmcproc.biomedcentral.com) [3(Suppl 7)](https://bmcproc.biomedcentral.com/articles/supplements/volume-3-supplement-7):S63
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/20018057)
 [![pdf (278k)](icons16/pdf-icon.png)](https://bmcproc.biomedcentral.com/track/pdf/10.1186/1753-6561-3-S7-S63)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1186/1753-6561-3-S7-S63)
@@ -1697,7 +1697,7 @@ Gray IC (eds) _Bioinformatics for Geneticists_, 2nd edition,
 Martin CL, Roseberry JA, Zuffardi O, Ledbetter DH, Weber JL (2003)
 Common long human inversion polymorphism on chromosome 8p.  In:
 Goldstein DR (ed) [Science and Statistics: A Festschrift for Terry
-Speed](http://www.imstat.org/publications/lecnotes.htm).  IMS Lecture Notes-Monograph Series, Vol 40, pp 237-245
+Speed](https://projecteuclid.org/euclid.lnms/1215091126).  [IMS Lecture Notes-Monograph Series](https://projecteuclid.org/euclid.lnms/1215091126), Vol 40, pp 237-245
 [![Abstract](icons16/pubmed-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/inver_abstract.html)
 [![pdf (139k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/inversion.pdf)
 <!-- * 4 * -->
@@ -1714,7 +1714,7 @@ Academic Press, New York, pp 77-96
 **Broman KW** (1999) Cleaning genotype data.  In: Goldin L, Amos CI,
 Chase GA, Goldstein AM, Jarvik GP, Martinez MM, Suarez BK, Weeks DE,
 Wijsman EM, MacCluer JE. Genetics Workshop 11: Analysis of genetic and
-environmental factors in common diseases.  [Genet Epidemiol](http://www.interscience.wiley.com/jpages/0741-0395/)
+environmental factors in common diseases.  [Genet Epidemiol](https://onlinelibrary.wiley.com/journal/10982272)
 17(Supp 1):S79-S83
 [![Pubmed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/10597416)
 [![pdf (95k)](icons16/pdf-icon.png)](https://onlinelibrary.wiley.com/doi/epdf/10.1002/gepi.1370170714)
@@ -1745,7 +1745,7 @@ Johns Hopkins University, Baltimore, MD
 
 <a name="ms0220"></a>Blades NJ, **Broman KW** (2002)
 Estimating the number of essential genes in a genome by random
-transposon mutagenesis.  Technical Report MS02-20, [Department of Biostatistics](http://www.biostat.jhsph.edu),
+transposon mutagenesis.  Technical Report MS02-20, [Department of Biostatistics](https://www.biostat.jhsph.edu),
 Johns Hopkins University, Baltimore, MD
 [![Abstract](icons16/pubmed-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/ms0220_abstract.html)
 [![pdf (360k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/ms0220.pdf)
