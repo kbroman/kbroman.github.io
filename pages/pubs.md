@@ -802,7 +802,7 @@ Manichaikul A, **Broman KW** (2009)  Binary trait mapping in experimental crosse
 <!-- * 86 * -->
 <!-- https://doi.org/10.1534/genetics.108.098913 -->
 
-Venkatesan M, **Broman KW**, Sellers M, Rasgon JL (2009) An initial linkage map of the West Nile Virus vector _Culex tarsalis_. [Insect Mol Biol](http://www3.interscience.wiley.com/journal/118497253/home) 18:453-463
+Venkatesan M, **Broman KW**, Sellers M, Rasgon JL (2009) An initial linkage map of the West Nile Virus vector _Culex tarsalis_. [Insect Mol Biol](https://onlinelibrary.wiley.com/journal/13652583) 18:453-463
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/19453767)
 [![pdf (265k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/ctar_map.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1111/j.1365-2583.2009.00885.x)
@@ -850,7 +850,7 @@ The _C. savignyi_ genetic map and its integration with the reference sequence fa
 <!-- * 81 * -->
 <!-- https://doi.org/10.1101/gr.078576.108 -->
 
-Lupi I, **Broman KW**, Tzuo S-C, Gutenberg A, Martino E, Caturegli P (2008)  Novel autoantigens in autoimmune hypophysitis.  [Clin Endocrinol](http://www.blackwell-synergy.com/loi/CEN) 69:269-278
+Lupi I, **Broman KW**, Tzuo S-C, Gutenberg A, Martino E, Caturegli P (2008)  Novel autoantigens in autoimmune hypophysitis.  [Clin Endocrinol](https://onlinelibrary.wiley.com/journal/13652265) 69:269-278
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/18194487)
 [![pdf (495k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/hypophysitis.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1111/j.1365-2265.2008.03180.x)
@@ -959,7 +959,7 @@ line cross experimental design.  [Mamm
 Genome](https://www.springer.com/journal/335) 18:87-93
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/17347894)
 [![pdf (138k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/saunak_design.pdf)
-[![R/qtlDesign software](icons16/R-icon.png)](http://www.epibiostat.ucsf.edu/biostat/sen/qtldesign-software)
+[![R/qtlDesign software](icons16/R-icon.png)](https://cran.r-project.org/package=qtlDesign)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1007/s00335-006-0090-y)
 <!-- * 69 * -->
 <!-- https://doi.org/10.1007/s00335-006-0090-y -->
@@ -967,7 +967,7 @@ Genome](https://www.springer.com/journal/335) 18:87-93
 Lemmerhirt HL, **Broman
 KW**, Shavit JA, Ginsburg D (2007)  Genetic regulation of plasma von
 Willebrand factor levels: Quantitative trait loci analysis in a mouse model.  [J Thromb
-Haemost](http://www.journalth.com/) 5:329-335
+Haemost](https://www.isth.org/page/JTH) 5:329-335
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/17155961)
 [![pdf (1.1M)](icons16/pdf-icon.png)](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1538-7836.2007.02325.x)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1111/j.1538-7836.2007.02325.x)
@@ -1000,7 +1000,7 @@ Shrestha S, Smith MW, **Broman KW**,
 Farzadegan H,  Vlahov D, Strathdee SA (2006)
 Multi-person-use of syringes among injection drug users in a needle
 exchange program: A gene based molecular epidemiological analysis.
-[J Acquir Immune Defic Syndr](http://www.jaids.com)
+[J Acquir Immune Defic Syndr](https://journals.lww.com/jaids/pages/default.aspx)
 43:335-343
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/16980914)
 [![pdf (174k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/sadeep2.pdf)
@@ -1012,9 +1012,9 @@ Kess D, Lindqvist AK, Peters T, Wang H, Zamek J,
 Nischt R, **Broman KW**, Blakytny R, Krieg
 T, Holmdahl R, Scharffetter-Kochanek K (2006) Identification of
 susceptibility loci for skin disease in a murine psoriasis model.
-[J Immunol](http://www.jimmunol.org) 177:4612-4619
+[J Immunol](https://www.jimmunol.org) 177:4612-4619
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/16982899)
-[![pdf (211k)](icons16/pdf-icon.png)](http://www.jimmunol.org/content/jimmunol/177/7/4612.full.pdf)
+[![pdf (211k)](icons16/pdf-icon.png)](https://www.jimmunol.org/content/jimmunol/177/7/4612.full.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.4049/jimmunol.177.7.4612)
 <!-- * 64 * -->
 <!-- https://doi.org/10.4049/jimmunol.177.7.4612 -->
@@ -1062,7 +1062,7 @@ interval.  [Genetics](https://www.genetics.org) 173:2111-2119
 Grant GR, Robinson SW, Edwards RE, Clothier B, Davies R, Judah DJ,
 **Broman KW**, Smith AG (2006)
 Multiple polymorphic genes determine 'normal' hepatic and splenic iron
-status in mice.  [Hepatology](http://www3.interscience.wiley.com/cgi-bin/jhome/106570044) 44:174-185
+status in mice.  [Hepatology](https://aasldpubs.onlinelibrary.wiley.com/journal/15273350) 44:174-185
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/16799992)
 [![pdf (902k)](icons16/pdf-icon.png)](https://aasldpubs.onlinelibrary.wiley.com/doi/epdf/10.1002/hep.21233)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1002/hep.21233)
@@ -1081,7 +1081,7 @@ ovariole number between two Drosophila species.  [Genetics](https://www.genetics
 Shrestha S, Strathdee SA, **Broman KW**,
 Smith MW (2006) Unknown biological
 mixtures evaluation using STR analytical quantification.
-[Electrophoresis](http://www.wiley-vch.de/publish/en/journals/alphabeticIndex/2027/)
+[Electrophoresis](https://www.wiley-vch.de/en/shop/journals/126)
 27:409-415
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/16437418)
 [![pdf (125k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/sadeep.pdf)
@@ -1093,9 +1093,9 @@ Reilly KM, **Broman KW**, Bronson RT,
 Tsang S, Loisel DA, Christy ES, Sun Z, Diehl J, Munroe DJ, Tuskan RG
 (2006) An imprinted locus epistatically influences _Nstr1_ and
 _Nstr2_ to control resistance to nerve sheath tumors in a
-neurofibromatosis type 1 mouse model.  [Cancer Res](http://cancerres.aacrjournals.org/) 66:62-68
+neurofibromatosis type 1 mouse model.  [Cancer Res](https://cancerres.aacrjournals.org/) 66:62-68
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/16397217)
-[![pdf (1.9M)](icons16/pdf-icon.png)](http://cancerres.aacrjournals.org/sites/all/libraries/pdfjs/web/viewer.html?file=/content/canres/66/1/62.full.pdf)
+[![pdf (1.9M)](icons16/pdf-icon.png)](https://cancerres.aacrjournals.org/sites/all/libraries/pdfjs/web/viewer.html?file=/content/canres/66/1/62.full.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1158/0008-5472.CAN-05-1480)
 <!-- * 56 * -->
 <!-- https://doi.org/10.1158/0008-5472.CAN-05-1480 -->
@@ -1117,7 +1117,7 @@ Sundin OH, Leppert GS, Silva ED, Yang J-M, Dharmaraj S, Maumenee
 IH, Santos LC, Parsa CF, Traboulsi EI, **Broman KW**, DiBernardo C, Sunness JS, Toy J,
 Weinberg EM (2005)  Extreme hyperopia is the result of null mutations in _MFRP_,
 which encodes a Frizzled-related protein.
-[Proc Natl Acad Sci USA](http://www.pnas.org/) 102:9553-9558
+[Proc Natl Acad Sci USA](https://www.pnas.org) 102:9553-9558
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15976030)
 [![pdf (859k)](icons16/pdf-icon.png)](https://www.pnas.org/content/pnas/102/27/9553.full.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1073/pnas.0501451102)
