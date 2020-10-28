@@ -53,20 +53,18 @@ Diversity Outbred mice.
 [![R/mbmixture software](icons16/R-icon.png)](https://github.com/kbroman/mbmixture)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1101/529040)
 
-#### to appear
+#### 2020
 
 Linke V, Overmyer KA, Miller IJ, Brademan DR, Hutchins PD, Trujillo
 EA, Reddy TR, Russell JD, Cushing EM, Schueler DL, Stapleton DS,
 Rabaglia ME, Keller MP, Gatti DM, Keele GR, Pham D, **Broman KW**,
 Churchill GA, Attie AD, Coon JJ (2020) A large-scale genome-lipid
 association map guides lipid identification. [Nat
-Metab](https://www.nature.com/natmetab), to appear
+Metab](https://www.nature.com/natmetab) 2:1149-1162
 [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/32958938)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/linke2020.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1038/s42255-020-00278-3)
 <!-- * 162 * -->
-
-#### 2020
 
 Schwerbel K, Kamitz A, Krahmer N, Hallahan N, Jähnert M, Gottmann P,
 Lebek S, Schallschmidt T, Arends D, Schumacher F, Kleuser B, Haltenhof
