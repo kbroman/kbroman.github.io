@@ -125,8 +125,8 @@ An [R](https://www.r-project.org) package for calculation of two- and three-locu
 multiple-strain recombinant inbred lines, and the simulation of such lines.
 See the related paper: Broman KW (2005) The genomes of
 recombinant inbred lines.  [Genetics](http://www.genetics.org/) 169:1133-1146
-\[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/15545647) | [pdf (525k)](https://www.biostat.wisc.edu/kbroman/~publications/rigenome.pdf)\]
-
+[![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15545647)
+[![pdf (525k)](icons16/pdf-icon.png)](https://www.genetics.org/content/genetics/169/2/1133.full.pdf)
 
 ---
 
