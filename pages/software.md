@@ -238,6 +238,9 @@ pairwise interactions.
 **Note**: This is very preliminary, the input and output
 are not well documented, and I'm no longer actively developing this software.  Look at [R/qtl](https://rqtl.org), instead.
 
-Download: [source](https://www.biostat.wisc.edu/software/f2/f2_0.50.tar.gz) | [windows](https://www.biostat.wisc.edu/software/f2/f2_0.50.zip)
+Download: [source](https://www.biostat.wisc.edu/software/f2/f2_0.50.tar.gz) |
+[windows](https://www.biostat.wisc.edu/software/f2/f2_0.50.zip)
 
-Sample data \[[tar.gz](https://www.biostat.wisc.edu/software/f2/example.tar.gz) | [zip](https://www.biostat.wisc.edu/software/f2/example.zip)\]
+Sample data
+\[[tar.gz](https://www.biostat.wisc.edu/software/f2/example.tar.gz) |
+[zip](https://www.biostat.wisc.edu/software/f2/example.zip)\]
