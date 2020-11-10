@@ -65,6 +65,7 @@ Metab](https://www.nature.com/natmetab) 2:1149-1162
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/linke2020.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1038/s42255-020-00278-3)
 <!-- * 162 * -->
+<!-- https://doi.org/10.1038/s42255-020-00278-3 -->
 
 Schwerbel K, Kamitz A, Krahmer N, Hallahan N, Jähnert M, Gottmann P,
 Lebek S, Schallschmidt T, Arends D, Schumacher F, Kleuser B, Haltenhof
