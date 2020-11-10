@@ -53,6 +53,13 @@ Diversity Outbred mice.
 [![R/mbmixture software](icons16/R-icon.png)](https://github.com/kbroman/mbmixture)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1101/529040)
 
+#### to appear
+
+Hassold T, Maylor-Hagen H, Wood A, Gruhn J, Hoffmann E, **Broman KW**,
+Hunt P (2020) Failure to recombine is a common feature of human
+oogenesis. [Am J Hum Genet](https://www.cell.com/ajhg/home), to appear
+<!-- * 163 * -->
+
 #### 2020
 
 Linke V, Overmyer KA, Miller IJ, Brademan DR, Hutchins PD, Trujillo
