@@ -713,7 +713,7 @@ Billings T, Sargent EE, Szatkiewicz JP, Leahy N, Kwak, I-Y, Bektassova N, Walker
 <!-- * 99 * -->
 <!-- https://doi.org/10.1371/journal.pone.0015340 -->
 
-Arends D, Prins P, Jansen RC, **Broman KW** (2010)  R/qtl: High-throughput multiple QTL mapping.  [Bioinformatics]((https://academic.oup.com/bioinformatics) 26:2990-2992
+Arends D, Prins P, Jansen RC, **Broman KW** (2010)  R/qtl: High-throughput multiple QTL mapping.  [Bioinformatics](https://academic.oup.com/bioinformatics) 26:2990-2992
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/20966004)
 [![pdf (181k)](icons16/pdf-icon.png)](https://academic.oup.com/bioinformatics/article-pdf/26/23/2990/589814/btq565.pdf)
 [![R/qtl](icons16/R-icon.png)](https://rqtl.org)
@@ -1342,7 +1342,7 @@ application to _Mycobacterium tuberculosis_.  [Proc Natl Acad Sci USA](https://w
 
 **Broman KW**, Wu H, Sen &#346;, Churchill
 GA (2003)  R/qtl: QTL mapping in experimental crosses.
-[Bioinformatics]((https://academic.oup.com/bioinformatics) 19:889-890
+[Bioinformatics](https://academic.oup.com/bioinformatics) 19:889-890
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/12724300)
 [![pdf (236k)](icons16/pdf-icon.png)](https://academic.oup.com/bioinformatics/article-pdf/19/7/889/499910/btg112.pdf)
 [![R/qtl](icons16/R-icon.png)](https://rqtl.org)
