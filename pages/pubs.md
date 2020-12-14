@@ -58,6 +58,7 @@ Diversity Outbred mice.
 Hassold T, Maylor-Hagen H, Wood A, Gruhn J, Hoffmann E, **Broman KW**,
 Hunt P (2021) Failure to recombine is a common feature of human
 oogenesis. [Am J Hum Genet](https://www.cell.com/ajhg/home), to appear
+[![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/33306948/)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/hassold2021.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1016/j.ajhg.2020.11.010)
 
