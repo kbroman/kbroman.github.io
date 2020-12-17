@@ -208,6 +208,13 @@ Madison, WI (25-26 August 2014)
 - [R/qtl](https://rqtl.org) laboratory:
   [pdf](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Texas/rqtltour2.pdf)
   | [code](https://www.biostat.wisc.edu/~kbroman/teaching/misc/Texas/rqtltour2.R)
+- Videos:
+  - [part 1](https://www.youtube.com/watch?v=Wj_qKKGNMU8)
+  - [part 2](https://www.youtube.com/watch?v=fQln3rjdxhU)
+  - [part 3](https://www.youtube.com/watch?v=cwg_NzMecPQ)
+  - [part 4](https://www.youtube.com/watch?v=F4WJyQwhdUw)
+  - [part 5](https://www.youtube.com/watch?v=8UAGZ6Z89Iw)
+  - [part 6](https://www.youtube.com/watch?v=SE0PQym0o7A)
 
 
 ---
@@ -500,6 +507,7 @@ to Animal Testing](http://caat.jhsph.edu), Johns Hopkins University<br/>
 -  Handout:
   \[[color pdf (5.1M)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/humanesci_color.pdf) |
   [B/W pdf (4.1M)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/humanesci_bw.pdf)\]
+-  [Video](https://www.youtube.com/watch?v=-5MX7BxR2OQ)
 
 ---
 
