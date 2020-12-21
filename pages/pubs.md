@@ -31,17 +31,6 @@ description: Karl Broman's publications
 
 ### <a name="articles"></a>journal articles
 
-#### submitted
-
-Tran Q, **Broman KW** (2020)
-Treatment of the X chromosome in mapping multiple quantitative trait
-loci.
-[bioRxiv](https://www.biorxiv.org)
-doi:[10.1101/2020.09.11.294017](https://doi.org/10.1101/2020.09.11.294017)
-[![pdf](icons16/pdf-icon.png)](https://www.biorxiv.org/content/10.1101/2020.09.11.294017v2.full.pdf)
-[![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_qtlX)
-[![doi](icons16/doi-icon.png)](https://doi.org/10.1101/2020.09.11.294017)
-
 #### not yet submitted
 
 Lobo AK, Traeger LL, Keller MP, Attie AD, Rey FE, **Broman KW** (2019)
@@ -55,14 +44,24 @@ Diversity Outbred mice.
 
 #### to appear
 
+Tran Q, **Broman KW** (2021)
+Treatment of the X chromosome in mapping multiple quantitative trait
+loci.
+[G3](https://www.g3journal.org), to appear
+([bioRxiv](https://www.biorxiv.org) doi:[10.1101/2020.09.11.294017](https://doi.org/10.1101/2020.09.11.294017))
+[![pdf](icons16/pdf-icon.png)](https://www.biorxiv.org/content/10.1101/2020.09.11.294017v2.full.pdf)
+[![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_qtlX)
+<!-- [![doi](icons16/doi-icon.png)](https://doi.org/10.1101/2020.09.11.294017) -->
+<!-- * 164 * -->
+
 Hassold T, Maylor-Hagen H, Wood A, Gruhn J, Hoffmann E, **Broman KW**,
 Hunt P (2021) Failure to recombine is a common feature of human
 oogenesis. [Am J Hum Genet](https://www.cell.com/ajhg/home), to appear
 [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/33306948/)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/hassold2021.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1016/j.ajhg.2020.11.010)
-
 <!-- * 163 * -->
+<!-- https://doi.org/10.1016/j.ajhg.2020.11.010 -->
 
 #### 2020
 
