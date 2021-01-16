@@ -51,12 +51,14 @@ loci.
 ([bioRxiv](https://www.biorxiv.org) doi:[10.1101/2020.09.11.294017](https://doi.org/10.1101/2020.09.11.294017))
 [![pdf](icons16/pdf-icon.png)](https://www.biorxiv.org/content/10.1101/2020.09.11.294017v2.full.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_qtlX)
-<!-- [![doi](icons16/doi-icon.png)](https://doi.org/10.1101/2020.09.11.294017) -->
 <!-- * 164 * -->
+<!-- [![doi](icons16/doi-icon.png)](https://doi.org/10.1101/2020.09.11.294017) -->
+
+#### 2021
 
 Hassold T, Maylor-Hagen H, Wood A, Gruhn J, Hoffmann E, **Broman KW**,
 Hunt P (2021) Failure to recombine is a common feature of human
-oogenesis. [Am J Hum Genet](https://www.cell.com/ajhg/home), to appear
+oogenesis. [Am J Hum Genet](https://www.cell.com/ajhg/home) 108:16-24
 [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/33306948/)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/hassold2021.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1016/j.ajhg.2020.11.010)
