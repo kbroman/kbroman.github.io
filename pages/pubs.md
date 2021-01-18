@@ -47,7 +47,7 @@ Diversity Outbred mice.
 Tran Q, **Broman KW** (2021)
 Treatment of the X chromosome in mapping multiple quantitative trait
 loci.
-[G3](https://www.g3journal.org), to appear
+[G3 (Bethesda)](https://www.g3journal.org), to appear
 ([bioRxiv](https://www.biorxiv.org) doi:[10.1101/2020.09.11.294017](https://doi.org/10.1101/2020.09.11.294017))
 [![pdf](icons16/pdf-icon.png)](https://www.biorxiv.org/content/10.1101/2020.09.11.294017v2.full.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_qtlX)
@@ -138,7 +138,7 @@ non-diabetic mice. [J Clin Invest](https://www.jci.org) 130:4419-4432
 
 Boehm FJ, Chesler EJ, Yandell BS, **Broman KW** (2019)
 Testing pleiotropy vs. separate QTL in multiparental populations.
-[G3](https://www.g3journal.org) 9:2317-2324
+[G3 (Bethesda)](https://www.g3journal.org) 9:2317-2324
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/31092608)
 [![pdf](icons16/pdf-icon.png)](https://www.g3journal.org/content/ggg/9/7/2317.full.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/fboehm/qtl2pleio-manuscript)
@@ -158,7 +158,7 @@ Software](https://joss.theoj.org) 4(38):1435
 
 **Broman KW**, Gatti DM, Svenson KL, Sen &#346;, Churchill GA (2019)
 Cleaning genotype data from Diversity Outbred mice.
-[G3](https://www.g3journal.org) 9:1571-1579
+[G3 (Bethesda)](https://www.g3journal.org) 9:1571-1579
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/30877082)
 [![pdf](icons16/pdf-icon.png)](https://www.g3journal.org/content/ggg/9/5/1571.full.pdf)
 [![supporting info](icons16/supp-icon.png)](https://doi.org/10.25387/g3.7848395)
@@ -330,7 +330,7 @@ Correlations between synaptic initiation and meiotic recombination: A study of h
 Kwak I-L, Moore CR, Spalding EP, **Broman KW** (2016) Mapping quantitative
 trait loci underlying function-valued traits using functional
 principal component analysis and multi-trait mapping.
-[G3](https://www.g3journal.org) 6:79-86
+[G3 (Bethesda)](https://www.g3journal.org) 6:79-86
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/26530421)
 [![pdf](icons16/pdf-icon.png)](https://www.g3journal.org/content/ggg/6/1/79.full.pdf)
 [![data](icons16/data-icon.png)](https://phenome.jax.org/projects/Moore1b)
@@ -357,7 +357,7 @@ pancreatic islets. [Genetics](https://www.genetics.org) 201:1253-1262
 **Broman KW**, Keller MP, Broman
 AT, Kendziorski C, Yandell BS, Sen &#346;, Attie AD (2015)
 Identification and correction of sample mix-ups in expression
-genetic data: A case study. [G3](https://www.g3journal.org)
+genetic data: A case study. [G3 (Bethesda)](https://www.g3journal.org)
 5:2177-2186
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/26290572)
 [![pdf](icons16/pdf-icon.png)](https://www.g3journal.org/content/ggg/5/10/2177.full.pdf)
@@ -418,7 +418,7 @@ induces heterosubtypic immunity in macaques.
 Gatti DM, Svenson KL, Shabalin A, Wu L-Y, Valdar W, Simecek P, Goodwin
 N, Cheng R, Pomp D, Palmer A, Chesler EJ, **Broman KW**, Churchill GA
 (2014) Quantitative trait locus mapping methods for Diversity Outbred
-mice. [G3](https://www.g3journal.org) 4:1623-1633
+mice. [G3 (Bethesda)](https://www.g3journal.org) 4:1623-1633
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/25237114)
 [![pdf (2.5M)](icons16/pdf-icon.png)](https://www.g3journal.org/content/ggg/4/9/1623.full.pdf)
 [![Data](icons16/data-icon.png)](https://phenome.jax.org/projects/Gatti2)
@@ -507,7 +507,7 @@ High-throughput computer vision introduces the time axis to a quantitative trait
 
 Bautz DJ, **Broman KW**, Threadgill DW (2013)
 Identification of a novel polymorphism in X-linked sterol-4-alpha-carboxylate 3-dehydrogenase (_Nsdhl_) associated with reduced HDL cholesterol levels in I/LnJ mice.
-[G3](https://www.g3journal.org) 3: 1819-1825
+[G3 (Bethesda)](https://www.g3journal.org) 3: 1819-1825
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/23979938)
 [![pdf (1.2M)](icons16/pdf-icon.png)](https://www.g3journal.org/content/ggg/3/10/1819.full.pdf)
 [![Data](icons16/data-icon.png)](https://phenome.jax.org/projects/Bautz1)
@@ -553,7 +553,7 @@ Rice CA, Riehl J, **Broman K**, Soukup JW, Gengler WR (2012) Comparing the degre
 <!-- * 119 * -->
 <!-- https://doi.org/10.1177/089875641202900202 -->
 
-Galvan A, Colombo F, Noci S, Pazzaglia S, Mancuso M, Manenti G, **Broman KW**, Saran A, Dragani TA (2012) The _Lsktm1_ locus modulates lung and skin tumorigenesis in the mouse.  [G3](https://www.g3journal.org) 2:1041-1046
+Galvan A, Colombo F, Noci S, Pazzaglia S, Mancuso M, Manenti G, **Broman KW**, Saran A, Dragani TA (2012) The _Lsktm1_ locus modulates lung and skin tumorigenesis in the mouse.  [G3 (Bethesda)](https://www.g3journal.org) 2:1041-1046
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/22973541)
 [![pdf (913k)](icons16/pdf-icon.png)](https://www.g3journal.org/content/ggg/2/9/1041.full.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/g3.112.003525)
@@ -615,7 +615,7 @@ Amlin-Van Schaick JC, Kim S, **Broman KW**, Reilly KM (2012)  _Scram1_ is a modi
 <!-- * 111 * -->
 <!-- https://doi.org/10.1534/genetics.111.132647 -->
 
-**Broman KW** (2012)  Haplotype probabilities in advanced intercross populations.  [G3](https://www.g3journal.org) 2:199-202
+**Broman KW** (2012)  Haplotype probabilities in advanced intercross populations.  [G3 (Bethesda)](https://www.g3journal.org) 2:199-202
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/22384398)
 [![pdf (649k)](icons16/pdf-icon.png)](https://www.g3journal.org/content/ggg/2/2/199.full.pdf)
 [![GitHub](icons16/github-icon.png)](https://www.github.com/kbroman/ailProbPaper)
@@ -677,7 +677,7 @@ Greene JM, Wiseman RW, Lank SM, Bimber BN, Karl JA, Burwitz BJ, Lhost JJ, Hawkin
 <!-- * 104 * -->
 <!-- https://doi.org/10.1186/1471-2172-12-39 -->
 
-Bradley KM, Breyer JP, Melville DB, **Broman KW**, Knapik EW, Smith JR (2011)  An SNP-based linkage map for zebrafish reveals sex determination loci.  [G3](https://www.g3journal.org) 1:3-9
+Bradley KM, Breyer JP, Melville DB, **Broman KW**, Knapik EW, Smith JR (2011)  An SNP-based linkage map for zebrafish reveals sex determination loci.  [G3 (Bethesda)](https://www.g3journal.org) 1:3-9
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/21949597)
 [![pdf (1.0M)](icons16/pdf-icon.png)](https://www.g3journal.org/content/ggg/1/1/3.full.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/g3.111.000190)
