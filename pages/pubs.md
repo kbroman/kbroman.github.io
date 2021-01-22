@@ -49,7 +49,7 @@ Treatment of the X chromosome in mapping multiple quantitative trait
 loci.
 [G3 (Bethesda)](https://www.g3journal.org), to appear
 ([bioRxiv](https://www.biorxiv.org) doi:[10.1101/2020.09.11.294017](https://doi.org/10.1101/2020.09.11.294017))
-[![pdf](icons16/pdf-icon.png)](https://www.biorxiv.org/content/10.1101/2020.09.11.294017v2.full.pdf)
+[![pdf](icons16/pdf-icon.png)](https://www.biorxiv.org/content/10.1101/2020.09.11.294017v3.full.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_qtlX)
 <!-- * 164 * -->
 <!-- [![doi](icons16/doi-icon.png)](https://doi.org/10.1101/2020.09.11.294017) -->
