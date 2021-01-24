@@ -4,6 +4,15 @@ title: talks
 description: Karl Broman's talks
 ---
 
+### 2021
+
+Twenty years of R/qtl: Maintaining, supporting, and sustaining scientific software
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rqtl2_pitt2021.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Pitt2021)<br/>
+[Department of Biomedical Informatics](https://www.dbmi.pitt.edu/), [University of Pittsburgh](https://www.pitt.edu)
+(_Jan 29_)
+
+
 ### 2020
 
 Steps toward reproducible research
