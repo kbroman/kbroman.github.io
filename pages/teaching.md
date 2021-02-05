@@ -18,24 +18,6 @@ description: Karl Broman's teaching
 
 ### <a name="current"></a>Current courses
 
-#### [Biomedical data science scholarly literature 1 (BMI 881, Fall 2020)](https://kbroman.org/BMI881)
-
-- [schedule](https://kbroman.org/BMI881/schedule.html)
-- [syllabus](https://kbroman.org/BMI881/syllabus.html)
-- [assignments](https://kbroman.org/BMI881/assignments.html)
-- [resources](https://kbroman.org/BMI881/resources.html)
-
-
-#### [Biomedical data science professional skills 1 (BMI 883, Fall 2020)](https://kbroman.org/BMI883)
-
-- [schedule](https://kbroman.org/BMI883/schedule.html)
-- [syllabus](https://kbroman.org/BMI883/syllabus.html)
-- [assignments](https://kbroman.org/BMI883/assignments.html)
-- [resources](https://kbroman.org/BMI883/resources.html)
-
-
----
-
 #### [Biomedical data science scholarly literature 2 (BMI 882, Spring 2021)](https://kbroman.org/BMI882)
 
 - [schedule](https://kbroman.org/BMI882/schedule.html)
@@ -50,6 +32,24 @@ description: Karl Broman's teaching
 - [syllabus](https://kbroman.org/BMI884/syllabus.html)
 - [assignments](https://kbroman.org/BMI884/assignments.html)
 - [resources](https://kbroman.org/BMI884/resources.html)
+
+
+---
+
+#### [Biomedical data science scholarly literature 1 (BMI 881, Fall 2020)](https://kbroman.org/BMI881)
+
+- [schedule](https://kbroman.org/BMI881/schedule.html)
+- [syllabus](https://kbroman.org/BMI881/syllabus.html)
+- [assignments](https://kbroman.org/BMI881/assignments.html)
+- [resources](https://kbroman.org/BMI881/resources.html)
+
+
+#### [Biomedical data science professional skills 1 (BMI 883, Fall 2020)](https://kbroman.org/BMI883)
+
+- [schedule](https://kbroman.org/BMI883/schedule.html)
+- [syllabus](https://kbroman.org/BMI883/syllabus.html)
+- [assignments](https://kbroman.org/BMI883/assignments.html)
+- [resources](https://kbroman.org/BMI883/resources.html)
 
 
 ---
