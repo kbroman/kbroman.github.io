@@ -6,6 +6,13 @@ description: Karl Broman's talks
 
 ### 2021
 
+Allele frequencies in sibships: a data mishap
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_DataMishap/data_mishap.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_DataMishap)<br/>
+[Data Mishaps Night](https://datamishapsnight.com/)
+(_Feb 5_)
+
+
 21 years of R/qtl: Maintaining, supporting, and sustaining scientific software
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rqtl2_pitt2021.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Pitt2021)<br/>
