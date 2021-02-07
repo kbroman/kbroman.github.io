@@ -11,7 +11,7 @@ UW&ndash;Madison, through which university researchers would give
 UW&ndash;Madison the right to freely distribute pre-prints of all
 published journal articles.
 
-[See the working group's instructions](../assets/OAWG_Charge_112014pdf.pdf)
+[See the working group's instructions](OAWG_Charge_112014pdf.pdf)
 from
 [Edward Van Gemert](http://www.library.wisc.edu/about/directory/staff/Edward-Van-Gemert/),
 Vice Provost for Libraries and University Librarian.
@@ -19,8 +19,8 @@ Vice Provost for Libraries and University Librarian.
 
 On 16 Nov 2015, the
 [University Library Committee](https://www.library.wisc.edu/about/university-library-committee/)
-adopted a [resolution](../assets/oa_resolution_v3.pdf) in favor of an
-Open Access Policy for UW-Madison. [![pdf](icons16/pdf-icon.png)](../assets/oa_resolution_v3.pdf)
+adopted a [resolution](oa_resolution_v3.pdf) in favor of an
+Open Access Policy for UW-Madison. [![pdf](icons16/pdf-icon.png)](oa_resolution_v3.pdf)
 
 ### Current UW policies
 
@@ -85,7 +85,7 @@ ex/g27-copyrightable-instructions-materials-ownership-use-and-control/),
 
   - [List of journals that have requested waivers from the UC policy](http://osc.universityofcalifornia.edu/open-access-policy/publisher-communications/)
 
-- [Annotated/deconstructed version of those policies](https://kbroman.org/pages/annotated_oa.html)
+- [Annotated/deconstructed version of those policies](https://kbroman.org/oa/annotated_oa.html)
 
 - [University of Illinois Urbana-Champaign policy](http://www.senate.illinois.edu/sc1512.pdf)
 

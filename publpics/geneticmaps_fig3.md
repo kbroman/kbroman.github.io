@@ -18,7 +18,7 @@ and sex-specific variation in recombination. Am J Hum Genet 63:861-869
 [![pdf (534k)](../icons16/pdf-icon.png)](https://www.cell.com/action/showPdf?pii=S0002-9297%2807%2961389-5)
 [![doi](../icons16/doi-icon.png)](https://doi.org/10.1086/302011)
 
-![Broman et al. (1998) Fig 3](../../assets/bigpublpics/geneticmaps_fig3_lg.png)
+![Broman et al. (1998) Fig 3](../bigpublpics/geneticmaps_fig3_lg.png)
 
 **Figure 3**. &mdash; Total no. of observed recombination events in the 22
 autosomes in each male and female meiosis, plotted by family (A and

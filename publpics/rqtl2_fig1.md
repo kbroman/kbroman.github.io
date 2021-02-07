@@ -23,7 +23,7 @@ high-dimensional data and multi-parent populations.
 [![R/qtl2 software](../icons16/R-icon.png)](https://kbroman.org/qtl2)
 [![doi](../icons16/doi-icon.png)](https://doi.org/10.1534/genetics.118.301595)
 
-![Broman et al. (2019) Fig 1](../../assets/bigpublpics/rqtl2_fig1_lg.png)
+![Broman et al. (2019) Fig 1](../bigpublpics/rqtl2_fig1_lg.png)
 
 **Figure 1**. &mdash; Reconstruction of Fig. 5 from [Gatti et al.
 (2014)](https://doi.org/10.1534/g3.114.013748), on the mapping of

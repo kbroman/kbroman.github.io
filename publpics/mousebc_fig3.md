@@ -17,7 +17,7 @@ interference in the mouse.  Genetics 160:1123-1131
 [![PubMed](../icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/11901128)
 [![pdf (165k)](../icons16/pdf-icon.png)](https://www.genetics.org/content/genetics/160/3/1123.full.pdf)
 
-![Broman et al. (2002) Fig 3](../../assets/bigpublpics/mousebc_fig3_lg.png)
+![Broman et al. (2002) Fig 3](../bigpublpics/mousebc_fig3_lg.png)
 
 **Figure 3**. &mdash; Crossover locations for all chromosomes.  Each square
 represents a chromosome, with the centromere at the top and left and

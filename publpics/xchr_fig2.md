@@ -19,7 +19,7 @@ mapping.  Genetics 174:2151-2158
 [![pdf (169k)](../icons16/pdf-icon.png)](https://www.genetics.org/content/genetics/174/4/2151.full.pdf)
 [![doi](../icons16/doi-icon.png)](https://doi.org/10.1534/genetics.106.061176)
 
-![Broman et al. (2006) Fig 2](../../assets/bigpublpics/xchr_fig2_lg.png)
+![Broman et al. (2006) Fig 2](../bigpublpics/xchr_fig2_lg.png)
 
 **Figure 2**. &mdash; The behavior of the X chromosome in an intercross.
 Circles and squares correspond to females and males, respectively.

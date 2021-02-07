@@ -20,7 +20,7 @@ quantitative trait loci onto a phylogenetic tree.  Genetics
 [![source on github](../icons16/github-icon.png)](https://github.com/kbroman/phyloQTLpaper)
 [![doi](../icons16/doi-icon.png)](https://doi.org/10.1534/genetics.112.142448)
 
-![Broman et al. (2012) Fig 2](../../assets/bigpublpics/phyloqtl_fig2_lg.png)
+![Broman et al. (2012) Fig 2](../bigpublpics/phyloqtl_fig2_lg.png)
 
 **Figure 2**. &mdash; A phylogenetic tree with six taxa (A) and three possible
 choices of five crosses among the six taxa, with nodes denoting taxa

@@ -20,7 +20,7 @@ quantitative trait loci onto a phylogenetic tree.  Genetics
 [![source on github](../icons16/github-icon.png)](https://github.com/kbroman/phyloQTLpaper)
 [![doi](../icons16/doi-icon.png)](https://doi.org/10.1534/genetics.112.142448)
 
-![Broman et al. (2012) Fig 6](../../assets/bigpublpics/phyloqtl_fig6_lg.png)
+![Broman et al. (2012) Fig 6](../bigpublpics/phyloqtl_fig6_lg.png)
 
 **Figure 6**. &mdash; Analysis results for selected chromosomes for the data
 from [Li et al. (2005)](https://www.ncbi.nlm.nih.gov/pubmed/15654110): LOD curves for individual crosses (left), LOD

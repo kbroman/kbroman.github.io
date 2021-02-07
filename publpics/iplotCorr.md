@@ -20,7 +20,7 @@ see Broman (2015) Genetics 199:359-361
 [![GitHub](../icons16/github-icon.png)](https://github.com/kbroman/Paper_Rqtlcharts)
 [![doi](../icons16/doi-icon.png)](https://doi.org/10.1534/genetics.114.172742)
 
-[![R/qtlcharts example](../../assets/bigpublpics/iplotCorr.png)](https://kbroman.org/qtlcharts/example/iplotCorr.html)
+[![R/qtlcharts example](../bigpublpics/iplotCorr.png)](https://kbroman.org/qtlcharts/example/iplotCorr.html)
 
 Static view of an [interactive graph](https://kbroman.org/qtlcharts/example/iplotCorr.html)
 from [R/qtlcharts](https://kbroman.org/qtlcharts). The left panel is a heatmap of a correlation

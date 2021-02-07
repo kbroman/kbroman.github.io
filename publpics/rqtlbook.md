@@ -18,5 +18,5 @@ title: Broman and Sen (2009)
 [![Springer](../icons16/springer-icon.png)](http://www.springer.com/978-0-387-92124-2)
 [![R/qtl](../icons16/R-icon.png)](https://rqtl.org)
 
-![Broman and Sen (2009) cover](../../assets/publpics/rqtlbook_cover.jpg)
+![Broman and Sen (2009) cover](rqtlbook_cover.jpg)
 {:.center}

@@ -21,7 +21,7 @@ Cleaning genotype data from Diversity Outbred mice.
 [![GitHub](../icons16/github-icon.png)](https://github.com/kbroman/Paper_MPPdiag)
 [![doi](../icons16/doi-icon.png)](https://doi.org/10.1534/g3.119.400165)
 
-![Broman et al. (2019) Fig 4](../../assets/bigpublpics/mppdiag_fig4_lg.png)
+![Broman et al. (2019) Fig 4](../bigpublpics/mppdiag_fig4_lg.png)
 
 **Figure 4**. &mdash; SNP genotype frequencies by mouse, for SNPs
 split by their minor allele frequency (MAF) in the eight founder

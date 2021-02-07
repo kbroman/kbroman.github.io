@@ -18,7 +18,7 @@ recombinant inbred lines. Genetics 169:1133-1146
 [![pdf (525k)](../icons16/pdf-icon.png)](https://www.genetics.org/content/genetics/169/2/1133.full.pdf)
 [![doi](../icons16/doi-icon.png)](https://doi.org/10.1534/genetics.104.035212)
 
-![Broman (2005) Fig 6](../../assets/bigpublpics/rigenome_fig6_lg.png)
+![Broman (2005) Fig 6](../bigpublpics/rigenome_fig6_lg.png)
 
 **Figure 6**. &mdash; Results of 10,000 simulations of two-way RILs by selfing
 (black), two-way RILs by sibling mating (blue), and eight-way RILs by

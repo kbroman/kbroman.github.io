@@ -18,7 +18,7 @@ interference. Am J Hum Genet 66:1911-1926
 [![pdf (291k)](../icons16/pdf-icon.png)](https://www.cell.com/action/showPdf?pii=S0002-9297%2807%2963543-5)
 [![doi](../icons16/doi-icon.png)](https://doi.org/10.1086/302923)
 
-![Broman and Weber (2000) Fig 1](../../assets/bigpublpics/interfer_fig1_lg.png)
+![Broman and Weber (2000) Fig 1](../bigpublpics/interfer_fig1_lg.png)
 
 **Figure 1**. &mdash; Grandparental phase in the maternal chromosomes 2, for
 the 11 progeny from family 1331. Hatched segments denote

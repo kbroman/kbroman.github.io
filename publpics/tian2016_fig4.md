@@ -22,7 +22,7 @@ hotspots. [Genetics](https://genetics.org) 202:1563-1574
 [![qtlpvl software](../icons16/R-icon.png)](https://github.com/jianan/qtlpvl)
 [![doi](../icons16/doi-icon.png)](https://doi.org/10.1534/genetics.115.183624)
 
-![Tian et al. (2016) Fig 4](../../assets/bigpublpics/tian2016_fig4_lg.png)
+![Tian et al. (2016) Fig 4](../bigpublpics/tian2016_fig4_lg.png)
 
 **Figure 4**. &mdash; Scatterplots of the first two linear
 discriminants for the trans-eQTL hotspot on chromosome 10, here
