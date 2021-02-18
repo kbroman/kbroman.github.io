@@ -8,6 +8,7 @@ description: Karl Broman's talks
 
 Allele frequencies in sibships: a data mishap
 [![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_DataMishap/data_mishap.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/Talk_DataMishap/data_mishap_notes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_DataMishap)<br/>
 [Data Mishaps Night](https://datamishapsnight.com/)
 (_Feb 5_)
