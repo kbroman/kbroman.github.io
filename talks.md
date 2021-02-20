@@ -6,6 +6,13 @@ description: Karl Broman's talks
 
 ### 2021
 
+Steps toward reproducible research
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr_withnotes.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)
+[![video](icons16/video-icon.png)](https://youtu.be/rNQ-RlG3JnQ)<br/>
+_recorded just so there'd be a recording_ (_Feb 19_)
+
 Allele frequencies in sibships: a data mishap
 [![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_DataMishap/data_mishap.pdf)
 [![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/Talk_DataMishap/data_mishap_notes.pdf)
