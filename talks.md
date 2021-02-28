@@ -6,6 +6,12 @@ description: Karl Broman's talks
 
 ### 2021
 
+Creating effective figures and tables
+[![pdf](icons16/pdf-icon.png)](https://bit.ly/graphs2018)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Graphs)
+[![video](icons16/video-icon.png)](https://youtu.be/Ssso_5X1UPs)<br/>
+_recorded just so there'd be a recording_ (_Feb 26_)
+
 Steps toward reproducible research
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr.pdf)
 [![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr_withnotes.pdf)
