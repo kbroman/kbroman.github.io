@@ -6,6 +6,13 @@ description: Karl Broman's talks
 
 ### 2021
 
+Open access publishing
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/openaccess2014.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/openaccess2014_withnotes.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_OpenAccess)
+[![video](icons16/video-icon.png)](https://youtu.be/gVu0IdG3keM)<br/>
+_recorded just so there'd be a recording_ (_Mar 5_)
+
 Creating effective figures and tables
 [![pdf](icons16/pdf-icon.png)](https://bit.ly/graphs2018)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Graphs)
