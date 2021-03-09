@@ -108,7 +108,7 @@ Niemann-Pick Disease Type C1.
 [![pdf](icons16/pdf-icon.png)](https://dmm.biologists.org/content/13/3/dmm042614.full-text.pdf?with-ds=yes)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1242/dmm.042614)
 <!-- * 159 * -->
-<!-- https://doi.org/10.1242/dmm.042614) -->
+<!-- https://doi.org/10.1242/dmm.042614 -->
 
 #### 2019
 
