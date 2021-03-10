@@ -1389,7 +1389,7 @@ congenital cataract, and stromal thinning (EDICT) syndrome maps to
 chromosome 15q22.1-q25.3.  [Am J Ophthalmol](https://www.ajo.com) 134:172-176
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/12140022)
 [![pdf (189k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/edict.pdf)
-[![doi](icons16/doi-icon.png)](https://doi.org/bck2p3)
+[![doi](icons16/doi-icon.png)](https://doi.org/10/bck2p3)
 <!-- * 29 * -->
 <!-- https://doi.org/10/bck2p3 -->
 
@@ -1559,7 +1559,7 @@ maps. [Genet Epidemiol](https://onlinelibrary.wiley.com/journal/10982272)
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/10207715)
 [![pdf (51k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/framework.pdf)
 <!-- [![Build your own map](icons16/html-icon.png)](http://research.marshfieldclinic.org/genetics/MarkerSearch/buildMap.asp) -->
-[![doi](icons16/doi-icon.png)](https://doi.org/fb5x3q)
+[![doi](icons16/doi-icon.png)](https://doi.org/10/fb5x3q)
 <!-- * 13 * -->
 <!-- https://doi.org/10/fb5x3q -->
 
@@ -1602,7 +1602,7 @@ subjects. [J Immunol Meth](https://www.sciencedirect.com/science/journal/0022175
 [![pdf (740k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/jim.pdf)
 [![data](icons16/data-icon.png)](https://www.biostat.wisc.edu/~kbroman/data/jim/index.html)
 [![R/npem](icons16/R-icon.png)](https://github.com/kbroman/npem)
-[![doi](icons16/doi-icon.png)](https://doi.org/b54v33)
+[![doi](icons16/doi-icon.png)](https://doi.org/10/b54v33)
 <!-- * 9 * -->
 <!-- https://doi.org/10/b54v33 -->
 
@@ -1611,7 +1611,7 @@ Agard DA, Sedat JW (1996) Perturbation of nuclear architecture by
 long-distance chromosome interactions. [Cell](https://www.cell.com) 85:745-759
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/8646782)
 [![pdf (11M)](icons16/pdf-icon.png)](https://www.cell.com/action/showPdf?pii=S0092-8674%2800%2981240-4)
-[![doi](icons16/doi-icon.png)](https://doi.org/fnjj8p)
+[![doi](icons16/doi-icon.png)](https://doi.org/10/fnjj8p)
 <!-- * 8 * -->
 <!-- https://doi.org/10/fnjj8p -->
 
