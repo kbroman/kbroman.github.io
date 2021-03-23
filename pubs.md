@@ -1730,7 +1730,7 @@ Notes-Monograph Series, Vol 33, pp 114-142
 [![Amazon](icons16/amazon-icon.png)](https://www.amazon.com/gp/product/0940600471?ie=UTF8&tag=7210-20)
 <!-- * 1 * -->
 
-### <a name="techreports"></a>technical reports
+### <a name="techreports"></a>technical reports and preprints
 
 Lobo AK, Traeger LL, Keller MP, Attie AD, Rey FE, **Broman KW** (2019)
 Identification of sample mix-ups and mixtures in microbiome data in
