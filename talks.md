@@ -6,6 +6,13 @@ description: Karl Broman's talks
 
 ### 2021
 
+Cleaning genotype data in diversity outbred mice
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_JAX2018/jax2018.pdf)
+[![html](icons16/html-icon.png)](https://kbroman.org/Talk_JAX2018)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_JAX2018)
+[![video](icons16/video-icon.png)](https://youtu.be/_Pda3bLvOHo)<br/>
+_recorded just so there'd be a recording_ (_Mar 26_)
+
 Open access publishing
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/openaccess2014.pdf)
 [![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/openaccess2014_withnotes.pdf)
