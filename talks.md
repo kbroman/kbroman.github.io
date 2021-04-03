@@ -6,6 +6,12 @@ description: Karl Broman's talks
 
 ### 2021
 
+Data cleaning principles
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_DataCleaning/data_cleaning.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/Talk_DataCleaning/data_cleaning_notes.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_DataCleaning) <br/>
+[csv,conf,v6](https://csvconf.com) (_May 4_)
+
 Cleaning genotype data in diversity outbred mice
 [![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_JAX2018/jax2018.pdf)
 [![html](icons16/html-icon.png)](https://kbroman.org/Talk_JAX2018)
