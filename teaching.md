@@ -488,21 +488,27 @@ QTL mapping in MAGIC populations with
 - [Part 2 ![pdf icon](https://kbroman.org/icons16/pdf-icon.png)](https://kbroman.org/Talk_MAGIC2021/magic2021B.pdf)
 
 
+---
+
 #### BMI 773 (Clinical research informatics)
 
 - Steps toward reproducible research
   [![pdf icon](https://kbroman.org/icons16/pdf-icon.png)](https://kbroman.org/BMI773/steps2rr.pdf)
   [![notes icon](https://kbroman.org/icons16/notes-icon.png)](https://kbroman.org/BMI773/steps2rr_notes.pdf)
+  [![video](icons16/video-icon.png)](https://youtu.be/rNQ-RlG3JnQ)
+
 - Exploratory data analysis
   [![pdf icon](https://kbroman.org/icons16/pdf-icon.png)](https://kbroman.org/BMI773/eda.pdf)
   [![notes icon](https://kbroman.org/icons16/notes-icon.png)](https://kbroman.org/BMI773/eda_notes.pdf)
 
 
+---
+
 #### My experiences in statistical consulting
 
 Statistical Consulting course, [Department of Statistics](https://www.stat.wisc.edu), [UW&ndash;Madison](https://www.wisc.edu) <br/>
 
-- [Slides (pdf)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/consulting.pdf) [[source on github](https://github.com/kbroman/Talk_StatConsulting.git)]
+- [Slides ![pdf icon](https://kbroman.org/icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/teaching/misc/consulting.pdf) [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Talk_StatConsulting.git)
 - [Related blog post](https://kbroman.org/blog/2013/04/02/thoughts-on-statistical-consulting/)
 
 
