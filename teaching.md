@@ -478,6 +478,16 @@ Summer, 2002
 
 ### <a name="misc"></a>Miscellaneous lectures
 
+#### Hort 615 (Genetic mapping)
+
+QTL mapping in MAGIC populations with
+[R/qtl2](https://kbroman.org/qtl2)
+[![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Talk_MAGIC2021)
+
+- [Part 1 ![pdf icon](https://kbroman.org/icons16/pdf-icon.png)](https://kbroman.org/Talk_MAGIC2021/magic2021A.pdf)
+- [Part 2 ![pdf icon](https://kbroman.org/icons16/pdf-icon.png)](https://kbroman.org/Talk_MAGIC2021/magic2021B.pdf)
+
+
 #### BMI 773 (Clinical research informatics)
 
 - Steps toward reproducible research
@@ -486,6 +496,7 @@ Summer, 2002
 - Exploratory data analysis
   [![pdf icon](https://kbroman.org/icons16/pdf-icon.png)](https://kbroman.org/BMI773/eda.pdf)
   [![notes icon](https://kbroman.org/icons16/notes-icon.png)](https://kbroman.org/BMI773/eda_notes.pdf)
+
 
 #### My experiences in statistical consulting
 
