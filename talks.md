@@ -9,7 +9,8 @@ description: Karl Broman's talks
 Data cleaning principles
 [![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_DataCleaning/data_cleaning.pdf)
 [![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/Talk_DataCleaning/data_cleaning_notes.pdf)
-[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_DataCleaning) <br/>
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_DataCleaning)
+[![video](icons16/video-icon.png)](https://crowdcast.io/e/csvconf6-0-session-0)<br/>
 [csv,conf,v6](https://csvconf.com) (_May 4_)
 
 Cleaning genotype data in diversity outbred mice
