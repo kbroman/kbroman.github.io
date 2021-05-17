@@ -8,7 +8,8 @@ Karl Broman is Professor in the
 [Department of Biostatistics &amp; Medical Informatics](https://www.biostat.wisc.edu)
 at the University of Wisconsin&ndash;Madison;
 research in statistical genetics; developer of
-[R/qtl](https://rqtl.org) (for [R](https://www.r-project.org)).
+[R/qtl](https://rqtl.org) (for [R](https://www.r-project.org)),
+and a Senior Editor for [_Genetics_](https://www.genetics.org).
 
 Karl received a BS in [mathematics](https://uwm.edu/math)
 in 1991, from the
@@ -22,10 +23,6 @@ He was a postdoctoral fellow with James Weber at the
 was a faculty member in the [Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/) at Johns
 Hopkins University, 1999&ndash;2007. In 2007, he moved to the
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu).
-
-Karl is a Senior Editor for [_Genetics_](https://www.genetics.org) and
-a member of the [_BMC Biology_](https://bmcbiol.biomedcentral.com)
-[Editorial Board](https://bmcbiol.biomedcentral.com/about/editorial-board).
 
 Karl is an applied statistician focusing on problems in genetics and
 genomics &ndash; particularly the analysis of meiotic recombination and the
