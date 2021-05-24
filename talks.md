@@ -6,6 +6,21 @@ description: Karl Broman's talks
 
 ### 2021
 
+
+<!--
+QTL mapping in MAGIC populations with R/qtl2
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_MAGIC2021/magic2021.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_MAGIC2021)<br/>
+_recorded just so there'd be a recording_ (_May 28_)
+-->
+
+Data management
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/datamgmt2019.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_DataMgmt)<br/>
+[KL2 Scholar Program](https://ictr.wisc.edu/program/kl2-scholar-program/),
+[School of Medicine and Public Health](https://www.med.wisc.edu),
+[University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_May 13_)
+
 Data cleaning principles
 [![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_DataCleaning/data_cleaning.pdf)
 [![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/Talk_DataCleaning/data_cleaning_notes.pdf)
