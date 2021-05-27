@@ -31,6 +31,13 @@ description: Karl Broman's publications
 
 ### <a name="articles"></a>journal articles
 
+#### to appear
+
+Trotter C, Kim H, Farage G, Prins P, Williams RW, **Broman KW**, Sen
+&#346; (2021) Speeding up eQTL scans in the BXD population using GPUs.
+[G3 (Bethesda)](https://www.g3journal.org), to appear
+([bioRxiv](https://www.biorxiv.org) [doi:10.1101/2020.06.22.153742](https://doi.org/10.1101/2020.06.22.153742))
+
 #### 2021
 
 Tran Q, **Broman KW** (2021)
