@@ -4,7 +4,7 @@ See [kbroman.org](https://kbroman.org).
 
 ---
 
-My parts of this web site are licensed under
-[CC BY](https://creativecommons.org/licenses/by/3.0/).
+This web site is licensed under
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-[![CC BY](https://i.creativecommons.org/l/by/3.0/88x31.png)](https://creativecommons.org/licenses/by/3.0/)
+[![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
