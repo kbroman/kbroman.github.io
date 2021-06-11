@@ -11,8 +11,16 @@ description: Karl Broman's talks
 QTL mapping in MAGIC populations with R/qtl2
 [![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_MAGIC2021/magic2021.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_MAGIC2021)<br/>
-_recorded just so there'd be a recording_ (_May 28_)
+_recorded just so there'd be a recording_ (_?_)
 -->
+
+Identifying sample mix-ups in eQTL data
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_OSGA2021/osga2021.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/Talk_OSGA2021/osga2021_notes.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_OSGA2021)<br/>
+[NIDA Center of Excellence in Omics, Systems GEnetics, and the Addictome (OSGA) Webinar
+Series](https://opar.io/training/osga-webinar-series-2020.html)
+(_June 11_)
 
 Data management
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/datamgmt2019.pdf)
