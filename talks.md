@@ -29,7 +29,7 @@ Identifying sample mix-ups in eQTL data
 [![video](icons16/video-icon.png)](https://youtu.be/h5gF7YnffeI)<br/>
 [NIDA Center of Excellence in Omics, Systems GEnetics, and the Addictome (OSGA) Webinar
 Series](https://opar.io/training/osga-webinar-series-2020.html)
-(_June 11_)
+(_Jun 11_)
 
 Data management
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/datamgmt2019.pdf)
