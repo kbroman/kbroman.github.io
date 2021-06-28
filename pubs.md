@@ -31,6 +31,17 @@ description: Karl Broman's publications
 
 ### <a name="articles"></a>journal articles
 
+#### submitted
+
+Lobo AK, Traeger LL, Keller MP, Attie AD, Rey FE, **Broman KW** (2019)
+Identification of sample mix-ups and mixtures in microbiome data in
+Diversity Outbred mice. Submitted to [G3 (Bethesda)](https://www.g3journal.org)
+([bioRxiv](https://www.biorxiv.org/) doi:[10.1101/529040](https://doi.org/10.1101/529040))
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/mb_mixups.pdf)
+[![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_MBmixups)
+[![R/mbmixture software](icons16/R-icon.png)](https://github.com/kbroman/mbmixture)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1101/529040)
+
 #### to appear
 
 Trotter C, Kim H, Farage G, Prins P, Williams RW, **Broman KW**, Sen
@@ -1738,15 +1749,6 @@ Notes-Monograph Series, Vol 33, pp 114-142
 <!-- * 1 * -->
 
 ### <a name="techreports"></a>technical reports and preprints
-
-Lobo AK, Traeger LL, Keller MP, Attie AD, Rey FE, **Broman KW** (2019)
-Identification of sample mix-ups and mixtures in microbiome data in
-Diversity Outbred mice.
-[bioRxiv](https://www.biorxiv.org/) doi:[10.1101/529040](https://doi.org/10.1101/529040)
-[![pdf](icons16/pdf-icon.png)](https://www.biorxiv.org/content/biorxiv/early/2019/01/23/529040.full.pdf)
-[![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_MBmixups)
-[![R/mbmixture software](icons16/R-icon.png)](https://github.com/kbroman/mbmixture)
-[![doi](icons16/doi-icon.png)](https://doi.org/10.1101/529040)
 
 **Broman KW** (2010) Genetic map construction with R/qtl.  Technical report #214, Department of Biostatistics & Medical Informatics, University of Wisconsin-Madison
 [![Abstract](icons16/pubmed-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/tech214_abstract.html)
