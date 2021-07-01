@@ -8,8 +8,8 @@ Karl Broman is Professor in the
 [Department of Biostatistics &amp; Medical Informatics](https://www.biostat.wisc.edu)
 at the University of Wisconsin&ndash;Madison;
 research in statistical genetics; developer of
-[R/qtl](https://rqtl.org) (for [R](https://www.r-project.org)),
-and a Senior Editor for [_Genetics_](https://www.genetics.org).
+[R/qtl](https://rqtl.org) and [R/qtl2](https://kbroman.org/qtl2) (for
+[R](https://www.r-project.org)).
 
 Karl received a BS in [mathematics](https://uwm.edu/math)
 in 1991, from the
