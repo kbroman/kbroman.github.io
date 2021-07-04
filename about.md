@@ -31,8 +31,7 @@ latter is often called &ldquo;QTL mapping.&rdquo; A QTL is a
 _quantitative trait locus_ &ndash; a genetic locus that influences a
 quantitative trait. He is enthusiastic about the value
 of interactive data visualizations for exploring high-dimensional genetic data;
-see his [R/qtlcharts package](https://kbroman.org/qtlcharts/) and
-his [D3 examples](https://www.biostat.wisc.edu/~kbroman/D3).
+see his [R/qtlcharts package](https://kbroman.org/qtlcharts/).
 
 [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/broman_cv.pdf)<br/>
 [orcid](https://orcid.org): [0000-0002-4914-6671](https://orcid.org/0000-0002-4914-6671)<br/>
