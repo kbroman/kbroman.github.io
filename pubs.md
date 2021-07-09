@@ -1164,7 +1164,7 @@ disease.  [Hum Mol Genet](https://academic.oup.com/hmg) 14:1549-1558
 <!-- https://doi.org/10.1093/hmg/ddi163 -->
 
 **Broman KW** (2005) The genomes of
-recombinant inbred lines.  [Genetics](https://www.genetics.org/) 169:1133-1146
+recombinant inbred lines.  [Genetics](https://academic.oup.com/genetics) 169:1133-1146
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15545647)
 [![pdf (525k)](icons16/pdf-icon.png)](https://www.genetics.org/content/genetics/169/2/1133.full.pdf)
 [![R/ricalc](icons16/R-icon.png)](https://github.com/kbroman/ricalc)
@@ -1362,7 +1362,7 @@ GA (2003)  R/qtl: QTL mapping in experimental crosses.
 <!-- https://doi.org/10.1093/bioinformatics/btg112 -->
 
 **Broman KW** (2003)  Mapping quantitative trait loci
-in the case of a spike in the phenotype distribution.  [Genetics](https://www.genetics.org/) 163:1169-1175
+in the case of a spike in the phenotype distribution.  [Genetics](https://academic.oup.com/genetics) 163:1169-1175
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/12663553)
 [![pdf (250k)](icons16/pdf-icon.png)](https://www.genetics.org/content/genetics/163/3/1169.full.pdf)
 <!-- * 32 * -->
@@ -1401,7 +1401,7 @@ chromosome 15q22.1-q25.3.  [Am J Ophthalmol](https://www.ajo.com) 134:172-176
 <!-- https://doi.org/10/bck2p3 -->
 
 **Broman KW**, Rowe LB, Churchill GA,
-Paigen K (2002) Crossover interference in the mouse.  [Genetics](https://www.genetics.org/)
+Paigen K (2002) Crossover interference in the mouse.  [Genetics](https://academic.oup.com/genetics)
 160:1123-1131
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/11901128)
 [![pdf (165k)](icons16/pdf-icon.png)](https://www.genetics.org/content/genetics/160/3/1123.full.pdf)
@@ -1573,7 +1573,7 @@ maps. [Genet Epidemiol](https://onlinelibrary.wiley.com/journal/10982272)
 Neff MW, **Broman KW**, Mellersh CS, Ray K, Acland GM, Aguirre GD,
 Ziegle JS, Ostrander EA, Rine J (1999) A
 second-generation genetic linkage map of the domestic dog, _Canis
-familiaris_. [Genetics](https://www.genetics.org/) 151:803-820
+familiaris_. [Genetics](https://academic.oup.com/genetics) 151:803-820
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/9927471)
 [![pdf (262k)](icons16/pdf-icon.png)](https://www.genetics.org/content/genetics/151/2/803.full.pdf)
 [![Supplemental data](icons16/supp-icon.png)](https://www.biostat.wisc.edu/~kbroman/data/index.html#dogs)
