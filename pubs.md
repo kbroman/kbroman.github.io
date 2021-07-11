@@ -940,7 +940,7 @@ Manichaikul A, Palmer AA, Sen &#346;, **Broman KW** (2007)  Significance thresho
 quantitative trait locus mapping under selective genotyping.
 [Genetics](https://academic.oup.com/genetics) 177:1963-1966
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/17720902)
-[![pdf (93k)](icons16/pdf-icon.png)](https://www.genetics.org/content/genetics/177/3/1963.full.pdf)
+[![pdf (93k)](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/177/3/1963/37411731/genetics1963.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.107.080093)
 <!-- * 73 * -->
 <!-- https://doi.org/10.1534/genetics.107.080093 -->
@@ -966,7 +966,7 @@ Teuscher F, **Broman KW** (2007)
 Haplotype probabilities for multiple-strain recombinant inbred lines.
 [Genetics](https://academic.oup.com/genetics) 175:1267-1274
     [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/17151250)
-[![pdf (722k)](icons16/pdf-icon.png)](https://www.genetics.org/content/genetics/175/3/1267.full.pdf)
+[![pdf (722k)](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/175/3/1267/37340107/genetics1267.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.106.064063)
 <!-- * 70 * -->
 <!-- https://doi.org/10.1534/genetics.106.064063 -->
@@ -996,7 +996,7 @@ Wheeler PA, Thorgaard GH (2007)  Quantitative trait loci by maternal
 cytoplasmic environment interaction for development rate in _Oncorhynchus
 mykiss_.  [Genetics](https://academic.oup.com/genetics) 175:335-347
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/17057232)
-[![pdf (1035k)](icons16/pdf-icon.png)](https://www.genetics.org/content/genetics/175/1/335.full.pdf)
+[![pdf (1035k)](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/175/1/335/37309915/genetics0335.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.106.064311)
 <!-- * 67 * -->
 <!-- https://doi.org/10.1534/genetics.106.064311 -->
@@ -1007,7 +1007,7 @@ mykiss_.  [Genetics](https://academic.oup.com/genetics) 175:335-347
 Manichaikul A, Southard-Smith EM, Churchill GA (2006)  The X chromosome
 in quantitative trait locus mapping.  [Genetics](https://academic.oup.com/genetics) 174:2151-2158
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/17028340)
-[![pdf (169k)](icons16/pdf-icon.png)](https://www.genetics.org/content/genetics/174/4/2151.full.pdf)
+[![pdf (169k)](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/174/4/2151/37410383/genetics2151.pdf)
 [![Data](icons16/data-icon.png)](https://phenome.jax.org/projects/Broman1)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.106.061176)
 <!-- * 66 * -->
@@ -1040,7 +1040,7 @@ Manichaikul A, Dupuis J, Sen &#346;, **Broman KW** (2006)  Poor performance of b
 confidence intervals for the location of a quantitative trait
 locus.  [Genetics](https://academic.oup.com/genetics) 174:481-489
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/16783000)
-[![pdf (1033k)](icons16/pdf-icon.png)](https://www.genetics.org/content/genetics/174/1/481.full.pdf)
+[![pdf (1033k)](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/174/1/481/37548681/genetics0481.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.106.061549)
 <!-- * 63 * -->
 <!-- https://doi.org/10.1534/genetics.106.061549 -->
@@ -1061,7 +1061,7 @@ Feenstra B, Skovgaard IM, **Broman KW** (2006) Mapping quantitative trait loci
 by an extension of the Haley-Knott regression method using estimating
 equations.  [Genetics](https://academic.oup.com/genetics) 173:2269-2282
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/16702423)
-[![pdf (290k)](icons16/pdf-icon.png)](https://www.genetics.org/content/genetics/173/4/2269.full.pdf)
+[![pdf (290k)](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/173/4/2269/37338977/genetics2269.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.106.058537)
 <!-- * 61 * -->
 <!-- https://doi.org/10.1534/genetics.106.058537 -->
@@ -1071,7 +1071,7 @@ KW**, Bartolomei MS, Willard HF (2006)  Genetic control of X
 chromosome inactivation in mice: Definition of the _Xce_ candidate
 interval.  [Genetics](https://academic.oup.com/genetics) 173:2111-2119
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/16582439)
-[![pdf (193k)](icons16/pdf-icon.png)](https://www.genetics.org/content/genetics/173/4/2103.full.pdf)
+[![pdf (193k)](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/173/4/2103/37339409/genetics2103.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.105.054882)
 <!-- * 60 * -->
 <!-- https://doi.org/10.1534/genetics.105.054882 -->
@@ -1090,7 +1090,7 @@ Orgogozo V, **Broman KW**, Stern DL (2006)
 High-resolution QTL mapping reveals sign epistasis controlling
 ovariole number between two Drosophila species.  [Genetics](https://academic.oup.com/genetics) 173:197-205
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/16489225)
-[![pdf (425k)](icons16/pdf-icon.png)](https://www.genetics.org/content/genetics/173/1/197.full.pdf)
+[![pdf (425k)](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/173/1/197/37321199/genetics0197.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.105.054098)
 <!-- * 58 * -->
 <!-- https://doi.org/10.1534/genetics.105.054098 -->
@@ -1166,11 +1166,12 @@ disease.  [Hum Mol Genet](https://academic.oup.com/hmg) 14:1549-1558
 **Broman KW** (2005) The genomes of
 recombinant inbred lines.  [Genetics](https://academic.oup.com/genetics) 169:1133-1146
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15545647)
-[![pdf (525k)](icons16/pdf-icon.png)](https://www.genetics.org/content/genetics/169/2/1133.full.pdf)
+[![pdf (525k)](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/169/2/1133/37610496/genetics1133.pdf)
 [![R/ricalc](icons16/R-icon.png)](https://github.com/kbroman/ricalc)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.104.035212)
 \[**Erratum**: [Genetics](https://academic.oup.com/genetics) 173:2419, 2006
-[![pdf 30k](icons16/pdf-icon.png)](https://www.genetics.org/content/genetics/173/4/2419.full.pdf)\]
+[![pdf 30k](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/173/4/2419/37340795/genetics2419.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1093/genetics/173.4.2419)\]
 <!-- * 51 * -->
 <!-- https://doi.org/10.1534/genetics.104.035212 -->
 
