@@ -1366,7 +1366,9 @@ GA (2003)  R/qtl: QTL mapping in experimental crosses.
 in the case of a spike in the phenotype distribution.  [Genetics](https://academic.oup.com/genetics) 163:1169-1175
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/12663553)
 [![pdf (250k)](icons16/pdf-icon.png)](https://www.genetics.org/content/genetics/163/3/1169.full.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1093/genetics/163.3.1169)
 <!-- * 32 * -->
+<!-- https://doi.org/10.1093/genetics/163.3.1169 -->
 
 Becanovic K, Wallstrom E, Kornek B, Glaser A, **Broman KW**, Dahlman I, Olofsson P, Holmdahl R,
 Luthman H, Lassmann H, Olsson T (2003) New loci regulating rat myelin
@@ -1406,7 +1408,9 @@ Paigen K (2002) Crossover interference in the mouse.  [Genetics](https://academi
 160:1123-1131
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/11901128)
 [![pdf (165k)](icons16/pdf-icon.png)](https://www.genetics.org/content/genetics/160/3/1123.full.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1093/genetics/160.3.1123)
 <!-- * 28 * -->
+<!-- https://doi.org/10.1093/genetics/160.3.1123 -->
 
 #### 2001
 
@@ -1578,7 +1582,9 @@ familiaris_. [Genetics](https://academic.oup.com/genetics) 151:803-820
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/9927471)
 [![pdf (262k)](icons16/pdf-icon.png)](https://www.genetics.org/content/genetics/151/2/803.full.pdf)
 [![Supplemental data](icons16/supp-icon.png)](https://www.biostat.wisc.edu/~kbroman/data/index.html#dogs)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1093/genetics/151.2.803)
 <!-- * 12 * -->
+<!-- https://doi.org/10.1093/genetics/151.2.803 -->
 
 #### 1998
 
