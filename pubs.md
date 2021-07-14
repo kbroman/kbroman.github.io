@@ -1724,7 +1724,9 @@ Goldstein DR (ed) [Science and Statistics: A Festschrift for Terry
 Speed](https://projecteuclid.org/euclid.lnms/1215091126).  [IMS Lecture Notes-Monograph Series](https://projecteuclid.org/euclid.lnms/1215091126), Vol 40, pp 237-245
 [![Abstract](icons16/pubmed-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/inver_abstract.html)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/inversion.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10/c82jqz)
 <!-- * 4 * -->
+<!-- https://doi.org/10/c82jqz -->
 
 Weber JL, **Broman KW** (2001) Genotyping for human whole-genome
 scans: Past, present, and future.  In: Rao DC, Province MA (eds)
@@ -1733,7 +1735,9 @@ Academic Press, New York, pp 77-96
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/11037315)
 [![pdf (3.2M)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/weber_broman.pdf)
 [![Amazon](icons16/amazon-icon.png)](https://www.amazon.com/gp/product/0120176424?ie=UTF8&tag=7210-20)
+[![doi](icons16/doi-icon.png)](https://doi.org/10/c24nxx)
 <!-- * 3 * -->
+<!-- https://doi.org/10/c24nxx -->
 
 **Broman KW** (1999) Cleaning genotype data.  In: Goldin L, Amos CI,
 Chase GA, Goldstein AM, Jarvik GP, Martinez MM, Suarez BK, Weeks DE,
