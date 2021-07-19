@@ -1365,7 +1365,7 @@ GA (2003)  R/qtl: QTL mapping in experimental crosses.
 **Broman KW** (2003)  Mapping quantitative trait loci
 in the case of a spike in the phenotype distribution.  [Genetics](https://academic.oup.com/genetics) 163:1169-1175
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/12663553)
-[![pdf (250k)](icons16/pdf-icon.png)](https://www.genetics.org/content/genetics/163/3/1169.full.pdf)
+[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/163/3/1169/37258398/genetics1169.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1093/genetics/163.3.1169)
 <!-- * 32 * -->
 <!-- https://doi.org/10.1093/genetics/163.3.1169 -->
@@ -1407,7 +1407,7 @@ chromosome 15q22.1-q25.3.  [Am J Ophthalmol](https://www.ajo.com) 134:172-176
 Paigen K (2002) Crossover interference in the mouse.  [Genetics](https://academic.oup.com/genetics)
 160:1123-1131
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/11901128)
-[![pdf (165k)](icons16/pdf-icon.png)](https://www.genetics.org/content/genetics/160/3/1123.full.pdf)
+[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/160/3/1123/35169806/genetics1123.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1093/genetics/160.3.1123)
 <!-- * 28 * -->
 <!-- https://doi.org/10.1093/genetics/160.3.1123 -->
@@ -1581,7 +1581,7 @@ Ziegle JS, Ostrander EA, Rine J (1999) A
 second-generation genetic linkage map of the domestic dog, _Canis
 familiaris_. [Genetics](https://academic.oup.com/genetics) 151:803-820
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/9927471)
-[![pdf (262k)](icons16/pdf-icon.png)](https://www.genetics.org/content/genetics/151/2/803.full.pdf)
+[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/151/2/803/35112545/genetics0803.pdf)
 [![Supplemental data](icons16/supp-icon.png)](https://www.biostat.wisc.edu/~kbroman/data/index.html#dogs)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1093/genetics/151.2.803)
 <!-- * 12 * -->
