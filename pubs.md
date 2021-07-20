@@ -274,7 +274,7 @@ Payseur BA (2016) Genetics of skeletal evolution in unusually large mice
 from Gough Island. [Genetics](https://academic.oup.com/genetics) 204:1559-1572
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/27694627)
 [![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/204/4/1559/37833507/genetics1559.pdf)
-[![supporting info](icons16/supp-icon.png)](https://www.genetics.org/content/early/2016/09/29/genetics.116.193805.supplemental)
+[![supporting info](icons16/supp-icon.png)](https://www.genetics.org/content/suppl/2016/09/29/genetics.116.193805.DC1)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.116.193805)
 <!-- * 145 * -->
 <!-- https://doi.org/10.1534/genetics.116.193805 -->
