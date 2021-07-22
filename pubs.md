@@ -146,7 +146,7 @@ Boehm FJ, Chesler EJ, Yandell BS, **Broman KW** (2019)
 Testing pleiotropy vs. separate QTL in multiparental populations.
 [G3 (Bethesda)](https://academic.oup.com/g3journal) 9:2317-2324
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/31092608)
-[![pdf](icons16/pdf-icon.png)](https://www.g3journal.org/content/ggg/9/7/2317.full.pdf)
+[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/g3journal/article-pdf/9/7/2317/37177845/g3journal2317.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/fboehm/qtl2pleio-manuscript)
 [![qtl2pleio software](icons16/R-icon.png)](https://github.com/fboehm/qtl2pleio)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/g3.119.400098)
@@ -166,7 +166,7 @@ Software](https://joss.theoj.org) 4(38):1435
 Cleaning genotype data from Diversity Outbred mice.
 [G3 (Bethesda)](https://academic.oup.com/g3journal) 9:1571-1579
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/30877082)
-[![pdf](icons16/pdf-icon.png)](https://www.g3journal.org/content/ggg/9/5/1571.full.pdf)
+[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/g3journal/article-pdf/9/5/1571/37178363/g3journal1571.pdf)
 [![supporting info](icons16/supp-icon.png)](https://doi.org/10.25387/g3.7848395)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_MPPdiag)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/g3.119.400165)
@@ -338,7 +338,7 @@ trait loci underlying function-valued traits using functional
 principal component analysis and multi-trait mapping.
 [G3 (Bethesda)](https://academic.oup.com/g3journal) 6:79-86
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/26530421)
-[![pdf](icons16/pdf-icon.png)](https://www.g3journal.org/content/ggg/6/1/79.full.pdf)
+[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/g3journal/article-pdf/6/1/79/37168932/g3journal0079.pdf)
 [![data](icons16/data-icon.png)](https://phenome.jax.org/projects/Moore1b)
 [![funqtl software](icons16/R-icon.png)](https://github.com/ikwak2/funqtl)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/g3.115.024133)
@@ -366,7 +366,7 @@ Identification and correction of sample mix-ups in expression
 genetic data: A case study. [G3 (Bethesda)](https://academic.oup.com/g3journal)
 5:2177-2186
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/26290572)
-[![pdf](icons16/pdf-icon.png)](https://www.g3journal.org/content/ggg/5/10/2177.full.pdf)
+[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/g3journal/article-pdf/5/10/2177/37214362/g3journal2177.pdf)
 [![data](icons16/data-icon.png)](https://bit.ly/B6BTBR)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_SampleMixups)
 [![R/lineup software](icons16/R-icon.png)](https://github.com/kbroman/lineup)
@@ -426,7 +426,7 @@ N, Cheng R, Pomp D, Palmer A, Chesler EJ, **Broman KW**, Churchill GA
 (2014) Quantitative trait locus mapping methods for Diversity Outbred
 mice. [G3 (Bethesda)](https://academic.oup.com/g3journal) 4:1623-1633
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/25237114)
-[![pdf (2.5M)](icons16/pdf-icon.png)](https://www.g3journal.org/content/ggg/4/9/1623.full.pdf)
+[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/g3journal/article-pdf/4/9/1623/37181718/g3journal1623.pdf)
 [![Data](icons16/data-icon.png)](https://phenome.jax.org/projects/Gatti2)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/g3.114.013748)
 <!-- * 132 * -->
@@ -515,7 +515,7 @@ Bautz DJ, **Broman KW**, Threadgill DW (2013)
 Identification of a novel polymorphism in X-linked sterol-4-alpha-carboxylate 3-dehydrogenase (_Nsdhl_) associated with reduced HDL cholesterol levels in I/LnJ mice.
 [G3 (Bethesda)](https://academic.oup.com/g3journal) 3: 1819-1825
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/23979938)
-[![pdf (1.2M)](icons16/pdf-icon.png)](https://www.g3journal.org/content/ggg/3/10/1819.full.pdf)
+[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/g3journal/article-pdf/3/10/1819/37143054/g3journal1819.pdf)
 [![Data](icons16/data-icon.png)](https://phenome.jax.org/projects/Bautz1)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/g3.113.007567)
 <!-- * 123 * -->
@@ -561,7 +561,7 @@ Rice CA, Riehl J, **Broman K**, Soukup JW, Gengler WR (2012) Comparing the degre
 
 Galvan A, Colombo F, Noci S, Pazzaglia S, Mancuso M, Manenti G, **Broman KW**, Saran A, Dragani TA (2012) The _Lsktm1_ locus modulates lung and skin tumorigenesis in the mouse.  [G3 (Bethesda)](https://academic.oup.com/g3journal) 2:1041-1046
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/22973541)
-[![pdf (913k)](icons16/pdf-icon.png)](https://www.g3journal.org/content/ggg/2/9/1041.full.pdf)
+[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/g3journal/article-pdf/2/9/1041/38165158/g3journal1041.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/g3.112.003525)
 <!-- * 118 * -->
 <!-- https://doi.org/10.1534/g3.112.003525 -->
@@ -623,7 +623,7 @@ Amlin-Van Schaick JC, Kim S, **Broman KW**, Reilly KM (2012)  _Scram1_ is a modi
 
 **Broman KW** (2012)  Haplotype probabilities in advanced intercross populations.  [G3 (Bethesda)](https://academic.oup.com/g3journal) 2:199-202
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/22384398)
-[![pdf (649k)](icons16/pdf-icon.png)](https://www.g3journal.org/content/ggg/2/2/199.full.pdf)
+[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/g3journal/article-pdf/2/2/199/37140800/g3journal0199.pdf)
 [![GitHub](icons16/github-icon.png)](https://www.github.com/kbroman/ailProbPaper)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/g3.111.001818)
 <!-- * 110 * -->
@@ -685,7 +685,7 @@ Greene JM, Wiseman RW, Lank SM, Bimber BN, Karl JA, Burwitz BJ, Lhost JJ, Hawkin
 
 Bradley KM, Breyer JP, Melville DB, **Broman KW**, Knapik EW, Smith JR (2011)  An SNP-based linkage map for zebrafish reveals sex determination loci.  [G3 (Bethesda)](https://academic.oup.com/g3journal) 1:3-9
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/21949597)
-[![pdf (1.0M)](icons16/pdf-icon.png)](https://www.g3journal.org/content/ggg/1/1/3.full.pdf)
+[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/g3journal/article-pdf/1/1/3/35212811/g3journal0003.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/g3.111.000190)
 <!-- * 103 * -->
 <!-- https://doi.org/10.1534/g3.111.000190 -->
