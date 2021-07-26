@@ -14,10 +14,10 @@ title: Broman et al. (2015) Fig 7
 
 Broman KW, Keller MP, Broman AT, Kendziorski C, Yandell BS, Sen
 &#346;, Attie AD (2015) Identification and correction of sample
-mix-ups in expression genetic data: A case study. [G3](https://g3journal.org)
+mix-ups in expression genetic data: A case study. [G3 (Bethesda)](https://academic.oup.com/g3journal)
 5:2177-2186
 [![PubMed](../icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/26290572)
-[![pdf](../icons16/pdf-icon.png)](https://www.g3journal.org/content/ggg/5/10/2177.full.pdf)
+[![pdf](../icons16/pdf-icon.png)](https://academic.oup.com/g3journal/article-pdf/5/10/2177/37214362/g3journal2177.pdf)
 [![data](../icons16/data-icon.png)](https://bit.ly/B6BTBR)
 [![GitHub](../icons16/github-icon.png)](https://github.com/kbroman/Paper_SampleMixups)
 [![R/lineup software](../icons16/R-icon.png)](https://github.com/kbroman/lineup)

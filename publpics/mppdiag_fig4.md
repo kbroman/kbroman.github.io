@@ -14,9 +14,9 @@ title: Broman et al. (2019) Fig 4
 
 Broman KW, Gatti DM, Svenson KL, Sen &#346;, Churchill GA (2019)
 Cleaning genotype data from Diversity Outbred mice.
-[G3](https://g3journal.org) 9:1571-1579
+[G3 (Bethesda)](https://academic.oup.com/g3journal) 9:1571-1579
 [![PubMed](../icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/30877082)
-[![pdf](../icons16/pdf-icon.png)](https://www.g3journal.org/content/ggg/9/5/1571.full.pdf)
+[![pdf](../icons16/pdf-icon.png)](https://academic.oup.com/g3journal/article-pdf/9/5/1571/37178363/g3journal1571.pdf)
 [![supporting info](../icons16/supp-icon.png)](https://doi.org/10.25387/g3.7848395)
 [![GitHub](../icons16/github-icon.png)](https://github.com/kbroman/Paper_MPPdiag)
 [![doi](../icons16/doi-icon.png)](https://doi.org/10.1534/g3.119.400165)

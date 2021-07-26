@@ -18,7 +18,8 @@ on chromosome 8p.  In: Goldstein DR (ed)
 [Science and Statistics: A Festschrift for Terry Speed](http://www.imstat.org/publications/lecnotes.htm).
 IMS Lecture Notes-Monograph Series, Vol 40, pp 237-245
 [![Abstract](../icons16/pubmed-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/inver_abstract.html)
-[![pdf (139k)](../icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/inversion.pdf)
+[![pdf](../icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/inversion.pdf)
+[![doi](../icons16/doi-icon.png)](https://doi.org/10/c82jqz)
 
 ![Broman et al. (2003) Fig 2](../bigpublpics/inversion_fig2_lg.png)
 
