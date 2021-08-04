@@ -31,6 +31,20 @@ description: Karl Broman's publications
 
 ### <a name="articles"></a>journal articles
 
+#### in preparation
+
+**Broman KW** (2021) A general hidden Markov model
+for multi-parent populations. In preparation.
+<!--
+[bioRxiv](https://www.biorxiv.org/) [doi:10.1101/******](https://doi.org/10.1101/******)
+[![pdf](icons16/pdf-icon.png)](https://www.biorxiv.org/content/10.1101/******.full.pdf)
+-->
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/Paper_GeneralHMM/gen_hmm.pdf)
+[![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_GeneralHMM)
+<!--
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1101/******)
+-->
+
 #### submitted
 
 Lobo AK, Traeger LL, Keller MP, Attie AD, Rey FE, **Broman KW** (2019)
