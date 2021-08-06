@@ -61,12 +61,6 @@ dotchart, and heatmap).
 
 ---
 
-#### <a name="D3"></a>[D3 examples](https://www.biostat.wisc.edu/~kbroman/D3/)
-
-Various examples of [D3](https://d3js.org)-based interactive graphs.
-
----
-
 #### <a name="broman"></a>[R/broman](https://github.com/kbroman/broman)
 
 Various R functions that I find useful, assembled into an R package.
@@ -111,26 +105,6 @@ model.
 
 ---
 
-#### <a name="lmmlite"></a>[R/lmmlite](https://kbroman.org/lmmlite)
-
-An [R](https://www.r-project.org) package for the fit of a simple
-linear mixed model useful for genome-wide association studies
-(GWAS) and quantitative trait locus (QTL) mapping.
-
----
-
-#### <a name="ricalc"></a>[R/ricalc](https://github.com/kbroman/ricalc)
-
-An [R](https://www.r-project.org) package for calculation of two- and three-locus probabilities in
-multiple-strain recombinant inbred lines, and the simulation of such lines.
-See the related paper: Broman KW (2005) The genomes of
-recombinant inbred lines.  [Genetics](https://academic.oup.com/genetics) 169:1133-1146
-[![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15545647)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/169/2/1133/37610496/genetics1133.pdf)
-[![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.104.035212)
-
----
-
 #### <a name="mbmixture"></a>[R/mbmixture](https://github.com/kbroman/mbmixture)
 
 An [R](https://www.r-project.org) package for evaluating whether a microbiome sample is the mixture of
@@ -146,12 +120,38 @@ errors. See the related [preprint](https://doi.org/10.1101/529040).
 
 ---
 
+#### <a name="D3"></a>[D3 examples](https://www.biostat.wisc.edu/~kbroman/D3/)
+
+Various examples of [D3](https://d3js.org)-based interactive graphs.
+
+---
+
+#### <a name="lmmlite"></a>[R/lmmlite](https://kbroman.org/lmmlite)
+
+An [R](https://www.r-project.org) package for the fit of a simple
+linear mixed model useful for genome-wide association studies
+(GWAS) and quantitative trait locus (QTL) mapping.
+
+---
+
 #### <a name="negenes"></a>[R/negenes](https://github.com/kbroman/negenes)
 
 An [R](https://www.r-project.org) package for estimating the number of essential genes in a genome
 on the basis of data from a random transposon mutagenesis experiment.
 See the related [technical report](https://www.biostat.wisc.edu/~kbroman/publications/ms0220.pdf).
 
+
+---
+
+#### <a name="ricalc"></a>[R/ricalc](https://github.com/kbroman/ricalc)
+
+An [R](https://www.r-project.org) package for calculation of two- and three-locus probabilities in
+multiple-strain recombinant inbred lines, and the simulation of such lines.
+See the related paper: Broman KW (2005) The genomes of
+recombinant inbred lines.  [Genetics](https://academic.oup.com/genetics) 169:1133-1146
+[![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15545647)
+[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/169/2/1133/37610496/genetics1133.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.104.035212)
 
 ---
 
