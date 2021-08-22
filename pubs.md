@@ -214,7 +214,7 @@ P, Vincent M, Allen S, Broman AT, Bacher R, Kendziorski C, **Broman
 KW**, Yandell BS, Churchill GA, Attie AD (2018) Genetic drivers of
 pancreatic islet function. [Genetics](https://academic.oup.com/genetics) 209:335-356
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/29567659)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/keller2018.pdf)
+[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/209/1/335/39718020/genetics0335.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.118.300864)
 <!-- * 151 * -->
 <!-- https://doi.org/10.1534/genetics.118.300864 -->
