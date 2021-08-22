@@ -56,7 +56,11 @@ Diversity Outbred mice. Submitted to [G3 (Bethesda)](https://academic.oup.com/g3
 Trotter C, Kim H, Farage G, Prins P, Williams RW, **Broman KW**, Sen
 &#346; (2021) Speeding up eQTL scans in the BXD population using GPUs.
 [G3 (Bethesda)](https://academic.oup.com/g3journal), to appear
-([bioRxiv](https://www.biorxiv.org) [doi:10.1101/2020.06.22.153742](https://doi.org/10.1101/2020.06.22.153742))
+[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/g3journal/advance-article-pdf/doi/10.1093/g3journal/jkab254/39763534/jkab254.pdf)
+[![GitHub](icons16/github-icon.png)](https://github.com/senresearch/LiteQTL.jl)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1093/g3journal/jkab254)
+<!-- * 165 * -->
+<!-- https://doi.org/10.1093/g3journal/jkab254 -->
 
 #### 2021
 
