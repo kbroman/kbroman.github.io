@@ -46,7 +46,7 @@ Lobo AK, Traeger LL, Keller MP, Attie AD, Rey FE, **Broman KW** (2019)
 Identification of sample mix-ups and mixtures in microbiome data in
 Diversity Outbred mice. Submitted to [G3 (Bethesda)](https://academic.oup.com/g3journal)
 ([bioRxiv](https://www.biorxiv.org/) [doi:10.1101/529040](https://doi.org/10.1101/529040))
-[![pdf](icons16/pdf-icon.png)](https://www.biorxiv.org/content/10.1101/529040v2.full.pdf)
+[![pdf](icons16/pdf-icon.png)](https://www.biorxiv.org/content/10.1101/529040v3.full.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_MBmixups)
 [![R/mbmixture software](icons16/R-icon.png)](https://github.com/kbroman/mbmixture)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1101/529040)
