@@ -40,18 +40,17 @@ for multi-parent populations.
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_GeneralHMM)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1101/2021.08.03.454963)
 
-#### submitted
+#### to appear
 
-Lobo AK, Traeger LL, Keller MP, Attie AD, Rey FE, **Broman KW** (2019)
+Lobo AK, Traeger LL, Keller MP, Attie AD, Rey FE, **Broman KW** (2021)
 Identification of sample mix-ups and mixtures in microbiome data in
-Diversity Outbred mice. Submitted to [G3 (Bethesda)](https://academic.oup.com/g3journal)
-([bioRxiv](https://www.biorxiv.org/) [doi:10.1101/529040](https://doi.org/10.1101/529040))
+Diversity Outbred mice. [G3
+(Bethesda)](https://academic.oup.com/g3journal), to appear
 [![pdf](icons16/pdf-icon.png)](https://www.biorxiv.org/content/10.1101/529040v3.full.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_MBmixups)
 [![R/mbmixture software](icons16/R-icon.png)](https://github.com/kbroman/mbmixture)
-[![doi](icons16/doi-icon.png)](https://doi.org/10.1101/529040)
-
-#### to appear
+<!-- * 166 * -->
+<!-- https://doi.org/10.1101/529040 -->
 
 Trotter C, Kim H, Farage G, Prins P, Williams RW, **Broman KW**, Sen
 &#346; (2021) Speeding up eQTL scans in the BXD population using GPUs.
