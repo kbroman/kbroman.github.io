@@ -7,12 +7,11 @@ description: Karl Broman's talks
 ### 2021
 
 
-<!--
-QTL mapping in MAGIC populations with R/qtl2
-[![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_MAGIC2021/magic2021.pdf)
-[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_MAGIC2021)<br/>
-_recorded just so there'd be a recording_ (_?_)
--->
+General HMM for multi-parent populations
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_GeneralHMM/general_hmm.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/Talk_GeneralHMM/general_hmm_notes.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_GeneralHMM)<br/>
+[Complex Trait Community meeting](http://www.complextrait.org/ctc2021/) (_Sep 1_)
 
 Steps toward reproducible research
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr.pdf)
