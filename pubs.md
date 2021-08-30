@@ -50,7 +50,7 @@ Diversity Outbred mice. [G3
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_MBmixups)
 [![R/mbmixture software](icons16/R-icon.png)](https://github.com/kbroman/mbmixture)
 <!-- * 166 * -->
-<!-- https://doi.org/10.1101/529040 -->
+<!-- https://doi.org/10.1093/g3journal/jkab308 -->
 
 Trotter C, Kim H, Farage G, Prins P, Williams RW, **Broman KW**, Sen
 &#346; (2021) Speeding up eQTL scans in the BXD population using GPUs.
