@@ -7,7 +7,7 @@ title: Broman et al. (2015) Fig 7
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="mppdiag_fig4.html">prev</a></li>
-          <li><a href="rqtl2_fig1.html">next</a></li>
+          <li><a href="mbmixups_fig1.html">next</a></li>
       </ul>
   </div>
 </div>
