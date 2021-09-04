@@ -7,7 +7,7 @@ title: Broman et al. (2019) Fig 1
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="samplemixups_fig7.html">prev</a></li>
-          <li><a href="isletc6_fig4.html">next</a></li>
+          <li><a href="iplotCorr.html">next</a></li>
       </ul>
   </div>
 </div>

@@ -19,8 +19,8 @@ keywords: Broman, QTL, R/qtl, quantitative trait loci, statistics, statistical g
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="publpics/iplotCorr.html">
-        <img src="publpics/iplotCorr.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+    <a href="publpics/mbmixups_fig1.html">
+        <img src="publpics/mbmixups_fig1.png" alt="Lobo et al. (2021) Fig 1" title="Lobo et al. (2021) Fig 1"/>
     </a>
   </td>
   <td class="right">

@@ -6,8 +6,8 @@ title: R/qtlcharts example
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="geneticmaps_fig3.html">prev</a></li>
-          <li><a href="mppdiag_fig4.html">next</a></li>
+          <li><a href="rqtl2_fig1.html">prev</a></li>
+          <li><a href="isletc6_fig4.html">next</a></li>
       </ul>
   </div>
 </div>
