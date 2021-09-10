@@ -37,8 +37,8 @@ keywords: Broman, QTL, R/qtl, quantitative trait loci, statistics, statistical g
     </a>
   </td>
   <td class="right">
-    <a href="publpics/mbmixups_fig1.html">
-        <img src="publpics/mbmixups_fig1.png" alt="Lobo et al. (2021) Fig 1" title="Lobo et al. (2021) Fig 1"/>
+    <a href="publpics/mbmixups_fig3.html">
+        <img src="publpics/mbmixups_fig3.png" alt="Lobo et al. (2021) Fig 3" title="Lobo et al. (2021) Fig 3"/>
     </a>
   </td>
 </tr>

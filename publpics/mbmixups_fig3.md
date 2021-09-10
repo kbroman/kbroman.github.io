@@ -1,13 +1,13 @@
 ---
 layout: frontpage
-title: Lobo et al. (2021) Fig 1
+title: Lobo et al. (2021) Fig 3
 ---
 
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="mbmixups_fig3.html">prev</a></li>
-          <li><a href="iplotCorr.html">next</a></li>
+          <li><a href="samplemixups_fig7.html">prev</a></li>
+          <li><a href="mbmixups_fig1.html">next</a></li>
       </ul>
   </div>
 </div>
@@ -21,12 +21,9 @@ Diversity Outbred mice. [G3
 [![R/mbmixture software](../icons16/R-icon.png)](https://github.com/kbroman/mbmixture)
 [![doi](../icons16/doi-icon.png)](https://doi.org/10.1093/g3journal/jkab308)
 
-![Lobo et al. (2021) Fig 1](../bigpublpics/mbmixups_fig1_lg.png)
+![Lobo et al. (2021) Fig 3](../bigpublpics/mbmixups_fig3_lg.png)
 
-**Figure 1**. &mdash; Plot of minimum distance vs. distance to self. Each point is a
-microbiome sample and distances to genomic DNA samples are measured
-by taking, among reads that overlapped a SNP where the genotyped
-sample was homozygous, the proportion with an allele that was
-discordant with the inferred SNP genotype. The microbiome samples
-are categorized according to our conclusions about their
-status.
+**Figure 3**. &mdash; Plot of maximum achieved likelihood ratio test statistic (for
+  the test of no mixture) vs. the estimated proportion from a
+  contaminant, for each microbiome sample. The samples are categorized
+  by our conclusions about their status.

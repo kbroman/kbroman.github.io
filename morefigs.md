@@ -15,41 +15,42 @@ title: Karl Broman
 </div>
 
 
-
-
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="publpics/iplotCorr.html">
-        <img src="publpics/iplotCorr.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+    <a href="publpics/mbmixups_fig1.html">
+        <img src="publpics/mbmixups_fig1.png" alt="Lobo et al. (2021) Fig 1" title="Lobo et al. (2021) Fig 1"/>
     </a>
   </td>
   <td class="right">
-    <a href="publpics/isletc6_fig4.html">
-        <img src="publpics/isletc6_fig4.png" alt="Tian et al. (2015) Fig 4" title="Tian et al. (2015) Fig 4"/>
+    <a href="publpics/iplotCorr.html">
+        <img src="publpics/iplotCorr.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
     </a>
   </td>
 </tr>
 <tr>
   <td class="left">
+    <a href="publpics/isletc6_fig4.html">
+        <img src="publpics/isletc6_fig4.png" alt="Tian et al. (2015) Fig 4" title="Tian et al. (2015) Fig 4"/>
+    </a>
+  </td>
+  <td class="right">
     <a href="publpics/tian2016_fig4.html">
         <img src="publpics/tian2016_fig4.png" alt="Tian et
         al. (2016) Fig 4" title="Tian et al. (2016) Fig 4"/>
     </a>
   </td>
-  <td class="right">
+</tr>
+<tr>
+  <td class="left">
     <a href="publpics/rqtlexper_fig1.html">
         <img src="publpics/rqtlexper_fig1.png" alt="Broman (2014) Fig 1" title="Broman (2014) Fig 1"/>
     </a>
   </td>
-</tr>
-<tr>
-  <td class="left">
+  <td class="right">
     <a href="publpics/rqtlexper_fig2.html">
         <img src="publpics/rqtlexper_fig2.png" alt="Broman (2014) Fig 2" title="Broman (2014) Fig 2"/>
     </a>
-  </td>
-  <td class="right">
   </td>
 </tr>
 <tr>
