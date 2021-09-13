@@ -207,10 +207,10 @@ parent/offspring, fullsibs, halfsibs and unrelated.
 Sun's program [PREST](http://galton.uchicago.edu/~mcpeek/software/prest/).  It has a similar aim, and calculates a
 more extensive set of statistics, includes measures of statistical
 significance, and also looks at avuncular and first cousin
-relationships.  Other alternatives include the programs Borel,
-Relpair, Relative, Reltype and Siberror.  Go to the
-[Rockefeller software list](http://www.jurgott.org/linkage/ListSoftware.html)
-to find these programs.
+relationships.  Other alternatives include the programs
+[Relpair](https://csg.sph.umich.edu/boehnke/relpair.php)
+and
+[KING](https://www.kingrelatedness.com/).
 
 The input/output for my program is rather crude.  If you use the
 software, please reference the above papers in any publications.
