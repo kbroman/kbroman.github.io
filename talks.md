@@ -6,6 +6,13 @@ description: Karl Broman's talks
 
 ### 2021
 
+Data organization in spreadsheets
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_DataOrg/dataorg.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/Talk_DataOrg/dataorg_notes.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_DataOrg)<br/>
+[NIDA Center of Excellence in Omics, Systems Genetics, and the Addictome (OSGA) Webinar
+Series](https://opar.io/training/osga-webinar-series-2020.html)
+(_Sep 24_)
 
 Generic HMM for multi-parent populations
 [![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_GenericHMM/generic_hmm.pdf)
