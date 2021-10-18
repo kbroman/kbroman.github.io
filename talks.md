@@ -6,6 +6,12 @@ description: Karl Broman's talks
 
 ### 2021
 
+R/qtl2: high-dimensional data and multi-parent populations
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_DOWorkshop2021/rqtl2.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_DOWorkshop2021)<br/>
+Workshop on Diversity Outbred mice hosted by the [David James lab](https://www.sydney.edu.au/charles-perkins-centre/our-research/research-groups/david-james-lab.html),
+[University of Sydney](https://www.sydney.edu.au/) (_Oct 27_)
+
 Data organization in spreadsheets
 [![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_DataOrg/dataorg.pdf)
 [![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/Talk_DataOrg/dataorg_notes.pdf)
