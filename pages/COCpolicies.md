@@ -81,7 +81,19 @@ description: Compare conflict of commitment policies among Big-10 universities
 
 - Rutgers
 
+  _No defined quota or pre-approval; requires disclosure._
+
+  - [policy](https://uec.rutgers.edu/international-collaboration-in-research-and-other-activities/conflict-of-interest-and-commitment/)
+
 - U Nebraska
+
+  _Outside activity normally limited to two working days per month;
+  greater time commitments require approval. Outside activities must
+  be disclosed. Requires prior disclosure of proposed consulting,
+  extramural teaching, or other activities to the department chair and
+  prior approval of the college dean and campus administration._
+
+  - [policy](https://nebraska.edu/-/media/unca/docs/offices-and-policies/policies/board-governing-documents/board-of-regents-policies.pdf?la=en#page=112)
 
 - Northwestern
 
