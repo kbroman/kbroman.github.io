@@ -102,8 +102,15 @@ description: Compare conflict of commitment policies among Big-10 universities
   non-reportable activities that include "Service without compensation
   or with honoraria less than $1000 annually, ... for the purpose of
   providing a public or University service within the United States."
-  Reportable outside activities must be disclosed in advance._
+  Reportable outside activities must be disclosed in advance, and
+  generally may not exceed one business day per week._
 
   - [policy](https://www.purdue.edu/ethics/resources/faqs/coc-faqs.php)
 
 - Northwestern
+
+  _Defines "outside professional activity" as "any paid or volunteer
+  activity outside the scope of one's employment at Northwestern."
+  Must have written approval if "significant effort"._
+
+  - [policy](https://www.northwestern.edu/coi/policy/core_coi_policy.pdf)
