@@ -95,6 +95,15 @@ description: Compare conflict of commitment policies among Big-10 universities
 
   - [policy](https://nebraska.edu/-/media/unca/docs/offices-and-policies/policies/board-governing-documents/board-of-regents-policies.pdf?la=en#page=112)
 
-- Northwestern
-
 - Purdue
+
+  _Defines "reportable outside activity" as outside work that may
+  potentially result in a conflict of commitment. Has a clear list of
+  non-reportable activities that include "Service without compensation
+  or with honoraria less than $1000 annually, ... for the purpose of
+  providing a public or University service within the United States."
+  Reportable outside activities must be disclosed in advance._
+
+  - [policy](https://www.purdue.edu/ethics/resources/faqs/coc-faqs.php)
+
+- Northwestern
