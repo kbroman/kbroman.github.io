@@ -13,7 +13,7 @@ description: Compare conflict of commitment policies among Big-10 universities
   - [faq](https://kb.wisc.edu/gsadminkb/page.php?id=108356)
   - ["Conflict of Commitment policy supports staff compliance"](https://research.wisc.edu/uncategorized/2021/03/04/conflict-of-commitment-policy-supports-staff-compliance/)
 
-- U of Michigan
+- U Michigan
 
   _Don't seem to be any quotas, nor pre-approval. Rather, potential
   conflicts must be disclosed._
@@ -114,3 +114,61 @@ description: Compare conflict of commitment policies among Big-10 universities
   Must have written approval if "significant effort"._
 
   - [policy](https://www.northwestern.edu/coi/policy/core_coi_policy.pdf)
+
+
+---
+
+## Summary
+
+Here's a stab at a summary of the above, though things are more
+complicated than can be captured here.
+
+- whether prior approval is required
+- quota on number of days per month ("&ndash;" if no
+  quota; 0 if any amount requires approval)
+- whether policy only covers paid activities or applies more generally
+
+<style>
+table{
+    border-collapse: collapse;
+    border-spacing: 2px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th{
+    padding: 6px;
+    border-bottom:2px solid #000000;
+    border-top:2px solid #000000;
+}
+
+td{
+    padding: 4px;
+    border-bottom:1px solid #000000;
+    border-top:1px solid #000000;
+    border-collapse: collapse;
+    text-align: center;
+}
+tr td:first-child {
+   text-align: left;
+}
+</style>
+
+
+|----------------------+----------+------------+-----------|
+|                      | approval | days quota | paid only |
+|----------------------|----------|------------|-----------|
+| UW-Madison           |    ✅    |     2      |    ✗      |
+| U Michigan           |    ✗     |  &ndash;   |    ✗      |
+| U Minnesota          |    ✅    |     4      |    ✅     |
+| Michigan State       |    ✅    |     4      |    ✅     |
+| Ohio State           |    ✗     |     4      |    ✗      |
+| Penn State           |    ✅    |     4      |    ✅     |
+| Indiana U            |    ✗     |     4      |    ✗      |
+| U Illinois           |    ✅    |     0      |    ✗      |
+| U Iowa               |    ✅    |     0      |    ✗      |
+| Rutgers              |    ✗     |  &ndash;   |    ✗      |
+| U Nebraska           |    ✅    |     2      |    ✗      |
+| Purdue               |    ✗     |     4      |    ✗      |
+| Northwestern         |    ✅    |  &ndash;   |    ✗      |
+|----------------------+----------+------------+-----------|
