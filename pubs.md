@@ -36,7 +36,7 @@ description: Karl Broman's publications
 **Broman KW** (2021) A generic hidden Markov model
 for multi-parent populations. Submitted to [G3 (Bethesda)](https://academic.oup.com/g3journal)
 ([bioRxiv](https://www.biorxiv.org/) [doi:10.1101/2021.08.03.454963](https://doi.org/10.1101/2021.08.03.454963))
-[![pdf](icons16/pdf-icon.png)](https://www.biorxiv.org/content/10.1101/2021.08.03.454963v2.full.pdf)
+[![pdf](icons16/pdf-icon.png)](https://www.biorxiv.org/content/10.1101/2021.08.03.454963v3.full.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_GenericHMM)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1101/2021.08.03.454963)
 
