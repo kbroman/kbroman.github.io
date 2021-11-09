@@ -41,7 +41,7 @@ for multi-parent populations. [G3
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_GenericHMM)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1101/2021.08.03.454963)
 <!-- * 167 * -->
-<!-- https://doi.org/10.1101/2021.08.03.454963 -->
+<!-- https://doi.org/10.1093/g3journal/jkab396 -->
 
 Trotter C, Kim H, Farage G, Prins P, Williams RW, **Broman KW**, Sen
 &#346; (2021) Speeding up eQTL scans in the BXD population using GPUs.
