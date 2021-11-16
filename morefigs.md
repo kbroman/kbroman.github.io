@@ -55,13 +55,25 @@ title: Karl Broman
 </tr>
 <tr>
   <td class="left">
+    <a href="publpics/genhmm_fig1.html">
+        <img src="publpics/genhmm_fig1.png" alt="Broman (2021) Fig 1" title="Broman (2021) Fig 1"/>
+    </a>
+  </td>
+  <td class="right">
     <a href="publpics/phyloqtl_fig6.html">
         <img src="publpics/phyloqtl_fig6.png" alt="Broman et al. (2012) Fig 6" title="Broman et al. (2012) Fig 6"/>
     </a>
   </td>
-  <td class="right">
+</tr>
+<tr>
+  <td class="left">
     <a href="publpics/phyloqtl_fig2.html">
         <img src="publpics/phyloqtl_fig2.png" alt="Broman et al. (2012) Fig 2" title="Broman et al. (2012) Fig 2"/>
+    </a>
+  </td>
+  <td class="right">
+    <a href="publpics/preCCprob_tabS13.html">
+        <img src="publpics/preCCprob_tabS13.png" alt="Broman (2012) Table S13" title="Broman (2012) Table S13"/>
     </a>
   </td>
 </tr>
@@ -84,20 +96,8 @@ title: Karl Broman
     </a>
   </td>
   <td class="right">
-    <a href="publpics/preCCprob_tabS13.html">
-        <img src="publpics/preCCprob_tabS13.png" alt="Broman (2012) Table S13" title="Broman (2012) Table S13"/>
-    </a>
-  </td>
-</tr>
-<tr>
-  <td class="left">
     <a href="publpics/inversion_fig2.html">
         <img src="publpics/inversion_fig2.png" alt="Broman et al. (2003) Fig 2" title="Broman et al. (2003) Fig 2"/>
-    </a>
-  </td>
-  <td class="right">
-    <a href="publpics/interfer_fig1.html">
-        <img src="publpics/interfer_fig1.png" alt="Broman and Weber (2000) Fig 1" title="Broman and Weber (2000) Fig 1"/>
     </a>
   </td>
 </tr>
@@ -120,6 +120,9 @@ title: Karl Broman
     </a>
   </td>
   <td class="right">
+    <a href="publpics/interfer_fig1.html">
+        <img src="publpics/interfer_fig1.png" alt="Broman and Weber (2000) Fig 1" title="Broman and Weber (2000) Fig 1"/>
+    </a>
   </td>
 </tr>
 </table>
