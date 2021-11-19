@@ -15,7 +15,7 @@ title: Broman et al. (2003) Fig 2
 Broman KW, Matsumoto N, Giglio S, Martin CL, Roseberry JA, Zuffardi O,
 Ledbetter DH, Weber JL (2003) Common long human inversion polymorphism
 on chromosome 8p.  In: Goldstein DR (ed)
-[Science and Statistics: A Festschrift for Terry Speed](http://www.imstat.org/publications/lecnotes.htm).
+[Science and Statistics: A Festschrift for Terry Speed](https://projecteuclid.org/euclid.lnms/1215091126).
 IMS Lecture Notes-Monograph Series, Vol 40, pp 237-245
 [![Abstract](../icons16/pubmed-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/inver_abstract.html)
 [![pdf](../icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/inversion.pdf)
