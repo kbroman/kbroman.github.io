@@ -12,7 +12,7 @@ title: Broman (2012) Table S13
   </div>
 </div>
 
-Broman KW (2012)  Genotype probabilities at intermediate generations in the construction of recombinant inbred lines.  Genetics 190:403-412
+Broman KW (2012)  Genotype probabilities at intermediate generations in the construction of recombinant inbred lines.  [Genetics](https://academic.oup.com/genetics) 190:403-412
 [![PubMed](../icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/22345609)
 [![pdf](../icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/190/2/403/37896182/genetics0403.pdf)
 [![source on github](../icons16/github-icon.png)](http://www.github.com/kbroman/preCCProbPaper)

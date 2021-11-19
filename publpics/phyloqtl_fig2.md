@@ -13,7 +13,7 @@ title: Broman et al. (2012) Fig 2
 </div>
 
 Broman KW, Kim S, Sen &#346;, An&eacute; C, Payseur BA (2012) Mapping
-quantitative trait loci onto a phylogenetic tree.  Genetics
+quantitative trait loci onto a phylogenetic tree.  [Genetics](https://academic.oup.com/genetics)
 192:267-279
 [![PubMed](../icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/22745229)
 [![pdf](../icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/192/1/267/37822692/genetics0267.pdf)

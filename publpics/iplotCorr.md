@@ -14,7 +14,7 @@ title: R/qtlcharts example
 
 [R/qtlcharts](https://kbroman.org/qtlcharts), an R package to create
 interactive data visualizations for QTL data; <br/>
-see Broman (2015) Genetics 199:359-361
+see Broman (2015) [Genetics](https://academic.oup.com/genetics) 199:359-361
 [![PubMed](../icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/25527287)
 [![pdf](../icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/199/2/359/37801010/genetics0359.pdf)
 [![GitHub](../icons16/github-icon.png)](https://github.com/kbroman/Paper_Rqtlcharts)

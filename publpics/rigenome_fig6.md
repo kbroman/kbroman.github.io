@@ -13,7 +13,7 @@ title: Broman (2005) Fig 6
 </div>
 
 Broman KW (2005) The genomes of
-recombinant inbred lines. Genetics 169:1133-1146
+recombinant inbred lines. [Genetics](https://academic.oup.com/genetics) 169:1133-1146
 [![PubMed](../icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15545647)
 [![pdf](../icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/169/2/1133/39302498/genetics1133.pdf)
 [![doi](../icons16/doi-icon.png)](https://doi.org/10.1534/genetics.104.035212)
