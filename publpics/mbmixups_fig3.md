@@ -12,7 +12,7 @@ title: Lobo et al. (2021) Fig 3
   </div>
 </div>
 
-Lobo AK, Traeger LL, Keller MP, Attie AD, Rey FE, **Broman KW** (2021)
+Lobo AK, Traeger LL, Keller MP, Attie AD, Rey FE, Broman KW (2021)
 Identification of sample mix-ups and mixtures in microbiome data in
 Diversity Outbred mice. [G3
 (Bethesda)](https://academic.oup.com/g3journal) 11:jkab308

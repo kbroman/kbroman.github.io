@@ -12,7 +12,7 @@ title: Broman (2021) Fig 1
   </div>
 </div>
 
-**Broman KW** (2021) A generic hidden Markov model
+Broman KW (2021) A generic hidden Markov model
 for multi-parent populations. [G3
 (Bethesda)](https://academic.oup.com/g3journal), to appear
 [![PubMed](../icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/34791211/)
