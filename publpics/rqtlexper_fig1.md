@@ -13,7 +13,7 @@ title: Broman (2014) Fig 1
 </div>
 
 Broman KW (2014) Fourteen years of R/qtl: Just
-barely sustainable. J Open Res Softw
+barely sustainable. [J Open Res Softw](https://openresearchsoftware.metajnl.com)
 2(1):e11
 [![Abstract](../icons16/pubmed-icon.png)](http://openresearchsoftware.metajnl.com/article/view/jors.at/43)
 [![pdf](../icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/rqtl_14yrs.pdf)
