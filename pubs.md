@@ -72,7 +72,7 @@ Treatment of the X chromosome in mapping multiple quantitative trait
 loci.
 [G3 (Bethesda)](https://academic.oup.com/g3journal) 11:jkab005
 [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/33604671/)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/g3journal/advance-article-pdf/doi/10.1093/g3journal/jkab005/36037675/jkab005.pdf)
+[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/g3journal/article-pdf/11/2/jkab005/37042282/jkab005.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_qtlX)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1093/g3journal/jkab005)
 <!-- * 164 * -->
