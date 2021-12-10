@@ -1778,6 +1778,18 @@ Notes-Monograph Series, Vol 33, pp 114-142
 
 ### <a name="techreports"></a>technical reports and preprints
 
+Zhang Q, Linke V, Overmyer KA, Traeger LL, Kasahara K, Miller IJ,
+Manson DE, Polaske TJ, Kerby RL, Kemis JH, Trujillo EA, Reddy TR,
+Russell JD, Schueler KL, Stapleton DS, Rabaglia ME, Seldin M, Gatti
+DM, Keele GR, Pham DT, Gerdt JP, Vivas EI, Lusis AJ, Keller MP,
+Churchill GA, Blackwell HE, **Broman KW**, Attie AD, Coon JJ, Rey FE
+(2021) Systems genetics uncovers microbe-lipid-host connections in the
+murine gut. [bioRxiv](https://biorxiv.org)
+[doi:10.1101/2021.11.29.470403](https://doi.org/10.1101/2021.11.29.470403)
+[![EuropePMC](icons16/pubmed-icon.png)](https://europepmc.org/article/PPR/PPR426284)
+[![pdf](icons16/pdf-icon.png)](https://www.biorxiv.org/content/10.1101/2021.11.29.470403v1.full.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1101/2021.11.29.470403)
+
 **Broman KW** (2010) Genetic map construction with R/qtl.  Technical report #214, Department of Biostatistics & Medical Informatics, University of Wisconsin-Madison
 [![Abstract](icons16/pubmed-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/tech214_abstract.html)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/tr_214.pdf)
