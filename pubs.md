@@ -43,17 +43,18 @@ for multi-parent populations. [G3
 <!-- * 167 * -->
 <!-- https://doi.org/10.1093/g3journal/jkab396 -->
 
+#### 2021
+
 Trotter C, Kim H, Farage G, Prins P, Williams RW, **Broman KW**, Sen
 &#346; (2021) Speeding up eQTL scans in the BXD population using GPUs.
-[G3 (Bethesda)](https://academic.oup.com/g3journal), to appear
+[G3 (Bethesda)](https://academic.oup.com/g3journal) 11:jkab254
 [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/34499130/)
 [![pdf](icons16/pdf-icon.png)](https://academic.oup.com/g3journal/advance-article-pdf/doi/10.1093/g3journal/jkab254/39763534/jkab254.pdf)
+<!-- https://academic.oup.com/g3journal/article-pdf/11/12/41294804/jkab254.pdf -->
 [![GitHub](icons16/github-icon.png)](https://github.com/senresearch/LiteQTL.jl)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1093/g3journal/jkab254)
 <!-- * 166 * -->
 <!-- https://doi.org/10.1093/g3journal/jkab254 -->
-
-#### 2021
 
 Lobo AK, Traeger LL, Keller MP, Attie AD, Rey FE, **Broman KW** (2021)
 Identification of sample mix-ups and mixtures in microbiome data in
