@@ -17,7 +17,7 @@ Identification of sample mix-ups and mixtures in microbiome data in
 Diversity Outbred mice. [G3
 (Bethesda)](https://academic.oup.com/g3journal) 11:jkab308
 [![PubMed](../icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/34499168/)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/g3journal/article-pdf/11/11/jkab308/40770295/jkab308.pdf)
+[![pdf](../icons16/pdf-icon.png)](https://academic.oup.com/g3journal/article-pdf/11/11/jkab308/40770295/jkab308.pdf)
 [![GitHub](../icons16/github-icon.png)](https://github.com/kbroman/Paper_MBmixups)
 [![R/mbmixture software](../icons16/R-icon.png)](https://github.com/kbroman/mbmixture)
 [![doi](../icons16/doi-icon.png)](https://doi.org/10.1093/g3journal/jkab308)
