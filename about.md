@@ -12,9 +12,9 @@ research in statistical genetics; developer of
 [R](https://www.r-project.org)).
 
 Karl received a BS in [mathematics](https://uwm.edu/math)
-in 1991, from the
+in 1991 from the
 University of Wisconsin&ndash;Milwaukee, and a
-PhD in [statistics](https://statistics.berkeley.edu) in 1997, from the
+PhD in [statistics](https://statistics.berkeley.edu) in 1997 from the
 University of California, Berkeley; his PhD advisor was
 [Terry Speed](https://www.wehi.edu.au/people/terry-speed).
 He was a postdoctoral fellow with James Weber at the
