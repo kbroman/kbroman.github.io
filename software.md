@@ -120,6 +120,20 @@ errors. See the related [preprint](https://doi.org/10.1101/529040).
 
 ---
 
+#### <a name="mmconvert"></a>[R/mmconvert](https://github.com/rqtl/mmconvert)
+
+An [R](https://www.r-project.org) package for converting mouse genome
+positions between genetic and physical maps. This is a
+re-implementation of the basic functionality of the [mouse map
+converter](https://churchill-lab.jax.org/mousemapconverter) web
+service from [Gary Churchill's group](https://churchill-lab.jax.org)
+at the [Jackson Lab](https://jax.org). See also the [Cox genetic map
+V3](https://github.com/kbroman/CoxMapV3), updated for the [mouse
+genome genome build 39](https://www.ncbi.nlm.nih.gov/assembly/GCF_000001635.27/)
+coordinates.
+
+---
+
 #### <a name="D3"></a>[D3 examples](https://www.biostat.wisc.edu/~kbroman/D3/)
 
 Various examples of [D3](https://d3js.org)-based interactive graphs.
