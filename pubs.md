@@ -31,13 +31,13 @@ description: Karl Broman's publications
 
 ### <a name="articles"></a>journal articles
 
-#### to appear
+#### 2022
 
-**Broman KW** (2021) A generic hidden Markov model
+**Broman KW** (2022) A generic hidden Markov model
 for multi-parent populations. [G3
-(Bethesda)](https://academic.oup.com/g3journal), to appear
+(Bethesda)](https://academic.oup.com/g3journal) 12:jkab396
 [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/34791211/)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/g3journal/advance-article-pdf/doi/10.1093/g3journal/jkab396/41158355/jkab396.pdf)
+[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/g3journal/article-pdf/12/2/jkab396/42382435/jkab396.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_GenericHMM)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1093/g3journal/jkab396)
 <!-- * 167 * -->
