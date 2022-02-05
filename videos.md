@@ -6,6 +6,15 @@ description: Karl Broman's recorded talks
 
 ### 2021
 
+Data organization in spreadsheets
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_DataOrg/dataorg.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/Talk_DataOrg/dataorg_notes.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_DataOrg)
+[![video](icons16/video-icon.png)](https://youtu.be/t74E0a90gkA)<br/>
+[NIDA Center of Excellence in Omics, Systems Genetics, and the Addictome (OSGA) Webinar
+Series](https://opar.io/training/osga-webinar-series-2020.html)
+(_Sep 24_)
+
 Identifying sample mix-ups in eQTL data
 [![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_OSGA2021/osga2021.pdf)
 [![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/Talk_OSGA2021/osga2021_notes.pdf)
