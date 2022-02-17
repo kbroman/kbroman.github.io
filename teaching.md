@@ -477,6 +477,14 @@ Summer, 2002
 
 ### <a name="misc"></a>Miscellaneous lectures
 
+#### BMI/Stat 877 (Statistical methods for molecular biology), Spring 2022
+
+- QTL mapping in multi-parent populations
+  [![pdf icon](icons16/pdf-icon.png)](https://kbroman.org/Teaching_UWStatGen2022)
+  [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Teaching_UWStatGen2022)
+
+---
+
 #### Hort 615 (Genetic mapping)
 
 QTL mapping in MAGIC populations with
