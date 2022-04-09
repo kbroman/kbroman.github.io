@@ -28,8 +28,16 @@ description: Karl Broman's publications
 [![R/qtl](icons16/R-icon.png)](https://rqtl.org)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1007/978-0-387-92125-9)
 
-
 ### <a name="articles"></a>journal articles
+
+#### to appear
+
+Michel KJ, Lima DC, Hundley H, Singan V, Yoshinaga Y, Daum C, Barry K,
+**Broman KW**, Buell CR, de Leon N, Kaeppler SM (2022) Genetic mapping and
+prediction of flowering time and plant height in a maize Stiff Stalk
+MAGIC population. [Genetics](https://academic.oup.com/genetics), to appear
+[![pdf](icons16/pdf-icon.png)](https://www.biorxiv.org/content/10.1101/2022.01.31.478539v1.full.pdf)
+<!-- * 168 * -->
 
 #### 2022
 
@@ -1778,7 +1786,7 @@ Notes-Monograph Series, Vol 33, pp 114-142
 
 ### <a name="techreports"></a>technical reports and preprints
 
-Michel KJ, Lima DC, Hudley H, Singan V, Yoshinaga Y, Daum C, Barry K,
+Michel KJ, Lima DC, Hundley H, Singan V, Yoshinaga Y, Daum C, Barry K,
 **Broman KW**, Buell CR, de Leon N, Kaeppler SM (2022) Genetic mapping of
 flowering time and plant height in a maize Stiff Stalk MAGIC
 population. [bioRxiv](https://biorxiv.org)
