@@ -1786,15 +1786,6 @@ Notes-Monograph Series, Vol 33, pp 114-142
 
 ### <a name="techreports"></a>technical reports and preprints
 
-Michel KJ, Lima DC, Hundley H, Singan V, Yoshinaga Y, Daum C, Barry K,
-**Broman KW**, Buell CR, de Leon N, Kaeppler SM (2022) Genetic mapping of
-flowering time and plant height in a maize Stiff Stalk MAGIC
-population. [bioRxiv](https://biorxiv.org)
-[doi:10.1101/2022.01.31.478539](https://doi.org/10.1101/2022.01.31.478539)
-[![EuropePMC](icons16/pubmed-icon.png)](https://europepmc.org/article/PPR/PPR449612)
-[![pdf](icons16/pdf-icon.png)](https://www.biorxiv.org/content/10.1101/2022.01.31.478539v1.full.pdf)
-[![doi](icons16/doi-icon.png)](https://doi.org/10.1101/2022.01.31.478539)
-
 Zhang Q, Linke V, Overmyer KA, Traeger LL, Kasahara K, Miller IJ,
 Manson DE, Polaske TJ, Kerby RL, Kemis JH, Trujillo EA, Reddy TR,
 Russell JD, Schueler KL, Stapleton DS, Rabaglia ME, Seldin M, Gatti
