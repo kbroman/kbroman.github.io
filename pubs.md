@@ -36,8 +36,12 @@ Michel KJ, Lima DC, Hundley H, Singan V, Yoshinaga Y, Daum C, Barry K,
 **Broman KW**, Buell CR, de Leon N, Kaeppler SM (2022) Genetic mapping and
 prediction of flowering time and plant height in a maize Stiff Stalk
 MAGIC population. [Genetics](https://academic.oup.com/genetics), to appear
-[![pdf](icons16/pdf-icon.png)](https://www.biorxiv.org/content/10.1101/2022.01.31.478539v1.full.pdf)
+[![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/35441688/)
+[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/advance-article-pdf/doi/10.1093/genetics/iyac063/43400511/iyac063.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1093/genetics/iyac063)
 <!-- * 168 * -->
+<!-- https://doi.org/10.1093/genetics/iyac063 -->
+
 
 #### 2022
 
