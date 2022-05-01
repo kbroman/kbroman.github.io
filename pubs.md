@@ -1790,6 +1790,15 @@ Notes-Monograph Series, Vol 33, pp 114-142
 
 ### <a name="techreports"></a>technical reports and preprints
 
+Vincent M, Gyuricza IG, Keele GR, Gatti DM, Keller MP, **Broman KW**,
+Churchill GA (2022) QTLViewer: An interactive webtool for genetic
+analysis in the Collaborative Cross and Diversity Outbred mouse
+populations. [bioRxiv](https://biorxiv.org)
+[doi:10.1101/2022.03.15.484471](https://doi.org/10.1101/2022.03.15.484471)
+[![EuropePMC](icons16/pubmed-icon.png)](https://europepmc.org/article/PPR/PPR469215)
+[![pdf](icons16/pdf-icon.png)](https://www.biorxiv.org/content/10.1101/2022.03.15.484471v2.full.pdf
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1101/2022.03.15.484471)
+
 Zhang Q, Linke V, Overmyer KA, Traeger LL, Kasahara K, Miller IJ,
 Manson DE, Polaske TJ, Kerby RL, Kemis JH, Trujillo EA, Reddy TR,
 Russell JD, Schueler KL, Stapleton DS, Rabaglia ME, Seldin M, Gatti
