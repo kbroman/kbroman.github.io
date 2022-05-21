@@ -49,8 +49,8 @@ he/him
             Karl Broman<br/>
             <a href="https://www.biostat.wisc.edu">Department of Biostatistics &amp; Medical Informatics</a><br/>
             <a href="https://www.wisc.edu">University of Wisconsin&ndash;Madison</a><br/>
-            <a href="https://map.wisc.edu/s/2tie3nen">2126 Genetics/Biotechnology Center</a><br/>
-            425 Henry Mall<br/>
+            <a href="https://map.wisc.edu/s/430we82t">6743 Medical Sciences Center</a><br/>
+            1300 University Avenue<br/>
             Madison, Wisconsin 53706<br/>
             USA<br/><br/>
 
