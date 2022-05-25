@@ -4,6 +4,16 @@ title: talks
 description: Karl Broman's talks
 ---
 
+### 2022
+
+Data management
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/datamgmt2022.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_DataMgmt)<br/>
+[KL2 Scholar Program](https://ictr.wisc.edu/program/kl2-scholar-program/),
+[School of Medicine and Public Health](https://www.med.wisc.edu),
+[University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_May 25_)
+
+
 ### 2021
 
 R/qtl2: high-dimensional data and multi-parent populations
