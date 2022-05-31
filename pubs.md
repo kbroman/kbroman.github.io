@@ -32,6 +32,17 @@ description: Karl Broman's publications
 
 #### to appear
 
+Vincent M, Gyuricza IG, Keele GR, Gatti DM, Keller MP, **Broman KW**,
+Churchill GA (2022) QTLViewer: An interactive webtool for genetic
+analysis in the Collaborative Cross and Diversity Outbred mouse
+populations. [G3
+(Bethesda)](https://academic.oup.com/g3journal), to appear
+[![PubMed](icons16/pubmed-icon.png)](http://europepmc.org/article/PPR/PPR469215)
+[![pdf](icons16/pdf-icon.png)](https://www.biorxiv.org/content/10.1101/2022.03.15.484471v2.full.pdf)
+[![doi](icons16/doi-icon.png)](http://doi.org/10.1101/2022.03.15.484471)
+<!-- * 169 * -->
+<!-- https://doi.org/10.1101/2022.03.15.484471 -->
+
 Michel KJ, Lima DC, Hundley H, Singan V, Yoshinaga Y, Daum C, Barry K,
 **Broman KW**, Buell CR, de Leon N, Kaeppler SM (2022) Genetic mapping and
 prediction of flowering time and plant height in a maize Stiff Stalk
