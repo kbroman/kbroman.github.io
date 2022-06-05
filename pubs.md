@@ -43,18 +43,18 @@ populations. [G3
 <!-- * 169 * -->
 <!-- https://doi.org/10.1101/2022.03.15.484471 -->
 
+
+#### 2022
+
 Michel KJ, Lima DC, Hundley H, Singan V, Yoshinaga Y, Daum C, Barry K,
 **Broman KW**, Buell CR, de Leon N, Kaeppler SM (2022) Genetic mapping and
 prediction of flowering time and plant height in a maize Stiff Stalk
-MAGIC population. [Genetics](https://academic.oup.com/genetics), to appear
+MAGIC population. [Genetics](https://academic.oup.com/genetics) 221:iyac063
 [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/35441688/)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/advance-article-pdf/doi/10.1093/genetics/iyac063/43400511/iyac063.pdf)
+[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/221/2/iyac063/43912656/iyac063.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1093/genetics/iyac063)
 <!-- * 168 * -->
 <!-- https://doi.org/10.1093/genetics/iyac063 -->
-
-
-#### 2022
 
 **Broman KW** (2022) A generic hidden Markov model
 for multi-parent populations. [G3
