@@ -41,7 +41,7 @@ Steps toward reproducible research
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr.pdf)
 [![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)<br/>
-[Summer Research Program in Biomedical Data Science](https://www.biostat.wisc.edu/content/summer-research),
+[Summer Research Program in Biomedical Data Science](https://biostat.wiscweb.wisc.edu/education/summer/),
 [Department of Biostatistics & Medical Informatics](https://www.biostat.wisc.edu),
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Jun 15_)
 
@@ -274,7 +274,7 @@ Steps toward reproducible research
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr.pdf)
 [![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)<br/>
-[Summer Research Program in Biomedical Data Science](https://www.biostat.wisc.edu/content/summer-research),
+[Summer Research Program in Biomedical Data Science](https://biostat.wiscweb.wisc.edu/education/summer/),
 [Department of Biostatistics & Medical Informatics](https://www.biostat.wisc.edu),
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Jul 11_)
 
@@ -391,7 +391,7 @@ mice from Gough Island<br/>
 [![permutation test](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/BDS2017-07/perm_test)
 [![body weight](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/BDS2017-07/iplot_bodyweight.html)
 [![growth rate](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/BDS2017-07/iplot_deriv_bodyweight.html)<br/>
-[Summer Research Program in Biomedical Data Science](https://www.biostat.wisc.edu/content/summer-research),
+[Summer Research Program in Biomedical Data Science](https://biostat.wiscweb.wisc.edu/education/summer/),
 [Department of Biostatistics & Medical Informatics](https://www.biostat.wisc.edu),
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Jul 26_)
 
@@ -405,7 +405,7 @@ Steps toward reproducible research
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_BDS2017.pdf)
 [![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_BDS2017_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)<br/>
-[Summer Research Program in Biomedical Data Science](https://www.biostat.wisc.edu/content/summer-research),
+[Summer Research Program in Biomedical Data Science](https://biostat.wiscweb.wisc.edu/education/summer/),
 [Department of Biostatistics & Medical Informatics](https://www.biostat.wisc.edu),
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Jun 7_)
 
