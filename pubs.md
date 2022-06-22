@@ -37,7 +37,7 @@ Churchill GA (2022) QTLViewer: An interactive webtool for genetic
 analysis in the Collaborative Cross and Diversity Outbred mouse
 populations. [G3
 (Bethesda)](https://academic.oup.com/g3journal), to appear
-[![PubMed](icons16/pubmed-icon.png)](http://europepmc.org/article/PPR/PPR469215)
+[![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/35703938/)
 [![pdf](icons16/pdf-icon.png)](https://academic.oup.com/g3journal/advance-article-pdf/doi/10.1093/g3journal/jkac146/44080646/jkac146.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1093/g3journal/jkac146)
 <!-- * 169 * -->
