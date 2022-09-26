@@ -369,7 +369,7 @@ Correlations between synaptic initiation and meiotic recombination: A study of h
 <!-- * 140 * -->
 <!-- https://doi.org/10.1016/j.ajhg.2015.11.019 -->
 
-Kwak I-L, Moore CR, Spalding EP, **Broman KW** (2016) Mapping quantitative
+Kwak I-Y, Moore CR, Spalding EP, **Broman KW** (2016) Mapping quantitative
 trait loci underlying function-valued traits using functional
 principal component analysis and multi-trait mapping.
 [G3 (Bethesda)](https://academic.oup.com/g3journal) 6:79-86
