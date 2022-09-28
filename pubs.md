@@ -30,6 +30,17 @@ description: Karl Broman's publications
 
 ### <a name="articles"></a>journal articles
 
+Yoshihara T, Miller ND, Rabanal FA, Myles H, Kwak I-Y, **Broman KW**,
+Sadkhin B, Baxter I, Dilkes BP, Hudson ME, Spalding EP.
+Leveraging orthology within maize and Arabidopsis QTL to identify
+genes affecting natural variation in gravitropism.
+[Proc Natl Acad Sci USA](https://www.pnas.org), to appear
+[![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/36161933/)
+[![pdf](icons16/pdf-icon.png)](https://www.pnas.org/doi/epdf/10.1073/pnas.2212199119)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1073/pnas.2212199119)
+<!-- * 170 * -->
+<!-- https://doi.org/10.1073/pnas.2212199119 -->
+
 #### 2022
 
 Vincent M, Gyuricza IG, Keele GR, Gatti DM, Keller MP, **Broman KW**,
