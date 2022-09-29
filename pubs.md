@@ -764,7 +764,7 @@ to genome-wide recombination levels in male mice.  [Mamm Genome](https://www.spr
 <!-- * 100 * -->
 <!-- https://doi.org/10/bgkc62 -->
 
-Billings T, Sargent EE, Szatkiewicz JP, Leahy N, Kwak, I-Y, Bektassova N, Walker M, Hassold T, Graber JH, **Broman KW**, Petkov PM (2010)  Patterns of recombination activity on mouse chromosome 11 revealed by high resolution mapping.  [PLoS ONE](https://journals.plos.org/plosone) 5:e15340
+Billings T, Sargent EE, Szatkiewicz JP, Leahy N, Kwak I-Y, Bektassova N, Walker M, Hassold T, Graber JH, **Broman KW**, Petkov PM (2010)  Patterns of recombination activity on mouse chromosome 11 revealed by high resolution mapping.  [PLoS ONE](https://journals.plos.org/plosone) 5:e15340
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/21170346)
 [![pdf](icons16/pdf-icon.png)](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0015340&type=printable)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1371/journal.pone.0015340)
