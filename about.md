@@ -36,6 +36,7 @@ reproducible research, and interactive data visualization.
 [pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=broman+kw)<br/>
 <!-- [impactstory](https://impactstory.org/u/0000-0002-4914-6671)<br/> -->
 [github](https://github.com/kbroman)<br/>
+<a rel="me" href="https://fosstodon.org/@kbroman">mastodon</a><br/>
 [blog](https://kbroman.org/blog/) <br/>
 he/him
 
