@@ -30,6 +30,19 @@ description: Karl Broman's publications
 
 ### <a name="articles"></a>journal articles
 
+#### to appear
+
+Zhang Q, Linke V, Overmyer KA, Traeger LL, Kasahara K, Miller IJ, Manson DE, Polaske TJ,
+Kerby RL, Kemis JH, Trujillo EA, Reddy TR, Russell JD, Schueler KL, Stapleton DS,
+Rabaglia ME, Seldin M, Gatti DM, Keele GR, Pham DT, Gerdt JP, Vivas EI, Lusis AJ,
+Keller MP, Churchill GA, Blackwell HE, **Broman KW**, Attie AD, Coon
+JJ, Rey FE.
+Systems genetics uncovers microbe-lipid-host connections in the murine gut.
+Nat Microbiol, to appear
+([bioRxiv 10.1101/2021.11.29.470403](https://doi.org/10.1101/2021.11.29.470403))
+<!-- * 171 * -->
+
+
 #### 2022
 
 Yoshihara T, Miller ND, Rabanal FA, Myles H, Kwak I-Y, **Broman KW**,
