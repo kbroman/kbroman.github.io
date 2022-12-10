@@ -208,6 +208,7 @@ Testing pleiotropy vs. separate QTL in multiparental populations.
 [G3 (Bethesda)](https://academic.oup.com/g3journal) 9:2317-2324
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/31092608)
 [![pdf](icons16/pdf-icon.png)](https://academic.oup.com/g3journal/article-pdf/9/7/2317/37177845/g3journal2317.pdf)
+[![supporting info](icons16/supp-icon.png)](https://gsajournals.figshare.com/articles/figure/Supplemental_Material_for_Boehm_et_al_2019/8126930)
 [![GitHub](icons16/github-icon.png)](https://github.com/fboehm/qtl2pleio-manuscript)
 [![qtl2pleio software](icons16/R-icon.png)](https://github.com/fboehm/qtl2pleio)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/g3.119.400098)
