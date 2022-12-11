@@ -38,7 +38,7 @@ Rabaglia ME, Seldin M, Gatti DM, Keele GR, Pham DT, Gerdt JP, Vivas EI, Lusis AJ
 Keller MP, Churchill GA, Blackwell HE, **Broman KW**, Attie AD, Coon
 JJ, Rey FE.
 Systems genetics uncovers microbe-lipid-host connections in the murine gut.
-Nat Microbiol, to appear
+[Nat Microbiol](https://www.nature.com/nmicrobiol/), to appear
 ([bioRxiv 10.1101/2021.11.29.470403](https://doi.org/10.1101/2021.11.29.470403))
 <!-- * 171 * -->
 
