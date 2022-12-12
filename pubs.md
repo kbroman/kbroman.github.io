@@ -94,7 +94,7 @@ Trotter C, Kim H, Farage G, Prins P, Williams RW, **Broman KW**, Sen
 [G3 (Bethesda)](https://academic.oup.com/g3journal) 11:jkab254
 [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/34499130/)
 [![pdf](icons16/pdf-icon.png)](https://academic.oup.com/g3journal/article-pdf/11/12/jkab254/41715280/jkab254.pdf)
-[![GitHub](icons16/github-icon.png)](https://github.com/senresearch/LiteQTL.jl)
+[![GitHub](icons16/github-icon.png)](https://github.com/senresearch/LiteQTL-G3-supplement)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1093/g3journal/jkab254)
 <!-- * 166 * -->
 <!-- https://doi.org/10.1093/g3journal/jkab254 -->
