@@ -33,7 +33,7 @@ training."
 
 Note that this is the second year of this training requirement. A
 [similar news item was posted on
-2021-12-22](https://news.wisc.edu/pay-plan-increase-in-january-approved/).
+2021-12-21](https://news.wisc.edu/pay-plan-increase-in-january-approved/).
 
 ### Training and policies
 
