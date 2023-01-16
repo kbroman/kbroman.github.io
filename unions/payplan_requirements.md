@@ -6,15 +6,16 @@ description: Compulsory training requirements for UW-Madison's 2% "pay plan" for
 
 The 2% pay increase ("pay plan") for UW-Madison employees effective
 2023-01-01 is available only for employees who have completed required
-training, including the sexual harassment and sexual violence
+training, including the [sexual harassment and sexual violence
 training](https://compliance.wisc.edu/titleix/employee-training/)
 (every three years) and [cybersecurity
-training](https://it.wisc.edu/about/division-of-information-technology/enterprise-information-security-services/office-of-cybersecurity/cybersecurity-awareness-training/).
+training](https://it.wisc.edu/about/division-of-information-technology/enterprise-information-security-services/office-of-cybersecurity/cybersecurity-awareness-training/)
+(annually).
 
-There are frustrations and concerns among some employees who got
-notice that they would not be receiving the 2% pay increase. There
+Some employees are frustrated and concerned, having
+received notice that they would not be receiving the 2% pay increase. There
 appears to be considerable variability across departments and
-schools/colleges in the extent (and possible complete absence) of
+schools/colleges in the extent (or complete absence) of
 notifications regarding these requirements, whether an employee has
 fulfilled the requirement, and what training components had not been
 completed.
@@ -37,12 +38,12 @@ Note that this is the second year of this training requirement. A
 
 ### Training and policies
 
-The main two training components are [cybersecurity
+The two main training components are [cybersecurity
 training](https://it.wisc.edu/about/division-of-information-technology/enterprise-information-security-services/office-of-cybersecurity/cybersecurity-awareness-training/)
 and [sexual harassment training](https://compliance.wisc.edu/titleix/employee-training/).
 
 The [salary adjustment
-policy](https://policy.wisc.edu/library/UW-5023) does mention the
+policy](https://policy.wisc.edu/library/UW-5023) mentions the
 training requirement. (See Section IV D.)
 
 See also the [sexual harassment
@@ -51,7 +52,7 @@ VIII](https://policy.wisc.edu/library/UW-146#Pol146_VIII) 2.
 
 This appears to be a system-level policy, though I can't find any
 mention of the connection between pay increases and the required
-training.
+training in system-level policy documents.
 
 In the [system-level policy on cybersecurity
 training](https://www.wisconsin.edu/uw-policies/uw-system-administrative-policies/information-security-awareness/),
@@ -67,7 +68,7 @@ In the [system-level sexual harassment
 
 It seems clear that this is a system-wide policy. I found mention of
 the dependence of pay increases on these training courses at the
-following campus:
+following campuses:
 
 - [Green Bay](https://www.uwgb.edu/human-resources/learning-development/required-training/)
 
@@ -86,12 +87,10 @@ It can be difficult to determine whether training obligations have
 been met.
 
 For the sexual harassment and the cybersecurity training, it seems
-that you go to [this site at
-talent.wisc.edu](https://www.talent.wisc.edu/catalog/MyRegistrationsandLearningTranscript/tabid/91/Default.aspx)
-to see "My registrations and learning transcript". Log in with a NetID
-and click "transcript". I think you're looking for "Cybersecurity Awareness
-Training 2022" and "Preventing Sexual Harassment and Sexual Violence
-at UW–Madison 2018 - 2021" or similar.
+that you go to the Office of Human Resources site "[My registrations and learning transcript](https://www.talent.wisc.edu/catalog/MyRegistrationsandLearningTranscript/tabid/91/Default.aspx)".
+Log in with a NetID and click "transcript". I think you're looking for
+"Cybersecurity Awareness Training 2022" and "Preventing Sexual
+Harassment and Sexual Violence at UW–Madison 2018 - 2021" or similar.
 
 In the School of Medicine and Public Health, we also need to take
 HIPAA training (look up course completion information at the
