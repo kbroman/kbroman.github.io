@@ -14,7 +14,7 @@ training](https://it.wisc.edu/about/division-of-information-technology/enterpris
 There are frustrations and concerns among some employees who got
 notice that they would not be receiving the 2% pay increase. There
 appears to be considerable variability across departments and
-schools/colleges in the extent (and possible complete absense) of
+schools/colleges in the extent (and possible complete absence) of
 notifications regarding these requirements, whether an employee has
 fulfilled the requirement, and what training components had not been
 completed.
