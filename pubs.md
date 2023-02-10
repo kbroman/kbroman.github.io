@@ -37,11 +37,14 @@ Kerby RL, Kemis JH, Trujillo EA, Reddy TR, Russell JD, Schueler KL, Stapleton DS
 Rabaglia ME, Seldin M, Gatti DM, Keele GR, Pham DT, Gerdt JP, Vivas EI, Lusis AJ,
 Keller MP, Churchill GA, Blackwell HE, **Broman KW**, Attie AD, Coon
 JJ, Rey FE.
-Systems genetics uncovers microbe-lipid-host connections in the murine gut.
+Genetic mapping of microbial and host traits reveals production of
+immunomodulatory lipids by _Akkermansia muciniphila_ in the murine gut
 [Nat Microbiol](https://www.nature.com/nmicrobiol/), to appear
-([bioRxiv 10.1101/2021.11.29.470403](https://doi.org/10.1101/2021.11.29.470403))
+[![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/36759753/)
+[![pdf](icons16/pdf-icon.png)](https://www.nature.com/articles/s41564-023-01326-w.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1038/s41564-023-01326-w)
 <!-- * 171 * -->
-
+<!-- https://www.nature.com/articles/s41564-023-01326-w.pdf -->
 
 #### 2022
 
