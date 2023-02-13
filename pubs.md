@@ -36,9 +36,9 @@ Zhang Q, Linke V, Overmyer KA, Traeger LL, Kasahara K, Miller IJ, Manson DE, Pol
 Kerby RL, Kemis JH, Trujillo EA, Reddy TR, Russell JD, Schueler KL, Stapleton DS,
 Rabaglia ME, Seldin M, Gatti DM, Keele GR, Pham DT, Gerdt JP, Vivas EI, Lusis AJ,
 Keller MP, Churchill GA, Blackwell HE, **Broman KW**, Attie AD, Coon
-JJ, Rey FE.
+JJ, Rey FE (2023)
 Genetic mapping of microbial and host traits reveals production of
-immunomodulatory lipids by _Akkermansia muciniphila_ in the murine gut
+immunomodulatory lipids by _Akkermansia muciniphila_ in the murine gut.
 [Nat Microbiol](https://www.nature.com/nmicrobiol/), to appear
 [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/36759753/)
 [![pdf](icons16/pdf-icon.png)](https://www.nature.com/articles/s41564-023-01326-w.pdf)
