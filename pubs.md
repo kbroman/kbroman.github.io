@@ -42,9 +42,9 @@ immunomodulatory lipids by _Akkermansia muciniphila_ in the murine gut.
 [Nat Microbiol](https://www.nature.com/nmicrobiol/) 8:424-440
 [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/36759753/)
 [![pdf](icons16/pdf-icon.png)](https://www.nature.com/articles/s41564-023-01326-w.pdf)
-[![doi](icons16/doi-icon.png)](https://doi.org/10.1038/s41564-023-01326-w)
+[![doi](icons16/doi-icon.png)](https://doi.org/10/jz3m)
 <!-- * 171 * -->
-<!-- https://doi.org/10.1038/s41564-023-01326-w -->
+<!-- https://doi.org/10/jz3m -->
 
 #### 2022
 
