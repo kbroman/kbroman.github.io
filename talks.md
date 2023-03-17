@@ -16,7 +16,8 @@ Data cleaning principles
 The culture of open scholarship
 [![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_Big10Libs/oa2023.pdf)
 [![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/Talk_Big10Libs/oa2023_notes.pdf)
-[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Big10Libs)<br/>
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Big10Libs)
+[![video](icons16/video-icon.png)](https://btaa.zoom.us/rec/play/ivGyDtuVq5A0zYNvtcZAqXTgJiTm5Bqhcj-WW92WSNnr2WclYRE3xnXZIlAXz4Iud1sEOnbboAdWLIY7.zRq6Uf_Jr9GlDDHq?continueMode=true&_x_zm_rtaid=CaP5ehq9S5Kz7k2tidv78Q.1673461569137.7c3f6dc5778fe091862f6d3b2b116ba5&_x_zm_rhtaid=82)<br/>
 [The BIG
 Collection](https://btaa.org/library/big-collection/the-big-collection-introduction):
 [A Sequence of
