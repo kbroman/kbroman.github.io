@@ -864,7 +864,7 @@ Bell JT, Brockmann GA, Wergedal JE, Bult C, Paigen B, Flint J, Tsaih
 S-W, Churchill GA, **Broman KW** (2009) A new
 standard genetic map for the laboratory mouse. [Genetics](https://academic.oup.com/genetics) 182:1335-1344
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/19535546)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/182/4/1335/37542121/genetics1335.pdf)
+[![pdf](icons16/pdf-icon.png)](https://watermark.silverchair.com/genetics1335.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAtgwggLUBgkqhkiG9w0BBwagggLFMIICwQIBADCCAroGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMVVr7_sH7RP275cyUAgEQgIICi9sUZwsXcbowwsL2UhFh3py4Z6jCD2pl2Vbxv9Ql_QzxZOdmZ7fV0P1OEylFJ-weT8jORZegt4q9S959KHtANRBQjpyDigb1qX)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.109.105486)
 <!-- * 88 * -->
 <!-- https://doi.org/10.1534/genetics.109.105486 -->
