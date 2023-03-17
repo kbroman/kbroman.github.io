@@ -6,6 +6,13 @@ description: Karl Broman's talks
 
 ### 2023
 
+Data cleaning principles
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_DataCleaning2023/data_cleaning.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/Talk_DataCleaning2023/data_cleaning_notes.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_DataCleaning2023)<br/>
+[CIBM program](https://www.cibm.wisc.edu),
+[University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Mar 21_)
+
 The culture of open scholarship
 [![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_Big10Libs/oa2023.pdf)
 [![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/Talk_Big10Libs/oa2023_notes.pdf)
@@ -265,7 +272,7 @@ Steps toward reproducible research
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr.pdf)
 [![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)<br/>
-[CIBM program](http://www.cibm.wisc.edu),
+[CIBM program](https://www.cibm.wisc.edu),
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Nov 27_)
 
 
@@ -1077,7 +1084,7 @@ Mapping multiple QTL in experimental crosses
 Genetic maps: Past, present and future
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/cibm08.pdf)
 <br/>
-[Computation and Informatics in Biology and Medicine (CIBM)](http://www.cibm.wisc.edu) [seminar series](http://www.cibm.wisc.edu/seminars.html), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Apr 22_)
+[Computation and Informatics in Biology and Medicine (CIBM)](https://www.cibm.wisc.edu) [seminar series](https://www.cibm.wisc.edu/seminars.html), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Apr 22_)
 
 Genetic maps: Past, present and future
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/geneticmaps08.pdf)
