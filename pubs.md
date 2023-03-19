@@ -1834,7 +1834,7 @@ analysis in the Collaborative Cross and Diversity Outbred mouse
 populations. [bioRxiv](https://biorxiv.org)
 [doi:10.1101/2022.03.15.484471](https://doi.org/10.1101/2022.03.15.484471)
 [![EuropePMC](icons16/pubmed-icon.png)](https://europepmc.org/article/PPR/PPR469215)
-[![pdf](icons16/pdf-icon.png)](https://www.biorxiv.org/content/10.1101/2022.03.15.484471v2.full.pdf
+[![pdf](icons16/pdf-icon.png)](https://www.biorxiv.org/content/10.1101/2022.03.15.484471v2.full.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1101/2022.03.15.484471)
 
 Zhang Q, Linke V, Overmyer KA, Traeger LL, Kasahara K, Miller IJ,
