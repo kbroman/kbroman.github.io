@@ -1673,6 +1673,7 @@ subjects. [Stat Sci](https://www.imstat.org/journals-and-publications/statistica
 [![data](icons16/data-icon.png)](https://www.biostat.wisc.edu/~kbroman/data/index.html#jim)
 [![R/npem](icons16/R-icon.png)](https://github.com/kbroman/npem)
 <!-- * 10 * -->
+<!-- https://doi.org/10.1214/ss/1028905971 -->
 
 #### 1996
 
@@ -1759,10 +1760,11 @@ relationships in the presence of genotyping errors. [Am J Hum Genet](https://www
 ### <a name="chapters"></a>proceedings and book chapters
 
 **Broman KW** (2012) Applied statistics and exposition (commentary).  In: Dudoit S (ed) _Selected Works of Terry Speed_, Springer, pp 353-355
+[![pdf](icons16/pdf-icon.png)](https://link.springer.com/content/pdf/10.1007/978-1-4614-1347-9_8.pdf)
 [![Springer](icons16/springer-icon.png)](https://link.springer.com/book/10.1007/978-1-4614-1347-9)
 [![Amazon](icons16/amazon-icon.png)](https://www.amazon.com/gp/product/146141346X?ie=UTF8&tag=7210-20)
-\[**Note**: The [PDFs at Springer](https://link.springer.com/book/10.1007/978-1-4614-1347-9)
-are free.\]
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1007/978-1-4614-1347-9_8)
+<!-- https://doi.org/10.1007/978-1-4614-1347-9_8 -->
 
 Gonz&aacute;lez-Recio O, L&oacute;pez de
 Maturana E, Vega AT, Engelman CD, **Broman KW** (2009) Detecting
@@ -1783,6 +1785,8 @@ Gray IC (eds) _Bioinformatics for Geneticists_, 2nd edition,
 [![Abstract](icons16/pubmed-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/bioinfchap_abstract.html)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/bioinf_chapter.pdf)
 [![Amazon](icons16/amazon-icon.png)](https://www.amazon.com/gp/product/0470026200?ie=UTF8&tag=7210-20)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1002/9780470059180.ch2)
+<!-- https://doi.org/10.1002/9780470059180.ch2 -->
 
 **Broman KW**, Matsumoto N, Giglio S,
 Martin CL, Roseberry JA, Zuffardi O, Ledbetter DH, Weber JL (2003)
@@ -1824,7 +1828,9 @@ Notes-Monograph Series, Vol 33, pp 114-142
 [![Abstract](icons16/pubmed-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/qtlreview_abstract.html)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/qtlreview.pdf)
 [![Amazon](icons16/amazon-icon.png)](https://www.amazon.com/gp/product/0940600471?ie=UTF8&tag=7210-20)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1214/lnms/1215455550)
 <!-- * 1 * -->
+<!-- https://doi.org/10.1214/lnms/1215455550 -->
 
 ### <a name="techreports"></a>technical reports and preprints
 
