@@ -130,7 +130,8 @@ service from [Gary Churchill's group](https://churchill-lab.jax.org)
 at the [Jackson Lab](https://jax.org). See also the [Cox genetic map
 V3](https://github.com/kbroman/CoxMapV3), updated for the [mouse
 genome genome build 39](https://www.ncbi.nlm.nih.gov/assembly/GCF_000001635.27/)
-coordinates.
+coordinates, and [our annotation files for the MUGA
+arrays](https://github.com/kbroman/MUGAarrays).
 
 ---
 
