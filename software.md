@@ -17,7 +17,7 @@ description: Karl Broman's software
 
 ---
 
-#### <a name="qtl"></a>[R/qtl](https://rqtl.org)
+#### <a name="qtl"></a>[R/qtl](https://rqtl.org) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.3688461)
 
 An [R](https://www.r-project.org/) package with tools for analyzing QTL experiments.
 
@@ -29,7 +29,7 @@ Google group, [R/qtl discussion](https://groups.google.com/group/rqtl-disc)
 
 ---
 
-#### <a name="qtl2"></a>[R/qtl2](https://kbroman.org/qtl2)
+#### <a name="qtl2"></a>[R/qtl2](https://kbroman.org/qtl2) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.3237772)
 
 A reimplementation of [R/qtl](https://rqtl.org), to better handle
 high-dimensional data and complex cross designs (such as the
@@ -47,7 +47,7 @@ Google group, [R/qtl2 discussion](https://groups.google.com/group/rqtl2-disc)
 
 ---
 
-#### <a name="qtlcharts"></a>[R/qtlcharts](https://kbroman.org/qtlcharts) and [d3panels](https://kbroman.org/d3panels)
+#### <a name="qtlcharts"></a>[R/qtlcharts](https://kbroman.org/qtlcharts) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.4049918) and [d3panels](https://kbroman.org/d3panels) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.5418277)
 
 [R/qtlcharts](https://kbroman.org/qtlcharts) is an
 [R](https://www.r-project.org) package providing [D3](https://d3js.org)-based
@@ -61,7 +61,7 @@ dotchart, and heatmap).
 
 ---
 
-#### <a name="broman"></a>[R/broman](https://github.com/kbroman/broman)
+#### <a name="broman"></a>[R/broman](https://github.com/kbroman/broman) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.2636796)
 
 Various R functions that I find useful, assembled into an R package.
 
@@ -77,7 +77,7 @@ quantitative finance, and statistics). The package is part of the
 
 ---
 
-#### <a name="lineup"></a>[R/lineup](https://github.com/kbroman/lineup) and <a name="lineup2"></a>[R/lineup2](https://github.com/kbroman/lineup2)
+#### <a name="lineup"></a>[R/lineup](https://github.com/kbroman/lineup) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.4277411) and <a name="lineup2"></a>[R/lineup2](https://github.com/kbroman/lineup2) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.4118180)
 
 [R](https://www.r-project.org) packages for detecting and correcting
 sample mix-ups between two sets of measurements, such as between gene
@@ -89,7 +89,7 @@ more general.
 
 ---
 
-#### <a name="simcross"></a>[R/simcross](https://kbroman.org/simcross)
+#### <a name="simcross"></a>[R/simcross](https://kbroman.org/simcross) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.4032914)
 
 An [R](https://www.r-project.org) package for simulating general
 experimental crosses (such as advanced intercross lines and the
@@ -97,7 +97,8 @@ diversity outcross), for use with [R/qtl](https://rqtl.org).
 
 ---
 
-#### <a name="xoi"></a>[R/xoi](https://github.com/kbroman/xoi)
+#### <a name="xoi"></a>[R/xoi](https://github.com/kbroman/xoi) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.3087093)
+
 
 An [R](https://www.r-project.org) package for the analysis of crossover
 interference in experimental crosses, particularly regarding the gamma
@@ -105,7 +106,7 @@ model.
 
 ---
 
-#### <a name="mbmixture"></a>[R/mbmixture](https://github.com/kbroman/mbmixture)
+#### <a name="mbmixture"></a>[R/mbmixture](https://github.com/kbroman/mbmixture) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.4067048)
 
 An [R](https://www.r-project.org) package for evaluating whether a microbiome sample is the mixture of
 two source samples. We are thinking of shotgun sequencing data on the
@@ -120,7 +121,7 @@ errors. See the related [preprint](https://doi.org/10.1101/529040).
 
 ---
 
-#### <a name="mmconvert"></a>[R/mmconvert](https://github.com/rqtl/mmconvert)
+#### <a name="mmconvert"></a>[R/mmconvert](https://github.com/rqtl/mmconvert) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.5565363)
 
 An [R](https://www.r-project.org) package for converting mouse genome
 positions between genetic and physical maps. This is a
@@ -141,7 +142,7 @@ Various examples of [D3](https://d3js.org)-based interactive graphs.
 
 ---
 
-#### <a name="lmmlite"></a>[R/lmmlite](https://kbroman.org/lmmlite)
+#### <a name="lmmlite"></a>[R/lmmlite](https://kbroman.org/lmmlite) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.5149506)
 
 An [R](https://www.r-project.org) package for the fit of a simple
 linear mixed model useful for genome-wide association studies
@@ -149,7 +150,7 @@ linear mixed model useful for genome-wide association studies
 
 ---
 
-#### <a name="negenes"></a>[R/negenes](https://github.com/kbroman/negenes)
+#### <a name="negenes"></a>[R/negenes](https://github.com/kbroman/negenes) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.3361121)
 
 An [R](https://www.r-project.org) package for estimating the number of essential genes in a genome
 on the basis of data from a random transposon mutagenesis experiment.
@@ -158,7 +159,7 @@ See the related [technical report](https://www.biostat.wisc.edu/~kbroman/publica
 
 ---
 
-#### <a name="ricalc"></a>[R/ricalc](https://github.com/kbroman/ricalc)
+#### <a name="ricalc"></a>[R/ricalc](https://github.com/kbroman/ricalc) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.5149488)
 
 An [R](https://www.r-project.org) package for calculation of two- and three-locus probabilities in
 multiple-strain recombinant inbred lines, and the simulation of such lines.
@@ -170,7 +171,7 @@ recombinant inbred lines.  [Genetics](https://academic.oup.com/genetics) 169:113
 
 ---
 
-#### <a name="npem"></a>[R/npem](https://github.com/kbroman/npem)
+#### <a name="npem"></a>[R/npem](https://github.com/kbroman/npem) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.5149486)
 
 An [R](https://www.r-project.org) package for analyzing cell proliferation assays using the
 normal-Poisson mixture model described by Broman et al.
@@ -178,7 +179,7 @@ normal-Poisson mixture model described by Broman et al.
 
 ---
 
-#### <a name="fingers"></a>[R/fingers](https://github.com/kbroman/fingers)
+#### <a name="fingers"></a>[R/fingers](https://github.com/kbroman/fingers) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.5149503)
 
 An [R](https://www.r-project.org) package for the inference of full sibling families with data on
 dominant genetic markers (such as RAPDs), following the hierarchicical
@@ -188,14 +189,14 @@ Black IV.
 
 ---
 
-#### <a name="geesibsor"></a>[R/geesibsor](https://github.com/kbroman/geesibsor)
+#### <a name="geesibsor"></a>[R/geesibsor](https://github.com/kbroman/geesibsor) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.5149504)
 
 Software for estimating the odds ratio for siblings for a binary
 phenotype, adjusting for covariates, using generalized estimating equations.
 
 ---
 
-#### <a name="qtlsim"></a>[R/qtlsim](https://github.com/kbroman/qtlsim)
+#### <a name="qtlsim"></a>[R/qtlsim](https://github.com/kbroman/qtlsim) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.5149490)
 
 Software for testing, by computer simulation, various approaches
 to mapping QTLs in a backcross experiment.  This was written for the
@@ -260,3 +261,7 @@ Download: [source](https://www.biostat.wisc.edu/software/f2/f2_0.50.tar.gz) |
 Sample data
 \[[tar.gz](https://www.biostat.wisc.edu/software/f2/example.tar.gz) |
 [zip](https://www.biostat.wisc.edu/software/f2/example.zip)\]
+
+<!--
+[![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.thisdoi)
+-->
