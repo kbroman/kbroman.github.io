@@ -64,8 +64,8 @@ he/him
         </div>
 
         <div class="span2">
-        <a href="../pics/karl_2014-03-30.jpg">
-            <img src="../pics/karl_2014-03-30_small.jpg"
+        <a href="../pics/karl_ratml.jpg">
+            <img src="../pics/karl_ratml_small.jpg"
                   title="Karl Broman" alt="Karl Broman"/></a>
         </div>
     </div>
