@@ -144,6 +144,13 @@ arrays](https://github.com/kbroman/MUGAarrays).
 
 ---
 
+#### <a name="GNapi"></a>[R/GNapi](https://github.com/rqtl/GNapi) [![zenodo DOI](icons16/doi-icon.png)](https://zenodo.org/badge/latestdoi/73142838)
+
+An [R](https://www.r-project.org) package to interface with the
+[GeneNetwork](https://genenetwork.org) API.
+
+---
+
 #### <a name="D3"></a>[D3 examples](https://www.biostat.wisc.edu/~kbroman/D3/)
 
 Various examples of [D3](https://d3js.org)-based interactive graphs.
