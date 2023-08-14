@@ -582,6 +582,22 @@ Biocomputing I: Perl for bioinformatics (Pineda)<br/>
 - [resources](https://kbroman.org/AdvData/resources.html)
 
 
+#### [Biomedical data science scholarly literature (BMI 882, Spring 2023)](https://kbroman.org/BMI882)
+
+- [schedule](https://kbroman.org/BMI882/schedule.html)
+- [syllabus](https://kbroman.org/BMI882/syllabus.html)
+- [assignments](https://kbroman.org/BMI882/assignments.html)
+- [resources](https://kbroman.org/BMI882/resources.html)
+
+
+#### [Biomedical data science professional skills (BMI 884, Spring 2023)](https://kbroman.org/BMI884)
+
+- [schedule](https://kbroman.org/BMI884/schedule.html)
+- [syllabus](https://kbroman.org/BMI884/syllabus.html)
+- [assignments](https://kbroman.org/BMI884/assignments.html)
+- [resources](https://kbroman.org/BMI884/resources.html)
+
+
 #### Statistical methods for molecular biology (Stat 877), with many others (Spring 2019)
 
 - [Introduction to QTL
