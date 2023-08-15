@@ -20,7 +20,8 @@ University of California, Berkeley; his PhD advisor was
 He was a postdoctoral fellow with James Weber at the
 [Marshfield Clinic Research Foundation](https://www.marshfieldresearch.org),
 1997&ndash;1999. He
-was a faculty member in the [Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/) at Johns
+was a faculty member in the [Department of Biostatistics](https://publichealth.jhu.edu/departments/biostatistics)
+at Johns
 Hopkins University, 1999&ndash;2007. In 2007, he moved to the
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu).
 
