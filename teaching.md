@@ -26,7 +26,7 @@ description: Karl Broman's teaching
 - [resources](https://kbroman.org/BMI881/resources.html)
 
 
-#### [Biomedical data science professional skills (BMI 883, Fall 2023)](https://kbroman.org/BMI883)
+#### [Biomedical data science professional skills (BMI 883/884, Fall 2023)](https://kbroman.org/BMI883)
 
 - [schedule](https://kbroman.org/BMI883/schedule.html)
 - [syllabus](https://kbroman.org/BMI883/syllabus.html)
