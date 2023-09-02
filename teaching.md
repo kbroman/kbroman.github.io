@@ -62,12 +62,6 @@ RStudio: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v
 ---
 
 #### Reproducible Research Workshop
-  [Reproducible Research Workshop](https://github.com/SISBID/Module3),
-  [Summer Institute in Statistics for Big Data](https://www.biostat.washington.edu/suminst/sisbid2017/modules/BD1703),
-  Seattle, WA (17-19 July 2017)
-
-  - [Course materials](https://github.com/SISBID/Module3)
-  - [Resources](https://github.com/SISBID/Module3/blob/master/resources.md)
 
   [Reproducible Research Workshop](https://github.com/kabagg/sisbid_2018_rr),
   [Summer Institute in Statistics for Big Data](https://www.biostat.washington.edu/suminst/sisbid2018/modules/BD1802),
@@ -75,6 +69,13 @@ RStudio: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v
 
   - [Course materials](https://github.com/kabagg/sisbid_2018_rr)
   - [Resources](https://github.com/kabagg/sisbid_2018_rr/blob/master/Resources/resources.md)
+
+  [Reproducible Research Workshop](https://github.com/SISBID/Module3),
+  [Summer Institute in Statistics for Big Data](https://www.biostat.washington.edu/suminst/sisbid2017/modules/BD1703),
+  Seattle, WA (17-19 July 2017)
+
+  - [Course materials](https://github.com/SISBID/Module3)
+  - [Resources](https://github.com/SISBID/Module3/blob/master/resources.md)
 
 ---
 
