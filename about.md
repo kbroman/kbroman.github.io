@@ -26,7 +26,7 @@ Hopkins University, 1999&ndash;2007. In 2007, he moved to the
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu).
 
 Karl is an applied statistician focusing on problems in genetics and
-genomics &ndash; particularly the analysis of meiotic recombination and the
+genomics, particularly the analysis of meiotic recombination and the
 genetic dissection of complex traits in experimental organisms.
 He is an enthusiastic advocate for open science, open software,
 reproducible research, and interactive data visualization.
