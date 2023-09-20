@@ -27,7 +27,7 @@ Hopkins University, 1999&ndash;2007. In 2007, he moved to the
 
 Karl is an applied statistician focusing on problems in genetics and
 genomics, particularly the analysis of meiotic recombination and the
-genetic dissection of complex traits in experimental organisms.
+genetics of complex traits in experimental organisms.
 He is an enthusiastic advocate for open science, open software,
 reproducible research, and interactive data visualization.
 
