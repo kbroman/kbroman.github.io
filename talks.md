@@ -87,7 +87,7 @@ Generic HMM for multi-parent populations
 [![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_GenericHMM/generic_hmm.pdf)
 [![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/Talk_GenericHMM/generic_hmm_notes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_GenericHMM)<br/>
-[Complex Trait Community meeting](http://www.complextrait.org/ctc2021/) (_Sep 1_)
+[Complex Trait Community meeting](https://complextrait.org/meetings/ctc-rg2021/) (_Sep 1_)
 
 Steps toward reproducible research
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr.pdf)
