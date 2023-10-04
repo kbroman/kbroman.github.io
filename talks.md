@@ -86,7 +86,8 @@ Series](https://opar.io/training/osga-webinar-series-2020.html)
 Generic HMM for multi-parent populations
 [![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_GenericHMM/generic_hmm.pdf)
 [![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/Talk_GenericHMM/generic_hmm_notes.pdf)
-[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_GenericHMM)<br/>
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_GenericHMM)
+[![video](icons16/video-icon.png)](https://youtu.be/X_znSBilfGQ)<br/>
 [Complex Trait Community meeting](https://complextrait.org/meetings/ctc-rg2021/) (_Sep 1_)
 
 Steps toward reproducible research
