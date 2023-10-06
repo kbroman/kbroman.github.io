@@ -242,7 +242,7 @@ Sample mix-ups and mixtures in microbiome data in DO mice
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ctc2019.pdf)
 [![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ctc2019_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_CTC2019) <br/>
-[Complex Trait Community meeting](http://ratgenes.org/ctc2019),
+[Complex Trait Community meeting](https://ratgenes.org/ctc2019),
 San Diego, California (_Jun 10_)
 
 Steps toward reproducible research
