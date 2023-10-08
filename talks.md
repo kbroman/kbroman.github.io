@@ -288,7 +288,7 @@ Austin, Texas (_Jan 17_)
 Steps toward reproducible research
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/cmp2018.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_CMP2018)<br/>
-[Cellular & Molecular Pathology Graduate Program](http://cmp.wisc.edu),
+[Cellular & Molecular Pathology Graduate Program](https://cmp.wisc.edu),
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Nov 29_)
 
 
