@@ -312,7 +312,7 @@ Cleaning genotype data in diversity outbred mice
 [![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_JAX2018/jax2018.pdf)
 [![html](icons16/html-icon.png)](https://kbroman.org/Talk_JAX2018)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_JAX2018)<br/>
-[Churchill Lab](http://churchill-lab.jax.org/website/) group meeting, [The Jackson Laboratory](https://www.jax.org), Bar Harbor, Maine (_Oct 17_)
+[Churchill Lab](https://churchill-lab.jax.org/website/) group meeting, [The Jackson Laboratory](https://www.jax.org), Bar Harbor, Maine (_Oct 17_)
 
 
 Data management
