@@ -343,7 +343,7 @@ Glasgow, UK (_Jun 21_)
 R/qtl2: QTL mapping in multi-parent populations
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rqtl2_purdue2018.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Purdue2018)<br/>
-[Purdue Symposium on Statistics](http://www.stat.purdue.edu/symp2018)
+[Purdue Symposium on Statistics](https://www.stat.purdue.edu/symp2018)
 (_Jun 7_)
 
 18 years of R/qtl: maintaining, supporting, and sustaining scientific software<br/>
