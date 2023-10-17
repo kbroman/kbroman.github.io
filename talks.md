@@ -353,7 +353,7 @@ R/qtl2: QTL mapping in multi-parent populations
 &nbsp; Interactive graph:
 [![many box plots](icons16/html-icon.png)](https://bit.ly/many_boxplots)
 <br/>
-[Department of Statistics](http://www.stat.colostate.edu),
+[Department of Statistics](https://www.stat.colostate.edu),
 [Colorado State University](https://www.colostate.edu)
 (_Apr 23_)
 
