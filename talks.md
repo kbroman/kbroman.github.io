@@ -362,7 +362,7 @@ Steps toward reproducible research
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr.pdf)
 [![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)<br/>
-[David O'Connor's lab](http://labs.pathology.wisc.edu/oconnor),
+[David O'Connor's lab](https://dho.pathology.wisc.edu/)
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Mar 19_)
 
 
