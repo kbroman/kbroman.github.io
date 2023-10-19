@@ -418,7 +418,7 @@ R/qtl2: high-dimensional data & multi-parent populations <br/>
 [![lod curves](icons16/html-icon.png)](https://bit.ly/lod_and_effect)
 [![many box plots](icons16/html-icon.png)](https://bit.ly/many_boxplots)
 <br/>
-[Department of Bioinformatics and Genomics](http://bioinformatics.uncc.edu/),
+[Department of Bioinformatics and Genomics](https://cci.charlotte.edu/departments/bioinformatics/about-big)
 University of North Carolina at Charlotte (_Sep 22_)
 
 Genetic analysis of high-throughput phenotypes: challenges and opportunities<br/>
