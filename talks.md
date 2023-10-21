@@ -430,7 +430,7 @@ Genetic analysis of high-throughput phenotypes: challenges and opportunities<br/
 [![permutation test](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/BDS2017-07/perm_test)
 [![many box plots](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/D3/manyboxplots)
 <br/>
-[Workshop on Systems Genetics of Neurodegenerative Disease](http://sgn2017.org),
+[Workshop on Systems Genetics of Neurodegenerative Disease](https://sysgenschool.org/sgn2017/),
 Frauenchiemsee, Germany (_Aug 27_)
 
 Genetics of extreme body size evolution in
