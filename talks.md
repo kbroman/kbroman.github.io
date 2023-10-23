@@ -451,7 +451,7 @@ mice from Gough Island<br/>
 R/qtl2: high-dimensional data & multi-parent populations
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rqtl2_ctc2017.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Rqtl2_CTC2017)<br/>
-[Complex Trait Community meeting](http://complextrait.org/ctc2017),
+[Complex Trait Community meeting](https://complextrait.org/ctc_archive/ctc2017/index.html),
 Memphis, Tennessee (_Jun 14_)
 
 Steps toward reproducible research
