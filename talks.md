@@ -475,7 +475,7 @@ Salvaging a genetics project: Identifying and correcting sample mix-ups in high-
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_SampleMixups)
 [![video](icons16/video-icon.png)](https://youtu.be/YPd0R-LPI6U)<br/>
 [Berkeley Institute for Data Science](https://bids.berkeley.edu),
-[University of California, Berkeley](http://www.berkeley.edu) (_Apr 7_)
+[University of California, Berkeley](https://www.berkeley.edu) (_Apr 7_)
 
 Complex trait genetics in mice
 <br/>
