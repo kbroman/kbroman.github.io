@@ -4,6 +4,20 @@ title: videos
 description: Karl Broman's recorded talks
 ---
 
+### 2023
+
+The culture of open scholarship
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_Big10Libs/oa2023.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/Talk_Big10Libs/oa2023_notes.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Big10Libs)
+[![video](icons16/video-icon.png)](https://btaa.zoom.us/rec/play/ivGyDtuVq5A0zYNvtcZAqXTgJiTm5Bqhcj-WW92WSNnr2WclYRE3xnXZIlAXz4Iud1sEOnbboAdWLIY7.zRq6Uf_Jr9GlDDHq?continueMode=true&_x_zm_rtaid=CaP5ehq9S5Kz7k2tidv78Q.1673461569137.7c3f6dc5778fe091862f6d3b2b116ba5&_x_zm_rhtaid=82)<br/>
+[The BIG
+Collection](https://btaa.org/library/big-collection/the-big-collection-introduction):
+[A Sequence of
+Convenings](https://btaa.org/library/big-collection/a-sequence-of-convenings),
+[Big 10 Academic Alliance Libraries](https://btaa.org/library/Libraries)
+(_Jan 10_)
+
 ### 2021
 
 Data organization in spreadsheets
@@ -14,6 +28,13 @@ Data organization in spreadsheets
 [NIDA Center of Excellence in Omics, Systems Genetics, and the Addictome (OSGA) Webinar
 Series](https://opar.io/training/osga-webinar-series-2020.html)
 (_Sep 24_)
+
+Generic HMM for multi-parent populations
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_GenericHMM/generic_hmm.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/Talk_GenericHMM/generic_hmm_notes.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_GenericHMM)
+[![video](icons16/video-icon.png)](https://youtu.be/X_znSBilfGQ)<br/>
+[Complex Trait Community meeting](https://complextrait.org/meetings/ctc-rg2021/) (_Sep 1_)
 
 Identifying sample mix-ups in eQTL data
 [![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_OSGA2021/osga2021.pdf)
