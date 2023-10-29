@@ -520,7 +520,7 @@ Creating effective figures and tables
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/graphs2017.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Graphs)
 <br/>
-[Department of Pathology and Laboratory Medicine](http://www.pathology.wisc.edu),
+[Department of Pathology and Laboratory Medicine](https://www.pathology.wisc.edu),
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Jan 26_)
 
 
