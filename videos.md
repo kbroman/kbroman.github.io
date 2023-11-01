@@ -94,7 +94,7 @@ R/qtl2: rewrite of a very old R package
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rqtl2_rstudio2019.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_RStudio2019)
 [![video](icons16/video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/r-qtl2-rewrite-of-a-very-old-r-package)<br/>
-[rstudio::conf](http://www.cvent.com/events/rstudio-conf-austin/event-summary-dd6d75526f3c4554b67c4de32aeffb47.aspx),
+[rstudio::conf](https://www.rstudio.com/resources/rstudioconf-2019/),
 Austin, Texas (_Jan 17_)
 
 
@@ -105,7 +105,7 @@ Salvaging a genetics project: Identifying and correcting sample mix-ups in high-
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_SampleMixups)
 [![video](icons16/video-icon.png)](https://youtu.be/YPd0R-LPI6U)<br/>
 [Berkeley Institute for Data Science](https://bids.berkeley.edu),
-[University of California, Berkeley](http://www.berkeley.edu) (_Apr 7_)
+[University of California, Berkeley](https://www.berkeley.edu) (_Apr 7_)
 
 ###  2016
 
@@ -113,7 +113,7 @@ Steps toward reproducible research
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_ASA2016.pdf)
 [![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_ASA2016_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)
-[![video](icons16/video-icon.png)](http://magazine.amstat.org/videos/education_webinars/ReproducibleResearch.mp4)<br/>
+[![video](icons16/video-icon.png)](https://magazine.amstat.org/videos/education_webinars/ReproducibleResearch.mp4)<br/>
 [Web seminar on Teaching Reproducible Research](https://www.amstat.org/ASA/Education/Web-Based-Lectures.aspx#TRR),
 [American Statistical Association](https://www.amstat.org) (_Nov 16_)
 
