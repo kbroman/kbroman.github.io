@@ -612,7 +612,7 @@ J Med Genet B Neuropsychiatr Genet](https://onlinelibrary.wiley.com/journal/10.1
 &#346;, An&eacute; C, Payseur BA (2012)  Mapping quantitative trait loci
 onto a phylogenetic tree.  [Genetics](https://academic.oup.com/genetics) 192:267-279
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/22745229)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/192/1/267/37822692/genetics0267.pdf)
+[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/192/1/267/49441576/genetics0267.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/phyloQTLpaper)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.112.142448)
 <!-- * 120 * -->
