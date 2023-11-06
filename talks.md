@@ -9,7 +9,8 @@ description: Karl Broman's talks
 Data cleaning principles
 [![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_DataCleaning/data_cleaning.pdf)
 [![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/Talk_DataCleaning/data_cleaning_notes.pdf)
-[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_DataCleaning)<br/>
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_DataCleaning)
+[![video](icons16/video-icon.png)](https://youtu.be/0tOnzTmMi4A)<br/>
 [Complex Trait Community meeting](https://complextrait.org/meetings/ctc-rg2023)
 (_Oct 11_)
 
