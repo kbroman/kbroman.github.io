@@ -554,8 +554,8 @@ Creating effective figures and tables
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/graphs_CDHA2016.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Graphs/tree/CDHA2016)
 <br/>
-[Demography Training Seminar](http://www.ssc.wisc.edu/cdha/seminars/training.html),
-[Center for Demography of Health and Aging](http://www.ssc.wisc.edu/cdha/),
+[Demography Training Seminar](https://cdha.wisc.edu/training/),
+[Center for Demography of Health and Aging](https://cdha.wisc.edu),
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Oct 5_)
 
 Dissection and fine-mapping of _trans_-eQTL hotspots
