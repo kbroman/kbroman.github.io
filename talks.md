@@ -640,7 +640,7 @@ Science](https://s01.123signup.com/servlet/SignUpMember?PG=1531573182300&P=15315
 Interactive graphics for genetic data
 [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/Genentech2016)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Genentech2016)<br/>
-[Genentech](http://www.gene.com), South San Francisco, California
+[Genentech](https://www.gene.com), South San Francisco, California
 (_Mar 15_)
 
 
