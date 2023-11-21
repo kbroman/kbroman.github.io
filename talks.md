@@ -658,7 +658,7 @@ Reproducible research
 [![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_RDS2015_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)
 <br/>
-[Holz Series in Research Data Management](http://researchdata.wisc.edu/holz-series/),
+[Holz Series in Research Data Management](https://researchdata.wisc.edu/holz-series/),
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Nov 18_)
 
 Reproducible research
