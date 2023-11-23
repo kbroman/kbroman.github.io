@@ -676,7 +676,7 @@ Interactive graphics for genetic data
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_BMI2015)<br/>
 [Division of Biostatistics](https://www.uthsc.edu/prevmed/biostats.php),
 [Department of Preventive Medicine](https://www.uthsc.edu/prevmed),
-[University of Tennessee Health Science Center](http://uthsc.edu),
+[University of Tennessee Health Science Center](https://uthsc.edu),
 Memphis, Tennessee (_Nov 2_)
 
 Creating effective figures and tables
