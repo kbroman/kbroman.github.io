@@ -696,7 +696,7 @@ The genetic analysis of high-throughput phenotypes
 [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/Texas2015)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Texas2015)<br/>
 [Department of Soil and Crop Sciences](https://soilcrop.tamu.edu/),
-[Texas A&amp;M](http://www.tamu.edu/), College Station, Texas (_Sep 1_)
+[Texas A&amp;M](https://www.tamu.edu/), College Station, Texas (_Sep 1_)
 
 Interactive graphics for high-dimensional genetic data
 [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/JSM2015)
