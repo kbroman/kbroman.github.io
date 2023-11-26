@@ -701,7 +701,7 @@ The genetic analysis of high-throughput phenotypes
 Interactive graphics for high-dimensional genetic data
 [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/JSM2015)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_JSM2015)<br/>
-[Joint Statistical Meetings](http://www.amstat.org/meetings/JSM/2015),
+Joint Statistical Meetings,
 Seattle, Washington (_Aug 10_)
 
 Interactive graphics for genetic data
