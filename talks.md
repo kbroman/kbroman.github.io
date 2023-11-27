@@ -230,7 +230,7 @@ Genetics of extreme body size evolution in mice from Gough Island<br/>
 Why Javascript?
 [![html](icons16/html-icon.png)](https://kbroman.org/Talk_JSM2019)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_JSM2019)<br/>
-[Joint Statistical Meetings](https://www.amstat.org/meetings/jsm/2019/),
+[Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2019/),
 Denver, Colorado (_Jul 30_)
 
 QTL mapping in MAGIC populations with R/qtl2
@@ -574,7 +574,7 @@ Steps toward reproducible research
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_JSM2016.pdf)
 [![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_JSM2016_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)<br/>
-[Joint Statistical Meetings](https://www.amstat.org/meetings/jsm/2016/),
+[Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2016/),
 Chicago, Illinois (_Aug 3_)
 
 Steps toward reproducible research
@@ -701,7 +701,7 @@ The genetic analysis of high-throughput phenotypes
 Interactive graphics for high-dimensional genetic data
 [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/JSM2015)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_JSM2015)<br/>
-Joint Statistical Meetings,
+[Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2015/),
 Seattle, Washington (_Aug 10_)
 
 Interactive graphics for genetic data
@@ -1323,7 +1323,7 @@ The genomes of recombinant inbred lines
 [![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/csps05_ho.pdf)
 <br/>
 [Joint
-Statistical Meetings](http://www.amstat.org/meetings/jsm/2005/index.cfm), Minneapolis, MN (_Aug 11_)
+Statistical Meetings](http://ww2.amstat.org/meetings/jsm/2005/), Minneapolis, MN (_Aug 11_)
 
 The genomes of recombinant inbred lines
 [![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/csps05.ppt)
@@ -1441,7 +1441,7 @@ The genomes of recombinant inbred lines
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/jsm04.pdf)
 <br/>
 [Joint
-Statistical Meetings](http://www.amstat.org/meetings/jsm/2004/index.cfm), Toronto, Canada (_Aug 8_)
+Statistical Meetings](http://ww2.amstat.org/meetings/jsm/2004/), Toronto, Canada (_Aug 8_)
 
 The genomes of recombinant inbred lines
 [![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ctc04.ppt)
@@ -1559,7 +1559,7 @@ by random transposon mutagenesis
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/jsm03_ho.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Mtb)
 <br/>
-Joint Statistical Meetings, San Francisco (_Aug 5_)
+[Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2003/), San Francisco (_Aug 5_)
 
 Principles of experimental design and sample
 size determination for animal-based research
@@ -1615,7 +1615,7 @@ Birmingham (_Oct 9_)
 
 Model selection for QTL mapping
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rss_ho.pdf)<br/>
-Joint Statistical Meetings, New York, NY (_Aug 14_)
+[Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2002/), New York, NY (_Aug 14_)
 
 Model selection for QTL mapping
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rss_ho.pdf)
