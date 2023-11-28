@@ -707,7 +707,7 @@ Seattle, Washington (_Aug 10_)
 Interactive graphics for genetic data
 [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/BioC2015)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_BioC2015)<br/>
-[BioC 2015 conference](http://bioconductor.org/help/course-materials/2015/BioC2015/),
+[BioC 2015 conference](https://bioconductor.org/help/course-materials/2015/BioC2015/),
 Seattle, Washington (_Jul 21_)
 
 Reproducible research
