@@ -722,7 +722,7 @@ Dissecting and fine-mapping _trans_-eQTL hotspots
 [![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/trans_eqtl_hotspots_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_TransHotspots)
 <br/>
-[Complex Trait Community annual meeting](http://complextrait.org/ctc2015),
+[Complex Trait Community annual meeting](https://complextrait.org/ctc_archive/ctc2015/index.html),
 Portland, Oregon (_Jun 11_)
 
 Reproducible research
