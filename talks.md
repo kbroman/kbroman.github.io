@@ -730,8 +730,7 @@ Reproducible research
 [![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes/tree/JAX_CGD)
 <br/>
-Annual retreat of the
-[Center for Genome Dynamics](http://cgd.jax.org),
+Annual retreat of the Center for Genome Dynamics,
 [Jackson Lab](http://jax.org), held in Madison, Wisconsin (_May 28_)
 
 Reproducible research
