@@ -731,7 +731,7 @@ Reproducible research
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes/tree/JAX_CGD)
 <br/>
 Annual retreat of the Center for Genome Dynamics,
-[Jackson Lab](http://jax.org), held in Madison, Wisconsin (_May 28_)
+[Jackson Lab](https://jax.org), held in Madison, Wisconsin (_May 28_)
 
 Reproducible research
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research.pdf)
