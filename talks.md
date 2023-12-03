@@ -744,7 +744,7 @@ Molecular Microbial Ecology and Evolution (MoMiEE) group,
 Interactive graphics
 [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/Showcase2015)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Showcase2015)<br/>
-[16th Annual Showcase](http://quality.wisc.edu/showcase.htm),
+[16th Annual Showcase](https://showcase.wisc.edu/),
 [Center for Quality Improvement](http://quality.wisc.edu/),
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Apr 14_)
 
