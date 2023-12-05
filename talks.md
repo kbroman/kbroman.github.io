@@ -751,7 +751,7 @@ Interactive graphics
 Interactive graphics for high-dimensional genetic data
 [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/WEHI2015)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_WEHI2015)<br/>
-[Walter and Eliza Hall Institute of Medical Research](http://www.wehi.edu.au/),
+[Walter and Eliza Hall Institute of Medical Research](https://www.wehi.edu.au/),
 Melbourne, Australia (_Apr 1_)
 
 Opportunities and challenges in the genetic analysis of
