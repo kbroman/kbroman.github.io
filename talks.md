@@ -774,8 +774,8 @@ San Jose, CA (_Feb 13_)
 Interactive graphics for teaching
 [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/iGraphs4Teaching)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_iGraphs4Teaching)<br/>
-[Delta Program](http://delta.wisc.edu)
-[Round Table](http://delta.wisc.edu/events/roundtable.html),
+[Delta Program](https://grad.wisc.edu/delta)
+Round Table,
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Nov 20_)
 
 Interactive graphics for high-dimensional genetic data
