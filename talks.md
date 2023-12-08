@@ -781,7 +781,7 @@ Round Table,
 Interactive graphics for high-dimensional genetic data
 [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/InteractiveGraphs4)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_InteractiveGraphs4)<br/>
-[Department of Biostatistics](http://www.hsph.harvard.edu/biostatistics/),
+[Department of Biostatistics](https://www.hsph.harvard.edu/biostatistics/),
 Harvard School of Public Health, Boston, Massachusetts (_Nov 6_)
 
 Open access publishing: A researcher's perspective
