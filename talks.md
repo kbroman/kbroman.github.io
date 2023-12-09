@@ -788,7 +788,7 @@ Open access publishing: A researcher's perspective
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/openaccess2014.pdf)
 [![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/openaccess2014_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_OpenAccess)<br/>
-[Scholarly Publishing Symposium](http://www.library.wisc.edu/news/scholarly-publishing-symposium-2014/),
+[Scholarly Publishing Symposium](https://web.archive.org/web/20141011175710/https://www.library.wisc.edu/news/scholarly-publishing-symposium-2014/),
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Oct 30_)
 
 Creating effective figures and tables
