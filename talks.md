@@ -821,7 +821,7 @@ mice from Gough Island<br/>
 &nbsp; Interactive LOD curves: [![body weight](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/CTC2014/iplot_bodyweight.html)
 [![growth rate](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/CTC2014/iplot_deriv_bodyweight.html)<br/>
 [Complex Trait Community 13th annual
-meeting](http://www.ctc2014.org), Berlin, Germany (_May 21_)
+meeting](https://web.archive.org/web/20150205114128/http://www.ctc2014.org/), Berlin, Germany (_May 21_)
 
 Creating effective figures and tables
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ictr2014b.pdf)
