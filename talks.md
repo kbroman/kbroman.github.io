@@ -836,7 +836,7 @@ QTL mapping for phenotypes measured over time
 [![tgz](icons16/tgz-icon.png)](https://www.biostat.wisc.edu/~kbroman/FunQTL.tgz)
 <br/>
 [Danforth Plant Science
-Center](http://www.danforthcenter.org/), St. Louis, Missouri (_Feb 19_)
+Center](https://www.danforthcenter.org/), St. Louis, Missouri (_Feb 19_)
 
 Creating effective figures and tables
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ictr2014.pdf)
