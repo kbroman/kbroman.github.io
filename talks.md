@@ -843,7 +843,7 @@ Creating effective figures and tables
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Graphs/tree/ictr2014)
 <br/>
 [Manuscript writing
-workshop](https://ictr.wisc.edu/SciWritingWorkshop), [Institute for Clinical and Translational Research](http://ictr.wisc.edu),
+workshop](https://ictr.wisc.edu/SciWritingWorkshop), [Institute for Clinical and Translational Research](https://ictr.wisc.edu),
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Jan 24_)
 
 
