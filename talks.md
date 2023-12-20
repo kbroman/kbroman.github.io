@@ -863,7 +863,7 @@ Open access publishing: A researcher's perspective
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_OpenAccess/tree/2013-10)<br/>
 [Open Access, Open Data @ UW](https://researchdata.wisc.edu/open-access-open-data/) symposium, [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Oct 24_)
 
-A brief introduction to git &amp; GitHub (with [Samuel G. Younkin](http://www.stat.wisc.edu/~syounkin/))
+A brief introduction to git &amp; GitHub (with Samuel G. Younkin)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/GitPrimer.pdf)
 [![github](icons16/github-icon.png)](https://github.com/syounkin/GitPrimer)<br/>
 Informal presentation to graduate students, [Department of Statistics](http://www.stat.wisc.edu), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Oct 18_)
