@@ -866,7 +866,7 @@ Open access publishing: A researcher's perspective
 A brief introduction to git &amp; GitHub (with Samuel G. Younkin)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/GitPrimer.pdf)
 [![github](icons16/github-icon.png)](https://github.com/syounkin/GitPrimer)<br/>
-Informal presentation to graduate students, [Department of Statistics](http://www.stat.wisc.edu), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Oct 18_)
+Informal presentation to graduate students, [Department of Statistics](https://www.stat.wisc.edu), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Oct 18_)
 
 How to display data badly
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/graphs_combined.pdf)
