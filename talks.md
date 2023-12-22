@@ -871,7 +871,7 @@ Informal presentation to graduate students, [Department of Statistics](https://w
 How to display data badly
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/graphs_combined.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Graphs)<br/>
-Lecture to MD/PhD students, [School of Medicine and Public Health](http://www.med.wisc.edu/), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Oct 16_)
+Lecture to MD/PhD students, [School of Medicine and Public Health](https://www.med.wisc.edu/), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Oct 16_)
 
 Interactive graphics for high-dimensional genetic data  [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/CGD2013/presentation.html)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_CGD2013)<br/>
