@@ -875,7 +875,7 @@ Lecture to MD/PhD students, [School of Medicine and Public Health](https://www.m
 
 Interactive graphics for high-dimensional genetic data  [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/CGD2013/presentation.html)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_CGD2013)<br/>
-Jackson Laboratory, [Center for Genome Dynamics](http://cgd.jax.org), Bar Harbor, Maine (_Jun 25_)
+Jackson Laboratory, Center for Genome Dynamics, Bar Harbor, Maine (_Jun 25_)
 
 MAGIC design and other topics
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/magic_web.pdf)
