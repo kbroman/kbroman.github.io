@@ -880,7 +880,8 @@ Jackson Laboratory, Center for Genome Dynamics, Bar Harbor, Maine (_Jun 25_)
 MAGIC design and other topics
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/magic_web.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_MAGIC)<br/>
-[Workshop on MAGIC-type populations](http://mus.well.ox.ac.uk/19genomes/MAGIC-WORKSHOP/) in Cambridge, UK (_Jun 12_)
+[Workshop on MAGIC-type populations](https://web.archive.org/web/20160619205029/https://mus.well.ox.ac.uk/19genomes/MAGIC-WORKSHOP/)
+in Cambridge, UK (_Jun 12_)
 
 Interactive graphics for high-dimensional genetic data  [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/CTC2013)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_CTC2013)<br/>
