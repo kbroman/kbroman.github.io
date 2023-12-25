@@ -890,7 +890,7 @@ Interactive graphics for high-dimensional genetic data  [![html](icons16/html-ic
 Why aren&rsquo;t all of our graphs interactive?  [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/InteractiveGraphs3)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_InteractiveGraphs3)
 [![tgz](icons16/tgz-icon.png)](InteractiveGraphs3.tgz)<br/>
-Biostatistics training program, [Department of Biostatistics and Medical Informatics](https://www.biostat.wisc.edu), [School of Medicine and Public Health](http://www.med.wisc.edu), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Apr 8_)
+Biostatistics training program, [Department of Biostatistics and Medical Informatics](https://www.biostat.wisc.edu), [School of Medicine and Public Health](https://www.med.wisc.edu), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Apr 8_)
 
 QTL mapping for phenotypes measured over time
 [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/FunQTL)
