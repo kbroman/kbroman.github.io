@@ -908,7 +908,7 @@ International Biometric Society/ENAR meeting, Orlando, FL (_Mar 13_)
 Identifying and correcting sample mix-ups in high-dimensional genetic data
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/anisci2013.pdf)
 <br/>
-[Department of Animal Sciences](http://http://www.ansci.wisc.edu), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Feb 12_)
+[Department of Animal Sciences](https://www.ansci.wisc.edu), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Feb 12_)
 
 Identifying and correcting sample mix-ups in high-dimensional genetic data
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/bmi2013.pdf)
