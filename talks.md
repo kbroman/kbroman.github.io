@@ -922,7 +922,7 @@ Identifying and correcting sample mix-ups in high-dimensional genetic data
 How to display data badly
 [![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/graphs_uwpath2012.pptx)
 <br/>
-[Department of Pathology and Laboratory Medicine](http://www.pathology.wisc.edu), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Oct 17_)
+[Department of Pathology and Laboratory Medicine](https://www.pathology.wisc.edu), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Oct 17_)
 
 Why aren&rsquo;t all of our graphs interactive?  [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/InteractiveGraphs)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_InteractiveGraphs1)<br/>
