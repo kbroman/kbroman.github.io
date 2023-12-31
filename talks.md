@@ -926,7 +926,7 @@ How to display data badly
 
 Why aren&rsquo;t all of our graphs interactive?  [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/InteractiveGraphs)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_InteractiveGraphs1)<br/>
-[Department of Biostatistics](https://www.biostat.jhsph.edu), [Johns Hopkins Bloomberg School of Public Health](http://www.jhsph.edu), Baltimore, MD (_Oct 5_)
+[Department of Biostatistics](https://www.biostat.jhsph.edu), [Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu), Baltimore, MD (_Oct 5_)
 
 Identifying and correcting sample mix-ups in high-dimensional data
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/evolsysbiol.pdf)<br/>
