@@ -930,7 +930,7 @@ Why aren&rsquo;t all of our graphs interactive?  [![html](icons16/html-icon.png)
 
 Identifying and correcting sample mix-ups in high-dimensional data
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/evolsysbiol.pdf)<br/>
-[EvoSysBio meeting](http://evolutionarysystemsbiology.org/meeting/2012-Madison/index.html), Wisconsin Institutes for Discovery, University of Wisconsin&ndash;Madison (_Jul 30_)
+[EvoSysBio meeting](https://evolutionarysystemsbiology.org/meeting/2012-Madison/index.html), Wisconsin Institutes for Discovery, University of Wisconsin&ndash;Madison (_Jul 30_)
 
 Identifying and correcting sample mix-ups in high-dimensional data
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/germany2012.pdf)<br/>
