@@ -952,7 +952,7 @@ Biostatistics training program, [Department of Biostatistics and Medical Informa
 Salvaging a genetics project: Identifying and correcting sample mix-ups in high-dimensional data
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/washbiostat2011.pdf)
 <br/>
-[Department of Biostatistics](https://www.biostat.washington.edu), [University of Washington](http://www.washington.edu), Seattle (_Nov 17_)
+[Department of Biostatistics](https://www.biostat.washington.edu), [University of Washington](https://www.washington.edu), Seattle (_Nov 17_)
 
 Salvaging an eQTL project: Identifying and correcting sample mix-ups
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/gmu2011.pdf)
