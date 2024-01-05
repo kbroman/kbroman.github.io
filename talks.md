@@ -957,7 +957,7 @@ Salvaging a genetics project: Identifying and correcting sample mix-ups in high-
 Salvaging an eQTL project: Identifying and correcting sample mix-ups
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/gmu2011.pdf)
 <br/>
-[Department of Statistics](http://statistics.gmu.edu), [George Mason University](http://www.gmu.edu), Fairvax, VA (_Sep 23_)
+[Department of Statistics](https://statistics.gmu.edu), [George Mason University](http://www.gmu.edu), Fairvax, VA (_Sep 23_)
 
 Salvaging an eQTL project: Identifying and correcting sample mix-ups
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/groningen2011.pdf)
