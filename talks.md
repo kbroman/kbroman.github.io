@@ -962,7 +962,7 @@ Salvaging an eQTL project: Identifying and correcting sample mix-ups
 Salvaging an eQTL project: Identifying and correcting sample mix-ups
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/groningen2011.pdf)
 <br/>
-Groningen Bioinformatics Centre, [University of Groningen](http://www.rug.nl), Groningen, The Netherlands (_Sep 8_)
+Groningen Bioinformatics Centre, [University of Groningen](https://www.rug.nl), Groningen, The Netherlands (_Sep 8_)
 
 Identifying sample mix-ups in eQTL data
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/mousegenet2011.pdf)
