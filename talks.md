@@ -967,7 +967,8 @@ Groningen Bioinformatics Centre, [University of Groningen](https://www.rug.nl), 
 Identifying sample mix-ups in eQTL data
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/mousegenet2011.pdf)
 <br/>
-[Mouse Genetics 2011](http://www.mousegenetics2011.org) (and 10th
+[Mouse Genetics 2011](https://web.archive.org/web/20110727095118/https://www.mousegenetics2011.org/)
+(and 10th
 Complex Trait Community meeting), Washington, DC (_Jun 23_)
 
 Mapping quantitative trait loci in mice
