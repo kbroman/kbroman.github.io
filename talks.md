@@ -974,7 +974,7 @@ Complex Trait Community meeting), Washington, DC (_Jun 23_)
 Mapping quantitative trait loci in mice
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/multiqtl_ireland11.pdf)
 <br/>
-[Quantitative Biology and Bioinformatics in Modern Medicine](http://www.qub.ac.uk/sites/QuantBio/), Dublin, Ireland (_Feb 7_)
+[Quantitative Biology and Bioinformatics in Modern Medicine](https://web.archive.org/web/20171217132718/https://www.qub.ac.uk/sites/QuantBio/), Dublin, Ireland (_Feb 7_)
 
 Mapping multiple QTL in experimental crosses
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/multiqtl_columbia11.pdf)
