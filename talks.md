@@ -979,7 +979,7 @@ Mapping quantitative trait loci in mice
 Mapping multiple QTL in experimental crosses
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/multiqtl_columbia11.pdf)
 <br/>
-[Department of Biostatistics](https://www.mailman.columbia.edu/academic-departments/biostatistics), [Mailman School of Public Health](https://www.publichealth.columbia.edu), [Columbia University](http://www.columbia.edu), New York, NY (_Jan 27_)
+[Department of Biostatistics](https://www.mailman.columbia.edu/academic-departments/biostatistics), [Mailman School of Public Health](https://www.publichealth.columbia.edu), [Columbia University](https://www.columbia.edu), New York, NY (_Jan 27_)
 
 
 
