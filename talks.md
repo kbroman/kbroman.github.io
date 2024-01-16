@@ -989,7 +989,7 @@ Mapping multiple QTL in experimental crosses
 Mapping multiple QTL in experimental crosses
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/multiqtl_poland10.pdf)
 <br/>
-[Wroc&#322;aw University of Technology](http://pwr.edu.pl/en_main.xml), Wroc&#322;aw, Poland (_May 21_)
+[Wroc&#322;aw University of Technology](https://pwr.edu.pl/en), Wroc&#322;aw, Poland (_May 21_)
 
 Genetic maps: Past, present and future
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/geneticmaps_poland10.pdf)
