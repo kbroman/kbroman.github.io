@@ -994,7 +994,7 @@ Mapping multiple QTL in experimental crosses
 Genetic maps: Past, present and future
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/geneticmaps_poland10.pdf)
 <br/>
-[Wroc&#322;aw University of Environmental and Life Sciences](http://www.up.wroc.pl/en/), Wroc&#322;aw, Poland (_May 20_)
+[Wroc&#322;aw University of Environmental and Life Sciences](https://upwr.edu.pl/en/), Wroc&#322;aw, Poland (_May 20_)
 
 The genetic dissection of complex traits in model organisms
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/qtlmas10.pdf)
