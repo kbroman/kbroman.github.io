@@ -999,7 +999,7 @@ Genetic maps: Past, present and future
 The genetic dissection of complex traits in model organisms
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/qtlmas10.pdf)
 <br/>
-[14th QTL-MAS Workshop](http://jay.up.poznan.pl/qtlmas2010/), Pozna&#324;, Poland (_May 17_)
+[14th QTL-MAS Workshop](https://jay.up.poznan.pl/qtlmas2010/), Pozna&#324;, Poland (_May 17_)
 
 Mapping QTL to a phylogenetic tree
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ctc2010.pdf)
