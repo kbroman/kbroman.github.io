@@ -1004,7 +1004,7 @@ The genetic dissection of complex traits in model organisms
 Mapping QTL to a phylogenetic tree
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ctc2010.pdf)
 <br/>
-[9th annual meeting](https://web.archive.org/web/20120620015207/http://www.ctc2010.org/) of the [Complex Trait Consortium](http://www.complextrait.org), Chicago, IL (_May 10_)
+[9th annual meeting](https://web.archive.org/web/20120620015207/https://www.ctc2010.org/) of the [Complex Trait Consortium](https://www.complextrait.org), Chicago, IL (_May 10_)
 
 How to give a scientific presentation
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/giving_talks.pdf)
