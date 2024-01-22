@@ -1009,7 +1009,7 @@ Mapping QTL to a phylogenetic tree
 How to give a scientific presentation
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/giving_talks.pdf)
 <br/>
-Biostatistics training program, [Department of Biostatistics and Medical Informatics](https://www.biostat.wisc.edu), [School of Medicine and Public Health](http://www.med.wisc.edu), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Apr 5_)
+Biostatistics training program, [Department of Biostatistics and Medical Informatics](https://www.biostat.wisc.edu), [School of Medicine and Public Health](https://www.med.wisc.edu), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Apr 5_)
 
 Mapping QTL to a phylogenetic tree
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/michstate10.pdf)
