@@ -1014,7 +1014,7 @@ Biostatistics training program, [Department of Biostatistics and Medical Informa
 Mapping QTL to a phylogenetic tree
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/michstate10.pdf)
 <br/>
-[Edge Seminar series](https://web.archive.org/web/20100508013555/https://pa.msu.edu/seminars/edge/), [Quantitative Biology and Modeling Initiative Program](https://web.archive.org/web/20101012173427/https://biomodel.msu.edu/), [Michigan State University](http://www.msu.edu), East Lansing, MI (_Apr 2_)
+[Edge Seminar series](https://web.archive.org/web/20100508013555/https://pa.msu.edu/seminars/edge/), [Quantitative Biology and Modeling Initiative Program](https://web.archive.org/web/20101012173427/https://biomodel.msu.edu/), [Michigan State University](https://www.msu.edu), East Lansing, MI (_Apr 2_)
 
 Mapping QTL to a phylogenetic tree
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/vanderbilt10.pdf)
