@@ -1019,7 +1019,7 @@ Mapping QTL to a phylogenetic tree
 Mapping QTL to a phylogenetic tree
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/vanderbilt10.pdf)
 <br/>
-Integrative Genomics Seminar Series, [Vanderbilt University](http://www.vanderbilt.edu), Nashville, TN (_Mar 9_)
+Integrative Genomics Seminar Series, [Vanderbilt University](https://www.vanderbilt.edu), Nashville, TN (_Mar 9_)
 
 Mapping QTL to a phylogenetic tree
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/uwevolution10.pdf)
