@@ -1024,7 +1024,7 @@ Integrative Genomics Seminar Series, [Vanderbilt University](https://www.vanderb
 Mapping QTL to a phylogenetic tree
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/uwevolution10.pdf)
 <br/>
-[Evolution seminar series](http://www.evolution.wisc.edu/seminars.php), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Mar 4_)
+[Evolution seminar series](https://evolution.wisc.edu/seminars/seminars-info/), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Mar 4_)
 
 Mapping QTL to a phylogenetic tree
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/unc10.pdf)
