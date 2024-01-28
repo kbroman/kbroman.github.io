@@ -1030,7 +1030,7 @@ Mapping QTL to a phylogenetic tree
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/unc10.pdf)
 <br/>
 [Curriculum in Genetics and
-Molecular Biology](http://gmb.unc.edu), [University of
+Molecular Biology](https://gmb.unc.edu), [University of
 North Carolina at Chapel Hill](http://www.unc.edu) (_Feb 12_)
 
 
