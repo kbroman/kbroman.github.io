@@ -1031,7 +1031,7 @@ Mapping QTL to a phylogenetic tree
 <br/>
 [Curriculum in Genetics and
 Molecular Biology](https://gmb.unc.edu), [University of
-North Carolina at Chapel Hill](http://www.unc.edu) (_Feb 12_)
+North Carolina at Chapel Hill](https://www.unc.edu) (_Feb 12_)
 
 
 
