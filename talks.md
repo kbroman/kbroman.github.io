@@ -1042,7 +1042,7 @@ Mapping QTL to a phylogenetic tree
 <br/>
 [Department of
 Human Genetics](https://medschool.ucla.edu/departments/basic-science/human-genetics), [University of
-California, Los Angeles](http://www.ucla.edu) (_Nov 23_)
+California, Los Angeles](https://www.ucla.edu) (_Nov 23_)
 
 Mapping QTL to a phylogenetic tree
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ucla09.pdf)
