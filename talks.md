@@ -1048,7 +1048,7 @@ Mapping QTL to a phylogenetic tree
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ucla09.pdf)
 <br/>
 [Laboratory of
-Genetics](http://www.genetics.wisc.edu), [University of
+Genetics](https://www.genetics.wisc.edu), [University of
 Wisconsin&ndash;Madison](https://www.wisc.edu) (_Nov 18_)
 
 An applied statistician does probability: It&rsquo;s not pretty
