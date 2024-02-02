@@ -1054,7 +1054,7 @@ Wisconsin&ndash;Madison](https://www.wisc.edu) (_Nov 18_)
 An applied statistician does probability: It&rsquo;s not pretty
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/uwstat09.pdf)
 <br/>
-[Department of Statistics](http://www.stat.wisc.edu/),
+[Department of Statistics](https://www.stat.wisc.edu/),
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Oct 7_)
 
 How to display data badly
