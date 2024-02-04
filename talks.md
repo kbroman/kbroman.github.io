@@ -1066,7 +1066,7 @@ Genetic maps: Past, present and future
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/chair09.pdf)
 <br/>
 [Department of Biostatistics and Medical Informatics](https://www.biostat.wisc.edu),
-[School of Medicine and Public Health](http://www.med.wisc.edu/),
+[School of Medicine and Public Health](https://www.med.wisc.edu/),
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Sep 17_)
 
 Genotype probabilities in the pre-CC
