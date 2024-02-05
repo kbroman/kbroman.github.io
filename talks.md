@@ -1071,7 +1071,7 @@ Genetic maps: Past, present and future
 
 Genotype probabilities in the pre-CC
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/jax_cgd_09.pdf)
-<br/>[Center for Genome Dynamics](http://cgd.jax.org/), [The Jackson Laboratory](http://www.jax.org), Bar Harbor, Maine (via phone) (_Sep 15_)
+<br/>Center for Genome Dynamics, [The Jackson Laboratory](http://www.jax.org), Bar Harbor, Maine (via phone) (_Sep 15_)
 
 Mapping multiple QTL in experimental crosses
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/oxford09.pdf)
