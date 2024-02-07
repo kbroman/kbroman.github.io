@@ -1076,7 +1076,7 @@ Genotype probabilities in the pre-CC
 Mapping multiple QTL in experimental crosses
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/oxford09.pdf)
 <br/>
-[Wellcome Trust Centre for Human Genetics](http://www.well.ox.ac.uk/), Oxford, United Kingdom (_Jan 23_)
+[Wellcome Trust Centre for Human Genetics](https://www.chg.ox.ac.uk/), Oxford, United Kingdom (_Jan 23_)
 
 Mapping multiple QTL in experimental crosses
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/groningen09.pdf)
