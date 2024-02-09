@@ -1081,7 +1081,7 @@ Mapping multiple QTL in experimental crosses
 Mapping multiple QTL in experimental crosses
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/groningen09.pdf)
 <br/>
-Groningen Bioinformatics Centre, [University of Groningen](http://www.rug.nl), Groningen, The Netherlands (_Jan 20_)
+Groningen Bioinformatics Centre, [University of Groningen](https://www.rug.nl), Groningen, The Netherlands (_Jan 20_)
 
 
 
