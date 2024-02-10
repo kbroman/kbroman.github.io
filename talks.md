@@ -1090,7 +1090,7 @@ Groningen Bioinformatics Centre, [University of Groningen](https://www.rug.nl), 
 Crossover interference and the sex difference in recombination
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/uwstat08.pdf)
 <br/>
-[Department of Statistics](http://www.stat.wisc.edu), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Sep 10_)
+[Department of Statistics](https://www.stat.wisc.edu), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Sep 10_)
 
 Mapping multiple QTL in experimental crosses
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/gstpretreat08.pdf)
