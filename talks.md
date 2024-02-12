@@ -1095,7 +1095,7 @@ Crossover interference and the sex difference in recombination
 Mapping multiple QTL in experimental crosses
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/gstpretreat08.pdf)
 <br/>
-[Genomic Sciences Training Program](https://www.gstp.wisc.edu) [annual retreat](http://www.gstp.wisc.edu/events/retreat.htm), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Jun 9_)
+[Genomic Sciences Training Program](https://www.gstp.wisc.edu) annual retreat, [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Jun 9_)
 
 Mapping multiple QTL in experimental crosses
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/banff08.pdf)
