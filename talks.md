@@ -1100,7 +1100,7 @@ Mapping multiple QTL in experimental crosses
 Mapping multiple QTL in experimental crosses
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/banff08.pdf)
 <br/>
-[Emerging Statistical Challenges In Genome and Translational Research](http://www.birs.ca/birspages.php?task=displayevent&event_id=08w5062), Banff, Canada (_Jun 2_)
+[Emerging Statistical Challenges In Genome and Translational Research](https://www.birs.ca/birspages.php?task=displayevent&event_id=08w5062), Banff, Canada (_Jun 2_)
 
 Mapping multiple QTL in experimental crosses
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/cincinnati08.pdf)
