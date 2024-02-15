@@ -1105,7 +1105,7 @@ Mapping multiple QTL in experimental crosses
 Mapping multiple QTL in experimental crosses
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/cincinnati08.pdf)
 <br/>
-[Division of Human Genetics](https://www.cincinnatichildrens.org/service/h/human-genetics), [Cincinnati Children&rsquo;s Hospital](http://www.cincinnatichildrens.org) (_Apr 25_)
+[Division of Human Genetics](https://www.cincinnatichildrens.org/service/h/human-genetics), [Cincinnati Children&rsquo;s Hospital](https://www.cincinnatichildrens.org) (_Apr 25_)
 
 Genetic maps: Past, present and future
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/cibm08.pdf)
