@@ -1115,7 +1115,7 @@ Genetic maps: Past, present and future
 Genetic maps: Past, present and future
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/geneticmaps08.pdf)
 <br/>
-[Evolution seminar series](http://www.evolution.wisc.edu/seminars.php), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Feb 21_)
+[Evolution seminar series](https://evolution.wisc.edu/seminars/seminars-info/), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Feb 21_)
 
 Mapping multiple QTL in experimental crosses
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/animalbreeding08.pdf)
