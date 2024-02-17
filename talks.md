@@ -1121,7 +1121,7 @@ Mapping multiple QTL in experimental crosses
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/animalbreeding08.pdf)
 [![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/animalbreeding08_bw-2x2.pdf)
 <br/>
-Graduate Seminar, [Department of Animal Sciences](http://www.anisci.wisc.edu), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Feb 12_)
+Graduate Seminar, [Department of Animal Sciences](https://andysci.wisc.edu), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Feb 12_)
 
 How to display data badly
 [![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/graphs_uwpath08.ppt)
