@@ -1127,7 +1127,7 @@ How to display data badly
 [![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/graphs_uwpath08.ppt)
 [![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/graphs_uwpath08_handout.pdf)
 <br/>
-[Department of Pathology and Laboratory Medicine](http://www.pathology.wisc.edu), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Jan 30_)
+[Department of Pathology and Laboratory Medicine](https://www.pathology.wisc.edu), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Jan 30_)
 
 
 
