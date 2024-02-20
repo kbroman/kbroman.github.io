@@ -1136,7 +1136,7 @@ How to display data badly
 Mapping multiple QTL in experimental crosses
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/uchicago07.pdf)
 [![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/uchicago07_bw-2x2.pdf)
-<br/>[Department of Human Genetics](https://genes.uchicago.edu), [University of Chicago](http://www.uchicago.edu) (_Dec 5_)
+<br/>[Department of Human Genetics](https://genes.uchicago.edu), [University of Chicago](https://www.uchicago.edu) (_Dec 5_)
 
 Mapping multiple QTL in experimental crosses
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/hopkins07.pdf)
