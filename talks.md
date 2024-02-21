@@ -1141,7 +1141,7 @@ Mapping multiple QTL in experimental crosses
 Mapping multiple QTL in experimental crosses
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/hopkins07.pdf)
 [![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/hopkins07_bw-2x2.pdf)
-<br/>[Department of Biostatistics](http://www.biostat.jhsph.edu), [Johns Hopkins Bloomberg School of Public Health](http://www.jhsph.edu), Baltimore, MD (_Nov 28_)
+<br/>[Department of Biostatistics](https://publichealth.jhu.edu/departments/biostatistics), [Johns Hopkins Bloomberg School of Public Health](http://www.jhsph.edu), Baltimore, MD (_Nov 28_)
 
 Mapping multiple QTL in experimental crosses
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/stolaf07.pdf)
