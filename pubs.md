@@ -620,7 +620,7 @@ onto a phylogenetic tree.  [Genetics](https://academic.oup.com/genetics) 192:267
 
 Rice CA, Riehl J, **Broman K**, Soukup JW, Gengler WR (2012) Comparing the degree of exothermic polymerization in commonly used acrylic and provisional composite resins for intraoral appliances.  [J Vet Dent](https://journals.sagepub.com/home/jov) 29: 78-83
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/23008855)
-[![pdf](icons16/pdf-icon.png)](https://journals.sagepub.com/doi/pdf/10.1177/089875641202900202?casa_token=EVb7MczDoCgAAAAA:MPBh91lu2OlP1kfzHT2iB0JFmXz30blj4BdWcCZvUbeiUvTsNT7AlRtDuniv0Y32CTAYyiyHqORL)
+[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/carlos_rice.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10/gm58)
 <!-- * 119 * -->
 <!-- https://doi.org/10/gm58 -->
