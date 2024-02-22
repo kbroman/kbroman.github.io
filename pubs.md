@@ -380,7 +380,7 @@ Tian J, Keller MP, Broman AT, Kendziorski C, Yandell BS, Attie AD,
 hotspots.
 [Genetics](https://academic.oup.com/genetics) 202:1563-1574
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/26837753)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/202/4/1563/35552559/genetics1563.pdf)
+[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/202/4/1563/46813248/genetics1563.pdf)
 [![supplement](icons16/supp-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/transbandpaper_FileS1.pdf)
 [![data](icons16/data-icon.png)](https://bit.ly/B6BTBR)
 [![qtlpvl software](icons16/R-icon.png)](https://github.com/jianan/qtlpvl)
@@ -418,7 +418,7 @@ Attie AD (2015) Identification of the bile acid transporter _Slco1a6_ as a
 candidate gene that broadly affects gene expression in mouse
 pancreatic islets. [Genetics](https://academic.oup.com/genetics) 201:1253-1262
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/26385979)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/201/3/1253/37827397/genetics1253.pdf)
+[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/201/3/1253/42161980/genetics1253.pdf)
 [![supplement](icons16/supp-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/islet_chr6/FileS1.csv)
 [![data](icons16/data-icon.png)](https://bit.ly/B6BTBR)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.115.179432)
@@ -444,7 +444,7 @@ Gray MM, Parmenter MD, Hogan CA, Ford I, Cuthbert RJ, Ryan PG, **Broman
 KW**, Payseur BA (2015) Genetics of rapid and extreme size evolution in
 island mice. [Genetics](https://academic.oup.com/genetics) 201:213-228
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/26199233)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/201/1/213/37885100/genetics0213.pdf)
+[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/201/1/213/49458316/genetics0213.pdf)
 [![data](icons16/data-icon.png)](https://phenome.jax.org/projects/Payseur1)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.115.177790)
 <!-- * 136 * -->
@@ -514,7 +514,7 @@ regression-based method to map quantitative trait loci underlying
 function-valued phenotypes. [Genetics](https://academic.oup.com/genetics) 197:
 1409-1416
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/24931408)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/197/4/1409/37792967/genetics1409.pdf)
+[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/197/4/1409/42131523/genetics1409.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_FunQTL)
 [![Data](icons16/data-icon.png)](https://phenome.jax.org/projects/Moore1b)
 [![funqtl software](icons16/R-icon.png)](https://github.com/ikwak2/funqtl)
@@ -644,7 +644,7 @@ Jansen RC, **Broman KW**, Yandell BS (2012)
 Quantile-based permutation thresholds for quantitative trait loci hotspots.
 [Genetics](https://academic.oup.com/genetics) 191:1355-1365
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/22661325)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/191/4/1355/37556440/genetics1355.pdf)
+[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/191/4/1355/42121395/genetics1355.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.112.139451)
 <!-- * 116 * -->
 <!-- https://doi.org/10.1534/genetics.112.139451 -->
@@ -681,7 +681,7 @@ Amlin-Van Schaick JC, Kim S, **Broman KW**, Reilly KM (2012)  _Scram1_ is a modi
 
 **Broman KW** (2012)  Genotype probabilities at intermediate generations in the construction of recombinant inbred lines.  [Genetics](https://academic.oup.com/genetics) 190:403-412
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/22345609)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/190/2/403/37896182/genetics0403.pdf)
+[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/190/2/403/42124792/genetics0403.pdf)
 [![GitHub](icons16/github-icon.png)](https://www.github.com/kbroman/preCCProbPaper)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.111.132647)
 <!-- * 111 * -->
@@ -697,7 +697,7 @@ Amlin-Van Schaick JC, Kim S, **Broman KW**, Reilly KM (2012)  _Scram1_ is a modi
 
 Collaborative Cross Consortium \[97 authors\] (2012)  The genome architecture of the Collaborative Cross mouse genetic reference population.   [Genetics](https://academic.oup.com/genetics) 190:389-401
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/22345608)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/190/2/389/37896213/genetics0389.pdf)
+[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/190/2/389/49438846/genetics0389.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.111.132639)
 <!-- * 109 * -->
 <!-- https://doi.org/10.1534/genetics.111.132639 -->
@@ -829,7 +829,7 @@ Greene JM, Lhost JJ, Burwitz BJ, Budde ML, Macnair CE, Weiker MK, Gostick E, Fri
 
 Wong AK, Ruhe AL, Dumont BL, Robertson KR, Guerrero G, Shull SM, Ziegle JS, Millon LV, **Broman KW**, Payseur BA, Neff MW (2010)  A comprehensive linkage map of the dog genome.  [Genetics](https://academic.oup.com/genetics) 184:595-605
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/19966068)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/184/2/595/37326611/genetics0595.pdf)
+[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/184/2/595/46841848/genetics0595.pdf)
 [![supporting information](icons16/supp-icon.png)](https://www.genetics.org/cgi/content/full/genetics.109.106831/DC1)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.109.106831)
 <!-- * 92 * -->
@@ -864,7 +864,7 @@ Bell JT, Brockmann GA, Wergedal JE, Bult C, Paigen B, Flint J, Tsaih
 S-W, Churchill GA, **Broman KW** (2009) A new
 standard genetic map for the laboratory mouse. [Genetics](https://academic.oup.com/genetics) 182:1335-1344
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/19535546)
-[![pdf](icons16/pdf-icon.png)](https://watermark.silverchair.com/genetics1335.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAtgwggLUBgkqhkiG9w0BBwagggLFMIICwQIBADCCAroGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMVVr7_sH7RP275cyUAgEQgIICi9sUZwsXcbowwsL2UhFh3py4Z6jCD2pl2Vbxv9Ql_QzxZOdmZ7fV0P1OEylFJ-weT8jORZegt4q9S959KHtANRBQjpyDigb1qX)
+[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/182/4/1335/49427572/genetics1335.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.109.105486)
 <!-- * 88 * -->
 <!-- https://doi.org/10.1534/genetics.109.105486 -->
@@ -1156,7 +1156,7 @@ Orgogozo V, **Broman KW**, Stern DL (2006)
 High-resolution QTL mapping reveals sign epistasis controlling
 ovariole number between two Drosophila species.  [Genetics](https://academic.oup.com/genetics) 173:197-205
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/16489225)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/173/1/197/37321199/genetics0197.pdf)
+[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/173/1/197/42222358/genetics0197.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.105.054098)
 <!-- * 58 * -->
 <!-- https://doi.org/10.1534/genetics.105.054098 -->
