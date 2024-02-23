@@ -1146,7 +1146,7 @@ Mapping multiple QTL in experimental crosses
 Mapping multiple QTL in experimental crosses
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/stolaf07.pdf)
 [![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/stolaf07_bw-2x2.pdf)
-<br/>[Statistics Program](http://www.stolaf.edu/depts/statistics/), [St. Olaf College](http://www.stolaf.edu), Northfield, MN (_Nov 6_)
+<br/>[Statistics Program](https://wp.stolaf.edu/statistics/), [St. Olaf College](http://www.stolaf.edu), Northfield, MN (_Nov 6_)
 
 How to display data badly
 [![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/graphs_stolaf07.ppt)
