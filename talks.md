@@ -1150,7 +1150,7 @@ Mapping multiple QTL in experimental crosses
 
 How to display data badly
 [![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/graphs_stolaf07.ppt)
-<br/>[Center for Interdisciplinary Research](https://wp.stolaf.edu/cir), [St. Olaf College](http://www.stolaf.edu), Northfield, MN (_Nov 5_)
+<br/>[Center for Interdisciplinary Research](https://wp.stolaf.edu/cir), [St. Olaf College](https://www.stolaf.edu), Northfield, MN (_Nov 5_)
 
 Crossover interference and the sex difference in recombination
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/geneticsRetreat07.pdf)
