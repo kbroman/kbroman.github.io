@@ -1156,7 +1156,7 @@ Crossover interference and the sex difference in recombination
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/geneticsRetreat07.pdf)
 [![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/geneticsRetreat07_bw-2x2.pdf)
 <br/>
-Annual Retreat, [Laboratory of Genetics](http://www.genetics.wisc.edu),
+Annual Retreat, [Laboratory of Genetics](https:/genetics.wisc.edu),
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Oct 5_)
 
 Mapping multiple QTL in experimental crosses
