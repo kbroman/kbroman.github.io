@@ -1163,7 +1163,7 @@ Mapping multiple QTL in experimental crosses
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/niu07b.pdf)
 [![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/niu07b_bw-2x2.pdf)
 <br/>
-[Division of Statistics](http://www.math.niu.edu/StatDiv),
+Division of Statistics,
 [Department of Mathematical Sciences](http://www.math.niu.edu),
 [Northern Illinois University](http://www.niu.edu), DeKalb, IL (_Sep 11_)
 
