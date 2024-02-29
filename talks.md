@@ -1164,7 +1164,7 @@ Mapping multiple QTL in experimental crosses
 [![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/niu07b_bw-2x2.pdf)
 <br/>
 Division of Statistics,
-[Department of Mathematical Sciences](http://www.math.niu.edu),
+[Department of Mathematical Sciences](https://math.niu.edu/math),
 [Northern Illinois University](http://www.niu.edu), DeKalb, IL (_Sep 11_)
 
 The genomes of recombinant inbred lines
