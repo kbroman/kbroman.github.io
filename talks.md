@@ -1170,7 +1170,7 @@ Division of Statistics,
 The genomes of recombinant inbred lines
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/niu07a.pdf)
 <br/>
-[Division of Statistics](http://www.math.niu.edu/StatDiv),
+Division of Statistics,
 [Department of Mathematical Sciences](http://www.math.niu.edu),
 [Northern Illinois University](http://www.niu.edu), DeKalb, IL (_Sep 10_)
 
