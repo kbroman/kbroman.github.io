@@ -1171,7 +1171,7 @@ The genomes of recombinant inbred lines
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/niu07a.pdf)
 <br/>
 Division of Statistics,
-[Department of Mathematical Sciences](https://www.math.niu.edu),
+[Department of Mathematical Sciences](https://math.niu.edu/math),
 [Northern Illinois University](http://www.niu.edu), DeKalb, IL (_Sep 10_)
 
 Mapping multiple QTL in experimental crosses
