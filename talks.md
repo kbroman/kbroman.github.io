@@ -1187,7 +1187,7 @@ The genomes of recombinant inbred lines
 <br/>
 [Department of
 Human Genetics](https://medschool.ucla.edu/departments/human-genetics), [University of
-California, Los Angeles](http://www.ucla.edu) (_Mar 5_)
+California, Los Angeles](https://www.ucla.edu) (_Mar 5_)
 
 The genomes of recombinant inbred lines
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/berkeley07.pdf)
