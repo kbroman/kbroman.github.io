@@ -1194,7 +1194,7 @@ The genomes of recombinant inbred lines
 <br/>
 [Department of
 Statistics](https://statistics.berkeley.edu), [University of
-California, Berkeley](http://www.berkeley.edu) (_Feb 27_)
+California, Berkeley](https://www.berkeley.edu) (_Feb 27_)
 
 The genomes of recombinant inbred lines
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/berkeley07.pdf)
