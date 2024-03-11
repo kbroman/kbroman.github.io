@@ -1199,7 +1199,7 @@ California, Berkeley](https://www.berkeley.edu) (_Feb 27_)
 The genomes of recombinant inbred lines
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/berkeley07.pdf)
 <br/>
-[The Jackson Laboratory](http://www.jax.org), Bar
+[The Jackson Laboratory](https://www.jax.org), Bar
 Harbor, Maine (_Feb 22_)
 
 Mapping multiple QTL in experimental crosses
