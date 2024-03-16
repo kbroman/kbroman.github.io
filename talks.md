@@ -1208,7 +1208,7 @@ Mapping multiple QTL in experimental crosses
 <br/>
 [Department of
 Biostatistics](https://sph.umich.edu/biostat/), [University of
-Michigan](http://www.umich.edu), Ann Arbor (_Feb 15_)
+Michigan](https://umich.edu), Ann Arbor (_Feb 15_)
 
 QTL mapping in humans
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/humanqtl.pdf)
