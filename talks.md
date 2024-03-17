@@ -1224,7 +1224,7 @@ Systems Medicine Workshop, NHLBI, Bethesda, MD (_Jan 31_)
 The genomes of recombinant inbred lines
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/hopkins_igm06.pdf)
 <br/>
-[McKusick-Nathans Institute of Genetic Medicine](http://www.hopkinsmedicine.org/geneticmedicine/), [School of Medicine](http://www.hopkinsmedicine.org), Johns Hopkins University, Baltimore, MD (_Nov 9_)
+[McKusick-Nathans Institute of Genetic Medicine](https://www.hopkinsmedicine.org/geneticmedicine/), [School of Medicine](http://www.hopkinsmedicine.org), Johns Hopkins University, Baltimore, MD (_Nov 9_)
 
 The X chromosome in QTL mapping: What a pain in the @$$!
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/xchr.pdf)
