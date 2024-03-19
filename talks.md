@@ -1229,7 +1229,7 @@ The genomes of recombinant inbred lines
 The X chromosome in QTL mapping: What a pain in the @$$!
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/xchr.pdf)
 <br/>
-[Hopkins Expressionists](http://www.biostat.jhsph.edu/GenomeCAFE/ExpressionistSchedule.html) (_Nov 1_)
+[Hopkins Expressionists](https://web.archive.org/web/20150217051402/https://www.biostat.jhsph.edu/GenomeCAFE/ExpressionistSchedule.html) (_Nov 1_)
 
 The genomes of recombinant inbred lines
 [![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/michigan06.ppt)
