@@ -1236,7 +1236,7 @@ The genomes of recombinant inbred lines
 [![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/michigan06_handout.pdf)
 <br/>
 [Department of
-Biostatistics](http://www.sph.umich.edu/biostat), [University of
+Biostatistics](https://sph.umich.edu/biostat/), [University of
 Michigan](http://www.umich.edu), Ann Arbor (_Oct 19_)
 
 Poor performance of bootstrap confidence
