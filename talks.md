@@ -1237,7 +1237,7 @@ The genomes of recombinant inbred lines
 <br/>
 [Department of
 Biostatistics](https://sph.umich.edu/biostat/), [University of
-Michigan](http://www.umich.edu), Ann Arbor (_Oct 19_)
+Michigan](https://umich.edu), Ann Arbor (_Oct 19_)
 
 Poor performance of bootstrap confidence
 intervals for QTL location
