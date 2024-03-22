@@ -1244,7 +1244,7 @@ intervals for QTL location
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/qtlboot.pdf)
 <br/>
 [Complex Trait
-Consortium](http://www.complextrait.org) [5th annual meeting](http://www.complextrait.org/meetings/ctc06.php), Chapel Hill, North Carolina (_May 7_)
+Consortium](https://www.complextrait.org) [5th annual meeting](http://www.complextrait.org/meetings/ctc06.php), Chapel Hill, North Carolina (_May 7_)
 
 The genomes of recombinant inbred lines
 [![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/wisc06.ppt)
