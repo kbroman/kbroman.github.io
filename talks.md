@@ -1250,7 +1250,7 @@ The genomes of recombinant inbred lines
 [![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/wisc06.ppt)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/wisc06_ho.pdf)
 <br/>
-[Genetics](http://www.genetics.wisc.edu), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Apr 5_)
+[Genetics](https://genetics.wisc.edu), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Apr 5_)
 
 Principles of experimental design and sample
 size determination for animal-based research
