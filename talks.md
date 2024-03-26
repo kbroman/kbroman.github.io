@@ -1263,7 +1263,7 @@ and Use Committee](https://www.jhu.edu/animalcare) seminar (_Feb 23_)
 Model selection for multiple interacting QTL
 in experimental crosses
 <br/>
-[Hopkins Expressionists](http://www.biostat.jhsph.edu/GenomeCAFE/ExpressionistSchedule.html) (_Feb 15_)
+[Hopkins Expressionists](https://web.archive.org/web/20150217051402/https://www.biostat.jhsph.edu/GenomeCAFE/ExpressionistSchedule.html) (_Feb 15_)
 
 The genomes of recombinant inbred lines
 [![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/seattle06.ppt)
@@ -1479,7 +1479,7 @@ The breakpoint process on recombinant inbred chromosomes
 [![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ribreaks.ppt)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ribreaks_ho.pdf)
 <br/>
-[Hopkins Expressionists](http://astor.som.jhmi.edu/hex) (_Apr 21_)
+[Hopkins Expressionists](https://web.archive.org/web/20150217051402/https://www.biostat.jhsph.edu/GenomeCAFE/ExpressionistSchedule.html) (_Apr 21_)
 
 Identifying essential genes in <em>M. tuberculosis</em>
 by random transposon mutagenesis
@@ -1575,7 +1575,7 @@ _M. tuberculosis_ by random transposon mutagenesis
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ucsf03_ho.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Mtb)
 <br/>
-[Hopkins Expressionists](http://astor.som.jhmi.edu/hex) (_Jun 25_)
+[Hopkins Expressionists](https://web.archive.org/web/20150217051402/https://www.biostat.jhsph.edu/GenomeCAFE/ExpressionistSchedule.html) (_Jun 25_)
 
 Identifying essential genes in
 _M. tuberculosis_ by random transposon mutagenesis
