@@ -1270,7 +1270,7 @@ The genomes of recombinant inbred lines
 [![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/seattle06_ho.pdf)
 <br/>
 [Department of
-Biostatistics](https://www.biostat.washington.edu), [University of Washington](http://www.washington.edu), Seattle (_Jan 12_)
+Biostatistics](https://www.biostat.washington.edu), [University of Washington](https://www.washington.edu), Seattle (_Jan 12_)
 
 
 
