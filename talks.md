@@ -1281,7 +1281,7 @@ The genomes of recombinant inbred lines
 [![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/oz05.ppt)
 [![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/oz05_ho.pdf)
 <br/>
-[Fifth Australasian human gene mapping conference](http://bioinf.wehi.edu.au/folders/melanie/genemappers/index.htm), Mt. Buller, Australia (_Nov 23_)
+[Fifth Australasian human gene mapping conference](https://web.archive.org/web/20080820021238/https://bioinf.wehi.edu.au/folders/melanie/genemappers/index.htm), Mt. Buller, Australia (_Nov 23_)
 
 What is regression?
 [![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/regression.ppt)
