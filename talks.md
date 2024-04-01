@@ -1290,7 +1290,7 @@ What is regression?
 Part of the "[Everything you ever wanted to know about
 Biostatistics but were afraid to ask](https://www.biostat.jhsph.edu/newsEvent/event/lectureSeries/lecture2005-06.php)" lecture series<br/>
 [Department of
-Biostatistics](http://www.biostat.jhsph.edu), [Johns Hopkins
+Biostatistics](https://publichealth.jhu.edu/departments/biostatistics), [Johns Hopkins
 Bloomberg School of Public Health](http://www.jhsph.edu), Baltimore, MD (_Oct 21_)
 
 The genomes of recombinant inbred lines
