@@ -1299,7 +1299,7 @@ The genomes of recombinant inbred lines
 <br/>
 [Department of
 Statistics](https://statistics.ucdavis.edu), [University of
-California, Davis](http://www.ucdavis.edu) (_Sep 29_)
+California, Davis](https://www.ucdavis.edu) (_Sep 29_)
 
 Super computing for &ldquo;classical&rdquo; genetics
 [![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/genomecafe.ppt)
