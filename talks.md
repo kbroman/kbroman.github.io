@@ -1305,7 +1305,7 @@ Super computing for &ldquo;classical&rdquo; genetics
 [![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/genomecafe.ppt)
 [![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/genomecafe_ho.pdf)
 <br/>
-[Genome Cafe](http://www.biostat.jhsph.edu/GenomeCAFE)
+[Genome Cafe](https://web.archive.org/web/20150217051402/https://www.biostat.jhsph.edu/GenomeCAFE)
 Grand Opening, [Department of
 Biostatistics](http://www.biostat.jhsph.edu), [Bloomberg School
 of Public Health](http://www.jhsph.edu), [Johns Hopkins
