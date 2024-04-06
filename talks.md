@@ -1307,7 +1307,7 @@ Super computing for &ldquo;classical&rdquo; genetics
 <br/>
 [Genome Cafe](https://web.archive.org/web/20150217051402/https://www.biostat.jhsph.edu/GenomeCAFE)
 Grand Opening, [Department of
-Biostatistics](http://www.biostat.jhsph.edu), [Bloomberg School
+Biostatistics](https://publichealth.jhu.edu/departments/biostatistics), [Bloomberg School
 of Public Health](http://www.jhsph.edu), [Johns Hopkins
 University](http://www.jhu.edu), Baltimore, MD (_Sep 14_)
 
