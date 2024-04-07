@@ -1308,7 +1308,7 @@ Super computing for &ldquo;classical&rdquo; genetics
 [Genome Cafe](https://web.archive.org/web/20150217051402/https://www.biostat.jhsph.edu/GenomeCAFE)
 Grand Opening, [Department of
 Biostatistics](https://publichealth.jhu.edu/departments/biostatistics), [Bloomberg School
-of Public Health](http://www.jhsph.edu), [Johns Hopkins
+of Public Health](https://publichealth.jhu.edu), [Johns Hopkins
 University](http://www.jhu.edu), Baltimore, MD (_Sep 14_)
 
 The genomes of recombinant inbred lines
