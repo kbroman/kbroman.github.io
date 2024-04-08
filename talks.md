@@ -1309,7 +1309,7 @@ Super computing for &ldquo;classical&rdquo; genetics
 Grand Opening, [Department of
 Biostatistics](https://publichealth.jhu.edu/departments/biostatistics), [Bloomberg School
 of Public Health](https://publichealth.jhu.edu), [Johns Hopkins
-University](http://www.jhu.edu), Baltimore, MD (_Sep 14_)
+University](https://www.jhu.edu), Baltimore, MD (_Sep 14_)
 
 The genomes of recombinant inbred lines
 [![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/upenn05.ppt)
