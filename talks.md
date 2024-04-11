@@ -1317,7 +1317,7 @@ The genomes of recombinant inbred lines
 <br/>
 [Department of Genetics](https://genetics.med.upenn.edu), [School of
 Medicine](https://www.med.upenn.edu), [University of
-Pennsylvania](http://www.upenn.edu), Philadelphia, PA (_Sep 12_)
+Pennsylvania](https://www.upenn.edu), Philadelphia, PA (_Sep 12_)
 
 The genomes of recombinant inbred lines
 [![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/csps05.ppt)
