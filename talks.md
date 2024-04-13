@@ -1324,7 +1324,7 @@ The genomes of recombinant inbred lines
 [![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/csps05_ho.pdf)
 <br/>
 [Joint
-Statistical Meetings](http://ww2.amstat.org/meetings/jsm/2005/), Minneapolis, MN (_Aug 11_)
+Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2005/), Minneapolis, MN (_Aug 11_)
 
 The genomes of recombinant inbred lines
 [![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/csps05.ppt)
