@@ -1330,7 +1330,7 @@ The genomes of recombinant inbred lines
 [![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/csps05.ppt)
 [![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/csps05_ho.pdf)
 <br/>
-[CSPS/IMS Joint meeting](http://math.bnu.edu.cn/statprob/CSPS-IMS2005/index.html), Beijing, China (_Jul 10_)
+[CSPS/IMS Joint meeting](https://web.archive.org/web/20151005123315/https://math.bnu.edu.cn/statprob/CSPS-IMS2005/index.html), Beijing, China (_Jul 10_)
 
 The genomes of recombinant inbred lines
 [![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/umbc05.ppt)
