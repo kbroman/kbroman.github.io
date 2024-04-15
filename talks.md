@@ -1336,7 +1336,7 @@ The genomes of recombinant inbred lines
 [![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/umbc05.ppt)
 [![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/umbc05_ho.pdf)
 <br/>
-[Department of Mathematics and Statistics](http://www.math.umbc.edu),
+[Department of Mathematics and Statistics](https://mathstat.umbc.edu),
 [University of Maryland, Baltimore County](http://www.umbc.edu), Baltimore, MD (_Apr 8_)
 
 Understanding human disease via randomized mice
