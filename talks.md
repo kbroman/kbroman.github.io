@@ -1344,7 +1344,7 @@ Understanding human disease via randomized mice
 [![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/epi05_ho.pdf)
 <br/>
 [Department of
-Epidemiology](http://www.jhsph.edu/Dept/EPI/index.html), [Johns Hopkins
+Epidemiology](https://publichealth.jhu.edu/departments/epidemiology), [Johns Hopkins
 Bloomberg School of Public Health](http://www.jhsph.edu), Baltimore, MD (_Mar 4_)
 
 Principles of experimental design and sample
