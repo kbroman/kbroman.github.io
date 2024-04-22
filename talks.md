@@ -1345,7 +1345,7 @@ Understanding human disease via randomized mice
 <br/>
 [Department of
 Epidemiology](https://publichealth.jhu.edu/departments/epidemiology), [Johns Hopkins
-Bloomberg School of Public Health](http://www.jhsph.edu), Baltimore, MD (_Mar 4_)
+Bloomberg School of Public Health](https://publichealth.jhu.edu/), Baltimore, MD (_Mar 4_)
 
 Principles of experimental design and sample
 size determination for animal-based research
