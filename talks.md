@@ -1353,7 +1353,7 @@ size determination for animal-based research
 [![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/acuc_ho.pdf)
 <br/>
 [Johns Hopkins University Animal Care
-and Use Committee](http://www.jhu.edu/animalcare) seminar (_Feb 24_)
+and Use Committee](https://animalcare.jhu.edu) seminar (_Feb 24_)
 
 The genomes of recombinant inbred lines
 [![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/prosp_students05.ppt)
