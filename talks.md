@@ -1362,7 +1362,7 @@ The genomes of recombinant inbred lines
 (for prospective graduate students)<br/>
 [Department of
 Biostatistics](https://publichealth.jhu.edu/departments/biostatistics), [Johns Hopkins
-Bloomberg School of Public Health](http://www.jhsph.edu), Baltimore, MD (_Feb 11_)
+Bloomberg School of Public Health](https://publichealth.jhu.edu), Baltimore, MD (_Feb 11_)
 
 The genetic dissection of complex traits
 [![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/martina_defense.ppt)
