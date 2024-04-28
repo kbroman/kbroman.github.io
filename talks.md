@@ -1369,7 +1369,7 @@ The genetic dissection of complex traits
 [![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/martina_defense.pdf)
 <br/>
 (Introduction for the Martina Johannesson's dissertation defense)<br/>
-Section for Medical Inflammation Research, Department of Cell and Molecular Biology, [Lund University](http://www.lu.se/o.o.i.s/450), Lund, Sweden (_Jan 28_)
+Section for Medical Inflammation Research, Department of Cell and Molecular Biology, [Lund University](https://www.lunduniversity.lu.se/), Lund, Sweden (_Jan 28_)
 
 The genomes of recombinant inbred lines
 [![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/lund05.ppt)
