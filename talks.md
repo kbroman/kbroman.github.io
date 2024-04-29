@@ -1375,7 +1375,7 @@ The genomes of recombinant inbred lines
 [![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/lund05.ppt)
 [![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/lund05.pdf)
 <br/>
-[Section for Medical Inflammation Research](http://www.lu.se/o.o.i.s/1705?task=view_english_organization_information013100009&firstname=&lastname=holmdahl), [Department of Cell and Molecular Biology](http://www.lu.se/o.o.i.s/1705?task=view_english_organization_information013100007&username=), [Lund University](http://www.lu.se/o.o.i.s/450), Lund, Sweden (_Jan 27_)
+Section for Medical Inflammation Research, [Department of Cell and Molecular Biology](http://www.lu.se/o.o.i.s/1705?task=view_english_organization_information013100007&username=), [Lund University](http://www.lu.se/o.o.i.s/450), Lund, Sweden (_Jan 27_)
 
 
 
