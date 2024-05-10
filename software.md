@@ -67,7 +67,7 @@ Various R functions that I find useful, assembled into an R package.
 
 ---
 
-#### <a name="detectPVC"></a>[R/detectPVC](https://github.com/kbroman/detectPVC) [![zenodo DOI](https://zenodo.org/badge/794298079.svg)](https://zenodo.org/doi/10.5281/zenodo.11174768)
+#### <a name="detectPVC"></a>[R/detectPVC](https://github.com/kbroman/detectPVC) [![zenodo DOI](icons16/doi-icon.png)](https://zenodo.org/doi/10.5281/zenodo.11174768)
 
 R package to detect premature ventricular complexes (PVCs) in data from a [Polar
 H10](https://www.polar.com/us-en/sensors/h10-heart-rate-sensor) chest-strap heart rate sensor.
