@@ -18,7 +18,7 @@ description: Karl Broman's teaching
 
 ### <a name="current"></a>Current courses
 
-#### [Biomedical data science scholarly literature (BMI 881, Fall 2023)](https://kbroman.org/BMI881)
+#### [Biomedical data science scholarly literature (BMI 881, Fall 2024)](https://kbroman.org/BMI881) [![github source](icons16/github-icon.png)](https://github.com/kbroman/BMI881)
 
 - [schedule](https://kbroman.org/BMI881/schedule.html)
 - [syllabus](https://kbroman.org/BMI881/syllabus.html)
@@ -26,7 +26,7 @@ description: Karl Broman's teaching
 - [resources](https://kbroman.org/BMI881/resources.html)
 
 
-#### [Biomedical data science professional skills (BMI 883/884, Fall 2023)](https://kbroman.org/BMI883)
+#### [Biomedical data science professional skills (BMI 883/884, Fall 2024)](https://kbroman.org/BMI883) [![github source](icons16/github-icon.png)](https://github.com/kbroman/BMI883)
 
 - [schedule](https://kbroman.org/BMI883/schedule.html)
 - [syllabus](https://kbroman.org/BMI883/syllabus.html)
