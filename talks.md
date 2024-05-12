@@ -1387,7 +1387,7 @@ Gene mapping in model organisms
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/taiwan04.pdf)
 <br/>
 [Taipei Symposium
-on Statistical Genomics](http://www.stat.sinica.edu.tw/2004tssg/), Academia Sinica, Taipei, Taiwan (_Dec 16_)
+on Statistical Genomics](https://web.archive.org/web/20041209060743/https://www.stat.sinica.edu.tw/2004tssg/), Academia Sinica, Taipei, Taiwan (_Dec 16_)
 
 The genetic dissection of complex
 traits
