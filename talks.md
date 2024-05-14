@@ -1395,7 +1395,7 @@ traits
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/tigr04.pdf)
 <br/>
 [7th Annual Conference on
-Computational Genomics](http://www.tigr.org/conf/cg/), Reston, Virginia (_Oct 21_)
+Computational Genomics](https://web.archive.org/web/20050207120254/https://www.tigr.org/conf/cg/), Reston, Virginia (_Oct 21_)
 
 The genomes of recombinant inbred lines
 [![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/yale04.ppt)
