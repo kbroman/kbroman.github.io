@@ -1403,7 +1403,7 @@ The genomes of recombinant inbred lines
 <br/>
 [Department of
 Biostatistics](https://ysph.yale.edu/public-health-research-and-practice/department-research/biostatistics/), [Yale
-School of Public Health](http://publichealth.yale.edu/), New Haven, Connecticut (_Oct 19_)
+School of Public Health](https://ysph.yale.edu), New Haven, Connecticut (_Oct 19_)
 
 Identifying essential genes in <em>M. tuberculosis</em>
 by random transposon mutagenesis
