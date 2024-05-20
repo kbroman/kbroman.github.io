@@ -1427,7 +1427,7 @@ Director&rsquo;s cut: [![windows ppt](icons16/ppt-icon.png)](https://www.biostat
 Part of the "Everything you ever wanted to know about
 Biostatistics but were afraid to ask" lecture series<br/>
 [Department of
-Biostatistics](http://www.biostat.jhsph.edu), [Johns Hopkins
+Biostatistics](https://publichealth.jhu.edu/departments/biostatistics), [Johns Hopkins
 Bloomberg School of Public Health](http://www.jhsph.edu), Baltimore, MD (_Sep 24_)
 
 The genomes of recombinant inbred lines
