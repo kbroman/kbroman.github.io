@@ -1435,7 +1435,7 @@ The genomes of recombinant inbred lines
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/toronto04.pdf)
 <br/>
 [Genetics and Genomic Biology](https://www.sickkids.ca/en/research/research-programs/genetics-genome-biology/),
-[Hospital for Sick Children](http://www.sickkids.on.ca), Toronto, Canada (_Aug 11_)
+[Hospital for Sick Children](https://www.sickkids.ca), Toronto, Canada (_Aug 11_)
 
 The genomes of recombinant inbred lines
 [![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/jsm04.ppt)
