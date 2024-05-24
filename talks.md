@@ -1442,7 +1442,7 @@ The genomes of recombinant inbred lines
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/jsm04.pdf)
 <br/>
 [Joint
-Statistical Meetings](http://ww2.amstat.org/meetings/jsm/2004/), Toronto, Canada (_Aug 8_)
+Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2004/), Toronto, Canada (_Aug 8_)
 
 The genomes of recombinant inbred lines
 [![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ctc04.ppt)
