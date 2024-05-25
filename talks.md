@@ -1448,7 +1448,7 @@ The genomes of recombinant inbred lines
 [![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ctc04.ppt)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ctc04.pdf)
 <br/>
-[Complex Trait Consortium](http://www.complextrait.org), [Third Annual Meeting](http://www.jax.org/courses/events/coursedetails.do?id=30), [The Jackson Laboratory](http://www.jax.org), Bar Harbor, Maine (_Jul 8_)
+[Complex Trait Consortium](https://www.complextrait.org), [Third Annual Meeting](http://www.jax.org/courses/events/coursedetails.do?id=30), [The Jackson Laboratory](http://www.jax.org), Bar Harbor, Maine (_Jul 8_)
 
 Statistics in epigenomics
 [![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/epigenomics.ppt)
