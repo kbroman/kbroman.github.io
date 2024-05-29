@@ -1464,7 +1464,7 @@ chromosomes
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/vanderbilt04.pdf)
 <br/>
 Genetic Interest Group, Center for Human Genetics Research, [Vanderbilt
-University](http://www.vanderbilt.edu), Nashville, TN (_May 27_)
+University](https://www.vanderbilt.edu), Nashville, TN (_May 27_)
 
 The breakpoint process on recombinant inbred chromosomes
 [![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/retreat04.ppt)
