@@ -1456,7 +1456,7 @@ Statistics in epigenomics
 <br/>
 [Nobel Symposium on
 Epigenetic Reprogramming in Development
-and Disease](http://www-conference.slu.se/nobel/), Stockholm, Sweden (_Jun 19_)
+and Disease](https://web.archive.org/web/20050220212447/http://www-conference.slu.se/nobel/), Stockholm, Sweden (_Jun 19_)
 
 The breakpoint process on recombinant inbred
 chromosomes
