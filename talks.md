@@ -1472,7 +1472,7 @@ The breakpoint process on recombinant inbred chromosomes
 <br/>
 Annual Retreat, [Department of
 Biostatistics](https://publichealth.jhu.edu/departments/biostatistics), [Johns Hopkins Bloomberg School of
-Public Health](http://www.jhsph.edu) (_May 1_)
+Public Health](https://publichealth.jhu.edu/) (_May 1_)
 
 The breakpoint process on recombinant inbred chromosomes
 [![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ribreaks.ppt)
