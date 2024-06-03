@@ -1486,7 +1486,7 @@ by random transposon mutagenesis
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Mtb)
 <br/>
 [Dept of Biostatistics,
-University at Buffalo](http://phhp.buffalo.edu/biostat) in Buffalo, New York (_Apr 8_)
+University at Buffalo](https://publichealth.buffalo.edu/biostatistics.html) in Buffalo, New York (_Apr 8_)
 
 Introduction to QTL mapping: lecture and
 computer lab
