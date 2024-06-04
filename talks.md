@@ -1493,7 +1493,7 @@ computer lab
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/Louisville/rqtllab.pdf)
 [![R code](icons16/R-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/Louisville/rqtllab.R)<br/>
 [Dept of
-Bioinformatics and Biostatistics](https://www.sphis.louisville.edu/bb_home.cfm), [University of Louisville](http://www.louisville.edu) in
+Bioinformatics and Biostatistics](https://louisville.edu/sphis/departments/bioinformatics-biostatistics), [University of Louisville](https://www.louisville.edu) in
 Louisville, Kentucky (_Apr 2_)
 
 Statistical issues in QTL mapping in mice
