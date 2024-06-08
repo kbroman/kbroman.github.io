@@ -1501,7 +1501,7 @@ Statistical issues in QTL mapping in mice
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rostock04.pdf)
 <br/>
 [Workshop on the
-Analysis of Complex Genetic Traits](https://web.archive.org/web/20050306171036/https://www.eurome.de/meet.html#meet4), [Immunogenetics](http://www-iimmun.med.uni-rostock.de/immgen.html), [Universit&auml;t Rostock](http://www.uni-rostock.de), Germany (_Mar 17_)
+Analysis of Complex Genetic Traits](https://web.archive.org/web/20050306171036/https://www.eurome.de/meet.html#meet4), [Immunogenetics](https://web.archive.org/web/20070101041648/https://www-iimmun.med.uni-rostock.de/immgen.html), [Universit&auml;t Rostock](http://www.uni-rostock.de), Germany (_Mar 17_)
 
 Gene mapping in mice
 [![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/msri04.ppt)
