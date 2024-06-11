@@ -148,14 +148,3 @@ Steps toward reproducible research
 [![video](icons16/video-icon.png)](https://www.youtube.com/watch?v=L4Qs0F7bLYY&t=460s)<br/>
 [Graduate Researchers interested in Data (GRiD)](http://gridclub.io),
 [UMass Amherst](http://www.umass.edu/) (_Apr 11_)
-
-
-### 2004
-
-Gene mapping in mice
-[![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/msri04.ppt)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/msri04.pdf)
-[![video](icons16/video-icon.png)](http://www.msri.org/publications/ln/msri/2004/genetics/broman/1/index.html)
-<br/>
-[Workshop on the Genetics of Complex Disease](http://www.msri.org/calendar/workshops/WorkshopInfo/261/show_workshop), [Mathematical Sciences
-Research Institute](http://www.msri.org), Berkeley, California (_Feb 12_)
