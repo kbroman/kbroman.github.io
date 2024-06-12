@@ -1519,7 +1519,7 @@ Gene mapping in mice
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/msri04.pdf)
 <br/>
 [Workshop on the Genetics of Complex Disease](https://web.archive.org/web/20040427033318/www.msri.org/calendar/workshops/WorkshopInfo/261/show_workshop),
-[Mathematical Sciences Research Institute](http://www.msri.org), Berkeley, California (_Feb 12_)
+[Mathematical Sciences Research Institute](https://www.slmath.org), Berkeley, California (_Feb 12_)
 
 Identifying essential genes in <em>M. tuberculosis</em>
 by random transposon mutagenesis
