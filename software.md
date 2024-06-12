@@ -74,7 +74,7 @@ H10](https://www.polar.com/us-en/sensors/h10-heart-rate-sensor) chest-strap hear
 
 ---
 
-#### <a name="AndroidPolarPVC2"></a>[AndroidPolarPVC2](https://github.com/kbroman/AndroidPolarPVC2)
+#### <a name="AndroidPolarPVC2"></a>[AndroidPolarPVC2](https://github.com/kbroman/AndroidPolarPVC2) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.11626183)
 
 Android app to detect premature ventricular complexex (PVCs) and
 display live data on PVC burden with a [Polar H10](https://www.polar.com/us-en/sensors/h10-heart-rate-sensor)
