@@ -1527,7 +1527,7 @@ by random transposon mutagenesis
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Mtb)
 <br/>
 [Department of
-Epidemiology and Biostatistics](http://www.mskcc.org/mskcc/html/3159.cfm), [Memorial
+Epidemiology and Biostatistics](https://www.mskcc.org/departments/epidemiology-biostatistics), [Memorial
 Sloan-Kettering Cancer Center](http://www.mskcc.org/mskcc/html/44.cfm), New York (_Jan 14_)
 
 
