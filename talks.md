@@ -1538,7 +1538,7 @@ by random transposon mutagenesis
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ucla03_ho.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Mtb)
 <br/>
-Departments of [Statistics](http://www.stat.wisc.edu/)
+Departments of [Statistics](https://www.stat.wisc.edu/)
 and [Biostatistics & Medical Informatics](https://www.biostat.wisc.edu/), University of Wisconsin&ndash;Madison (_Nov 12_)
 
 Identifying essential genes in <em>M. tuberculosis</em>
