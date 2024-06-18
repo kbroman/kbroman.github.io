@@ -1546,7 +1546,7 @@ by random transposon mutagenesis
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ucla03_ho.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Mtb)
 <br/>
-[Department of Statistics](http://www.stat.ucla.edu/),
+[Department of Statistics](https://statistics.ucla.edu/),
 University of California, Los Angeles (_Nov 4_)
 
 Identifying essential genes in <em>M. tuberculosis</em>
