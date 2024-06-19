@@ -1554,7 +1554,7 @@ by random transposon mutagenesis
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/unc03_ho.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Mtb)
 <br/>
-[Department of Biostatistics](http://www.sph.unc.edu/bios), University of North
+[Department of Biostatistics](https://sph.unc.edu/bios/biostatistics/), University of North
 Carolina at Chapel Hill (_Oct 23_)
 
 Identifying essential genes in <em>M. tuberculosis</em>
