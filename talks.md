@@ -1562,7 +1562,7 @@ by random transposon mutagenesis
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/haverford_ho.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Mtb)
 <br/>
-Haverford-Bryn Mayr Mathematics Colloquium, [Haverford College](http://www.haverford.edu/math/), Haverford, Pennsylvania (_Oct 20_)
+Haverford-Bryn Mayr Mathematics Colloquium, [Haverford College](https://www.haverford.edu/mathematics-and-statistics), Haverford, Pennsylvania (_Oct 20_)
 
 Identifying essential genes in <em>M. tuberculosis</em>
 by random transposon mutagenesis
