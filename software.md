@@ -265,12 +265,12 @@ A perl script for converting data from linkage format to that used by
 RelCheck is included with the software.
 
 Download:
-[source](https://www.biostat.wisc.edu/software/relcheck/relcheck_0.67.tar.gz) | [windows](https://www.biostat.wisc.edu/software/relcheck/relcheck_0.67.zip)
+[source](https://www.biostat.wisc.edu/~kbroman/software/relcheck/relcheck_0.67.tar.gz) | [windows](https://www.biostat.wisc.edu/~kbroman/software/relcheck/relcheck_0.67.zip)
 
-Sample data \[[tar.gz](https://www.biostat.wisc.edu/software/relcheck/sampledata.tar.gz) |
-[zip](https://www.biostat.wisc.edu/software/relcheck/sampledata.zip)\]
-README file: \[[README.txt](https://www.biostat.wisc.edu/software/relcheck/README.txt)\]
-List of updates to the software: \[[CHANGES.txt](https://www.biostat.wisc.edu/software/relcheck/CHANGES.txt)\]
+Sample data \[[tar.gz](https://www.biostat.wisc.edu/~kbroman/software/relcheck/sampledata.tar.gz) |
+[zip](https://www.biostat.wisc.edu/~kbroman/software/relcheck/sampledata.zip)\]
+README file: \[[README.txt](https://www.biostat.wisc.edu/~kbroman/software/relcheck/README.txt)\]
+List of updates to the software: \[[CHANGES.txt](https://www.biostat.wisc.edu/~kbroman/software/relcheck/CHANGES.txt)\]
 
 ---
 
@@ -285,12 +285,12 @@ pairwise interactions.
 **Note**: This is very preliminary, the input and output
 are not well documented, and I'm no longer actively developing this software.  Look at [R/qtl](https://rqtl.org), instead.
 
-Download: [source](https://www.biostat.wisc.edu/software/f2/f2_0.50.tar.gz) |
-[windows](https://www.biostat.wisc.edu/software/f2/f2_0.50.zip)
+Download: [source](https://www.biostat.wisc.edu/~kbroman/software/f2/f2_0.50.tar.gz) |
+[windows](https://www.biostat.wisc.edu/~kbroman/software/f2/f2_0.50.zip)
 
 Sample data
-\[[tar.gz](https://www.biostat.wisc.edu/software/f2/example.tar.gz) |
-[zip](https://www.biostat.wisc.edu/software/f2/example.zip)\]
+\[[tar.gz](https://www.biostat.wisc.edu/~kbroman/software/f2/example.tar.gz) |
+[zip](https://www.biostat.wisc.edu/~kbroman/software/f2/example.zip)\]
 
 <!--
 [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.thisdoi)
