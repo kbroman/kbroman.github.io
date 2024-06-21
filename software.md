@@ -82,7 +82,7 @@ chest-strap heart rate sensor.
 
 ---
 
-#### <a name="aRxiv"></a>[aRxiv](https://github.com/ropensci/aRxiv)
+#### <a name="aRxiv"></a>[aRxiv](https://github.com/ropensci/aRxiv) [![CRAN DOI](icons16/doi-icon.png)](https://doi.org/10.32614/CRAN.package.aRxiv)
 
 [R](https://www.r-project.org) package for searching
 [arXiv](https://arxiv.org) (an archive of electronic preprints for
