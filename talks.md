@@ -1577,7 +1577,7 @@ size determination for animal-based research
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/acuc_ho.pdf)
 <br/>
 [Johns Hopkins University Animal Care
-and Use Committee](http://www.jhu.edu/animalcare) seminar (_Jun 26_)
+and Use Committee](https://animalcare.jhu.edu) seminar (_Jun 26_)
 
 Identifying essential genes in
 _M. tuberculosis_ by random transposon mutagenesis
