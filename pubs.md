@@ -1834,6 +1834,16 @@ Notes-Monograph Series, Vol 33, pp 114-142
 
 ### <a name="techreports"></a>technical reports and preprints
 
+Glenn RA, Do SC, Guruvayurappan K, Corrigan EK, Santini L, Medina-Cano
+D, Singer S, Cho H, Liu J, **Broman K**, Czechanski A, Reinholdt L,
+Koche R, Furuta Y, Kunz M, Vierbuchen T (2024) A pluripotent stem cell
+platform for in vitro systems genetics studies of mouse development.
+[bioRxiv](https://biorxiv.org)
+[doi:10.1101/2024.06.06.597758](https://doi.org/10.1101/2024.06.06.597758)
+[![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/38895226/)
+[![pdf](icons16/pdf-icon.png)](https://www.biorxiv.org/content/10.1101/2024.06.06.597758v1.full.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1101/2024.06.06.597758)
+
 Yu Z, Farage G, Williams RW, **Broman KW**, Sen Ś (2023) BulkLMM:
 Real-time genome scans for multiple quantitative traits using linear
 mixed models. [bioRxiv](https://biorxiv.org)
