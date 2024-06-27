@@ -1601,7 +1601,8 @@ QTL mapping in mice
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/qtl_nz.pdf)
 [![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/qtl_nz_handout.pdf)<br/>
 [Mathematics
-Workshop](http://www.mcs.vuw.ac.nz/~mathmeet/newplymouth/index.shtml) in New Plymouth, New Zealand (_Jan 10-11_)
+Workshop](https://web.archive.org/web/20030222010956/https://www.mcs.vuw.ac.nz/~mathmeet/newplymouth/index.shtml)
+in New Plymouth, New Zealand (_Jan 10-11_)
 
 
 
