@@ -1591,7 +1591,7 @@ _M. tuberculosis_ by random transposon mutagenesis
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ucsf03_ho.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Mtb)
 <br/>
-[Department of Biostatistics](http://www.biostat.ucsf.edu/), University of California, San Francisco (_Mar 13_)
+[Department of Biostatistics](https://epibiostat.ucsf.edu/), University of California, San Francisco (_Mar 13_)
 
 Meiosis, recombination, and
 interference
