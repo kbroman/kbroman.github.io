@@ -1615,7 +1615,7 @@ mutagenesis
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Mtb)
 <br/>
 [Department of
-Biostatistics](http://www.biostat.jhsph.edu), [Johns Hopkins Bloomberg School of
+Biostatistics](https://publichealth.jhu.edu/departments/biostatistics), [Johns Hopkins Bloomberg School of
 Public Health](http://www.jhsph.edu) (_Dec 13_)
 
 Human crossover interference
