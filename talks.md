@@ -1620,9 +1620,7 @@ Public Health](https://publichealth.jhu.edu) (_Dec 13_)
 
 Human crossover interference
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/yale.pdf)
-<!--[![video](icons16/video-icon.png)](http://images.main.uab.edu/isoph/PresenterOne/HumanCrossoverInterference/rnhigh.ram)--> <br/>
-[Section on Statistical Genetics](http://www.soph.uab.edu/statgenetics/Default.htm), University of Alabama,
-Birmingham (_Oct 9_)
+Section on Statistical Genetics, University of Alabama, Birmingham (_Oct 9_)
 
 Model selection for QTL mapping
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rss_ho.pdf)<br/>
