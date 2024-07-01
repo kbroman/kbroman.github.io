@@ -1639,7 +1639,7 @@ Complex Trait Consortium meeting, Memphis, Tennessee (_May 16_)
 Human crossover interference
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/yale.pdf)
 <br/>
-[Department of Statistics](http://www.stat.berkeley.edu), University of California, Berkeley (_Apr 11_)
+[Department of Statistics](https://statistics.berkeley.edu), University of California, Berkeley (_Apr 11_)
 
 A model selection approach for the identification of quantitative
 trait loci in experimental crosses
