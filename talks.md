@@ -6,6 +6,14 @@ description: Karl Broman's talks
 
 ### 2024
 
+Data cleaning principles
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_DataCleaning/data_cleaning.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/Talk_DataCleaning/data_cleaning_notes.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_DataCleaning)
+[Summer Research Program in Biomedical Data Science](https://biostat.wiscweb.wisc.edu/education/summer/),
+[Department of Biostatistics & Medical Informatics](https://www.biostat.wisc.edu),
+[University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Jul 2_)
+
 Steps toward reproducible research
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr.pdf)
 [![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr_withnotes.pdf)
