@@ -1653,7 +1653,7 @@ A model selection approach for the identification of quantitative
 trait loci in experimental crosses
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/hopkins02_ho.pdf)
 <br/>
-[Department of Biostatistics](http://www.biostat.jhsph.edu),
+[Department of Biostatistics](https://publichealth.jhu.edu/departments/biostatistics),
 Johns Hopkins University, Baltimore, Maryland (_Apr 3_)
 
 Model selection in QTL mapping
