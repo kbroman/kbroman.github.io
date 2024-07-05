@@ -1660,7 +1660,7 @@ Model selection in QTL mapping
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rp_handout.pdf)
 <br/>
 [Department of Molecular and
-Cellular Biology](http://www.roswellpark.org/department_725.html), Roswell Park Cancer Institute, Buffalo, New York (_Mar 28_)
+Cellular Biology](https://www.roswellpark.org/research/departments/molecular-cellular-biology), Roswell Park Cancer Institute, Buffalo, New York (_Mar 28_)
 
 A model selection approach for the identification of quantitative
 trait loci in experimental crosses
