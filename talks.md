@@ -1672,7 +1672,7 @@ Human crossover interference
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/yale.pdf)
 <br/>
 [Department of Mathematics and
-Statistics](http://www.american.edu/cas/department_mathstat.shtml), American University, Washington, DC (_Feb 5_)
+Statistics](https://www.american.edu/cas/mathstat/), American University, Washington, DC (_Feb 5_)
 
 
 
