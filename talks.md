@@ -1681,7 +1681,7 @@ Statistics](https://www.american.edu/cas/mathstat/), American University, Washin
 Human crossover interference
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/yale.pdf)
 <br/>
-[Department of Statistics](http://www.stat.yale.edu/), Yale
+[Department of Statistics](https://statistics.yale.edu/), Yale
 University, New Haven, Connecticut (_Dec 3_)
 
 Identifying clusters of related individuals with data on dominant genetic markers
