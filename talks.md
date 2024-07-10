@@ -1697,7 +1697,7 @@ NCI Satellite Workshop on Modifier Genes, Madison, Wisconsin (_Jun 12_)
 Human meiotic interference
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/uwm2001.pdf)
 <br/>
-[Department of Mathemetical Sciences](http://www.math.uwm.edu),
+[Department of Mathemetical Sciences](https://uwm.edu/math/),
 University of Wisconsin-Milwaukee (_May 11_)
 
 Crossover interference in the mouse
