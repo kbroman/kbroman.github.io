@@ -1712,7 +1712,7 @@ Hopkins Statistical Genetics Working Group (_Apr 2_)
 Human crossover interference
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/jax.pdf)
 <br/>
-[Biometric Research Branch](http://linus.nci.nih.gov/~brb/), National Cancer Institute, Bethesda, Maryland (_Oct 20_)
+[Biometric Research Branch](https://brb.nci.nih.gov/index.html), National Cancer Institute, Bethesda, Maryland (_Oct 20_)
 
 Identifying QTLs in experimental crosses
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/hsgwg.pdf)
