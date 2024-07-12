@@ -1722,7 +1722,7 @@ Hopkins Statistical Genetics Working Group (_Sep 25_)
 Human crossover interference
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/jax.pdf)
 <br/>
-[The Jackson Laboratory](http://www.jax.org), Bar Harbor, Maine (_Sep 15_)
+[The Jackson Laboratory](https://www.jax.org), Bar Harbor, Maine (_Sep 15_)
 
 Estimation of allele frequencies with sibpair data
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/enar2000.pdf)
