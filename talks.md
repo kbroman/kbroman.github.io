@@ -1736,7 +1736,7 @@ International Biometric Society/ENAR meeting, Chicago, IL (_Mar 20_)
 Topics in statistical genetics
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/topics.pdf)
 <br/>
-[Department of Biostatistics](http://www.biostat.jhsph.edu), Johns Hopkins University, Baltimore, Maryland (_Sep 22_)
+[Department of Biostatistics](https://publichealth.jhu.edu/departments/biostatistics), Johns Hopkins University, Baltimore, Maryland (_Sep 22_)
 
 A characterization of human crossover interference
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/enar1999.pdf)
