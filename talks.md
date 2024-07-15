@@ -1746,7 +1746,7 @@ International Biometric Society/ENAR meeting, Atlanta, GA (_Mar 30_)
 Human meiotic interference
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/interference.pdf)
 <br/>
-[Department of Biostatistics](https://www.biostat.washington.edu/), [University of Washington](http://www.washington.edu), Seattle (_Feb 18_)
+[Department of Biostatistics](https://www.biostat.washington.edu/), [University of Washington](https://www.washington.edu), Seattle (_Feb 18_)
 
 Identifying QTLs in experimental crosses
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/qtls.pdf)
