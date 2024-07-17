@@ -1756,7 +1756,7 @@ Gemini Research, Cambridge, England (_Feb 11_)
 Human meiotic interference
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/interference.pdf)
 <br/>
-[Department of Biostatistics](http://www.biostat.jhsph.edu), Johns Hopkins
+[Department of Biostatistics](https://publichealth.jhu.edu/departments/biostatistics), Johns Hopkins
 University, Baltimore, Maryland (_Feb 3_)
 
 Human meiotic interference
