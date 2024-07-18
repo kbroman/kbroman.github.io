@@ -1761,7 +1761,7 @@ University, Baltimore, Maryland (_Feb 3_)
 
 Human meiotic interference
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/interference.pdf)<br/>
-[Department of Statistics](http://www.stat.berkeley.edu), University
+[Department of Statistics](https://statistics.berkeley.edu/), University
 of California, Berkeley (_Jan 28_)
 
 Human meiotic interference
