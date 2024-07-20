@@ -1767,7 +1767,7 @@ of California, Berkeley (_Jan 28_)
 Human meiotic interference
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/interference.pdf)
 <br/>
-[Jasper Rine](http://mcb.berkeley.edu/faculty/GEN/rinej.html)&rsquo;s laboratory,
+[Jasper Rine](https://mcb.berkeley.edu/faculty/GEN/rinej.html)&rsquo;s laboratory,
 Molecular and Cell Biology,
 University of California, Berkeley (_Jan 27_)
 
