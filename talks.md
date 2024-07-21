@@ -1774,7 +1774,7 @@ University of California, Berkeley (_Jan 27_)
 Human meiotic interference
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/interference.pdf)
 <br/>
-[Center for Medical Genetics](http://research.marshfieldclinic.org/genetics/),
+Center for Medical Genetics,
 Marshfield Medical Research Foundation, Marshfield, Wisconsin (_Jan 14_)
 
 
