@@ -1796,7 +1796,7 @@ Brisbane, Australia (_Nov 19_)
 Cleaning genotype data
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/cleaning.pdf)
 <br/>
-[Walter and Eliza Hall Institute for Medical Research](http://www.wehi.edu.au/),
+[Walter and Eliza Hall Institute for Medical Research](https://www.wehi.edu.au/),
 Melbourne, Australia (_Nov 17_)
 
 What is (are?) statistics?
