@@ -1802,7 +1802,7 @@ Melbourne, Australia (_Nov 17_)
 What is (are?) statistics?
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/what_is_statistics.pdf)
 <br/>
-[Center for Medical Genetics](http://research.marshfieldclinic.org/genetics/),
+Center for Medical Genetics,
 Marshfield Medical Research Foundation, Marshfield, Wisconsin (_Jan 8_)
 
 
