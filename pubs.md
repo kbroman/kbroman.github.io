@@ -30,6 +30,20 @@ description: Karl Broman's publications
 
 ### <a name="articles"></a>journal articles
 
+#### To appear
+
+Litichevskiy L, Considine M, Gill J, Shandar V, Cox TO, Descamps HC,
+Wright KM, Amses KR, Dohnalová L, Liou MJ, Tetlak M, Galindo-Fiallos
+MR, Wong AC, Lundgren P, Kim J, Uhr GT, Rahman RJ, Mason S, Merenstein
+C, Bushman FD, Raj A, Harding F, Chen Z, Prateek GV, Mullis M, Deighan
+AG, Robinson L, Tanes C, Bittinger K, Chakraborty M, Bhatt AS, Li H,
+Barnett I, Davenport ER, **Broman KW**, Levy M, Cohen RL, Botstein D, Freund A, Di
+Francesco A, Churchill GA, Li M, Thaiss CA (2025) Gut metagenomes
+reveal interactions between dietary restriction, aging, and the
+microbiome in genetically diverse mice.
+[Nat Microbiol](https://www.nature.com/nmicrobiol/), to appear
+<!-- * 172 * -->
+
 #### 2023
 
 Zhang Q, Linke V, Overmyer KA, Traeger LL, Kasahara K, Miller IJ, Manson DE, Polaske TJ,
