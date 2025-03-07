@@ -918,10 +918,10 @@ Manichaikul A, Moon JY, Sen &#346;, Yandell BS, **Broman KW** (2009) A model sel
 identification of quantitative trait loci in experimental crosses,
 allowing epistasis. [Genetics](https://academic.oup.com/genetics) 181:1077-1086
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/19104078)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/181/3/1077/37323242/genetics1077.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/manichaikul2009a.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.108.094565)
 \[**Erratum**: [Genetics](https://academic.oup.com/genetics) 184:607, 2010
-[![pdf](icons16/pdf-icon.png)](pdfs/manichaikul2009a.pdf)
+[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/184/2/607/37326609/genetics0607.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.109.112912)\]
 <!-- * 83 * -->
 <!-- https://doi.org/10.1534/genetics.108.094565 -->
@@ -1246,11 +1246,11 @@ disease.  [Hum Mol Genet](https://academic.oup.com/hmg) 14:1549-1558
 **Broman KW** (2005) The genomes of
 recombinant inbred lines.  [Genetics](https://academic.oup.com/genetics) 169:1133-1146
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15545647)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/169/2/1133/39302498/genetics1133.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/broman2005.pdf)
 [![R/ricalc](icons16/R-icon.png)](https://github.com/kbroman/ricalc)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.104.035212)
 \[**Erratum**: [Genetics](https://academic.oup.com/genetics) 173:2419, 2006
-[![pdf](icons16/pdf-icon.png)](pdfs/broman2005.pdf)
+[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/173/4/2419/37340795/genetics2419.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1093/genetics/173.4.2419)\]
 <!-- * 51 * -->
 <!-- https://doi.org/10.1534/genetics.104.035212 -->
