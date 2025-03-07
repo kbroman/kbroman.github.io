@@ -843,7 +843,7 @@ Greene JM, Lhost JJ, Burwitz BJ, Budde ML, Macnair CE, Weiker MK, Gostick E, Fri
 
 Wong AK, Ruhe AL, Dumont BL, Robertson KR, Guerrero G, Shull SM, Ziegle JS, Millon LV, **Broman KW**, Payseur BA, Neff MW (2010)  A comprehensive linkage map of the dog genome.  [Genetics](https://academic.oup.com/genetics) 184:595-605
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/19966068)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/184/2/595/46841848/genetics0595.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/wong2010.pdf)
 [![supporting information](icons16/supp-icon.png)](https://www.genetics.org/cgi/content/full/genetics.109.106831/DC1)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.109.106831)
 <!-- * 92 * -->
@@ -878,7 +878,7 @@ Bell JT, Brockmann GA, Wergedal JE, Bult C, Paigen B, Flint J, Tsaih
 S-W, Churchill GA, **Broman KW** (2009) A new
 standard genetic map for the laboratory mouse. [Genetics](https://academic.oup.com/genetics) 182:1335-1344
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/19535546)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/182/4/1335/49427572/genetics1335.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/cox2009.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.109.105486)
 <!-- * 88 * -->
 <!-- https://doi.org/10.1534/genetics.109.105486 -->
@@ -887,14 +887,14 @@ Dumont BL, **Broman KW**,
 Payseur BA (2009) Variation in genomic recombination rates among
 heterogeneous stock mice. [Genetics](https://academic.oup.com/genetics) 182:1345-1349
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/19535547)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/182/4/1345/37542106/genetics1345.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/dumont2009.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.109.105114)
 <!-- * 87 * -->
 <!-- https://doi.org/10.1534/genetics.109.105114 -->
 
 Manichaikul A, **Broman KW** (2009)  Binary trait mapping in experimental crosses with selective genotyping.  [Genetics](https://academic.oup.com/genetics) 182:863-874
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/19416941)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/182/3/863/37323621/genetics0863.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/manichaikul2009b.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.108.098913)
 <!-- * 86 * -->
 <!-- https://doi.org/10.1534/genetics.108.098913 -->
@@ -909,7 +909,7 @@ Venkatesan M, **Broman KW**, Sellers M, Rasgon JL (2009) An initial linkage map 
 Sen &#346;, Johannes F, **Broman KW** (2009) Selective genotyping and phenotyping strategies in a complex trait context.
 [Genetics](https://academic.oup.com/genetics) 181:1613-1626
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/19153260)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/181/4/1613/37415453/genetics1613.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/sen2009.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.108.094607)
 <!-- * 84 * -->
 <!-- https://doi.org/10.1534/genetics.108.094607 -->
@@ -921,7 +921,7 @@ allowing epistasis. [Genetics](https://academic.oup.com/genetics) 181:1077-1086
 [![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/181/3/1077/37323242/genetics1077.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.108.094565)
 \[**Erratum**: [Genetics](https://academic.oup.com/genetics) 184:607, 2010
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/184/2/607/37326609/genetics0607.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/manichaikul2009a.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.109.112912)\]
 <!-- * 83 * -->
 <!-- https://doi.org/10.1534/genetics.108.094565 -->
@@ -1020,7 +1020,7 @@ Manichaikul A, Palmer AA, Sen &#346;, **Broman KW** (2007)  Significance thresho
 quantitative trait locus mapping under selective genotyping.
 [Genetics](https://academic.oup.com/genetics) 177:1963-1966
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/17720902)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/177/3/1963/37411731/genetics1963.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/manichaikul2007.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.107.080093)
 <!-- * 73 * -->
 <!-- https://doi.org/10.1534/genetics.107.080093 -->
@@ -1046,7 +1046,7 @@ Teuscher F, **Broman KW** (2007)
 Haplotype probabilities for multiple-strain recombinant inbred lines.
 [Genetics](https://academic.oup.com/genetics) 175:1267-1274
     [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/17151250)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/175/3/1267/37340107/genetics1267.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/teuscher2007.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.106.064063)
 <!-- * 70 * -->
 <!-- https://doi.org/10.1534/genetics.106.064063 -->
@@ -1076,7 +1076,7 @@ Wheeler PA, Thorgaard GH (2007)  Quantitative trait loci by maternal
 cytoplasmic environment interaction for development rate in _Oncorhynchus
 mykiss_.  [Genetics](https://academic.oup.com/genetics) 175:335-347
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/17057232)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/175/1/335/37309915/genetics0335.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/nichols2007.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.106.064311)
 <!-- * 67 * -->
 <!-- https://doi.org/10.1534/genetics.106.064311 -->
@@ -1087,7 +1087,7 @@ mykiss_.  [Genetics](https://academic.oup.com/genetics) 175:335-347
 Manichaikul A, Southard-Smith EM, Churchill GA (2006)  The X chromosome
 in quantitative trait locus mapping.  [Genetics](https://academic.oup.com/genetics) 174:2151-2158
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/17028340)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/174/4/2151/37410383/genetics2151.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/broman2006.pdf)
 [![Data](icons16/data-icon.png)](https://phenome.jax.org/projects/Broman1)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.106.061176)
 <!-- * 66 * -->
@@ -1120,7 +1120,7 @@ Manichaikul A, Dupuis J, Sen &#346;, **Broman KW** (2006)  Poor performance of b
 confidence intervals for the location of a quantitative trait
 locus.  [Genetics](https://academic.oup.com/genetics) 174:481-489
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/16783000)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/174/1/481/37548681/genetics0481.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/manichaikul2006.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.106.061549)
 <!-- * 63 * -->
 <!-- https://doi.org/10.1534/genetics.106.061549 -->
@@ -1141,7 +1141,7 @@ Feenstra B, Skovgaard IM, **Broman KW** (2006) Mapping quantitative trait loci
 by an extension of the Haley-Knott regression method using estimating
 equations.  [Genetics](https://academic.oup.com/genetics) 173:2269-2282
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/16702423)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/173/4/2269/37338977/genetics2269.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/feenstra.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.106.058537)
 <!-- * 61 * -->
 <!-- https://doi.org/10.1534/genetics.106.058537 -->
@@ -1151,7 +1151,7 @@ KW**, Bartolomei MS, Willard HF (2006)  Genetic control of X
 chromosome inactivation in mice: Definition of the _Xce_ candidate
 interval.  [Genetics](https://academic.oup.com/genetics) 173:2111-2119
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/16582439)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/173/4/2103/37339409/genetics2103.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/chadwick2006.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.105.054882)
 <!-- * 60 * -->
 <!-- https://doi.org/10.1534/genetics.105.054882 -->
@@ -1170,7 +1170,7 @@ Orgogozo V, **Broman KW**, Stern DL (2006)
 High-resolution QTL mapping reveals sign epistasis controlling
 ovariole number between two Drosophila species.  [Genetics](https://academic.oup.com/genetics) 173:197-205
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/16489225)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/173/1/197/42222358/genetics0197.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/orgogozo2006.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.105.054098)
 <!-- * 58 * -->
 <!-- https://doi.org/10.1534/genetics.105.054098 -->
@@ -1250,7 +1250,7 @@ recombinant inbred lines.  [Genetics](https://academic.oup.com/genetics) 169:113
 [![R/ricalc](icons16/R-icon.png)](https://github.com/kbroman/ricalc)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.104.035212)
 \[**Erratum**: [Genetics](https://academic.oup.com/genetics) 173:2419, 2006
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/173/4/2419/37340795/genetics2419.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/broman2005.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1093/genetics/173.4.2419)\]
 <!-- * 51 * -->
 <!-- https://doi.org/10.1534/genetics.104.035212 -->
@@ -1445,7 +1445,7 @@ GA (2003)  R/qtl: QTL mapping in experimental crosses.
 **Broman KW** (2003)  Mapping quantitative trait loci
 in the case of a spike in the phenotype distribution.  [Genetics](https://academic.oup.com/genetics) 163:1169-1175
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/12663553)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/163/3/1169/37258398/genetics1169.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/broman2003.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1093/genetics/163.3.1169)
 <!-- * 32 * -->
 <!-- https://doi.org/10.1093/genetics/163.3.1169 -->
@@ -1487,7 +1487,7 @@ chromosome 15q22.1-q25.3.  [Am J Ophthalmol](https://www.ajo.com) 134:172-176
 Paigen K (2002) Crossover interference in the mouse.  [Genetics](https://academic.oup.com/genetics)
 160:1123-1131
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/11901128)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/160/3/1123/35169806/genetics1123.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/broman2002.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1093/genetics/160.3.1123)
 <!-- * 28 * -->
 <!-- https://doi.org/10.1093/genetics/160.3.1123 -->
