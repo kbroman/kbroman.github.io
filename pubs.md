@@ -1141,7 +1141,7 @@ Feenstra B, Skovgaard IM, **Broman KW** (2006) Mapping quantitative trait loci
 by an extension of the Haley-Knott regression method using estimating
 equations.  [Genetics](https://academic.oup.com/genetics) 173:2269-2282
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/16702423)
-[![pdf](icons16/pdf-icon.png)](pdfs/feenstra.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/feenstra2006.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.106.058537)
 <!-- * 61 * -->
 <!-- https://doi.org/10.1534/genetics.106.058537 -->
