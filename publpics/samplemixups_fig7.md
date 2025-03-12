@@ -17,7 +17,7 @@ Broman KW, Keller MP, Broman AT, Kendziorski C, Yandell BS, Sen
 mix-ups in expression genetic data: A case study. [G3 (Bethesda)](https://academic.oup.com/g3journal)
 5:2177-2186
 [![PubMed](../icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/26290572)
-[![pdf](../icons16/pdf-icon.png)](https://academic.oup.com/g3journal/article-pdf/5/10/2177/37214362/g3journal2177.pdf)
+[![pdf](../icons16/pdf-icon.png)](../pdfs/broman2015_g3.pdf)
 [![data](../icons16/data-icon.png)](https://bit.ly/B6BTBR)
 [![GitHub](../icons16/github-icon.png)](https://github.com/kbroman/Paper_SampleMixups)
 [![R/lineup software](../icons16/R-icon.png)](https://github.com/kbroman/lineup)
