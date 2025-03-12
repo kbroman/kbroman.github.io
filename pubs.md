@@ -718,7 +718,7 @@ Collaborative Cross Consortium \[97 authors\] (2012)  The genome architecture of
 
 Amlin-Van Schaick JC, Kim S, DiFabio C, Lee M-H, **Broman KW**, Reilly KM (2012)  _Arlm1_ is a male-specific modifier of astrocytoma resistance on mouse chr 12.  [Neuro Oncol](https://academic.oup.com/neuro-oncology) 14:160-174
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/22234937)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/neuro-oncology/article-pdf/14/2/160/6226748/nor206.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/arlm1.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1093/neuonc/nor206)
 <!-- * 108 * -->
 <!-- https://doi.org/10.1093/neuonc/nor206 -->
@@ -821,7 +821,7 @@ Bader HL, Ruhe AL, Wang LW, Wong AK, Walsh KF, Packer RA, Mitelman J, Robertson 
 
 Jurisic G, Sundberg JP, Bleich A, Leiter EH, **Broman KW**, Buechler G, Alley L, Vestweber D, Detmar M (2010)  Quantitative lymphatic vessel trait analysis suggests _Vcam1_ as candidate modifier gene of inflammatory bowel disease.  [Genes Immun](https://www.nature.com/gene) 11:219-231
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/20220769)
-[![pdf](icons16/pdf-icon.png)](https://www.nature.com/articles/gene20104.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/jurisic.pdf)
 [![supplementary material](icons16/supp-icon.png)](pdfs/jurisic_supp.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1038/gene.2010.4)
 <!-- * 96 * -->
@@ -1132,7 +1132,7 @@ maps to 18q21.2-q21.32.
 [Invest Ophthalmol Vis Sci](https://iovs.arvojournals.org/)
 47:3919-3926
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/16936105)
-[![pdf](icons16/pdf-icon.png)](https://iovs.arvojournals.org/data/journals/iovs/933235/z7g00906003919.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/sundin2006a.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1167/iovs.05-1619)
 <!-- * 62 * -->
 <!-- https://doi.org/10.1167/iovs.05-1619 -->
@@ -1192,7 +1192,7 @@ Tsang S, Loisel DA, Christy ES, Sun Z, Diehl J, Munroe DJ, Tuskan RG
 _Nstr2_ to control resistance to nerve sheath tumors in a
 neurofibromatosis type 1 mouse model.  [Cancer Res](https://cancerres.aacrjournals.org/) 66:62-68
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/16397217)
-[![pdf](icons16/pdf-icon.png)](https://cancerres.aacrjournals.org/sites/all/libraries/pdfjs/web/viewer.html?file=/content/canres/66/1/62.full.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/reilly2006.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10/bwg92h)
 <!-- * 56 * -->
 <!-- https://doi.org/10/bwg92h -->
@@ -1203,7 +1203,7 @@ Linkage of late-onset Fuchs corneal dystrophy
 to a novel locus at 13pTel-13q12.13.
 [Invest Ophthalmol Vis Sci](https://iovs.arvojournals.org)  47:140-145
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/16384955)
-[![pdf](icons16/pdf-icon.png)](https://iovs.arvojournals.org/data/journals/iovs/932934/z7g00106000140.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/sundin2006b.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1167/iovs.05-0578)
 <!-- * 55 * -->
 <!-- https://doi.org/10.1167/iovs.05-0578 -->
@@ -1227,7 +1227,7 @@ _COL8A2_ mutation defines a distinct early-onset subtype of Fuchs
 corneal dystrophy. [Invest Ophthalmol Vis Sci](https://iovs.arvojournals.org)
 46:1934-1939
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15914606)
-[![pdf](icons16/pdf-icon.png)](https://iovs.arvojournals.org/data/journals/iovs/933232/z7g00605001934.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/gottsch2005.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1167/iovs.04-0937)
 <!-- * 53 * -->
 <!-- https://doi.org/10.1167/iovs.04-0937 -->
@@ -1238,7 +1238,7 @@ Genome-wide linkage identifies novel modifier loci of aganglionosis
 in the _Sox10<sup>Dom</sup>_ model of Hirschsprung
 disease.  [Hum Mol Genet](https://academic.oup.com/hmg) 14:1549-1558
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15843399)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/hmg/article-pdf/14/11/1549/17241377/ddi163.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/owens.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1093/hmg/ddi163)
 <!-- * 52 * -->
 <!-- https://doi.org/10.1093/hmg/ddi163 -->
@@ -1294,7 +1294,7 @@ Clinical and molecular characterization of the bladder
 exstrophy-epispadias complex: Analysis of 232 families.  [BJU
 International](https://bjui-journals.onlinelibrary.wiley.com/journal/1464410X) 94:1337-1343
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15610117)
-[![pdf](icons16/pdf-icon.png)](https://bjui-journals.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1464-410X.2004.05170.x)
+[![pdf](icons16/pdf-icon.png)](pdfs/boyadjiev2004.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10/dmd3bd)
 <!-- * 47 * -->
 <!-- https://doi.org/10/dmd3bd -->
@@ -1344,7 +1344,7 @@ cataract shows significant familial aggregation in an older population
 after adjustment for possible shared environmental factors.  [Invest Ophthalmol Vis Sci](https://iovs.arvojournals.org)
 45:2182-2186
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15223793)
-[![pdf](icons16/pdf-icon.png)](https://iovs.arvojournals.org/data/journals/iovs/932927/z7g00704002182.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/congdon2004.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1167/iovs.03-1163)
 <!-- * 42 * -->
 <!-- https://doi.org/10.1167/iovs.03-1163 -->
@@ -1384,7 +1384,7 @@ Persaud D, Siliciano RF (2004) Genotypic analysis of HIV-1 drug
 resistance at the limit of detection: Virus production without
 evolution in treated adults with undetectable HIV loads.  [J Infect Dis](https://academic.oup.com/jid) 189:1452-1456
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15073683)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/jid/article-pdf/189/8/1452/2450121/189-8-1452.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/kieffer.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1086/382488)
 <!-- * 38 * -->
 <!-- https://doi.org/10.1086/382488 -->
@@ -1468,8 +1468,8 @@ selection approach for the identification of quantitative trait loci
 in experimental crosses. [J Roy Stat Soc
 B](https://rss.onlinelibrary.wiley.com/journal/14679868) 64:641-656
 [![Abstract](icons16/pubmed-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/jrssb_abstract.html)
-[![pdf](icons16/pdf-icon.png)](https://rss.onlinelibrary.wiley.com/doi/epdf/10.1111/1467-9868.00354)
-[![doi](icons16/doi-icon.png)](https://doi.org/10/d4bn8n)
+[![pdf](icons16/pdf-icon.png)](pdfs/jrssb.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org10/d4bn8n)
 <!-- * 30 * -->
 <!-- https://doi.org/10/d4bn8n -->
 
@@ -1511,7 +1511,7 @@ Insulin-Like Growth Factor-II (IGF2) gene in distinguishing specific
 biologic subtypes of Wilms tumor.
 [J Natl Cancer Inst](https://academic.oup.com/jnci) 93:1698-1703
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/11717330)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/jnci/article-pdf/93/22/1698/9849084/1698.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/ravenel2001.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1093/jnci/93.22.1698)
 <!-- * 26 * -->
 <!-- https://doi.org/10.1093/jnci/93.22.1698 -->
@@ -1627,7 +1627,7 @@ variation in recombination in female meiosis: A risk factor for
 non-disjunction of chromosome 21.  [Hum Mol Genet](https://academic.oup.com/hmg)
 9:515-523
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/10699174)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/hmg/article-pdf/9/4/515/9462879/090515.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/brown2000.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1093/hmg/9.4.515)
 <!-- * 15 * -->
 <!-- https://doi.org/10.1093/hmg/9.4.515 -->
@@ -1758,7 +1758,7 @@ subtypes of Wilms tumor.  [J Natl Cancer
 Inst](https://academic.oup.com/jnci) 94:1809-1810
 (Response to [Morison
 et al., J Natl Cancer Inst 94:1809, 2002](https://www.ncbi.nlm.nih.gov/pubmed/12464656))
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/jnci/article-pdf/94/23/1809/9849282/1809.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/ravenel_ltr.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10/bm9vc2)
 <!-- https://doi.org/10/bm9vc2 -->
 
