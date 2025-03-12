@@ -89,7 +89,7 @@ Michel KJ, Lima DC, Hundley H, Singan V, Yoshinaga Y, Daum C, Barry K,
 prediction of flowering time and plant height in a maize Stiff Stalk
 MAGIC population. [Genetics](https://academic.oup.com/genetics) 221:iyac063
 [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/35441688/)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/221/2/iyac063/43912656/iyac063.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/michel2022.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1093/genetics/iyac063)
 <!-- * 168 * -->
 <!-- https://doi.org/10.1093/genetics/iyac063 -->
@@ -144,7 +144,7 @@ Hassold T, Maylor-Hagen H, Wood A, Gruhn J, Hoffmann E, **Broman KW**,
 Hunt P (2021) Failure to recombine is a common feature of human
 oogenesis. [Am J Hum Genet](https://www.cell.com/ajhg/home) 108:16-24
 [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/33306948/)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/hassold2021.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/hassold2021.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10/gm56)
 <!-- * 163 * -->
 <!-- https://doi.org/10/gm56 -->
@@ -158,7 +158,7 @@ Churchill GA, Attie AD, Coon JJ (2020) A large-scale genome-lipid
 association map guides lipid identification. [Nat
 Metab](https://www.nature.com/natmetab) 2:1149-1162
 [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/32958938)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/linke2020.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/linke2020.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10/gk5cn6)
 <!-- * 162 * -->
 <!-- https://doi.org/10/gk5cn6 -->
@@ -258,7 +258,7 @@ R/qtl2: software for mapping quantitative trait loci with
 high-dimensional data and multi-parent populations.
 [Genetics](https://academic.oup.com/genetics) 211:495-502
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/30591514)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/211/2/495/37817017/genetics0495.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/broman2019.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_Rqtl2)
 [![R/qtl2 software](icons16/R-icon.png)](https://kbroman.org/qtl2)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.118.301595)
@@ -284,7 +284,7 @@ P, Vincent M, Allen S, Broman AT, Bacher R, Kendziorski C, **Broman
 KW**, Yandell BS, Churchill GA, Attie AD (2018) Genetic drivers of
 pancreatic islet function. [Genetics](https://academic.oup.com/genetics) 209:335-356
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/29567659)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/209/1/335/39718020/genetics0335.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/keller2018.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.118.300864)
 <!-- * 151 * -->
 <!-- https://doi.org/10.1534/genetics.118.300864 -->
@@ -328,7 +328,7 @@ BA (2017) Recombination rate variation in mice from an isolated
 island. [Mol Ecol](https://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-294X)
 26:457-470
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/27864900)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/wang2017.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/wang2017.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1111/mec.13932)
 <!-- * 147 * -->
 <!-- https://doi.org/10.1111/mec.13932 -->
@@ -352,7 +352,7 @@ Parmenter MD, Gray MM, Hogan CA, Ford IN, **Broman KW**, Vinyard CJ,
 Payseur BA (2016) Genetics of skeletal evolution in unusually large mice
 from Gough Island. [Genetics](https://academic.oup.com/genetics) 204:1559-1572
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/27694627)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/204/4/1559/37833507/genetics1559.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/parmenter2016.pdf)
 [![supporting info](icons16/supp-icon.png)](https://www.genetics.org/content/suppl/2016/09/29/genetics.116.193805.DC1)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.116.193805)
 <!-- * 145 * -->
@@ -394,8 +394,8 @@ Tian J, Keller MP, Broman AT, Kendziorski C, Yandell BS, Attie AD,
 hotspots.
 [Genetics](https://academic.oup.com/genetics) 202:1563-1574
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/26837753)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/202/4/1563/46813248/genetics1563.pdf)
-[![supplement](icons16/supp-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/transbandpaper_FileS1.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/tian2016.pdf)
+[![supplement](icons16/supp-icon.png)](pdfs/transbandpaper_FileS1.pdf)
 [![data](icons16/data-icon.png)](https://bit.ly/B6BTBR)
 [![qtlpvl software](icons16/R-icon.png)](https://github.com/jianan/qtlpvl)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.115.183624)
@@ -432,7 +432,7 @@ Attie AD (2015) Identification of the bile acid transporter _Slco1a6_ as a
 candidate gene that broadly affects gene expression in mouse
 pancreatic islets. [Genetics](https://academic.oup.com/genetics) 201:1253-1262
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/26385979)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/201/3/1253/42161980/genetics1253.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/tian2015.pdf)
 [![supplement](icons16/supp-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/islet_chr6/FileS1.csv)
 [![data](icons16/data-icon.png)](https://bit.ly/B6BTBR)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.115.179432)
@@ -458,7 +458,7 @@ Gray MM, Parmenter MD, Hogan CA, Ford I, Cuthbert RJ, Ryan PG, **Broman
 KW**, Payseur BA (2015) Genetics of rapid and extreme size evolution in
 island mice. [Genetics](https://academic.oup.com/genetics) 201:213-228
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/26199233)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/201/1/213/49458316/genetics0213.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/gray2015.pdf)
 [![data](icons16/data-icon.png)](https://phenome.jax.org/projects/Payseur1)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.115.177790)
 <!-- * 136 * -->
@@ -470,7 +470,7 @@ introgression and range expansion in a wild
 sunflower. [Mol Ecol](https://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291365-294X)
 24:2194-2211
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/25522096)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/whitney2015.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/whitney2015.pdf)
 [![supplementary material](icons16/supp-icon.png)](https://onlinelibrary.wiley.com/doi/10.1111/mec.13044/suppinfo)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1111/mec.13044)
 <!-- * 135 * -->
@@ -480,7 +480,7 @@ sunflower. [Mol Ecol](https://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%29
 trait locus mapping.
 [Genetics](https://academic.oup.com/genetics) 199:359-361
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/25527287)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/199/2/359/37801010/genetics0359.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/broman2015.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_Rqtlcharts)
 [![R/qtlcharts software](icons16/R-icon.png)](https://kbroman.org/qtlcharts)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.114.172742)
@@ -518,7 +518,7 @@ noise-induced hearing loss in 129S6 and MOLF mice:  Identification
 of independent, overlapping, and interacting chromosomal regions.
 [J Assoc Res Otolaryngol](https://jaro-online.org/) 15:721-738
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/24952082)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/street2014.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/street2014.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10/f6hwgk)
 <!-- * 131 * -->
 <!-- https://doi.org/10/f6hwgk -->
@@ -528,7 +528,7 @@ regression-based method to map quantitative trait loci underlying
 function-valued phenotypes. [Genetics](https://academic.oup.com/genetics) 197:
 1409-1416
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/24931408)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/197/4/1409/42131523/genetics1409.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/kwak2014.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_FunQTL)
 [![Data](icons16/data-icon.png)](https://phenome.jax.org/projects/Moore1b)
 [![funqtl software](icons16/R-icon.png)](https://github.com/ikwak2/funqtl)
@@ -539,7 +539,7 @@ function-valued phenotypes. [Genetics](https://academic.oup.com/genetics) 197:
 **Broman KW** (2014) Fourteen years of R/qtl: Just barely sustainable.
 [J Open Res Softw](https://openresearchsoftware.metajnl.com/) 2(1):e11
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/25364504)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/rqtl_14yrs.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/rqtl_14yrs.pdf)
 [![Source on GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_Rqtl_Experiences)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.5334/jors.at)
 <!-- * 129 * -->
@@ -559,7 +559,7 @@ KW**, Leung H (2014) Efficient imputation of missing markers in
 low-coverage genotyping-by-sequencing data from multi-parent
 crosses. [Genetics](https://academic.oup.com/genetics) 197:401-404
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/24583583)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/197/1/401/37803703/genetics0401.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/huang2014.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.113.158014)
 <!-- * 127 * -->
 <!-- https://doi.org/10.1534/genetics.113.158014 -->
@@ -585,7 +585,7 @@ Moore CR, Johnson LS, Kwak I-Y, Livny M,
 High-throughput computer vision introduces the time axis to a quantitative trait map of a plant growth response.
 [Genetics](https://academic.oup.com/genetics) 195:1077-1086
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/23979570)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/195/3/1077/37796647/genetics1077.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/moore2013.pdf)
 [![Data](icons16/data-icon.png)](https://phenome.jax.org/projects/Moore1b)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.113.153346)
 <!-- * 124 * -->
@@ -615,7 +615,7 @@ Maenner MJ, Baker MW, **Broman KW**, Tian J, Barnes JK, Atkins A, McPherson E, H
 (2013) _FMR1_ CGG expansions: Prevalence and sex ratios.  [Am
 J Med Genet B Neuropsychiatr Genet](https://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1552-485X) 162:466-473
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/23740716)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/fmr1_prevalence.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/fmr1_prevalence.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1002/ajmg.b.32176)
 <!-- * 121 * -->
 <!-- https://doi.org/10.1002/ajmg.b.32176 -->
@@ -626,7 +626,7 @@ J Med Genet B Neuropsychiatr Genet](https://onlinelibrary.wiley.com/journal/10.1
 &#346;, An&eacute; C, Payseur BA (2012)  Mapping quantitative trait loci
 onto a phylogenetic tree.  [Genetics](https://academic.oup.com/genetics) 192:267-279
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/22745229)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/192/1/267/49441576/genetics0267.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/broman2012a.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/phyloQTLpaper)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.112.142448)
 <!-- * 120 * -->
@@ -634,7 +634,7 @@ onto a phylogenetic tree.  [Genetics](https://academic.oup.com/genetics) 192:267
 
 Rice CA, Riehl J, **Broman K**, Soukup JW, Gengler WR (2012) Comparing the degree of exothermic polymerization in commonly used acrylic and provisional composite resins for intraoral appliances.  [J Vet Dent](https://journals.sagepub.com/home/jov) 29: 78-83
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/23008855)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/carlos_rice.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/carlos_rice.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10/gm58)
 <!-- * 119 * -->
 <!-- https://doi.org/10/gm58 -->
@@ -658,7 +658,7 @@ Jansen RC, **Broman KW**, Yandell BS (2012)
 Quantile-based permutation thresholds for quantitative trait loci hotspots.
 [Genetics](https://academic.oup.com/genetics) 191:1355-1365
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/22661325)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/191/4/1355/42121395/genetics1355.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/neto2012.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.112.139451)
 <!-- * 116 * -->
 <!-- https://doi.org/10.1534/genetics.112.139451 -->
@@ -688,14 +688,14 @@ Arends D, van der Velde KJ, Prins P, **Broman KW**, M&ouml;ller S, Jansen RC, Sw
 
 Amlin-Van Schaick JC, Kim S, **Broman KW**, Reilly KM (2012)  _Scram1_ is a modifier of spinal cord resistance for astrocytoma on mouse chromosome 5.  [Mamm Genome](https://www.springer.com/journal/335) 23:277-285
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/22160242)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/scram1.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/scram1.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10/fwbzj7)
 <!-- * 112 * -->
 <!-- https://doi.org/10/fwbzj7 -->
 
 **Broman KW** (2012)  Genotype probabilities at intermediate generations in the construction of recombinant inbred lines.  [Genetics](https://academic.oup.com/genetics) 190:403-412
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/22345609)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/190/2/403/42124792/genetics0403.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/broman2012b.pdf)
 [![GitHub](icons16/github-icon.png)](https://www.github.com/kbroman/preCCProbPaper)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.111.132647)
 <!-- * 111 * -->
@@ -711,7 +711,7 @@ Amlin-Van Schaick JC, Kim S, **Broman KW**, Reilly KM (2012)  _Scram1_ is a modi
 
 Collaborative Cross Consortium \[97 authors\] (2012)  The genome architecture of the Collaborative Cross mouse genetic reference population.   [Genetics](https://academic.oup.com/genetics) 190:389-401
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/22345608)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/190/2/389/49438846/genetics0389.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/ccc2012.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.111.132639)
 <!-- * 109 * -->
 <!-- https://doi.org/10.1534/genetics.111.132639 -->
@@ -782,7 +782,7 @@ of X-linked quantitative trait loci affecting cold tolerance in _Drosophila
 melanogaster_ and fine-mapping by selective sweep analysis.
  [Mol Ecol](https://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-294X) 20:530-544
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/21199023)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/werzner.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/werzner.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10/d9782h)
 <!-- * 101 * -->
 <!-- https://doi.org/10/d9782h -->
@@ -822,14 +822,14 @@ Bader HL, Ruhe AL, Wang LW, Wong AK, Walsh KF, Packer RA, Mitelman J, Robertson 
 Jurisic G, Sundberg JP, Bleich A, Leiter EH, **Broman KW**, Buechler G, Alley L, Vestweber D, Detmar M (2010)  Quantitative lymphatic vessel trait analysis suggests _Vcam1_ as candidate modifier gene of inflammatory bowel disease.  [Genes Immun](https://www.nature.com/gene) 11:219-231
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/20220769)
 [![pdf](icons16/pdf-icon.png)](https://www.nature.com/articles/gene20104.pdf)
-[![supplementary material](icons16/supp-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/jurisic_supp.pdf)
+[![supplementary material](icons16/supp-icon.png)](pdfs/jurisic_supp.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1038/gene.2010.4)
 <!-- * 96 * -->
 <!-- https://doi.org/10.1038/gene.2010.4 -->
 
 Burrage LC, Baskin-Hill AE, Sinasac DS, Singer JB, Croniger CM, Kirby A, Kulbokas EJ, Daly MJ, Lander ES, **Broman KW**, Nadeau JH (2010) Genetic resistance to diet-induced obesity in chromosome substitution strains of mice. [Mamm Genome](https://www.springer.com/journal/335) 21:115-129
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/20127486)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/burrage.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/burrage.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10/b2drrk)
 <!-- * 95 * -->
 <!-- https://doi.org/10/b2drrk -->
@@ -901,7 +901,7 @@ Manichaikul A, **Broman KW** (2009)  Binary trait mapping in experimental crosse
 
 Venkatesan M, **Broman KW**, Sellers M, Rasgon JL (2009) An initial linkage map of the West Nile Virus vector _Culex tarsalis_. [Insect Mol Biol](https://onlinelibrary.wiley.com/journal/13652583) 18:453-463
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/19453767)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/ctar_map.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/ctar_map.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10/bd7cq6)
 <!-- * 85 * -->
 <!-- https://doi.org/10/bd7cq6 -->
@@ -933,7 +933,7 @@ Genetic architecture of complex traits: Large phenotypic effects and pervasive e
 [Proc Natl Acad Sci USA](https://www.pnas.org) 105:19910-19914
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/19066216)
 [![pdf](icons16/pdf-icon.png)](https://www.pnas.org/content/pnas/105/50/19910.full.pdf)
-[![supplementary material](icons16/supp-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/nadeau_css_suppl.pdf)
+[![supplementary material](icons16/supp-icon.png)](pdfs/nadeau_css_suppl.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1073/pnas.0810388105)
 <!-- * 82 * -->
 <!-- https://doi.org/10.1073/pnas.0810388105 -->
@@ -949,7 +949,7 @@ The _C. savignyi_ genetic map and its integration with the reference sequence fa
 
 Lupi I, **Broman KW**, Tzuo S-C, Gutenberg A, Martino E, Caturegli P (2008)  Novel autoantigens in autoimmune hypophysitis.  [Clin Endocrinol](https://onlinelibrary.wiley.com/journal/13652265) 69:269-278
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/18194487)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/hypophysitis.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/hypophysitis.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10/frm2k9)
 <!-- * 80 * -->
 <!-- https://doi.org/10/frm2k9 -->
@@ -985,7 +985,7 @@ regression of offspring on mid-parent to test for association and
 estimate locus-specific heritability: The revised ROMP method.
 [Ann Hum Genet](https://onlinelibrary.wiley.com/journal/14691809) 72:115-125
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/18042270)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/romp.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/romp.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10/b4rvhs)
 <!-- * 76 * -->
 <!-- https://doi.org/10/b4rvhs -->
@@ -997,7 +997,7 @@ Jr (2008) &#946;A3/A1-crystallin in astroglial cells regulates retinal
 vascular remodeling during development. [Mol
 Cell Neurosci](https://www.sciencedirect.com/science/journal/10447431) 37:85-95
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/17931883)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/sinha_nuc1.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/sinha_nuc1.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1016/j.mcn.2007.08.016)
 <!-- * 75 * -->
 <!-- https://doi.org/10.1016/j.mcn.2007.08.016 -->
@@ -1011,7 +1011,7 @@ Smoot LB, Pu, WT (2007)  Spectrum of heart disease associated with murine
 and human _GATA4_ mutation.  [J Mol
 Cell Cardiol](https://www.sciencedirect.com/science/journal/00222828) 43:677-685
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/17643447)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/william_pu.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/william_pu.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1016/j.yjmcc.2007.06.004)
 <!-- * 74 * -->
 <!-- https://doi.org/10.1016/j.yjmcc.2007.06.004 -->
@@ -1029,7 +1029,7 @@ Petkov PM, **Broman KW**,
 Szatkiewicz JP, Paigen K (2007)  Crossover interference underlies sex
 differences in recombination rates.  [Trends Genet](https://www.sciencedirect.com/science/journal/01689525) 23:539-542
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/17964681)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/petkov.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/petkov.pdf)
 [![supplementary material](icons16/supp-icon.png)](petkov_supp.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1016/j.tig.2007.08.015)
 <!-- * 72 * -->
@@ -1055,7 +1055,7 @@ Sen &#346;, Satagopan JM, **Broman KW**, Churchill GA (2007)  R/qtlDesign: Inbre
 line cross experimental design.  [Mamm
 Genome](https://www.springer.com/journal/335) 18:87-93
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/17347894)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/saunak_design.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/saunak_design.pdf)
 [![R/qtlDesign software](icons16/R-icon.png)](https://cran.r-project.org/package=qtlDesign)
 [![doi](icons16/doi-icon.png)](https://doi.org/10/cr64t9)
 <!-- * 69 * -->
@@ -1100,7 +1100,7 @@ exchange program: A gene based molecular epidemiological analysis.
 [J Acquir Immune Defic Syndr](https://journals.lww.com/jaids/pages/default.aspx)
 43:335-343
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/16980914)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/sadeep2.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/sadeep2.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10/c3b3pv)
 <!-- * 65 * -->
 <!-- https://doi.org/10/c3b3pv -->
@@ -1181,7 +1181,7 @@ mixtures evaluation using STR analytical quantification.
 [Electrophoresis](https://www.wiley-vch.de/en/shop/journals/126)
 27:409-415
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/16437418)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/sadeep.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/sadeep.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1002/elps.200500502)
 <!-- * 57 * -->
 <!-- https://doi.org/10.1002/elps.200500502 -->
@@ -1271,7 +1271,7 @@ subcapsular, cataract shows significant familial aggregation in an
 older population after adjustment for possible shared environmental
 factors. [Ophthalmology](https://www.journals.elsevier.com/ophthalmology) 112:73-77
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15629823)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/cortical.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/cortical.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1016/j.ophtha.2004.07.012)
 <!-- * 49 * -->
 <!-- https://doi.org/10.1016/j.ophtha.2004.07.012 -->
@@ -1281,7 +1281,7 @@ and robustness of linkage tests for quantitative traits in general
 pedigrees.  [Genet
 Epidemiol](https://onlinelibrary.wiley.com/journal/10982272) 28:11-23
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15493059)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/qtlpower.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/qtlpower.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1002/gepi.20034)
 <!-- * 48 * -->
 <!-- https://doi.org/10.1002/gepi.20034 -->
@@ -1313,7 +1313,7 @@ Katki HA, Parmigiani G (2004) BayesMendel: An R environment for Mendelian risk
 prediction.  [Stat Appl Genet
 Mol Biol](https://www.degruyter.com/view/j/sagmb) 3(1): article 21
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/16646800)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/bayesmendel.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/bayesmendel.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10/dw2498)
 <!-- * 45 * -->
 <!-- https://doi.org/10/dw2498 -->
@@ -1323,7 +1323,7 @@ Breed distribution and history of canine _mdr1-1&Delta;_, a pharmacogenetic
 mutation that marks the emergence of breeds from the collie lineage.
 [Proc Natl Acad Sci USA](https://www.pnas.org/) 101:11725-11730
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15289602)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/mdr1.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/mdr1.pdf)
 [![supporting info](icons16/supp-icon.png)](https://www.pnas.org/content/pnas/101/32/11725.full.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1073/pnas.0402374101)
 <!-- * 44 * -->
@@ -1352,7 +1352,7 @@ after adjustment for possible shared environmental factors.  [Invest Ophthalmol 
 Tankersley CG, Campen M, Bierman A, Flanders SE, **Broman KW**, Rabold R (2004) Particle effects on
 heart-rate regulation in senescent mice.  [Inhal Toxicol](https://www.tandfonline.com/toc/iiht20/current) 16:381-390
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15204754)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/particle_effects.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/particle_effects.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10/cbvx52)
 <!-- * 41 * -->
 <!-- https://doi.org/10/cbvx52 -->
@@ -1362,7 +1362,7 @@ Petronis A (2004)  Quasi-linkage: A confounding factor in linkage analysis of
 complex diseases? [Hum
 Genet](https://www.springer.com/journal/439) 114:588-593
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15045582)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/ql.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/ql.pdf)
 [![data](icons16/data-icon.png)](https://www.biostat.wisc.edu/~kbroman/data/index.html#quasilinkage)
 [![doi](icons16/doi-icon.png)](https://doi.org/10/br4jpt)
 <!-- * 40 * -->
@@ -1374,7 +1374,7 @@ equations: Unification of variance components and Haseman-Elston
 regression.  [Genet
 Epidemiol](https://onlinelibrary.wiley.com/journal/10982272) 26:265-272
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15095386)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/vc_he.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/vc_he.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1002/gepi.10315)
 <!-- * 39 * -->
 <!-- https://doi.org/10.1002/gepi.10315 -->
@@ -1417,7 +1417,7 @@ major locus conferring susceptibility to infection by _Streptococcus
 pneumoniae_ in mice.  [Mamm
 Genome](https://www.springer.com/journal/335) 14:448-453
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/12925893)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/denny.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/denny.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10/b3fgxr)
 <!-- * 35 * -->
 <!-- https://doi.org/10/b3fgxr -->
@@ -1478,7 +1478,7 @@ Stark WJ, Gottsch JD (2002)  Endothelial dystrophy, iris hypoplasia,
 congenital cataract, and stromal thinning (EDICT) syndrome maps to
 chromosome 15q22.1-q25.3.  [Am J Ophthalmol](https://www.ajo.com) 134:172-176
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/12140022)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/edict.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/edict.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10/bck2p3)
 <!-- * 29 * -->
 <!-- https://doi.org/10/bck2p3 -->
@@ -1521,7 +1521,7 @@ statistical methods for QTL mapping in experimental crosses.
 [Lab
 Animal](https://www.nature.com/laban/) 30(7):44-52
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/11469113)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/labanimal.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/labanimal.pdf)
 <br/>
 **Note**: The publisher
 requires that I make the following statement: &ldquo;The paper can only be
@@ -1532,7 +1532,7 @@ purposes without the permission of the publisher.&rdquo;
 **Broman KW** (2001) Estimation of allele frequencies with data on
 sibships. [Genet Epidemiol](https://onlinelibrary.wiley.com/journal/10982272) 20:307-315
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/11255240)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/sibfreq.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/sibfreq.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1002/gepi.2)
 \[**Erratum**: [Genet Epidemiol](https://onlinelibrary.wiley.com/journal/10982272) 23:465-466, 2002
 [![pdf](icons16/pdf-icon.png)](https://onlinelibrary.wiley.com/doi/epdf/10.1002/gepi.10194)
@@ -1555,9 +1555,9 @@ Boyartchuk VL, **Broman KW**, Mosher RE,
 D'Orazio SEF, Starnbach MN, Dietrich WF (2001) Multigenic control of
 _Listeria monocytogenes_ susceptibility in mice.  [Nat Genet](https://www.nature.com/ng/) 27:259-260
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/11242105)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/victor.pdf)
-[![methods (pdf)](icons16/supp-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/victor_methods.pdf)
-[![figure A (pdf)](icons16/supp-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/victor_figA.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/victor.pdf)
+[![methods (pdf)](icons16/supp-icon.png)](pdfs/victor_methods.pdf)
+[![figure A (pdf)](icons16/supp-icon.png)](pdfs/victor_figA.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1038/85812)
 <!-- * 22 * -->
 <!-- https://doi.org/10.1038/85812 -->
@@ -1607,8 +1607,8 @@ for prostate cancer-aggressiveness loci.  [Am J Hum Genet](https://www.cell.com/
 interference.  [Am J Hum Genet](https://www.cell.com/ajhg/home) 66:1911-1926
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/10801387)
 [![pdf](icons16/pdf-icon.png)](https://www.cell.com/action/showPdf?pii=S0002-9297%2807%2963543-5)
-[![Expanded version of tables 1-2](icons16/supp-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/broman_weber_tables1-2_expanded.pdf)
-[![Expanded version of figure 3](icons16/supp-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/broman_weber_fig3_expanded.pdf)
+[![Expanded version of tables 1-2](icons16/supp-icon.png)](pdfs/broman_weber_tables1-2_expanded.pdf)
+[![Expanded version of figure 3](icons16/supp-icon.png)](pdfs/broman_weber_fig3_expanded.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1086/302923)
 <!-- * 17 * -->
 <!-- https://doi.org/10.1086/302923 -->
@@ -1639,7 +1639,7 @@ segments in reference families from the Centre d'&Eacute;tude du
 Polymorphisme Humain.  [Am J Hum Genet](https://www.cell.com/ajhg/home) 65:1493-1500
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/10577902)
 [![pdf](icons16/pdf-icon.png)](https://www.cell.com/action/showPdf?pii=S0002-9297%2807%2962677-9)
-[![Supplemental table (pdf)](icons16/supp-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/segments.pdf)
+[![Supplemental table (pdf)](icons16/supp-icon.png)](pdfs/segments.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1086/302661)
 \[[Errata](https://www.biostat.wisc.edu/~kbroman/publications/autozyg_errors.html)\]
 <!-- * 14 * -->
@@ -1650,7 +1650,7 @@ confidently ordered linkage
 maps. [Genet Epidemiol](https://onlinelibrary.wiley.com/journal/10982272)
 16:337-343
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/10207715)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/framework.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/framework.pdf)
 <!-- [![Build your own map](icons16/html-icon.png)](http://research.marshfieldclinic.org/genetics/MarkerSearch/buildMap.asp) -->
 [![doi](icons16/doi-icon.png)](https://doi.org/10/fb5x3q)
 <!-- * 13 * -->
@@ -1695,7 +1695,7 @@ subjects. [Stat Sci](https://www.imstat.org/journals-and-publications/statistica
 antigen-responsive T cell frequencies in PBMC from human
 subjects. [J Immunol Meth](https://www.sciencedirect.com/science/journal/00221759) 198:119-132
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/8946008)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/jim.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/jim.pdf)
 [![data](icons16/data-icon.png)](https://www.biostat.wisc.edu/~kbroman/data/jim/index.html)
 [![R/npem](icons16/R-icon.png)](https://github.com/kbroman/npem)
 [![doi](icons16/doi-icon.png)](https://doi.org/10/b54v33)
@@ -1717,13 +1717,13 @@ long-distance chromosome interactions. [Cell](https://www.cell.com) 85:745-759
 randomized rodent genomes.  [Nat
 Genet](https://www.nature.com/ng) 37:209-210
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15731750)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/expression_mapping.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/expression_mapping.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1038/ng0305-209)
 <!-- https://doi.org/10.1038/ng0305-209 -->
 
 **Broman KW**, Feingold E (2004) SNPs made routine. [Nat Methods](https://www.nature.com/nmeth) 1:104-105
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15782170)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/natmeth.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/natmeth.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1038/nmeth1104-104)
 <!-- https://doi.org/10.1038/nmeth1104-104 -->
 
@@ -1797,7 +1797,7 @@ selection operator (LASSO) model.  [BMC Proc](https://bmcproc.biomedcentral.com)
 Gray IC (eds) _Bioinformatics for Geneticists_, 2nd edition,
   Wiley, pp. 17-31
 [![Abstract](icons16/pubmed-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/bioinfchap_abstract.html)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/bioinf_chapter.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/bioinf_chapter.pdf)
 [![Amazon](icons16/amazon-icon.png)](https://www.amazon.com/gp/product/0470026200?ie=UTF8&tag=7210-20)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1002/9780470059180.ch2)
 <!-- https://doi.org/10.1002/9780470059180.ch2 -->
@@ -1808,7 +1808,7 @@ Common long human inversion polymorphism on chromosome 8p.  In:
 Goldstein DR (ed) [Science and Statistics: A Festschrift for Terry
 Speed](https://projecteuclid.org/euclid.lnms/1215091126).  [IMS Lecture Notes-Monograph Series](https://projecteuclid.org/euclid.lnms/1215091126), Vol 40, pp 237-245
 [![Abstract](icons16/pubmed-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/inver_abstract.html)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/inversion.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/inversion.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10/c82jqz)
 <!-- * 4 * -->
 <!-- https://doi.org/10/c82jqz -->
@@ -1818,7 +1818,7 @@ scans: Past, present, and future.  In: Rao DC, Province MA (eds)
 Genetic Dissection of Complex Traits. Vol 42: Advances in Genetics.
 Academic Press, New York, pp 77-96
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/11037315)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/weber_broman.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/weber_broman.pdf)
 [![Amazon](icons16/amazon-icon.png)](https://www.amazon.com/gp/product/0120176424?ie=UTF8&tag=7210-20)
 [![doi](icons16/doi-icon.png)](https://doi.org/10/c24nxx)
 <!-- * 3 * -->
@@ -1840,7 +1840,7 @@ identifying QTLs in experimental crosses. In: Seillier-Moiseiwitsch F
 (ed) Statistics in Molecular Biology and Genetics.  IMS Lecture
 Notes-Monograph Series, Vol 33, pp 114-142
 [![Abstract](icons16/pubmed-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/qtlreview_abstract.html)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/qtlreview.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/qtlreview.pdf)
 [![Amazon](icons16/amazon-icon.png)](https://www.amazon.com/gp/product/0940600471?ie=UTF8&tag=7210-20)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1214/lnms/1215455550)
 <!-- * 1 * -->
@@ -1882,7 +1882,7 @@ diverse mice. [bioRxiv](https://biorxiv.org)
 
 **Broman KW** (2010) Genetic map construction with R/qtl.  Technical report #214, Department of Biostatistics & Medical Informatics, University of Wisconsin-Madison
 [![Abstract](icons16/pubmed-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/tech214_abstract.html)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/tr_214.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/tr_214.pdf)
 
 <a name="hmm"></a>**Broman KW** (2006) Use of hidden Markov models
 for QTL mapping.  Working paper 125, Department of Biostatistics,
@@ -1895,13 +1895,13 @@ Estimating the number of essential genes in a genome by random
 transposon mutagenesis.  Technical Report MS02-20, [Department of Biostatistics](https://www.biostat.jhsph.edu),
 Johns Hopkins University, Baltimore, MD
 [![Abstract](icons16/pubmed-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/ms0220_abstract.html)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/ms0220.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/ms0220.pdf)
 
 Bowman KO, Shenton LR, Kastenbaum MA, **Broman K** (1992)
 Overdispersion: Notes on discrete distributions.  Technical Report
 ORNL/TM-12167, Oak Ridge National Laboratory
 [![Abstract](icons16/pubmed-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/ornl_abstract.html)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/ornl_techreport.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/ornl_techreport.pdf)
 
 ### <a name="thesis"></a>dissertation
 
@@ -1909,4 +1909,4 @@ ORNL/TM-12167, Oak Ridge National Laboratory
 experimental crosses.  PhD dissertation, Department of Statistics,
 University of California, Berkeley
 [![Abstract](icons16/pubmed-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/thesis_abstract.html)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/thesis.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/thesis.pdf)
