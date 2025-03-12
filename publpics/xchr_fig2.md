@@ -16,7 +16,7 @@ Broman KW, Sen &#346;, Owens SE, Manichaikul A, Southard-Smith EM,
 Churchill GA (2006) The X chromosome in quantitative trait locus
 mapping.  [Genetics](https://academic.oup.com/genetics) 174:2151-2158
 [![PubMed](../icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/17028340)
-[![pdf](../icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/174/4/2151/37410383/genetics2151.pdf)
+[![pdf](../icons16/pdf-icon.png)](../pdfs/broman2006.pdf)
 [![doi](../icons16/doi-icon.png)](https://doi.org/10.1534/genetics.106.061176)
 
 ![Broman et al. (2006) Fig 2](../bigpublpics/xchr_fig2_lg.png)

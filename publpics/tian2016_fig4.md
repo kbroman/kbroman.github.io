@@ -13,11 +13,11 @@ title: Tian et al. (2016) Fig 4
 </div>
 
 Tian J, Keller MP, Broman AT, Kendziorski C, Yandell BS, Attie AD,
-Broman KW. The dissection of expression quantitative trait locus
+Broman KW (2016) The dissection of expression quantitative trait locus
 hotspots. [Genetics](https://academic.oup.com/genetics) 202:1563-1574
 [![PubMed](../icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/26837753)
-[![pdf](../icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/202/4/1563/35552559/genetics1563.pdf)
-[![supplement](../icons16/supp-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/transbandpaper_FileS1.pdf)
+[![pdf](../icons16/pdf-icon.png)](../pdfs/tian2016.pdf)
+[![supplement](../icons16/supp-icon.png)](../pdfs/transbandpaper_FileS1.pdf)
 [![data](../icons16/data-icon.png)](https://bit.ly/B6BTBR)
 [![qtlpvl software](../icons16/R-icon.png)](https://github.com/jianan/qtlpvl)
 [![doi](../icons16/doi-icon.png)](https://doi.org/10.1534/genetics.115.183624)

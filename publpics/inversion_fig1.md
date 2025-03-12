@@ -18,7 +18,7 @@ polymorphism on chromosome 8p.  In: Goldstein DR (ed)
 [Science and Statistics: A Festschrift for Terry Speed](https://projecteuclid.org/euclid.lnms/1215091126).
 IMS Lecture Notes-Monograph Series, Vol 40, pp 237-245
 [![Abstract](../icons16/pubmed-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/inver_abstract.html)
-[![pdf](../icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/inversion.pdf)
+[![pdf](../icons16/pdf-icon.png)](../pdfs/inversion.pdf)
 [![doi](../icons16/doi-icon.png)](https://doi.org/10/c82jqz)
 
 ![Broman et al. (2003) Fig 1](../bigpublpics/inversion_fig1_lg.png)

@@ -15,7 +15,7 @@ title: Broman (2005) Fig 2
 Broman KW (2005) The genomes of
 recombinant inbred lines. [Genetics](https://academic.oup.com/genetics) 169:1133-1146
 [![PubMed](../icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15545647)
-[![pdf](../icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/169/2/1133/39302498/genetics1133.pdf)
+[![pdf](../icons16/pdf-icon.png)](../pdfs/broman2005.pdf)
 [![doi](../icons16/doi-icon.png)](https://doi.org/10.1534/genetics.104.035212)
 
 ![Broman (2005) Fig 2](../bigpublpics/rigenome_fig2_lg.png)

@@ -18,7 +18,7 @@ R/qtl2: software for mapping quantitative trait loci with
 high-dimensional data and multi-parent populations.
 [Genetics](https://academic.oup.com/genetics) 211:495-502
 [![PubMed](../icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/30591514)
-[![pdf](../icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/211/2/495/37817017/genetics0495.pdf)
+[![pdf](../icons16/pdf-icon.png)](../pdfs/broman2019.pdf)
 [![GitHub](../icons16/github-icon.png)](https://github.com/kbroman/Paper_Rqtl2)
 [![R/qtl2 software](../icons16/R-icon.png)](https://kbroman.org/qtl2)
 [![doi](../icons16/doi-icon.png)](https://doi.org/10.1534/genetics.118.301595)
