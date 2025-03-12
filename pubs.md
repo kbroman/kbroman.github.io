@@ -79,7 +79,7 @@ analysis in the Collaborative Cross and Diversity Outbred mouse
 populations. [G3
 (Bethesda)](https://academic.oup.com/g3journal) 12:jkac146
 [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/35703938/)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/g3journal/article-pdf/12/8/jkac146/44080646/jkac146.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/vincent2022.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1093/g3journal/jkac146)
 <!-- * 169 * -->
 <!-- https://doi.org/10.1093/g3journal/jkac146 -->
@@ -98,7 +98,7 @@ MAGIC population. [Genetics](https://academic.oup.com/genetics) 221:iyac063
 for multi-parent populations. [G3
 (Bethesda)](https://academic.oup.com/g3journal) 12:jkab396
 [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/34791211/)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/g3journal/article-pdf/12/2/jkab396/42382435/jkab396.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/broman2022.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_GenericHMM)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1093/g3journal/jkab396)
 <!-- * 167 * -->
@@ -110,7 +110,7 @@ Trotter C, Kim H, Farage G, Prins P, Williams RW, **Broman KW**, Sen
 &#346; (2021) Speeding up eQTL scans in the BXD population using GPUs.
 [G3 (Bethesda)](https://academic.oup.com/g3journal) 11:jkab254
 [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/34499130/)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/g3journal/article-pdf/11/12/jkab254/41715280/jkab254.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/trotter2021.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/senresearch/LiteQTL-G3-supplement)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1093/g3journal/jkab254)
 <!-- * 166 * -->
@@ -121,7 +121,7 @@ Identification of sample mix-ups and mixtures in microbiome data in
 Diversity Outbred mice. [G3
 (Bethesda)](https://academic.oup.com/g3journal) 11:jkab308
 [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/34499168/)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/g3journal/article-pdf/11/11/jkab308/40770295/jkab308.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/lobo2021.pdf)
 [![supporting info](icons16/supp-icon.png)](https://gsajournals.figshare.com/articles/journal_contribution/Supplemental_material_for_Lobo_et_al_2021/16455282)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_MBmixups)
 [![R/mbmixture software](icons16/R-icon.png)](https://github.com/kbroman/mbmixture)
@@ -134,7 +134,7 @@ Treatment of the X chromosome in mapping multiple quantitative trait
 loci.
 [G3 (Bethesda)](https://academic.oup.com/g3journal) 11:jkab005
 [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/33604671/)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/g3journal/article-pdf/11/2/jkab005/37042282/jkab005.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/tran2021.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_qtlX)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1093/g3journal/jkab005)
 <!-- * 164 * -->
