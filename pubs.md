@@ -1851,7 +1851,7 @@ Notes-Monograph Series, Vol 33, pp 114-142
 Choi K, Lloyd MW, He H, Gatti DM, Philip VM, Raghupathy N, Vincent M,
 Lek S, Gerdes Gyuricza I, Munger SC, Attie AD, Keller MP, Chesler EJ,
 **Broman KW**, Srivastava A, Churchill GA (2025) Genotype-free
-individual genome reconstruction of Multiparental Population Models by
+individual genome reconstruction of multiparental population models by
 RNA sequencing data. [bioRxiv](https://biorxiv.org)
 [doi:10.1101/2020.10.11.335323](https://doi.org/10.1101/2020.10.11.335323)
 <!-- [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov//) -->
