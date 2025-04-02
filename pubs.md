@@ -30,7 +30,7 @@ description: Karl Broman's publications
 
 ### <a name="articles"></a>journal articles
 
-#### To appear
+#### 2025
 
 Litichevskiy L, Considine M, Gill J, Shandar V, Cox TO, Descamps HC,
 Wright KM, Amses KR, Dohnalová L, Liou MJ, Tetlak M, Galindo-Fiallos
@@ -41,9 +41,9 @@ Barnett I, Davenport ER, **Broman KW**, Levy M, Cohen RL, Botstein D, Freund A, 
 Francesco A, Churchill GA, Li M, Thaiss CA (2025) Gut metagenomes
 reveal interactions between dietary restriction, aging, and the
 microbiome in genetically diverse mice.
-[Nat Microbiol](https://www.nature.com/nmicrobiol/), to appear
+[Nat Microbiol](https://www.nature.com/nmicrobiol/)
 [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/40164832/)
-[![pdf](icons16/pdf-icon.png)](https://www.nature.com/articles/s41564-025-01963-3.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/litichevskiy2025.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1038/s41564-025-01963-3)
 <!-- * 172 * -->
 <!-- https://doi.org/10.1038/s41564-025-01963-3 -->
@@ -1879,20 +1879,6 @@ mixed models. [bioRxiv](https://biorxiv.org)
 [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/38187625/)
 [![pdf](icons16/pdf-icon.png)](https://www.biorxiv.org/content/10.1101/2023.12.20.572698v1.full.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1101/2023.12.20.572698)
-
-Litichevskiy L, Considine M, Gill J, Shandar V, Cox TO, Descamps HC,
-Wright KM, Amses KR, Dohnalová L, Liou MJ, Tetlak M, Galindo-Fiallos
-MR, Wong AC, Lundgren P, Kim J, Uhr GT, Rahman RJ, Mason S, Merenstein
-C, Bushman FD, Raj A, Harding F, Chen Z, Prateek GV, Mullis M, Deighan
-AG, Robinson L, Tanes C, Bittinger K, Chakraborty M, Bhatt AS, Li H,
-Barnett I, Davenport ER, **Broman KW**, Cohen RL, Botstein D, Freund A, Di
-Francesco A, Churchill GA, Li M, Thaiss CA (2023) Interactions between
-the gut microbiome, dietary restriction, and aging in genetically
-diverse mice. [bioRxiv](https://biorxiv.org)
-[doi:10.1101/2023.11.28.568137](https://doi.org/10.1101/2023.11.28.568137)
-[![PubMed](icons16/pubmed-icon.png)](https://europepmc.org/article/ppr/ppr765751)
-[![pdf](icons16/pdf-icon.png)](https://www.biorxiv.org/content/10.1101/2023.11.28.568137v1.full.pdf)
-[![doi](icons16/doi-icon.png)](https://doi.org/10.1101/2023.11.28.568137)
 
 **Broman KW** (2010) Genetic map construction with R/qtl.  Technical report #214, Department of Biostatistics & Medical Informatics, University of Wisconsin-Madison
 [![Abstract](icons16/pubmed-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/tech214_abstract.html)
