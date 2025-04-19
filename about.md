@@ -34,7 +34,7 @@ reproducible research, and interactive data visualization.
 [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/broman_cv.pdf)<br/>
 [orcid](https://orcid.org): [0000-0002-4914-6671](https://orcid.org/0000-0002-4914-6671)<br/>
 [google scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=42tCp5UAAAAJ&view_op=list_works)<br/>
-[pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=broman+kw)<br/>
+[pubmed](https://pubmed.ncbi.nlm.nih.gov/?sort=date&term=broman+kw&sort_order=desc)<br/>
 <!-- [impactstory](https://impactstory.org/u/0000-0002-4914-6671)<br/> -->
 [github](https://github.com/kbroman)<br/>
 <a rel="me" href="https://fosstodon.org/@kbroman">mastodon</a><br/>
