@@ -1852,6 +1852,17 @@ Notes-Monograph Series, Vol 33, pp 114-142
 
 ### <a name="techreports"></a>technical reports and preprints
 
+Arends D, Ashbrook DG, Roy S, Lu L, Sloan Z, Centeno AG, Lamour K, de
+Magalhães JP, Prins P, **Broman KW**, Sen S, Mitchell SJ, MacArthur M,
+Akin ÖA, Auwerx J, Bajwa A, Diaz V, Harrison DE, Strong R, Nelson JF,
+Mozhui K, Williams EG, Miller RA, Williams RW  (2025) Genetic
+modulation of lifespan: Dynamic effects, sex differences, and body
+weight trade-offs. [bioRxiv](https://biorxiv.org)
+[doi.org/10.1101/2025.04.27.649857](https://doi.org/10.1101/2025.04.27.649857)
+<!-- [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov//) -->
+[![pdf](icons16/pdf-icon.png)](https://www.biorxiv.org/content/10.1101/2025.04.27.649857v1.full.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1101/2025.04.27.649857)
+
 Choi K, Lloyd MW, He H, Gatti DM, Philip VM, Raghupathy N, Vincent M,
 Lek S, Gerdes Gyuricza I, Munger SC, Attie AD, Keller MP, Chesler EJ,
 **Broman KW**, Srivastava A, Churchill GA (2025) Genotype-free
