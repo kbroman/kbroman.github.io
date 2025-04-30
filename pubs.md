@@ -1858,7 +1858,7 @@ Akin ÖA, Auwerx J, Bajwa A, Diaz V, Harrison DE, Strong R, Nelson JF,
 Mozhui K, Williams EG, Miller RA, Williams RW  (2025) Genetic
 modulation of lifespan: Dynamic effects, sex differences, and body
 weight trade-offs. [bioRxiv](https://biorxiv.org)
-[doi.org/10.1101/2025.04.27.649857](https://doi.org/10.1101/2025.04.27.649857)
+[doi:10.1101/2025.04.27.649857](https://doi.org/10.1101/2025.04.27.649857)
 <!-- [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov//) -->
 [![pdf](icons16/pdf-icon.png)](https://www.biorxiv.org/content/10.1101/2025.04.27.649857v1.full.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1101/2025.04.27.649857)
