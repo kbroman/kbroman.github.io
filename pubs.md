@@ -41,7 +41,7 @@ Barnett I, Davenport ER, **Broman KW**, Levy M, Cohen RL, Botstein D, Freund A, 
 Francesco A, Churchill GA, Li M, Thaiss CA (2025) Gut metagenomes
 reveal interactions between dietary restriction, aging, and the
 microbiome in genetically diverse mice.
-[Nat Microbiol](https://www.nature.com/nmicrobiol/)
+[Nat Microbiol](https://www.nature.com/nmicrobiol/) 10:1240-1257
 [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/40164832/)
 [![pdf](icons16/pdf-icon.png)](pdfs/litichevskiy2025.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1038/s41564-025-01963-3)
