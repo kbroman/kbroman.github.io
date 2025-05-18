@@ -194,7 +194,7 @@ modifies phenotypic severity and longevity in a mouse model of
 Niemann-Pick Disease Type C1.
 [Dis Model Mech](https://dmm.biologists.org/) 13:dmm042614
 [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/31996359)
-[![pdf](icons16/pdf-icon.png)](https://dmm.biologists.org/content/13/3/dmm042614.full-text.pdf?with-ds=yes)
+[![pdf](icons16/pdf-icon.png)](https://journals.biologists.com/Toolbox/DownloadCombinedArticleAndSupplmentPdf?resourceId=225203&multimediaId=3484802&pdfUrl=%2Fcob%2Fcontent_public%2Fjournal%2Fdmm%2F13%2F3%2F10.1242_dmm.042614%2F5%2Fdmm042614.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1242/dmm.042614)
 <!-- * 159 * -->
 <!-- https://doi.org/10.1242/dmm.042614 -->
