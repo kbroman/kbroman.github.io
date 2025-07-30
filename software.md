@@ -92,6 +92,15 @@ quantitative finance, and statistics). The package is part of the
 
 ---
 
+#### <a name="chromer"></a>[chromer](https://github.com/ropensci/chromer) [![CRAN DOI](icons16/doi-icon.png)](https://doi.org/10.32614/CRAN.package.chromer)
+
+[R](https://www.r-project.org) package for connecting to the
+[API](https://ccdb.tau.ac.il/services/) for the [Chromosome Counts
+Database](https://ccdb.tau.ac.il/). The package is part of the
+[rOpenSci project](https://ropensci.org).
+
+---
+
 #### <a name="lineup"></a>[R/lineup](https://github.com/kbroman/lineup) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.4277411) and <a name="lineup2"></a>[R/lineup2](https://github.com/kbroman/lineup2) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.4118180)
 
 [R](https://www.r-project.org) packages for detecting and correcting
