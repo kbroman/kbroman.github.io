@@ -51,8 +51,8 @@ he/him
             Karl Broman<br/>
             <a href="https://www.biostat.wisc.edu">Department of Biostatistics &amp; Medical Informatics</a><br/>
             <a href="https://www.wisc.edu">University of Wisconsin&ndash;Madison</a><br/>
-            <a href="6743msc.html">6743 Medical Sciences Center</a><br/>
-            1300 University Avenue<br/>
+            5665 <a href="https://map.wisc.edu/s/1txt7uns">Morgridge Hall</a><br/>
+            1205 University Avenue<br/>
             Madison, Wisconsin 53706<br/>
             USA<br/><br/>
 
