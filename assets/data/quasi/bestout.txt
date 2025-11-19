@@ -1,0 +1,9 @@
+ mar1      chr1   mar2      chr2   female male  LOD
+  GATA65D11   9   AFMa175vb1  20     0.29 0.19 6.75
+  AFM286yc5   9   AFMa131wf1  20     0.31 0.14 6.55
+  AFM210xh8   8   GATA171A04   9     0.19 0.26 6.46
+  AFM286yc5   9   AFMa175vb1  20     0.29 0.14 6.39
+ GATA113H03   1   GATA151F02   8     0.15 0.36 6.38
+  AFM063ya5   5     ATA14A02  23     0.22 0.11 6.36
+  AFM331vb1   1   GATA151F02   8     0.17 0.37 6.30
+  AFM126xa1   1   GATA192E08  14     0.09 0.30 6.01
