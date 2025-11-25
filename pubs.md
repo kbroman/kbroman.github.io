@@ -437,7 +437,7 @@ candidate gene that broadly affects gene expression in mouse
 pancreatic islets. [Genetics](https://academic.oup.com/genetics) 201:1253-1262
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/26385979)
 [![pdf](icons16/pdf-icon.png)](pdfs/tian2015.pdf)
-[![supplement](icons16/supp-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/islet_chr6/FileS1.csv)
+[![supplement](icons16/supp-icon.png)](/assets/supp/islet_chr6/FileS1.csv)
 [![data](icons16/data-icon.png)](https://bit.ly/B6BTBR)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.115.179432)
 <!-- * 138 * -->
