@@ -1367,7 +1367,7 @@ complex diseases? [Hum
 Genet](https://www.springer.com/journal/439) 114:588-593
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15045582)
 [![pdf](icons16/pdf-icon.png)](pdfs/ql.pdf)
-[![data](icons16/data-icon.png)](https://www.biostat.wisc.edu/~kbroman/data/index.html#quasilinkage)
+[![data](icons16/data-icon.png)](https://kbroman.org/assets/data/index.html#quasilinkage)
 [![doi](icons16/doi-icon.png)](https://doi.org/10/br4jpt)
 <!-- * 40 * -->
 <!-- https://doi.org/10/br4jpt -->
