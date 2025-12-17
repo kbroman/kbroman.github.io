@@ -1471,7 +1471,7 @@ encephalomyelitis.  [J Immunol](https://www.jimmunol.org/)
 selection approach for the identification of quantitative trait loci
 in experimental crosses. [J Roy Stat Soc
 B](https://rss.onlinelibrary.wiley.com/journal/14679868) 64:641-656
-[![Abstract](icons16/pubmed-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/jrssb_abstract.html)
+[![Abstract](icons16/pubmed-icon.png)](https://kbroman.org/assets/abstracts/jrssb_abstract.html)
 [![pdf](icons16/pdf-icon.png)](pdfs/jrssb.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org10/d4bn8n)
 <!-- * 30 * -->
