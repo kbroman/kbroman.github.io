@@ -1920,4 +1920,4 @@ ORNL/TM-12167, Oak Ridge National Laboratory
 experimental crosses.  PhD dissertation, Department of Statistics,
 University of California, Berkeley
 [![Abstract](icons16/pubmed-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/thesis_abstract.html)
-[![pdf](icons16/pdf-icon.png)](pdfs/thesis.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/broman_thesis.pdf)
