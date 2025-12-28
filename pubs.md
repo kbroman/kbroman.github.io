@@ -1666,7 +1666,7 @@ second-generation genetic linkage map of the domestic dog, _Canis
 familiaris_. [Genetics](https://academic.oup.com/genetics) 151:803-820
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/9927471)
 [![pdf](icons16/pdf-icon.png)](pdfs/neff1999.pdf)
-[![Supplemental data](icons16/supp-icon.png)](https://www.biostat.wisc.edu/~kbroman/data/index.html#dogs)
+[![Supplemental data](icons16/supp-icon.png)](/assets/data/index.html#dogs)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1093/genetics/151.2.803)
 <!-- * 12 * -->
 <!-- https://doi.org/10.1093/genetics/151.2.803 -->
