@@ -1678,7 +1678,7 @@ familiaris_. [Genetics](https://academic.oup.com/genetics) 151:803-820
 variation in recombination. [Am J Hum Genet](https://www.cell.com/ajhg/home) 63:861-869
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/9718341)
 [![pdf](icons16/pdf-icon.png)](https://www.cell.com/action/showPdf?pii=S0002-9297%2807%2961389-5)
-[![Supplemental data](icons16/supp-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/mfdmaps_supp)
+[![Supplemental data](icons16/supp-icon.png)](/assets/supp/mfdmaps_supp)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1086/302011)
 <!-- * 11 * -->
 <!-- https://doi.org/10.1086/302011 -->
