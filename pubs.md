@@ -1686,7 +1686,7 @@ variation in recombination. [Am J Hum Genet](https://www.cell.com/ajhg/home) 63:
 **Broman K**, Speed T, Tigges M (1998) Estimation of
 antigen-responsive T cell frequencies in PBMC from human
 subjects. [Stat Sci](https://www.imstat.org/journals-and-publications/statistical-science/) 13:4-8
-[![Abstract](icons16/pubmed-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/statsci_abstract.html)
+[![Abstract](icons16/pubmed-icon.png)](/assets/abstracts/statsci_abstract.html)
 [![pdf](icons16/pdf-icon.png)](https://projecteuclid.org/download/pdf_1/euclid.ss/1028905971)
 [![data](icons16/data-icon.png)](https://www.biostat.wisc.edu/~kbroman/data/index.html#jim)
 [![R/npem](icons16/R-icon.png)](https://github.com/kbroman/npem)
