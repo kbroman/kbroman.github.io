@@ -1700,7 +1700,7 @@ antigen-responsive T cell frequencies in PBMC from human
 subjects. [J Immunol Meth](https://www.sciencedirect.com/science/journal/00221759) 198:119-132
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/8946008)
 [![pdf](icons16/pdf-icon.png)](pdfs/jim.pdf)
-[![data](icons16/data-icon.png)](https://www.biostat.wisc.edu/~kbroman/data/jim/index.html)
+[![data](icons16/data-icon.png)](/assets/data/jim/index.html)
 [![R/npem](icons16/R-icon.png)](https://github.com/kbroman/npem)
 [![doi](icons16/doi-icon.png)](https://doi.org/10/b54v33)
 <!-- * 9 * -->
