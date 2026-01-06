@@ -1800,7 +1800,7 @@ selection operator (LASSO) model.  [BMC Proc](https://bmcproc.biomedcentral.com)
   manipulating genetic data.  In: Barnes MR,
 Gray IC (eds) _Bioinformatics for Geneticists_, 2nd edition,
   Wiley, pp. 17-31
-[![Abstract](icons16/pubmed-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/bioinfchap_abstract.html)
+[![Abstract](icons16/pubmed-icon.png)](/assets/abstracts/bioinfchap_abstract.html)
 [![pdf](icons16/pdf-icon.png)](pdfs/bioinf_chapter.pdf)
 [![Amazon](icons16/amazon-icon.png)](https://www.amazon.com/gp/product/0470026200?ie=UTF8&tag=7210-20)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1002/9780470059180.ch2)
