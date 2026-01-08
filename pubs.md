@@ -1843,7 +1843,7 @@ environmental factors in common diseases.  [Genet Epidemiol](https://onlinelibra
 identifying QTLs in experimental crosses. In: Seillier-Moiseiwitsch F
 (ed) Statistics in Molecular Biology and Genetics.  IMS Lecture
 Notes-Monograph Series, Vol 33, pp 114-142
-[![Abstract](icons16/pubmed-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/qtlreview_abstract.html)
+[![Abstract](icons16/pubmed-icon.png)](/assets/abstracts/qtlreview_abstract.html)
 [![pdf](icons16/pdf-icon.png)](pdfs/qtlreview.pdf)
 [![Amazon](icons16/amazon-icon.png)](https://www.amazon.com/gp/product/0940600471?ie=UTF8&tag=7210-20)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1214/lnms/1215455550)
