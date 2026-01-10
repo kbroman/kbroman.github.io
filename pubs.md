@@ -1892,7 +1892,7 @@ mixed models. [bioRxiv](https://biorxiv.org)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1101/2023.12.20.572698)
 
 **Broman KW** (2010) Genetic map construction with R/qtl.  Technical report #214, Department of Biostatistics & Medical Informatics, University of Wisconsin-Madison
-[![Abstract](icons16/pubmed-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/tech214_abstract.html)
+[![Abstract](icons16/pubmed-icon.png)](/assets/abstracts/tech214_abstract.html)
 [![pdf](icons16/pdf-icon.png)](pdfs/tr_214.pdf)
 
 <a name="hmm"></a>**Broman KW** (2006) Use of hidden Markov models
