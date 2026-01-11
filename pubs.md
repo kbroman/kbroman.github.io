@@ -1905,7 +1905,7 @@ Johns Hopkins University, Baltimore, MD
 Estimating the number of essential genes in a genome by random
 transposon mutagenesis.  Technical Report MS02-20, [Department of Biostatistics](https://www.biostat.jhsph.edu),
 Johns Hopkins University, Baltimore, MD
-[![Abstract](icons16/pubmed-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/ms0220_abstract.html)
+[![Abstract](icons16/pubmed-icon.png)](/assets/abstracts/ms0220_abstract.html)
 [![pdf](icons16/pdf-icon.png)](pdfs/ms0220.pdf)
 
 Bowman KO, Shenton LR, Kastenbaum MA, **Broman K** (1992)
