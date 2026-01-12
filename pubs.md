@@ -1911,7 +1911,7 @@ Johns Hopkins University, Baltimore, MD
 Bowman KO, Shenton LR, Kastenbaum MA, **Broman K** (1992)
 Overdispersion: Notes on discrete distributions.  Technical Report
 ORNL/TM-12167, Oak Ridge National Laboratory
-[![Abstract](icons16/pubmed-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/ornl_abstract.html)
+[![Abstract](icons16/pubmed-icon.png)](/assets/abstracts/ornl_abstract.html)
 [![pdf](icons16/pdf-icon.png)](pdfs/ornl_techreport.pdf)
 
 ### <a name="thesis"></a>dissertation
