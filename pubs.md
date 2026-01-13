@@ -1919,5 +1919,5 @@ ORNL/TM-12167, Oak Ridge National Laboratory
 **Broman KW** (1997) Identifying quantitative trait loci in
 experimental crosses.  PhD dissertation, Department of Statistics,
 University of California, Berkeley
-[![Abstract](icons16/pubmed-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/thesis_abstract.html)
+[![Abstract](icons16/pubmed-icon.png)](/assets/abstracts/thesis_abstract.html)
 [![pdf](icons16/pdf-icon.png)](pdfs/broman_thesis.pdf)
