@@ -193,7 +193,7 @@ linear mixed model useful for genome-wide association studies
 
 An [R](https://www.r-project.org) package for estimating the number of essential genes in a genome
 on the basis of data from a random transposon mutagenesis experiment.
-See the related [technical report](https://www.biostat.wisc.edu/~kbroman/publications/ms0220.pdf).
+See the related [technical report](https://kbroman.org/pdfs/ms0220.pdf).
 
 
 ---
