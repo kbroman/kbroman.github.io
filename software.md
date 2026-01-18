@@ -241,7 +241,7 @@ Software for testing, by computer simulation, various approaches
 to mapping QTLs in a backcross experiment.  This was written for the
 manuscript Broman and Speed (2002) [A model
 selection approach for the identication of quantitative trait loci in
-experimental crosses](https://www.biostat.wisc.edu/~kbroman/publications/index.html#rss). J Roy Stat Soc B
+experimental crosses](https://doi.org/10/d4bn8n). J Roy Stat Soc B
 64:641-656.  Also see the [R/qtl
 package](https://rqtl.org).
 
