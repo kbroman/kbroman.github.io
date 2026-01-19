@@ -1,0 +1,55 @@
+
+Changes to RelCheck
+
+24 August 2000: Version 0.67
+------------------------------------------
+Now checks that genotypes do not overrun
+the given number of alleles per marker.
+
+
+25 July 2000: Version 0.66
+------------------------------------------
+Fixed error in which family numbers were 
+printed incorrectly when running against
+all individuals (rather than just within
+families)
+
+Print results only when at least MINTYPED
+markers were typed on a pair (see 
+relcheck.h)
+
+Slightly changed the header in the output 
+file (though probably noone but me cares 
+about this).
+
+
+
+
+13 July 2000: Version 0.65
+-----------------------------------------
+NaN's could occur if recombination fractions
+were allowed to be 0; so I added a lower 
+threshold, MINR, taken to be 0.001.  
+Recombination fractions < MINR are taken to
+be MINR.
+
+
+
+
+9 Feb 2000:  Version 0.6
+-----------------------------------------
+1. Input modified: 
+
+   The "relcheck.gen" file should include 
+   the total number of markers, and each 
+   individual should have mom, dad and 
+   sex listed
+
+2. Output modified:
+   
+   The output is now to the file 
+   "relcheck_out.csv" in comma-delimited
+   form, suitable for use with MS Excel or
+   StarOffice
+
+
