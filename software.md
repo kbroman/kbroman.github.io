@@ -294,12 +294,12 @@ pairwise interactions.
 **Note**: This is very preliminary, the input and output
 are not well documented, and I'm no longer actively developing this software.  Look at [R/qtl](https://rqtl.org), instead.
 
-Download: [source](https://www.biostat.wisc.edu/~kbroman/software/f2/f2_0.50.tar.gz) |
-[windows](https://www.biostat.wisc.edu/~kbroman/software/f2/f2_0.50.zip)
+Download: [source](/assets/software/f2/f2_0.50.tar.gz) |
+[windows](/assets/software/f2/f2_0.50.zip)
 
 Sample data
-\[[tar.gz](https://www.biostat.wisc.edu/~kbroman/software/f2/example.tar.gz) |
-[zip](https://www.biostat.wisc.edu/~kbroman/software/f2/example.zip)\]
+\[[tar.gz](/assets/software/f2/example.tar.gz) |
+[zip](/assets/software/f2/example.zip)\]
 
 <!--
 [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.thisdoi)
