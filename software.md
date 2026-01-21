@@ -274,12 +274,12 @@ A perl script for converting data from linkage format to that used by
 RelCheck is included with the software.
 
 Download:
-[source](https://www.biostat.wisc.edu/~kbroman/software/relcheck/relcheck_0.67.tar.gz) | [windows](https://www.biostat.wisc.edu/~kbroman/software/relcheck/relcheck_0.67.zip)
+[source](/assets/software/relcheck/relcheck_0.67.tar.gz) | [windows](/assets/software/relcheck/relcheck_0.67.zip)
 
-Sample data \[[tar.gz](https://www.biostat.wisc.edu/~kbroman/software/relcheck/sampledata.tar.gz) |
-[zip](https://www.biostat.wisc.edu/~kbroman/software/relcheck/sampledata.zip)\]
-README file: \[[README.txt](https://www.biostat.wisc.edu/~kbroman/software/relcheck/README.txt)\]
-List of updates to the software: \[[CHANGES.txt](https://www.biostat.wisc.edu/~kbroman/software/relcheck/CHANGES.txt)\]
+Sample data \[[tar.gz](/assets/software/relcheck/sampledata.tar.gz) |
+[zip](/assets/software/relcheck/sampledata.zip)\]
+README file: \[[README.txt](/assets/software/relcheck/README.txt)\]
+List of updates to the software: \[[CHANGES.txt](/assets/software/relcheck/CHANGES.txt)\]
 
 ---
 
