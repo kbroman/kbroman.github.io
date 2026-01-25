@@ -971,7 +971,7 @@ Middle CM, Irizarry RA, **Broman KW**, Feinberg AP (2008)  SNP-specific array-ba
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/18369178)
 [![pdf](icons16/pdf-icon.png)](https://genome.cshlp.org/content/18/5/771.full.pdf)
 [![supplementary material](icons16/supp-icon.png)](https://genome.cshlp.org/content/18/5/771/suppl/DC1)
-[![data](icons16/data-icon.png)](https://kbroman.org/assets/data/index.html#feinbergase)
+[![data](icons16/data-icon.png)](/assets/data/index.html#feinbergase)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1101/gr.073254.107)
 <!-- * 78 * -->
 <!-- https://doi.org/10.1101/gr.073254.107 -->
