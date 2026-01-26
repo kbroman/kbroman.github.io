@@ -400,7 +400,7 @@ hotspots.
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/26837753)
 [![pdf](icons16/pdf-icon.png)](pdfs/tian2016.pdf)
 [![supplement](icons16/supp-icon.png)](pdfs/transbandpaper_FileS1.pdf)
-[![data](icons16/data-icon.png)](https://bit.ly/B6BTBR)
+[![data](icons16/data-icon.png)](https://phenome.jax.org/projects/Attie1)
 [![qtlpvl software](icons16/R-icon.png)](https://github.com/jianan/qtlpvl)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.115.183624)
 <!-- * 141 * -->
