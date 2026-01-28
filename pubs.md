@@ -450,7 +450,7 @@ genetic data: A case study. [G3 (Bethesda)](https://academic.oup.com/g3journal)
 5:2177-2186
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/26290572)
 [![pdf](icons16/pdf-icon.png)](pdfs/broman2015_g3.pdf)
-[![data](icons16/data-icon.png)](https://bit.ly/B6BTBR)
+[![data](icons16/data-icon.png)](https://phenome.jax.org/projects/Attie1)
 [![supplement](icons16/supp-icon.png)](https://academic.oup.com/g3journal/article/5/10/2177/6028939?login=false#supplementary-data)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_SampleMixups)
 [![R/lineup software](icons16/R-icon.png)](https://github.com/kbroman/lineup)
