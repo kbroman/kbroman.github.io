@@ -209,7 +209,7 @@ Steps toward reproducible research
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr.pdf)
 [![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)<br/>
-[Center for Quantitative Methods and Data Science](https://bit.ly/2WhTd8A), [Tufts Medical Center](https://www.tuftsmedicalcenter.org)
+[Center for Quantitative Methods and Data Science](https://www.tuftsmedicine.org/research-clinical-trials/research-institutes-department-research/institute-clinical-research-health-policy-studies/research-centers/center-quantitative-methods-data-science), [Tufts Medical Center](https://www.tuftsmedicine.org)
 (_Dec 16_)
 
 Steps toward reproducible research
