@@ -21,7 +21,7 @@ affects gene expression in mouse pancreatic islets.
 [![PubMed](../icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/26385979)
 [![pdf](../icons16/pdf-icon.png)](../pdfs/tian2015.pdf)
 [![supplement](../icons16/supp-icon.png)](/assets/supp/islet_chr6/FileS1.csv)
-[![data](../icons16/data-icon.png)](https://bit.ly/B6BTBR)
+[![data](../icons16/data-icon.png)](https://phenome.jax.org/projects/Attie1)
 [![doi](../icons16/doi-icon.png)](https://doi.org/10.1534/genetics.115.179432)
 
 ![Tian et al. (2015) Fig 4](../bigpublpics/isletc6_fig4_lg.png)
