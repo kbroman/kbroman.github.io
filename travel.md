@@ -287,7 +287,7 @@ title: travel
 - [Reproducible Research course](https://www.biostat.washington.edu/suminst/sisbid2017/modules/BD1703), July 16-20, 2017 (Seattle, WA)
 
 - [Systems Genetics of Neurodegenerative Disease course](http://sgn2017.org/), Aug 24-Sept 1,
-  2017 ([Frauenchiemsee, Germany](http://bit.ly/2hxaxD4))
+  2017 ([Frauenchiemsee, Germany](https://www.google.com/maps/place/Frauenchiemsee/))
 
 - Seminar in [Bioinformatics](http://bioinformatics.uncc.edu/) at
   [UNC-Charlotte](http://www.uncc.edu), Sep 21-22, 2017 (Charlotte,
