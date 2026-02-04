@@ -304,7 +304,7 @@ Why reproducible research?
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/whyrr2019.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_WhyRR) <br/>
 [Emerging Research Scholars
-Program](https://www.library.wisc.edu/ers-data/), [Steenbock
+Program](https://www.library.wisc.edu/research-support/ers-data/), [Steenbock
 Library](https://www.library.wisc.edu/steenbock/), [University of Wisconsin&ndash;Madison](https://www.wisc.edu)
 (_Feb 19_)
 
