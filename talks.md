@@ -1809,7 +1809,7 @@ Melbourne, Australia (_Nov 24_)
 Cleaning genotype data
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/cleaning.pdf)
 <br/>
-[Queensland Institute for Medical Research](https://www.qimrberghofer.edu.au/),
+[Queensland Institute for Medical Research](https://www.qimrb.edu.au/),
 Brisbane, Australia (_Nov 19_)
 
 Cleaning genotype data
