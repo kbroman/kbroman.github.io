@@ -1326,7 +1326,7 @@ What is regression?
 [![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/regression_ho.pdf)
 <br/>
 Part of the "[Everything you ever wanted to know about
-Biostatistics but were afraid to ask](https://www.biostat.jhsph.edu/newsEvent/event/lectureSeries/lecture2005-06.php)" lecture series<br/>
+Biostatistics but were afraid to ask](https://web.archive.org/web/20250329040324/https://www.biostat.jhsph.edu/newsEvent/event/lectureSeries/lecture2005-06.php)" lecture series<br/>
 [Department of
 Biostatistics](https://publichealth.jhu.edu/departments/biostatistics), [Johns Hopkins
 Bloomberg School of Public Health](https://publichealth.jhu.edu), Baltimore, MD (_Oct 21_)
