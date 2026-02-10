@@ -231,7 +231,7 @@ University](https://msu.edu), East Lansing, Michigan (_Dec 12_)
 Data management
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/datamgmt2019.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_DataMgmt)<br/>
-[KL2 Scholar Program](https://ictr.wisc.edu/program/kl2-scholar-program/),
+[KL2 Scholars Program](https://ictr.wisc.edu/program/kl2-scholars-program/),
 [School of Medicine and Public Health](https://www.med.wisc.edu),
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Nov 20_)
 
