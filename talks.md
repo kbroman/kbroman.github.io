@@ -357,7 +357,7 @@ Cleaning genotype data in diversity outbred mice
 Data management
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/datamgmt.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_DataMgmt)<br/>
-[KL2 Scholar Program](https://ictr.wisc.edu/program/kl2-scholar-program/),
+[KL2 Scholars Program](https://ictr.wisc.edu/program/kl2-scholars-program/),
 [School of Medicine and Public Health](https://www.med.wisc.edu),
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Sep 5_)
 
