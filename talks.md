@@ -318,7 +318,7 @@ R/qtl2: rewrite of a very old R package
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rqtl2_rstudio2019.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_RStudio2019)
 [![video](icons16/video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/r-qtl2-rewrite-of-a-very-old-r-package)<br/>
-[rstudio::conf](https://www.rstudio.com/resources/rstudioconf-2019/),
+[rstudio::conf](https://web.archive.org/web/20201001095127/https://www.rstudio.com/resources/rstudioconf-2019/),
 Austin, Texas (_Jan 17_)
 
 
