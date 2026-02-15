@@ -571,7 +571,7 @@ Steps toward reproducible research
 [![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_ASA2016_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)
 [![video](icons16/video-icon.png)](https://magazine.amstat.org/videos/education_webinars/ReproducibleResearch.mp4)<br/>
-[Web seminar on Teaching Reproducible Research](https://www.amstat.org/ASA/Education/Web-Based-Lectures.aspx#TRR),
+[Web seminar on Teaching Reproducible Research](https://web.archive.org/web/20161101000000*/https://www.amstat.org/ASA/Education/Web-Based-Lectures.aspx#TRR),
 [American Statistical Association](https://www.amstat.org) (_Nov 16_)
 
 R/qtl2: progress &amp; plans
