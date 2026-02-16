@@ -753,7 +753,7 @@ Reproducible research
 [![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_SIBS2015_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes/tree/SIBS2015)
 <br/>
-[Summer Institute for Training in Biostatistics (SIBS)](https://www.biostat.wisc.edu/content/summer-institute-training-biostatistics-sibs), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Jul 9_)
+Summer Institute for Training in Biostatistics (SIBS), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Jul 9_)
 
 Dissecting and fine-mapping _trans_-eQTL hotspots
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/trans_eqtl_hotspots.pdf)
