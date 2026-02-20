@@ -934,7 +934,7 @@ QTL mapping for phenotypes measured over time
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_FunQTL)
 [![tgz](icons16/tgz-icon.png)](https://www.biostat.wisc.edu/~kbroman/FunQTL.tgz)
 <br/>
-Plant Breeding Symposium, [Department of Agronomy](https://www.agronomy.k-state.edu/), [Kansas State University](https://www.ksu.edu), Manhattan, KS (_Apr 2_)
+Plant Breeding Symposium, [Department of Agronomy](https://www.agronomy.k-state.edu/), [Kansas State University](https://www.k-state.edu), Manhattan, KS (_Apr 2_)
 
 Interactive graphics for high-dimensional genetic data
 [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/InteractiveGraphs2)
