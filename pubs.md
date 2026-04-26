@@ -30,7 +30,7 @@ description: Karl Broman's publications
 
 ### <a name="articles"></a>journal articles
 
-#### 2026
+#### To appear
 
 Arends D, Ashbrook DG, Roy S, Lu L, Sloan Z, Centeno AG, Lamour KH, de
 Magalhães JP, Prins P, **Broman KW**, Sen S, Mitchell SJ, MacArthur MR,
