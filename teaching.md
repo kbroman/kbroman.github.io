@@ -37,6 +37,22 @@ description: Karl Broman's teaching
 
 ### <a name="shortcourses"></a>Short courses
 
+#### [Short Course on Methods for Multiomics Data Analysis](https://www.jax.org/education-and-learning/education-calendar/2026/04-april/methods-for-multiomics-data-analysis-short-course)
+
+[The Jackson Lab](https://www.jax.org),
+Bar Harbor, Maine (_Apr 27, 2026_)
+
+Steps toward reproducible research
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_JAXomics/repro_research.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/Talk_JAXomics/repro_research_withnotes.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_JAXomics)<br/>
+
+
+---
+
+
+
+
 #### Analysis of BXD mouse lines with R/qtl2
 
 [Complex Trait Community meeting](https://ratgenes.org/ctc2019), San
