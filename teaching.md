@@ -40,7 +40,7 @@ description: Karl Broman's teaching
 #### [Short Course on Methods for Multiomics Data Analysis](https://www.jax.org/education-and-learning/education-calendar/2026/04-april/methods-for-multiomics-data-analysis-short-course)
 
 [The Jackson Lab](https://www.jax.org),
-Bar Harbor, Maine (_Apr 27, 2026_)
+Bar Harbor, Maine (Apr 27-May 1, 2026)
 
 Steps toward reproducible research
 [![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_JAXomics/repro_research.pdf)
