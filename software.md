@@ -157,9 +157,9 @@ Diversity Outbred mice. [G3
 
 An [R](https://www.r-project.org) package for converting mouse genome
 positions between genetic and physical maps. This is a
-re-implementation of the basic functionality of the [mouse map
-converter](https://churchill-lab.jax.org/mousemapconverter) web
-service from [Gary Churchill's group](https://churchill-lab.jax.org)
+re-implementation of the basic functionality of the mouse map
+converter web service (no longer available)
+from [Gary Churchill's group](https://sites.jax.org/churchill-lab/)
 at the [Jackson Lab](https://jax.org). See also the [Cox genetic map
 V3](https://github.com/kbroman/CoxMapV3), updated for the [mouse
 genome genome build 39](https://www.ncbi.nlm.nih.gov/assembly/GCF_000001635.27/)
