@@ -39,6 +39,7 @@ reproducible research, and interactive data visualization.
 [github](https://github.com/kbroman)<br/>
 <a rel="me" href="https://rstats.me/@kbroman">mastodon</a><br/>
 [blog](https://kbroman.org/blog/) <br/>
+[r universe](https://kbroman.r-universe.dev/builds) <br/>
 he/him
 
 ---
