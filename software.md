@@ -27,6 +27,8 @@ Google group, [R/qtl announcements](https://groups.google.com/group/rqtl-announc
 To participate in discussion about the use of R/qtl, join the
 Google group, [R/qtl discussion](https://groups.google.com/group/rqtl-disc)
 
+The [qtlbook](https://github.com/kbroman/qtlbook) package contains some example data.
+
 ---
 
 #### <a name="qtl2"></a>[R/qtl2](https://kbroman.org/qtl2) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.3237772)
@@ -44,6 +46,15 @@ Google group, [R/qtl announcements](https://groups.google.com/group/rqtl-announc
 
 To participate in discussion about the use of R/qtl2, join the
 Google group, [R/qtl2 discussion](https://groups.google.com/group/rqtl2-disc)
+
+Also see the related packages
+[qtl2convert](https://github.com/rqtl/qtl2convert) (for converting
+data among the R/qtl2, DOQTL, and R/qtl formats),
+[qtl2fst](https://github.com/rqtl/qtl2fst) (for storing genotype
+probabilities on disk), and [qtl2cl](https://github.com/rqtl/qtl2cl)
+(a command-line interface for R/qtl2, used by
+[GeneNetwork](https://genenetwork.org)). See [the qtl2data
+repository](https://github.com/rqtl/qtl2data) for sample data.
 
 ---
 
@@ -101,6 +112,16 @@ Database](https://ccdb.tau.ac.il/). The package is part of the
 
 ---
 
+#### <a name="regress"></a>[regress](https://github.com/kbroman/chromer) [![CRAN DOI](icons16/doi-icon.png)](https://doi.org/10.32614/CRAN.package.regress)
+
+[R](https://www.r-project.org) package to fit Gaussian linear models
+by maximizing the residual log likelihood where the covariance
+structure can be written as a linear combination of known matrices.
+Written by David Clifford and Peter McCullagh, but now maintained by Karl Broman.
+See the related [R News article](https://www.stat.uchicago.edu/~pmcc/pubs/Rnews_2006-2.pdf#page=6).
+
+---
+
 #### <a name="lineup"></a>[R/lineup](https://github.com/kbroman/lineup) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.4277411) and <a name="lineup2"></a>[R/lineup2](https://github.com/kbroman/lineup2) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.4118180)
 
 [R](https://www.r-project.org) packages for detecting and correcting
@@ -127,6 +148,15 @@ diversity outcross), for use with [R/qtl](https://rqtl.org).
 An [R](https://www.r-project.org) package for the analysis of crossover
 interference in experimental crosses, particularly regarding the gamma
 model.
+
+---
+
+#### <a name="xoiGBS"></a>[R/xoiGBS](https://github.com/kbroman/xoiGBS) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.18402889)
+
+
+An [R](https://www.r-project.org) package for the analysis of
+recombination and crossover interference from genotyping-by-sequencing
+(GBS) data on a backcross.
 
 ---
 
@@ -168,10 +198,21 @@ arrays](https://github.com/kbroman/MUGAarrays).
 
 ---
 
-#### <a name="GNapi"></a>[R/GNapi](https://github.com/rqtl/GNapi) [![zenodo DOI](icons16/doi-icon.png)](https://zenodo.org/badge/latestdoi/73142838)
+#### <a name="GNapi"></a>[R/GNapi](https://github.com/rqtl/GNapi) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.8192582)
 
 An [R](https://www.r-project.org) package to interface with the
 [GeneNetwork](https://genenetwork.org) API.
+
+---
+
+#### <a name="GWASapi"></a>[R/GWASapi](https://github.com/rqtl/GWASapi) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.20070559)
+
+An [R](https://www.r-project.org) package to interface with the API
+for the [NHGRI-EBI GWAS Catalog of Summary
+Statistics](https://www.ebi.ac.uk/gwas).
+See the [API documentation](https://www.ebi.ac.uk/gwas/summary-statistics/docs/)
+as well as [Pjotr Prins](http://thebird.nl/)'s
+[documentation at github](https://github.com/pjotrp/racket-summary-stats).
 
 ---
 
@@ -186,6 +227,25 @@ Various examples of [D3](https://d3js.org)-based interactive graphs.
 An [R](https://www.r-project.org) package for the fit of a simple
 linear mixed model useful for genome-wide association studies
 (GWAS) and quantitative trait locus (QTL) mapping.
+
+---
+
+#### <a name="miner"></a>[miner](https://github.com/kbroman/miner) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.20070581) and [craft](https://github.com/kbroman/craft) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.20070587)
+
+R packages that allows you to manipulate the Minecraft world from R
+by connecting to the [Minecraft API](http://www.stuffaboutcode.com/p/minecraft-api-reference.html)
+using [RaspberryJuice](https://dev.bukkit.org/projects/raspberryjuice)
+and either [Spigot](https://www.spigotmc.org/) or
+[Minecraft:Pi](https://minecraft.net/en-us/edition/pi/).
+
+See the ebook [R Programming with Minecraft](https://kbroman.org/miner_book/).
+
+---
+
+#### <a name="labstat"></a>[R/labstat](https://github.com/kbroman/labstat) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.20070569)
+
+An [R](https://www.r-project.org) package with datasets for an old
+Statistics for Lab Scientists course.
 
 ---
 
