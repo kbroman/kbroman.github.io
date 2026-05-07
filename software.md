@@ -138,7 +138,7 @@ more general.
 
 An [R](https://www.r-project.org) package for simulating general
 experimental crosses (such as advanced intercross lines and the
-diversity outcross), for use with [R/qtl](https://rqtl.org).
+diversity outcross), for use with [R/qtl2](https://kbroman.org/qtl2).
 
 ---
 
