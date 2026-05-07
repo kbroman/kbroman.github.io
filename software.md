@@ -281,7 +281,7 @@ normal-Poisson mixture model described by Broman et al.
 #### <a name="fingers"></a>[R/fingers](https://github.com/kbroman/fingers) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.5149503)
 
 An [R](https://www.r-project.org) package for the inference of full sibling families with data on
-dominant genetic markers (such as RAPDs), following the hierarchicical
+dominant genetic markers (such as RAPDs), following the hierarchical
 clustering approach of Apostol et al. (1993) Theor Appl Genet
 86:991-1000.  The title follows from Fortran software written by WC
 Black IV.
