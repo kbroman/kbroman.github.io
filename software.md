@@ -242,6 +242,14 @@ See the ebook [R Programming with Minecraft](https://kbroman.org/miner_book/).
 
 ---
 
+#### <a name="circplot"></a>[R/circplot](https://github.com/kbroman/circplot) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.20097110)
+
+An [R](https://www.r-project.org) package for making plots as circles.
+Created for the function `plot_scan1_circ()`, for plotting a genome scan
+as a circle, and for making fun of circle plots.
+
+---
+
 #### <a name="labstat"></a>[R/labstat](https://github.com/kbroman/labstat) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.20070569)
 
 An [R](https://www.r-project.org) package with datasets for an old
