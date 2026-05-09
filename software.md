@@ -326,11 +326,8 @@ J Hum Genet 63:1563-1564, 1998](https://www.ncbi.nlm.nih.gov/pubmed/9792888)), t
 genotyping errors.  We look only at the relationships MZ twins,
 parent/offspring, fullsibs, halfsibs and unrelated.
 
-**Note**: I am no longer actively developing this software. You may wish to check out Mary Sara McPeek and Lei
-Sun's program [PREST](http://galton.uchicago.edu/~mcpeek/software/prest/).  It has a similar aim, and calculates a
-more extensive set of statistics, includes measures of statistical
-significance, and also looks at avuncular and first cousin
-relationships.  Other alternatives include the programs
+**Note**: I am no longer actively developing this software. Consider
+the programs
 [Relpair](https://csg.sph.umich.edu/boehnke/relpair.php)
 and
 [KING](https://www.kingrelatedness.com/).
