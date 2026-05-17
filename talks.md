@@ -1420,23 +1420,23 @@ Section for Medical Inflammation Research, Department of Cell and Molecular Biol
 ###  2004
 
 Gene mapping in model organisms
-[![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/taiwan04.ppt)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/taiwan04.pdf)
+[![ppt](icons16/ppt-icon.png)](https://kbroman.org/slides/taiwan04.ppt)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/taiwan04.pdf)
 <br/>
 [Taipei Symposium
 on Statistical Genomics](https://web.archive.org/web/20041209060743/https://www.stat.sinica.edu.tw/2004tssg/), Academia Sinica, Taipei, Taiwan (_Dec 16_)
 
 The genetic dissection of complex
 traits
-[![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/tigr04.ppt)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/tigr04.pdf)
+[![ppt](icons16/ppt-icon.png)](https://kbroman.org/slides/tigr04.ppt)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/tigr04.pdf)
 <br/>
 [7th Annual Conference on
 Computational Genomics](https://web.archive.org/web/20050207120254/https://www.tigr.org/conf/cg/), Reston, Virginia (_Oct 21_)
 
 The genomes of recombinant inbred lines
-[![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/yale04.ppt)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/yale04.pdf)
+[![ppt](icons16/ppt-icon.png)](https://kbroman.org/slides/yale04.ppt)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/yale04.pdf)
 <br/>
 [Department of
 Biostatistics](https://ysph.yale.edu/public-health-research-and-practice/department-research/biostatistics/), [Yale
@@ -1444,23 +1444,22 @@ School of Public Health](https://ysph.yale.edu), New Haven, Connecticut (_Oct 19
 
 Identifying essential genes in <em>M. tuberculosis</em>
 by random transposon mutagenesis
-[![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/mfd04.ppt)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/mfd04_ho.pdf)
+[![ppt](icons16/ppt-icon.png)](https://kbroman.org/slides/mfd04.ppt)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/mfd04_ho.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Mtb)
 <br/>
 [Marshfield Clinic
 Research Foundation](https://marshfieldresearch.org/), Marshfield, Wisconsin (_Oct 5_)
 
 <a name="wow"></a>How to display data badly
-\[[Photos from the event](https://www.biostat.wisc.edu/~kbroman/presentations/graphs_photos)\]
-<br/>
+\[[Photos from the event](https://kbroman.org/slides/graphs_photos)\]<br/>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 Version presented:
-[![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/graphs_final.ppt)<br/>
+[![ppt](icons16/ppt-icon.png)](https://kbroman.org/slides/graphs_final.ppt)<br/>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-Director&rsquo;s cut: [![windows ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/graphs_win.ppt)
-[![Mac ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/graphs_mac.ppt)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/graphs.pdf)<br/>
+Director&rsquo;s cut: [![windows ppt](icons16/ppt-icon.png)](https://kbroman.org/slides/graphs_win.ppt)
+[![Mac ppt](icons16/ppt-icon.png)](https://kbroman.org/slides/graphs_mac.ppt)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/graphs.pdf)<br/>
 Part of the "Everything you ever wanted to know about
 Biostatistics but were afraid to ask" lecture series<br/>
 [Department of
@@ -1468,28 +1467,28 @@ Biostatistics](https://publichealth.jhu.edu/departments/biostatistics), [Johns H
 Bloomberg School of Public Health](https://publichealth.jhu.edu/), Baltimore, MD (_Sep 24_)
 
 The genomes of recombinant inbred lines
-[![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/toronto04.ppt)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/toronto04.pdf)
+[![ppt](icons16/ppt-icon.png)](https://kbroman.org/slides/toronto.ppt)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/toronto04.pdf)
 <br/>
 [Genetics and Genomic Biology](https://www.sickkids.ca/en/research/research-programs/genetics-genome-biology/),
 [Hospital for Sick Children](https://www.sickkids.ca), Toronto, Canada (_Aug 11_)
 
 The genomes of recombinant inbred lines
-[![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/jsm04.ppt)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/jsm04.pdf)
+[![ppt](icons16/ppt-icon.png)](https://kbroman.org/slides/jsm04.ppt)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/jsm04.pdf)
 <br/>
 [Joint
 Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2004/), Toronto, Canada (_Aug 8_)
 
 The genomes of recombinant inbred lines
-[![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ctc04.ppt)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ctc04.pdf)
+[![ppt](icons16/ppt-icon.png)](https://kbroman.org/slides/ctc04.ppt)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/ctc04.pdf)
 <br/>
 [Complex Trait Consortium](https://www.complextrait.org), [Third Annual Meeting](https://web.archive.org/web/20040803004607/https://www.jax.org/courses/events/coursedetails.do?id=30), [The Jackson Laboratory](https://www.jax.org), Bar Harbor, Maine (_Jul 8_)
 
 Statistics in epigenomics
-[![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/epigenomics.ppt)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/epigenomics.pdf)
+[![ppt](icons16/ppt-icon.png)](https://kbroman.org/slides/epigenomics.ppt)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/epigenomics.pdf)
 <br/>
 [Nobel Symposium on
 Epigenetic Reprogramming in Development
@@ -1497,29 +1496,29 @@ and Disease](https://web.archive.org/web/20050220212447/https://www-conference.s
 
 The breakpoint process on recombinant inbred
 chromosomes
-[![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/vanderbilt04.ppt)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/vanderbilt04.pdf)
+[![ppt](icons16/ppt-icon.png)](https://kbroman.org/slides/vanderbilt04.ppt)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/vanderbilt04.pdf)
 <br/>
 Genetic Interest Group, Center for Human Genetics Research, [Vanderbilt
 University](https://www.vanderbilt.edu), Nashville, TN (_May 27_)
 
 The breakpoint process on recombinant inbred chromosomes
-[![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/retreat04.ppt)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/retreat04_ho.pdf)
+[![ppt](icons16/ppt-icon.png)](https://kbroman.org/slides/retreat04.ppt)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/retreat04_ho.pdf)
 <br/>
 Annual Retreat, [Department of
 Biostatistics](https://publichealth.jhu.edu/departments/biostatistics), [Johns Hopkins Bloomberg School of
 Public Health](https://publichealth.jhu.edu/) (_May 1_)
 
 The breakpoint process on recombinant inbred chromosomes
-[![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ribreaks.ppt)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ribreaks_ho.pdf)
+[![ppt](icons16/ppt-icon.png)](https://kbroman.org/slides/ribreaks_ho.ppt)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/ribreaks_ho.pdf)
 <br/>
 [Hopkins Expressionists](https://web.archive.org/web/20150217051402/https://www.biostat.jhsph.edu/GenomeCAFE/ExpressionistSchedule.html) (_Apr 21_)
 
 Identifying essential genes in <em>M. tuberculosis</em>
 by random transposon mutagenesis
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/sk04_ho.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/sk04_ho.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Mtb)
 <br/>
 [Dept of Biostatistics,
@@ -1527,29 +1526,29 @@ University at Buffalo](https://publichealth.buffalo.edu/biostatistics.html) in B
 
 Introduction to QTL mapping: lecture and
 computer lab
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/Louisville/rqtllab.pdf)
-[![R code](icons16/R-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/Louisville/rqtllab.R)<br/>
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/Louisville_rqtllab.pdf)
+[![R code](icons16/R-icon.png)](https://kbroman.org/slides/Louisville_rqtllab.R)
 [Dept of
 Bioinformatics and Biostatistics](https://louisville.edu/sphis/departments/bioinformatics-biostatistics), [University of Louisville](https://www.louisville.edu) in
 Louisville, Kentucky (_Apr 2_)
 
 Statistical issues in QTL mapping in mice
-[![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rostock04.ppt)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rostock04.pdf)
+[![ppt](icons16/ppt-icon.png)](https://kbroman.org/slides/rostock04.ppt)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/rostock04.pdf)
 <br/>
 [Workshop on the
 Analysis of Complex Genetic Traits](https://web.archive.org/web/20050306171036/https://www.eurome.de/meet.html#meet4), [Immunogenetics](https://web.archive.org/web/20070101041648/https://www-iimmun.med.uni-rostock.de/immgen.html), [Universit&auml;t Rostock](https://www.uni-rostock.de/en), Germany (_Mar 17_)
 
 Gene mapping in mice
-[![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/msri04.ppt)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/msri04.pdf)
+[![ppt](icons16/ppt-icon.png)](https://kbroman.org/slides/msri04.ppt)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/msri04.pdf)
 <br/>
 [Workshop on the Genetics of Complex Disease](https://web.archive.org/web/20040427033318/www.msri.org/calendar/workshops/WorkshopInfo/261/show_workshop),
 [Mathematical Sciences Research Institute](https://www.slmath.org), Berkeley, California (_Feb 12_)
 
 Identifying essential genes in <em>M. tuberculosis</em>
 by random transposon mutagenesis
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/sk04_ho.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/sk04_ho.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Mtb)
 <br/>
 [Department of
@@ -1561,7 +1560,7 @@ Sloan-Kettering Cancer Center](https://www.mskcc.org), New York (_Jan 14_)
 ###  2003
 Identifying essential genes in <em>M. tuberculosis</em>
 by random transposon mutagenesis
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ucla03_ho.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/ucla03_ho.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Mtb)
 <br/>
 Departments of [Statistics](https://www.stat.wisc.edu/)
@@ -1569,7 +1568,7 @@ and [Biostatistics & Medical Informatics](https://www.biostat.wisc.edu/), Univer
 
 Identifying essential genes in <em>M. tuberculosis</em>
 by random transposon mutagenesis
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ucla03_ho.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/ucla03_ho.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Mtb)
 <br/>
 [Department of Statistics](https://statistics.ucla.edu/),
@@ -1577,7 +1576,7 @@ University of California, Los Angeles (_Nov 4_)
 
 Identifying essential genes in <em>M. tuberculosis</em>
 by random transposon mutagenesis
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/unc03_ho.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/unc03_ho.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Mtb)
 <br/>
 [Department of Biostatistics](https://sph.unc.edu/bios/biostatistics/), University of North
@@ -1585,46 +1584,46 @@ Carolina at Chapel Hill (_Oct 23_)
 
 Identifying essential genes in <em>M. tuberculosis</em>
 by random transposon mutagenesis
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/haverford_ho.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/haverford_ho.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Mtb)
 <br/>
 Haverford-Bryn Mayr Mathematics Colloquium, [Haverford College](https://www.haverford.edu/mathematics-and-statistics), Haverford, Pennsylvania (_Oct 20_)
 
 Identifying essential genes in <em>M. tuberculosis</em>
 by random transposon mutagenesis
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/jsm03_ho.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/jsm03_ho.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Mtb)
 <br/>
 [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2003/), San Francisco (_Aug 5_)
 
 Principles of experimental design and sample
 size determination for animal-based research
-[![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/acuc.ppt)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/acuc_ho.pdf)
+[![ppt](icons16/ppt-icon.png)](https://kbroman.org/slides/acuc_ho.ppt)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/acuc_ho.pdf)
 <br/>
 [Johns Hopkins University Animal Care
 and Use Committee](https://animalcare.jhu.edu) seminar (_Jun 26_)
 
 Identifying essential genes in
 _M. tuberculosis_ by random transposon mutagenesis
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ucsf03_ho.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/ucsf03_ho.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Mtb)
 <br/>
 [Hopkins Expressionists](https://web.archive.org/web/20150217051402/https://www.biostat.jhsph.edu/GenomeCAFE/ExpressionistSchedule.html) (_Jun 25_)
 
 Identifying essential genes in
 _M. tuberculosis_ by random transposon mutagenesis
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ucsf03_ho.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/ucsf03_ho.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Mtb)
 <br/>
 [Department of Biostatistics](https://epibiostat.ucsf.edu/), University of California, San Francisco (_Mar 13_)
 
 Meiosis, recombination, and
 interference
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/meiosis_nz.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/meiosis_nz.pdf)
 [![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/meiosis_nz_handout.pdf)<br/>
 QTL mapping in mice
-[![pdf](icons16/pdf-icon.png)](https://www.bidostat.wisc.edu/~kbroman/presentations/qtl_nz.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/qtl_nz.pdf)
 [![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/qtl_nz_handout.pdf)<br/>
 [Mathematics
 Workshop](https://web.archive.org/web/20030222010956/https://www.mcs.vuw.ac.nz/~mathmeet/newplymouth/index.shtml)
