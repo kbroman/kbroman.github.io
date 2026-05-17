@@ -1624,7 +1624,7 @@ interference
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/meiosis_nz.pdf)
 [![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/meiosis_nz_handout.pdf)<br/>
 QTL mapping in mice
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/qtl_nz.pdf)
+[![pdf](icons16/pdf-icon.png)](https://www.bidostat.wisc.edu/~kbroman/presentations/qtl_nz.pdf)
 [![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/qtl_nz_handout.pdf)<br/>
 [Mathematics
 Workshop](https://web.archive.org/web/20030222010956/https://www.mcs.vuw.ac.nz/~mathmeet/newplymouth/index.shtml)
@@ -1637,7 +1637,7 @@ in New Plymouth, New Zealand (_Jan 10-11_)
 Identification of the essential genes in the
 _M. tuberculosis_ genome by random transposon
 mutagenesis
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/mtb_ho.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/mtb_ho.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Mtb)
 <br/>
 [Department of
@@ -1645,49 +1645,49 @@ Biostatistics](https://publichealth.jhu.edu/departments/biostatistics), [Johns H
 Public Health](https://publichealth.jhu.edu) (_Dec 13_)
 
 Human crossover interference
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/yale.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/yale.pdf)
 Section on Statistical Genetics, University of Alabama, Birmingham (_Oct 9_)
 
 Model selection for QTL mapping
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rss_ho.pdf)<br/>
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/rss_ho.pdf) <br/>
 [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2002/), New York, NY (_Aug 14_)
 
 Model selection for QTL mapping
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rss_ho.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/rss_ho.pdf)
 <br/>
 Royal Statistical Society, London, England (_May 22_)
 
 R/qtl: an extensible QTL mapping environment
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ctc.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/ctc.pdf)
 <br/>
 Complex Trait Consortium meeting, Memphis, Tennessee (_May 16_)
 
 Human crossover interference
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/yale.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/yale.pdf)
 <br/>
 [Department of Statistics](https://statistics.berkeley.edu), University of California, Berkeley (_Apr 11_)
 
 A model selection approach for the identification of quantitative
 trait loci in experimental crosses
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/hopkins02_ho.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/hopkins02_ho.pdf)
 <br/>
 [Department of Biostatistics](https://publichealth.jhu.edu/departments/biostatistics),
 Johns Hopkins University, Baltimore, Maryland (_Apr 3_)
 
 Model selection in QTL mapping
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rp_handout.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/rp_handout.pdf)
 <br/>
 [Department of Molecular and
 Cellular Biology](https://www.roswellpark.org/research/departments/molecular-cellular-biology), Roswell Park Cancer Institute, Buffalo, New York (_Mar 28_)
 
 A model selection approach for the identification of quantitative
 trait loci in experimental crosses
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/enar02_handout.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/enar02_handout.pdf)
 <br/>
 International Biometric Society/ENAR meeting, Arlington, Virginia (_Mar 20_)
 
 Human crossover interference
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/yale.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/yale.pdf)
 <br/>
 [Department of Mathematics and
 Statistics](https://www.american.edu/cas/mathstat/), American University, Washington, DC (_Feb 5_)
@@ -1697,29 +1697,29 @@ Statistics](https://www.american.edu/cas/mathstat/), American University, Washin
 ###  2001
 
 Human crossover interference
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/yale.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/yale.pdf)
 <br/>
 [Department of Statistics](https://statistics.yale.edu/), Yale
 University, New Haven, Connecticut (_Dec 3_)
 
 Identifying clusters of related individuals with data on dominant genetic markers
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/stlouis01.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/stlouis2001.pdf)
 <br/>
 Classification Society of North America meeting, St. Louis, Missouri (_Jun 15_)
 
 QTL mapping in mice: Review of single QTL methods
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/madison01.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/madison01.pdf)
 <br/>
 NCI Satellite Workshop on Modifier Genes, Madison, Wisconsin (_Jun 12_)
 
 Human meiotic interference
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/uwm2001.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/uwm2001.pdf)
 <br/>
 [Department of Mathemetical Sciences](https://uwm.edu/math/),
 University of Wisconsin-Milwaukee (_May 11_)
 
 Crossover interference in the mouse
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/mouseinterfer.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/mouseinterfer.pdf)
 <br/>
 Hopkins Statistical Genetics Working Group (_Apr 2_)
 
@@ -1728,22 +1728,22 @@ Hopkins Statistical Genetics Working Group (_Apr 2_)
 ###  2000
 
 Human crossover interference
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/jax.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/jax.pdf)
 <br/>
 [Biometric Research Branch](https://brb.nci.nih.gov/index.html), National Cancer Institute, Bethesda, Maryland (_Oct 20_)
 
 Identifying QTLs in experimental crosses
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/hsgwg.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/hsgwg.pdf)
 <br/>
 Hopkins Statistical Genetics Working Group (_Sep 25_)
 
 Human crossover interference
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/jax.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/jax.pdf)
 <br/>
 [The Jackson Laboratory](https://www.jax.org), Bar Harbor, Maine (_Sep 15_)
 
 Estimation of allele frequencies with sibpair data
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/enar2000.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/enar2000.pdf)
 <br/>
 International Biometric Society/ENAR meeting, Chicago, IL (_Mar 20_)
 
@@ -1752,45 +1752,45 @@ International Biometric Society/ENAR meeting, Chicago, IL (_Mar 20_)
 ###  1999
 
 Topics in statistical genetics
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/topics.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/topics.pdf)
 <br/>
 [Department of Biostatistics](https://publichealth.jhu.edu/departments/biostatistics), Johns Hopkins University, Baltimore, Maryland (_Sep 22_)
 
 A characterization of human crossover interference
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/enar1999.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/enar1999.pdf)
 <br/>
 International Biometric Society/ENAR meeting, Atlanta, GA (_Mar 30_)
 
 Human meiotic interference
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/interference.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/interference.pdf)
 <br/>
 [Department of Biostatistics](https://www.biostat.washington.edu/), [University of Washington](https://www.washington.edu), Seattle (_Feb 18_)
 
 Identifying QTLs in experimental crosses
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/qtls.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/qtls.pdf)
 <br/>
 Gemini Research, Cambridge, England (_Feb 11_)
 
 Human meiotic interference
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/interference.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/interference.pdf)
 <br/>
 [Department of Biostatistics](https://publichealth.jhu.edu/departments/biostatistics), Johns Hopkins
 University, Baltimore, Maryland (_Feb 3_)
 
 Human meiotic interference
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/interference.pdf)<br/>
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/interference.pdf)<br/>
 [Department of Statistics](https://statistics.berkeley.edu/), University
 of California, Berkeley (_Jan 28_)
 
 Human meiotic interference
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/interference.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/interference.pdf)
 <br/>
 [Jasper Rine](https://mcb.berkeley.edu/faculty/GEN/rinej.html)&rsquo;s laboratory,
 Molecular and Cell Biology,
 University of California, Berkeley (_Jan 27_)
 
 Human meiotic interference
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/interference.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/interference.pdf)
 <br/>
 Center for Medical Genetics,
 Marshfield Medical Research Foundation, Marshfield, Wisconsin (_Jan 14_)
@@ -1800,25 +1800,25 @@ Marshfield Medical Research Foundation, Marshfield, Wisconsin (_Jan 14_)
 ###  1998
 
 Human meiotic interference
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/interference.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/interference.pdf)
 <br/>
 [Walter and Eliza Hall Institute for Medical Research](https://www.wehi.edu.au/),
 Melbourne, Australia (_Nov 24_)
 
 Cleaning genotype data
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/cleaning.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/cleaning.pdf)
 <br/>
 [Queensland Institute for Medical Research](https://www.qimrb.edu.au/),
 Brisbane, Australia (_Nov 19_)
 
 Cleaning genotype data
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/cleaning.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/cleaning.pdf)
 <br/>
 [Walter and Eliza Hall Institute for Medical Research](https://www.wehi.edu.au/),
 Melbourne, Australia (_Nov 17_)
 
 What is (are?) statistics?
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/what_is_statistics.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/what_is_statistics.pdf)
 <br/>
 Center for Medical Genetics,
 Marshfield Medical Research Foundation, Marshfield, Wisconsin (_Jan 8_)
