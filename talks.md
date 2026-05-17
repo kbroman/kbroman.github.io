@@ -937,7 +937,7 @@ QTL mapping for phenotypes measured over time
 Plant Breeding Symposium, [Department of Agronomy](https://www.agronomy.k-state.edu/), [Kansas State University](https://www.k-state.edu), Manhattan, KS (_Apr 2_)
 
 Interactive graphics for high-dimensional genetic data
-[![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/InteractiveGraphs2)
+[![html](icons16/html-icon.png)](https://kbroman.org/Talk_InteractiveGraphs2)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_InteractiveGraphs2)
 <br/>
 International Biometric Society/ENAR meeting, Orlando, FL (_Mar 13_)
@@ -961,7 +961,7 @@ How to display data badly
 <br/>
 [Department of Pathology and Laboratory Medicine](https://www.pathology.wisc.edu), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Oct 17_)
 
-Why aren&rsquo;t all of our graphs interactive?  [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/InteractiveGraphs)
+Why aren&rsquo;t all of our graphs interactive?  [![html](icons16/html-icon.png)](https://kbroman.org/Talk_InteractiveGraphs1)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_InteractiveGraphs1)<br/>
 [Department of Biostatistics](https://www.biostat.jhsph.edu), [Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu), Baltimore, MD (_Oct 5_)
 
