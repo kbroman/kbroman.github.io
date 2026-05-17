@@ -390,7 +390,7 @@ R/qtl2: QTL mapping in multi-parent populations
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rqtl2_CSU2018.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_CSU2018)
 &nbsp; Interactive graph:
-[![many box plots](icons16/html-icon.png)](https://bit.ly/many_boxplots)
+[![many box plots](icons16/html-icon.png)](https://kbroman.org/d3examples/manyboxplots/)
 <br/>
 [Department of Statistics](https://www.stat.colostate.edu),
 [Colorado State University](https://www.colostate.edu)
@@ -410,7 +410,7 @@ Steps toward reproducible research
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rqtl2_qBio2018.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_qBio2018)
 &nbsp; Interactive graph:
-[![many box plots](icons16/html-icon.png)](https://bit.ly/many_boxplots)
+[![many box plots](icons16/html-icon.png)](https://kbroman.org/d3examples/manyboxplots/)
 <br/>
 [qBio seminar
 series](https://events.wid.wisc.edu/events/category/qbio/),
@@ -423,7 +423,7 @@ University of Wisconsin&ndash;Madison (_Feb 14_)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_UCSF2018)
 &nbsp; Interactive graphs:
 [![lod curves](icons16/html-icon.png)](https://bit.ly/lod_and_effect)
-[![many box plots](icons16/html-icon.png)](https://bit.ly/many_boxplots)
+[![many box plots](icons16/html-icon.png)](https://kbroman.org/d3examples/manyboxplots/)
 <br/>
 [BBC
 seminar](https://biophysics.ucsf.edu/seminars-events/bbc-seminar-series),
@@ -438,7 +438,7 @@ University of California, San Francisco (_Feb 1_)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Chicago2017)
 &nbsp; Interactive graphs:
 [![lod curves](icons16/html-icon.png)](https://bit.ly/lod_and_effect)
-[![many box plots](icons16/html-icon.png)](https://bit.ly/many_boxplots)
+[![many box plots](icons16/html-icon.png)](https://kbroman.org/d3examples/manyboxplots/)
 <br/>
 University of Chicago (_Nov 17_)
 
@@ -455,7 +455,7 @@ R/qtl2: high-dimensional data & multi-parent populations <br/>
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_UNCC2017)
 &nbsp; Interactive graphs:
 [![lod curves](icons16/html-icon.png)](https://bit.ly/lod_and_effect)
-[![many box plots](icons16/html-icon.png)](https://bit.ly/many_boxplots)
+[![many box plots](icons16/html-icon.png)](https://kbroman.org/d3examples/manyboxplots/)
 <br/>
 [Department of Bioinformatics and Genomics](https://cci.charlotte.edu/departments/bioinformatics/about-big)
 University of North Carolina at Charlotte (_Sep 22_)
