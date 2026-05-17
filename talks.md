@@ -817,7 +817,7 @@ Round Table,
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Nov 20_)
 
 Interactive graphics for high-dimensional genetic data
-[![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/InteractiveGraphs4)
+[![html](icons16/html-icon.png)](https://kbroman.org/Talk_InteractiveGraphs4)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_InteractiveGraphs4)<br/>
 [Department of Biostatistics](https://www.hsph.harvard.edu/biostatistics/),
 Harvard School of Public Health, Boston, Massachusetts (_Nov 6_)
@@ -910,7 +910,7 @@ How to display data badly
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Graphs)<br/>
 Lecture to MD/PhD students, [School of Medicine and Public Health](https://www.med.wisc.edu/), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Oct 16_)
 
-Interactive graphics for high-dimensional genetic data  [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/CGD2013/presentation.html)
+Interactive graphics for high-dimensional genetic data  [![html](icons16/html-icon.png)](https://kbroman.org/Talk_CGD2013/)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_CGD2013)<br/>
 Jackson Laboratory, Center for Genome Dynamics, Bar Harbor, Maine (_Jun 25_)
 
@@ -924,7 +924,7 @@ Interactive graphics for high-dimensional genetic data  [![html](icons16/html-ic
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_CTC2013)<br/>
 [Complex Trait Community 12th annual meeting](https://rqtl.org/ctc2013), Madison, Wisconsin (_May 31_)
 
-Why aren&rsquo;t all of our graphs interactive?  [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/InteractiveGraphs3)
+Why aren&rsquo;t all of our graphs interactive?  [![html](icons16/html-icon.png)](https://kbroman.org/Talk_InteractiveGraphs3)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_InteractiveGraphs3)
 [![tgz](icons16/tgz-icon.png)](InteractiveGraphs3.tgz)<br/>
 Biostatistics training program, [Department of Biostatistics and Medical Informatics](https://www.biostat.wisc.edu), [School of Medicine and Public Health](https://www.med.wisc.edu), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Apr 8_)
