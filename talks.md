@@ -890,8 +890,8 @@ Manuscript writing workshop, [Institute for Clinical and Translational Research]
 How to display data badly (plus a bit on my recent efforts to make interactive graphs) <br/>
 &nbsp; &nbsp; &nbsp; Part 1: [![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/graphs_combined.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Graphs/tree/iowastate2013)
-&nbsp; Part 2: [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/IowaState2013/index.html)
-[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_CGD2013/tree/iowastate2013)<br/>
+&nbsp; Part 2: [![html](icons16/html-icon.png)](https://kbroman.org/Talk_IowaState2013/index.html)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_IowaState2013)<br/>
 (Remotely to) Graphics Working Group, [Department of Statistics](https://www.stat.iastate.edu), [Iowa State University](https://www.iastate.edu), Ames, Iowa (_Dec 5_)
 
 Open access publishing: A researcher's perspective
