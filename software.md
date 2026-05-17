@@ -216,7 +216,7 @@ as well as [Pjotr Prins](http://thebird.nl/)'s
 
 ---
 
-#### <a name="D3"></a>[D3 examples](https://www.biostat.wisc.edu/~kbroman/D3/)
+#### <a name="D3"></a>[D3 examples](https://kbroman.org/d3examples)
 
 Various examples of [D3](https://d3js.org)-based interactive graphs.
 
