@@ -888,7 +888,7 @@ Manuscript writing workshop, [Institute for Clinical and Translational Research]
 ###  2013
 
 How to display data badly (plus a bit on my recent efforts to make interactive graphs) <br/>
-&nbsp; &nbsp; &nbsp; Part 1: [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/IowaState2013/graphs_combined.pdf)
+&nbsp; &nbsp; &nbsp; Part 1: [![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/graphs_combined.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Graphs/tree/iowastate2013)
 &nbsp; Part 2: [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/IowaState2013/index.html)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_CGD2013/tree/iowastate2013)<br/>
