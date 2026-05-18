@@ -800,7 +800,7 @@ Genome to Phenome Symposium,
 [CSIRO](https://www.csiro.au/), Brisbane, Australia (_Mar 25_)
 
 Interactive graphics for high-dimensional genetic data
-[![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/AAAS)
+[![html](icons16/html-icon.png)](https://kbroman.org/Talk_AAAS2015)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_AAAS2015)<br/>
 [AAAS Annual Meeting](https://aaas.confex.com/aaas/2015/webprogram/start.html),
 San Jose, CA (_Feb 13_)
