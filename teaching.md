@@ -415,7 +415,7 @@ Lund, Sweden (Jan 8-12, 2007)
 - Multiple QTL mapping:
   \[ [lecture](https://kbroman.org/teaching_misc/Lund/2007/lec3.pdf) | [handout](https://kbroman.org/teaching_misc/Lund/2007/handout3.pdf) \]
 - A brief tour of R/qtl:
-  \[ [handout](https://rqtl.org/rqtltour.pdf) | [code](https://rqtl.org/rqtltour.R) | [additional functions](https://rqtl.org/multqtlfunc.R) \]
+  \[ [handout](https://rqtl.org/rqtltour.pdf) | [code](https://rqtl.org/rqtltour.R) \]
 
 
 ---
