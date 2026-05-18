@@ -429,10 +429,10 @@ Summer, 2006
 
 - Introduction:  [pdf (280k)](https://kbroman.org/teaching_misc/SISG/2006/intro_handout.pdf)
 - Model selection: [pdf (243k)](https://kbroman.org/teaching_misc/SISG/2006/modelsel_handout.pdf)
-- HMMs and the pseudomarker algorithm: [pdf (1143k)](https://kbroman.org/teaching_misc/SISG/2006/hmm_imp_handout.pdf)
+- The pseudomarker algorithm: [pdf (1143k)](https://kbroman.org/teaching_misc/SISG/2006/imputation_handout.pdf)
 - [R/qtl](https://rqtl.org) lab:
-  [pdf (70k)](https://kbroman.org/teaching_misc/SISG/2006/rqtllab.pdf) |
-  [code](https://kbroman.org/teaching_misc/SISG/2006/rqtllab.R)
+  [pdf (70k)](https://kbroman.org/teaching_misc/SISG/2006/rqtltour.pdf) |
+  [code](https://kbroman.org/teaching_misc/SISG/2006/rqtltour.R)
 
 
 Summer, 2005
@@ -441,8 +441,8 @@ Summer, 2005
 - Model selection: [pdf (51k)](https://kbroman.org/teaching_misc/SISG/2005/modelsel_handout.pdf)
 - HMMs and the pseudomarker algorithm: [pdf (1160k)](https://kbroman.org/teaching_misc/SISG/2005/hmm_imp_handout.pdf)
 - [R/qtl](https://rqtl.org) lab:
-  [pdf (68k)](https://kbroman.org/teaching_misc/SISG/2005/rqtllab.pdf) |
-  [code](https://kbroman.org/teaching_misc/SISG/2005/rqtllab.R)
+  [pdf (68k)](https://kbroman.org/teaching_misc/SISG/2005/rqtltour.pdf) |
+  [code](https://kbroman.org/teaching_misc/SISG/2005/rqtltour.R)
 
 
 Summer, 2004
