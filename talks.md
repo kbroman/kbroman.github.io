@@ -692,16 +692,16 @@ Interactive graphics for genetic data
 Illinois (_Dec 15_)
 
 Reproducible research
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_RDS2015.pdf)
-[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_RDS2015_withnotes.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/repro_research_RDS2015.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/slides/repro_research_RDS2015_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)
 <br/>
 [Holz Series in Research Data Management](https://researchdata.wisc.edu/holz-series/),
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Nov 18_)
 
 Reproducible research
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_Memphis2015.pdf)
-[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_Memphis2015_withnotes.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/repro_research_Memphis2015.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/slides/repro_research_Memphis2015_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes/tree/Memphis2015)
 <br/>
 [Division of Biostatistics](https://www.uthsc.edu/prevmed/biostats.php),
@@ -710,7 +710,7 @@ Reproducible research
 Memphis, Tennessee (_Nov 4_)
 
 Interactive graphics for genetic data
-[![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/BMI2015)
+[![html](icons16/html-icon.png)](https://kbroman.org/Talk_BMI2015)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_BMI2015)<br/>
 [Division of Biostatistics](https://www.uthsc.edu/prevmed/biostats.php),
 [Department of Preventive Medicine](https://www.uthsc.edu/prevmed),
@@ -718,7 +718,7 @@ Interactive graphics for genetic data
 Memphis, Tennessee (_Nov 2_)
 
 Creating effective figures and tables
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/graphs_MDPhD2014.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/graphs_MDPhD2014.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Graphs/tree/MDPhD2014)
 <br/>
 Presentation in a seminar course for MD-PhD students,
@@ -731,7 +731,7 @@ Interactive graphics for genetic data
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Oct 16_)
 
 The genetic analysis of high-throughput phenotypes
-[![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/Texas2015)
+[![html](icons16/html-icon.png)](https://kbroman.org/slides/Talk_Texas2015)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Texas2015)<br/>
 [Department of Soil and Crop Sciences](https://soilcrop.tamu.edu/),
 [Texas A&amp;M](https://www.tamu.edu/), College Station, Texas (_Sep 1_)
@@ -749,31 +749,31 @@ Interactive graphics for genetic data
 Seattle, Washington (_Jul 21_)
 
 Reproducible research
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_SIBS2015.pdf)
-[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_SIBS2015_withnotes.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/repro_research_SIBS2015.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/slides/repro_research_SIBS2015_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes/tree/SIBS2015)
 <br/>
 Summer Institute for Training in Biostatistics (SIBS), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Jul 9_)
 
 Dissecting and fine-mapping _trans_-eQTL hotspots
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/trans_eqtl_hotspots.pdf)
-[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/trans_eqtl_hotspots_withnotes.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/trans_eqtl_hotspots.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/slides/trans_eqtl_hotspots_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_TransHotspots)
 <br/>
 [Complex Trait Community annual meeting](https://complextrait.org/ctc_archive/ctc2015/index.html),
 Portland, Oregon (_Jun 11_)
 
 Reproducible research
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research.pdf)
-[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_withnotes.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/repro_research.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/slides/repro_research_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes/tree/JAX_CGD)
 <br/>
 Annual retreat of the Center for Genome Dynamics,
 [Jackson Lab](https://jax.org), held in Madison, Wisconsin (_May 28_)
 
 Reproducible research
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research.pdf)
-[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_withnotes.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/repro_research.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/slides/repro_research_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes/tree/MoMiEE)
 <br/>
 Molecular Microbial Ecology and Evolution (MoMiEE) group,
@@ -823,21 +823,21 @@ Interactive graphics for high-dimensional genetic data
 Harvard School of Public Health, Boston, Massachusetts (_Nov 6_)
 
 Open access publishing: A researcher's perspective
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/openaccess2014.pdf)
-[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/openaccess2014_withnotes.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/openaccess2014.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/slides/openaccess2014_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_OpenAccess)<br/>
 [Scholarly Publishing Symposium](https://web.archive.org/web/20141011175710/https://www.library.wisc.edu/news/scholarly-publishing-symposium-2014/),
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Oct 30_)
 
 Creating effective figures and tables
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/graphs_MDPhD2014.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/graphs_MDPhD2014.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Graphs/tree/MDPhD2014)
 <br/>
 Presentation in a seminar course for MD-PhD students,
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Oct 29_)
 
 How to display data badly
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/graphs_cmp2014.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/graphs_cmp2014.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Graphs/tree/cmp2014)
 <br/>
 [Department of Pathology and Laboratory Medicine](https://pathology.wisc.edu),
@@ -862,7 +862,7 @@ mice from Gough Island<br/>
 meeting](https://web.archive.org/web/20150205114128/https://www.ctc2014.org/), Berlin, Germany (_May 21_)
 
 Creating effective figures and tables
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ictr2014b.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/ictr2014b.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Graphs/tree/ictr2014)
 <br/>
 [Institute for Clinical and Translational Research](https://ictr.wisc.edu),
@@ -876,7 +876,7 @@ QTL mapping for phenotypes measured over time
 Center](https://www.danforthcenter.org/), St. Louis, Missouri (_Feb 19_)
 
 Creating effective figures and tables
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ictr2014.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/ictr2014.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Graphs/tree/ictr2014)
 <br/>
 Manuscript writing workshop, [Institute for Clinical and Translational Research](https://ictr.wisc.edu),
@@ -894,18 +894,18 @@ How to display data badly (plus a bit on my recent efforts to make interactive g
 (Remotely to) Graphics Working Group, [Department of Statistics](https://www.stat.iastate.edu), [Iowa State University](https://www.iastate.edu), Ames, Iowa (_Dec 5_)
 
 Open access publishing: A researcher's perspective
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/openaccess.pdf)
-[![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/openaccess_withnotes.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/openaccess.pdf)
+[![handout](icons16/notes-icon.png)](https://kbroman.org/slides/openaccess_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_OpenAccess/tree/2013-10)<br/>
 [Open Access, Open Data @ UW](https://researchdata.wisc.edu/open-access-open-data/) symposium, [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Oct 24_)
 
 A brief introduction to git &amp; GitHub (with Samuel G. Younkin)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/GitPrimer.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/GitPrimer.pdf)
 [![github](icons16/github-icon.png)](https://github.com/syounkin/GitPrimer)<br/>
 Informal presentation to graduate students, [Department of Statistics](https://www.stat.wisc.edu), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Oct 18_)
 
 How to display data badly
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/graphs_combined.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/graphs_combined.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Graphs)<br/>
 Lecture to MD/PhD students, [School of Medicine and Public Health](https://www.med.wisc.edu/), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Oct 16_)
 
@@ -914,12 +914,13 @@ Interactive graphics for high-dimensional genetic data  [![html](icons16/html-ic
 Jackson Laboratory, Center for Genome Dynamics, Bar Harbor, Maine (_Jun 25_)
 
 MAGIC design and other topics
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/magic_web.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/magic_web.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_MAGIC)<br/>
 [Workshop on MAGIC-type populations](https://web.archive.org/web/20160619205029/https://mus.well.ox.ac.uk/19genomes/MAGIC-WORKSHOP/)
 in Cambridge, UK (_Jun 12_)
 
-Interactive graphics for high-dimensional genetic data  [![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/CTC2013)
+Interactive graphics for high-dimensional genetic data
+[![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/CTC2013)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_CTC2013)<br/>
 [Complex Trait Community 12th annual meeting](https://rqtl.org/ctc2013), Madison, Wisconsin (_May 31_)
 
@@ -941,12 +942,12 @@ Interactive graphics for high-dimensional genetic data
 International Biometric Society/ENAR meeting, Orlando, FL (_Mar 13_)
 
 Identifying and correcting sample mix-ups in high-dimensional genetic data
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/anisci2013.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/anisci2013.pdf)
 <br/>
 [Department of Animal Sciences](https://www.ansci.wisc.edu), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Feb 12_)
 
 Identifying and correcting sample mix-ups in high-dimensional genetic data
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/bmi2013.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/bmi2013.pdf)
 <br/>
 [Department of Biostatistics and Medical Informatics](https://www.biostat.wisc.edu), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Feb 8_)
 
@@ -955,7 +956,7 @@ Identifying and correcting sample mix-ups in high-dimensional genetic data
 ###  2012
 
 How to display data badly
-[![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/graphs_uwpath2012.pptx)
+[![ppt](icons16/ppt-icon.png)](https://kbroman.org/slides/graphs_uwpath2012.pptx)
 <br/>
 [Department of Pathology and Laboratory Medicine](https://www.pathology.wisc.edu), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Oct 17_)
 
@@ -964,19 +965,19 @@ Why aren&rsquo;t all of our graphs interactive?  [![html](icons16/html-icon.png)
 [Department of Biostatistics](https://www.biostat.jhsph.edu), [Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu), Baltimore, MD (_Oct 5_)
 
 Identifying and correcting sample mix-ups in high-dimensional data
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/evolsysbiol.pdf)<br/>
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/evolsysbiol.pdf)<br/>
 [EvoSysBio meeting](https://evolutionarysystemsbiology.org/meeting/2012-Madison/index.html), Wisconsin Institutes for Discovery, University of Wisconsin&ndash;Madison (_Jul 30_)
 
 Identifying and correcting sample mix-ups in high-dimensional data
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/germany2012.pdf)<br/>
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/germany2012.pdf)<br/>
 [EURATRANS](http://www.euratrans.eu) meeting, Tutzing, Germany (_Jun 4_)
 
 Identifying and correcting sample mix-ups in high-dimensional data
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/enar2012.pdf)<br/>
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/enar2012.pdf)<br/>
 International Biometric Society/ENAR meeting, Washington, DC (_Apr 2_)
 
 Programming style
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/programming_style.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/programming_style.pdf)
 <br/>
 Biostatistics training program, [Department of Biostatistics and Medical Informatics](https://www.biostat.wisc.edu), [School of Medicine and Public Health](https://www.med.wisc.edu), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Feb 29_)
 
@@ -985,34 +986,34 @@ Biostatistics training program, [Department of Biostatistics and Medical Informa
 ###  2011
 
 Salvaging a genetics project: Identifying and correcting sample mix-ups in high-dimensional data
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/washbiostat2011.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/washbiostat2011.pdf)
 <br/>
 [Department of Biostatistics](https://www.biostat.washington.edu), [University of Washington](https://www.washington.edu), Seattle (_Nov 17_)
 
 Salvaging an eQTL project: Identifying and correcting sample mix-ups
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/gmu2011.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/gmu2011.pdf)
 <br/>
 [Department of Statistics](https://statistics.gmu.edu), [George Mason University](https://www.gmu.edu), Fairvax, VA (_Sep 23_)
 
 Salvaging an eQTL project: Identifying and correcting sample mix-ups
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/groningen2011.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/groningen2011.pdf)
 <br/>
 Groningen Bioinformatics Centre, [University of Groningen](https://www.rug.nl), Groningen, The Netherlands (_Sep 8_)
 
 Identifying sample mix-ups in eQTL data
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/mousegenet2011.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/mousegenet2011.pdf)
 <br/>
 [Mouse Genetics 2011](https://web.archive.org/web/20110727095118/https://www.mousegenetics2011.org/)
 (and 10th
 Complex Trait Community meeting), Washington, DC (_Jun 23_)
 
 Mapping quantitative trait loci in mice
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/multiqtl_ireland11.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/multiqtl_ireland11.pdf)
 <br/>
 [Quantitative Biology and Bioinformatics in Modern Medicine](https://web.archive.org/web/20171217132718/https://www.qub.ac.uk/sites/QuantBio/), Dublin, Ireland (_Feb 7_)
 
 Mapping multiple QTL in experimental crosses
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/multiqtl_columbia11.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/multiqtl_columbia11.pdf)
 <br/>
 [Department of Biostatistics](https://www.publichealth.columbia.edu/academics/departments/biostatistics), [Mailman School of Public Health](https://www.publichealth.columbia.edu), [Columbia University](https://www.columbia.edu), New York, NY (_Jan 27_)
 
