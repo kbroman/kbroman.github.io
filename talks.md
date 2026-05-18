@@ -853,11 +853,11 @@ Biological Data Visualization](http://biovis.net/year/2014/about), Boston, Massa
 Genetics of extreme body size evolution in
 mice from Gough Island<br/>
 &nbsp; &nbsp; &nbsp; Slides:
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/CTC2014/ctc2014.pdf)
-[![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/CTC2014/ctc2014_withnotes.pdf)
-[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Gough)
-&nbsp; Interactive LOD curves: [![body weight](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/CTC2014/iplot_bodyweight.html)
-[![growth rate](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/CTC2014/iplot_deriv_bodyweight.html)<br/>
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_GoughMice/ctc2014.pdf)
+[![handout](icons16/notes-icon.png)](https://kbroman.org/Talk_GoughMice/ctc2014_withnotes.pdf)
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_GoughMice)
+&nbsp; Interactive LOD curves: [![body weight](icons16/html-icon.png)](https://kbroman.org/Talk_GoughMice/iplot_bodyweight.html)
+[![growth rate](icons16/html-icon.png)](https://kbroman.org/Talk_GoughMice/iplot_deriv_bodyweight.html)<br/>
 [Complex Trait Community 13th annual
 meeting](https://web.archive.org/web/20150205114128/https://www.ctc2014.org/), Berlin, Germany (_May 21_)
 
