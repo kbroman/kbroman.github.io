@@ -15,8 +15,8 @@ Data cleaning principles
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Jul 8_)
 
 Steps toward reproducible research
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr.pdf)
-[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr_withnotes.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/steps2rr.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/slides/steps2rr_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)<br/>
 [Summer Research Program in Biomedical Data Science](https://biostat.wiscweb.wisc.edu/education/summer/),
 [Department of Biostatistics & Medical Informatics](https://www.biostat.wisc.edu),
@@ -34,8 +34,8 @@ Data cleaning principles
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Jul 2_)
 
 Steps toward reproducible research
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr.pdf)
-[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr_withnotes.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/steps2rr.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/slides/steps2rr_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)<br/>
 [Summer Research Program in Biomedical Data Science](https://biostat.wiscweb.wisc.edu/education/summer/),
 [Department of Biostatistics & Medical Informatics](https://www.biostat.wisc.edu),
@@ -53,15 +53,15 @@ Data cleaning principles
 (_Oct 11_)
 
 Opportunities in biomedical data science
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/srop2023.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/srop2023.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_SROP2023)<br/>
 [Summer Research Program in Biomedical Data Science](https://biostat.wiscweb.wisc.edu/education/summer/),
 [Department of Biostatistics & Medical Informatics](https://www.biostat.wisc.edu),
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Jul 13_)
 
 Steps toward reproducible research
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr.pdf)
-[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr_withnotes.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/steps2rr.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/slides/steps2rr_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)<br/>
 [Summer Research Program in Biomedical Data Science](https://biostat.wiscweb.wisc.edu/education/summer/),
 [Department of Biostatistics & Medical Informatics](https://www.biostat.wisc.edu),
@@ -90,15 +90,15 @@ Convenings](https://btaa.org/library/big-collection/a-sequence-of-convenings),
 ### 2022
 
 Steps toward reproducible research
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr.pdf)
-[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr_withnotes.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/steps2rr.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/slides/steps2rr_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)<br/>
 [Summer Research Program in Biomedical Data Science](https://biostat.wiscweb.wisc.edu/education/summer/),
 [Department of Biostatistics & Medical Informatics](https://www.biostat.wisc.edu),
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Jun 7_)
 
 Data management
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/datamgmt2022.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/datamgmt2022.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_DataMgmt)<br/>
 [KL2 Scholars Program](https://ictr.wisc.edu/program/kl2-scholars-program/),
 [School of Medicine and Public Health](https://www.med.wisc.edu),
@@ -130,8 +130,8 @@ Generic HMM for multi-parent populations
 [Complex Trait Community meeting](https://complextrait.org/meetings/ctc-rg2021/) (_Sep 1_)
 
 Steps toward reproducible research
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr.pdf)
-[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr_withnotes.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/steps2rr.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/slides/steps2rr_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)<br/>
 [Summer Research Program in Biomedical Data Science](https://biostat.wiscweb.wisc.edu/education/summer/),
 [Department of Biostatistics & Medical Informatics](https://www.biostat.wisc.edu),
@@ -147,7 +147,7 @@ Series](https://opar.io/training/osga-webinar-series-2020.html)
 (_Jun 11_)
 
 Data management
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/datamgmt2019.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/datamgmt2019.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_DataMgmt)<br/>
 [KL2 Scholars Program](https://ictr.wisc.edu/program/kl2-scholars-program/),
 [School of Medicine and Public Health](https://www.med.wisc.edu),
@@ -168,8 +168,8 @@ Cleaning genotype data in diversity outbred mice
 _recorded just so there'd be a recording_ (_Mar 26_)
 
 Open access publishing
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/openaccess2014.pdf)
-[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/openaccess2014_withnotes.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/openaccess2014.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/slides/openaccess2014_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_OpenAccess)
 [![video](icons16/video-icon.png)](https://youtu.be/gVu0IdG3keM)<br/>
 _recorded just so there'd be a recording_ (_Mar 5_)
@@ -181,8 +181,8 @@ Creating effective figures and tables
 _recorded just so there'd be a recording_ (_Feb 26_)
 
 Steps toward reproducible research
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr.pdf)
-[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr_withnotes.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/steps2rr.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/slides/steps2rr_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)
 [![video](icons16/video-icon.png)](https://youtu.be/rNQ-RlG3JnQ)<br/>
 _recorded just so there'd be a recording_ (_Feb 19_)
@@ -197,7 +197,7 @@ Allele frequencies in sibships: a data mishap
 
 
 21 years of R/qtl: Maintaining, supporting, and sustaining scientific software
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rqtl2_pitt2021.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/rqtl2_pitt2021.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Pitt2021)<br/>
 [Department of Biomedical Informatics](https://www.dbmi.pitt.edu/), [University of Pittsburgh](https://www.pitt.edu)
 (_Jan 29_)
@@ -206,15 +206,15 @@ Allele frequencies in sibships: a data mishap
 ### 2020
 
 Steps toward reproducible research
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr.pdf)
-[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr_withnotes.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/steps2rr.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/slides/steps2rr_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)<br/>
 [Center for Quantitative Methods and Data Science](https://www.tuftsmedicine.org/research-clinical-trials/research-institutes-department-research/institute-clinical-research-health-policy-studies/research-centers/center-quantitative-methods-data-science), [Tufts Medical Center](https://www.tuftsmedicine.org)
 (_Dec 16_)
 
 Steps toward reproducible research
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr.pdf)
-[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr_withnotes.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/steps2rr.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/slides/steps2rr_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)<br/>
 Lecture to MD/PhD students, [School of Medicine and Public Health](https://www.med.wisc.edu/), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Oct 26_)
 
@@ -229,7 +229,7 @@ Breeding](https://www.canr.msu.edu/pbgb/Symposium/), [Michigan State
 University](https://msu.edu), East Lansing, Michigan (_Dec 12_)
 
 Data management
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/datamgmt2019.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/datamgmt2019.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_DataMgmt)<br/>
 [KL2 Scholars Program](https://ictr.wisc.edu/program/kl2-scholars-program/),
 [School of Medicine and Public Health](https://www.med.wisc.edu),
@@ -243,8 +243,8 @@ Bio-Data Science Training Program,
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Oct 30_)
 
 Steps toward reproducible research
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr.pdf)
-[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr_withnotes.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/steps2rr.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/slides/steps2rr_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)<br/>
 Lecture to MD/PhD students, [School of Medicine and Public Health](https://www.med.wisc.edu/), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Oct 28_)
 
@@ -278,22 +278,22 @@ QTL mapping in MAGIC populations with R/qtl2
 [NIAB Innovation Farm](https://www.innovationfarm.co.uk/), Cambridge, UK (_Jul 23_)
 
 Sample mix-ups and mixtures in microbiome data in DO mice
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ctc2019.pdf)
-[![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ctc2019_withnotes.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/ctc2019.pdf)
+[![handout](icons16/notes-icon.png)](https://kbroman.org/slides/ctc2019_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_CTC2019) <br/>
 [Complex Trait Community meeting](https://ratgenes.org/ctc2019),
 San Diego, California (_Jun 10_)
 
 Steps toward reproducible research
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rrboston2019_nonotes.pdf)
-[![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rrboston2019.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/rrboston2019_nonotes.pdf)
+[![handout](icons16/notes-icon.png)](https://kbroman.org/slides/rrboston2019.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_RRBoston2019) <br/>
 Providence/Boston Center for AIDS Research Biostatistics Core,
 Boston University, Boston, Massachusetts (_May 14_)
 
 Salvaging a genetics project: Identifying and correcting sample
 mix-ups in high-dimensional data
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/bds2019.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/bds2019.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_SampleMixups) <br/>
 Bio-Data Science Training Program,
 [Department of Biostatistics & Medical Informatics](https://biostat.wisc.edu),
@@ -301,7 +301,7 @@ Bio-Data Science Training Program,
 (_Feb 21_)
 
 Why reproducible research?
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/whyrr2019.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/whyrr2019.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_WhyRR) <br/>
 [Emerging Research Scholars
 Program](https://www.library.wisc.edu/research-support/ers-data/), [Steenbock
@@ -309,13 +309,13 @@ Library](https://www.library.wisc.edu/steenbock/), [University of Wisconsin&ndas
 (_Feb 19_)
 
 Collaborating reproducibly
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rrcollab_aaas2019_nonotes.pdf)
-[![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rrcollab_aaas2019.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/rrcollab_aaas2019_nonotes.pdf)
+[![handout](icons16/notes-icon.png)](https://kbroman.org/slides/rrcollab_aaas2019.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_AAAS2019) <br/>
 [AAAS meeting](https://meetings.aaas.org/), Washington, DC (_Feb 17_)
 
 R/qtl2: rewrite of a very old R package
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rqtl2_rstudio2019.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/rqtl2_rstudio2019.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_RStudio2019)
 [![video](icons16/video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/r-qtl2-rewrite-of-a-very-old-r-package)<br/>
 [rstudio::conf](https://web.archive.org/web/20201001095127/https://www.rstudio.com/resources/rstudioconf-2019/),
@@ -325,22 +325,22 @@ Austin, Texas (_Jan 17_)
 ###  2018
 
 Steps toward reproducible research
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/cmp2018.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/cmp2018.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_CMP2018)<br/>
 [Cellular & Molecular Pathology Graduate Program](https://cmp.wisc.edu),
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Nov 29_)
 
 
 Steps toward reproducible research
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr.pdf)
-[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr_withnotes.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/steps2rr.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/slides/steps2rr_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)<br/>
 [CIBM program](https://www.cibm.wisc.edu),
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Nov 27_)
 
 
 Creating effective figures and tables
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/graphs2018.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/graphs2018.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Graphs)
 <br/>
 Presentation in a seminar course for MD-PhD students,
@@ -355,7 +355,7 @@ Cleaning genotype data in diversity outbred mice
 
 
 Data management
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/datamgmt.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/datamgmt.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_DataMgmt)<br/>
 [KL2 Scholars Program](https://ictr.wisc.edu/program/kl2-scholars-program/),
 [School of Medicine and Public Health](https://www.med.wisc.edu),
@@ -363,8 +363,8 @@ Data management
 
 
 Steps toward reproducible research
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr.pdf)
-[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr_withnotes.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/steps2rr.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/slides/steps2rr_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)<br/>
 [Summer Research Program in Biomedical Data Science](https://biostat.wiscweb.wisc.edu/education/summer/),
 [Department of Biostatistics & Medical Informatics](https://www.biostat.wisc.edu),
@@ -380,14 +380,14 @@ Glasgow, UK (_Jun 21_)
 
 
 R/qtl2: QTL mapping in multi-parent populations
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rqtl2_purdue2018.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/rqtl2_purdue2018.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Purdue2018)<br/>
 [Purdue Symposium on Statistics](https://www.stat.purdue.edu/symp2018)
 (_Jun 7_)
 
 18 years of R/qtl: maintaining, supporting, and sustaining scientific software<br/>
 &nbsp; &nbsp; &nbsp; Slides:
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rqtl2_CSU2018.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/rqtl2_CSU2018.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_CSU2018)
 &nbsp; Interactive graph:
 [![many box plots](icons16/html-icon.png)](https://kbroman.org/d3examples/manyboxplots/)
@@ -398,8 +398,8 @@ R/qtl2: QTL mapping in multi-parent populations
 
 
 Steps toward reproducible research
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr.pdf)
-[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr_withnotes.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/steps2rr.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/slides/steps2rr_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)<br/>
 [David O'Connor's lab](https://dho.pathology.wisc.edu/)
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Mar 19_)
@@ -407,7 +407,7 @@ Steps toward reproducible research
 
 18 years of R/qtl: maintaining, supporting, and sustaining scientific software<br/>
 &nbsp; &nbsp; &nbsp; Slides:
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rqtl2_qBio2018.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/rqtl2_qBio2018.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_qBio2018)
 &nbsp; Interactive graph:
 [![many box plots](icons16/html-icon.png)](https://kbroman.org/d3examples/manyboxplots/)
@@ -419,7 +419,7 @@ University of Wisconsin&ndash;Madison (_Feb 14_)
 
 18 years of R/qtl: developing, maintaining, and supporting scientific software<br/>
 &nbsp; &nbsp; &nbsp; Slides:
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rqtl2_ucsf2018.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/rqtl2_ucsf2018.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_UCSF2018)
 &nbsp; Interactive graphs:
 [![lod curves](icons16/html-icon.png)](https://kbroman.org/Talk_SGN2017/lod_and_effect/)
@@ -434,7 +434,7 @@ University of California, San Francisco (_Feb 1_)
 
 17 years of R/qtl: maintaining, supporting, and sustaining scientific software<br/>
 &nbsp; &nbsp; &nbsp; Slides:
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rqtl2_chicago2017.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/rqtl2_chicago2017.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Chicago2017)
 &nbsp; Interactive graphs:
 [![lod curves](icons16/html-icon.png)](https://kbroman.org/Talk_SGN2017/lod_and_effect/)
@@ -443,7 +443,7 @@ University of California, San Francisco (_Feb 1_)
 University of Chicago (_Nov 17_)
 
 Creating effective figures and tables
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/graphs2017.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/graphs2017.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Graphs)
 <br/>
 Presentation in a seminar course for MD-PhD students,
@@ -451,7 +451,7 @@ Presentation in a seminar course for MD-PhD students,
 
 R/qtl2: high-dimensional data & multi-parent populations <br/>
 &nbsp; &nbsp; &nbsp; Slides:
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rqtl2_uncc2017.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/rqtl2_uncc2017.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_UNCC2017)
 &nbsp; Interactive graphs:
 [![lod curves](icons16/html-icon.png)](https://kbroman.org/Talk_SGN2017/lod_and_effect/)
@@ -488,29 +488,29 @@ mice from Gough Island<br/>
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Jul 26_)
 
 R/qtl2: high-dimensional data & multi-parent populations
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rqtl2_ctc2017.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/rqtl2_ctc2017.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Rqtl2_CTC2017)<br/>
 [Complex Trait Community meeting](https://complextrait.org/ctc_archive/ctc2017/index.html),
 Memphis, Tennessee (_Jun 14_)
 
 Steps toward reproducible research
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_BDS2017.pdf)
-[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_BDS2017_withnotes.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/repro_research_BDS2017.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/slides/repro_research_BDS2017_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)<br/>
 [Summer Research Program in Biomedical Data Science](https://biostat.wiscweb.wisc.edu/education/summer/),
 [Department of Biostatistics & Medical Informatics](https://www.biostat.wisc.edu),
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Jun 7_)
 
 Steps toward reproducible research
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_JAX2017.pdf)
-[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_JAX2017_withnotes.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/repro_research_JAX2017.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/slides/repro_research_JAX2017_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)<br/>
 (Remotely to)
 [Big Genomic Data Skills Training for Graduate Professors](https://www.jax.org/education-and-learning/education-calendar/2017/may/graduate-big-genomic-data-skills-training-for-professors#),
 Jackson Laboratory for Genomic Medicine, Farmington, CT (_May 17_)
 
 Salvaging a genetics project: Identifying and correcting sample mix-ups in high-dimensional data
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/berkeley2017.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/berkeley2017.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_SampleMixups)
 [![video](icons16/video-icon.png)](https://youtu.be/YPd0R-LPI6U)<br/>
 [Berkeley Institute for Data Science](https://bids.berkeley.edu),
@@ -519,18 +519,18 @@ Salvaging a genetics project: Identifying and correcting sample mix-ups in high-
 Complex trait genetics in mice
 <br/>
 &nbsp; &nbsp; &nbsp; Slides:
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ProspStudents2017-03/introQTL.pdf)
-[![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ProspStudents2017-03/introQTL_withnotes.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/introQTL.pdf)
+[![handout](icons16/notes-icon.png)](https://kbroman.org/slides/introQTL_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ProspStudents)
 &nbsp; Interactive graphs:
-[![LOD curve](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/D3/lod_and_effect)
-[![eQTL plot](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/D3/cistrans)<br/>
+[![LOD curve](icons16/html-icon.png)](https://kbroman.org/d3examples/lod_and_effect/)
+[![eQTL plot](icons16/html-icon.png)](https://kbroman.org/d3examples/cistrans/)<br/>
 [Biostatistics &amp; Medical Informatics](https://www.biostat.wisc.edu),
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Mar 31_)
 
 Steps toward reproducible research
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rrworkshop_2017-03.pdf)
-[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rrworkshop_2017-03_withnotes.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/rrworkshop_2017-03.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/slides/rrworkshop_2017-03_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/RR_Workshop)<br/>
 [Data Science and Plant Breeding Simulation Workshop](https://web.archive.org/web/20170712113240/https://plantsciencesymposium.umn.edu/workshop/schedule),
 University of Minnesota, St. Paul, MN (_Mar 23_)
@@ -549,14 +549,14 @@ mice from Gough Island<br/>
 [Madison East High School](https://east.madison.k12.wi.us/), Madison, WI (_Mar 9_)
 
 Dissection and fine-mapping of _trans_-eQTL hotspots
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ncsu2017.pdf)
-[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ncsu2017_withnotes.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/ncsu2017.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/slides/ncsu2017_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_TransHotspots)<br/>
 [Genetics Program](https://genetics.sciences.ncsu.edu),
 [North Carolina State University](https://ncsu.edu), Raleigh, NC (_Feb 6_)
 
 Creating effective figures and tables
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/graphs2017.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/graphs2017.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Graphs)
 <br/>
 [Department of Pathology and Laboratory Medicine](https://www.pathology.wisc.edu),
@@ -567,29 +567,29 @@ Creating effective figures and tables
 ###  2016
 
 Steps toward reproducible research
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_ASA2016.pdf)
-[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_ASA2016_withnotes.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/repro_research_ASA2016.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/slides/repro_research_ASA2016_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)
 [![video](icons16/video-icon.png)](https://magazine.amstat.org/videos/education_webinars/ReproducibleResearch.mp4)<br/>
 [Web seminar on Teaching Reproducible Research](https://web.archive.org/web/20161101000000*/https://www.amstat.org/ASA/Education/Web-Based-Lectures.aspx#TRR),
 [American Statistical Association](https://www.amstat.org) (_Nov 16_)
 
 R/qtl2: progress &amp; plans
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rqtl2.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/rqtl2.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Rqtl2)
 <br/>
 [University of Tennessee Health Science Center](https://uthsc.edu),
 Memphis, Tennessee (_Nov 9_)
 
 Creating effective figures and tables
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/graphs_MDPhD2016.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/graphs_MDPhD2016.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Graphs/tree/MDPhD2016)
 <br/>
 Presentation in a seminar course for MD-PhD students,
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Oct 26_)
 
 Creating effective figures and tables
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/graphs_CDHA2016.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/graphs_CDHA2016.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Graphs/tree/CDHA2016)
 <br/>
 [Demography Training Seminar](https://cdha.wisc.edu/training/),
@@ -597,8 +597,8 @@ Creating effective figures and tables
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Oct 5_)
 
 Dissection and fine-mapping of _trans_-eQTL hotspots
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/qrw2016.pdf)
-[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/qrw2016_withnotes.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/qrw2016.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/slides/qrw2016_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_TransHotspots)<br/>
 Genome and Gene Mapping Satellite, [Queenstown Research Week](https://web.archive.org/web/20160715184615/https://www.queenstownresearchweek.org/qmb-2016/), Nelson, New Zealand (_Sep 1_)
 
@@ -609,67 +609,67 @@ Interactive graphics for genetic data
 (_Aug 31_)
 
 Steps toward reproducible research
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_JSM2016.pdf)
-[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_JSM2016_withnotes.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/repro_research_JSM2016.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/slides/repro_research_JSM2016_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)<br/>
 [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2016/),
 Chicago, Illinois (_Aug 3_)
 
 Steps toward reproducible research
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_TAGC2016.pdf)
-[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_TAGC2016_withnotes.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/repro_research_TAGC2016.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/slides/repro_research_TAGC2016_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)
 [![video](icons16/video-icon.png)](https://www.youtube.com/watch?v=u-ZgiYjJ4lA)<br/>
 [The Allied Genetics Conference](https://web.archive.org/web/20170616150559/https://www.genetics2016.org/),
 Orlando, Florida (_Jul 16_)
 
 R/qtl: Just barely sustainable
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/UseR2016.pdf)
-[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/UseR2016_withnotes.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/UseR2016.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/slides/UseR2016_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_UseR2016)
 [![video](icons16/video-icon.png)](https://sec.ch9.ms/ch9/4472/abfcaf43-a51b-4041-a5fb-71eff9514472/D1LYONS3Broman_mid.mp4)<br/>
 [UseR 2016 Conference](https://web.archive.org/web/20161002194359/https://user2016.org), Palo Alto, California
 (_Jun 28_)
 
 Big data in genetics (_10 min session introduction_)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/icqg2016.pdf)
-[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/icqg2016_withnotes.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/icqg2016.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/slides/icqg2016_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ICQG2016)<br/>
 International Conference on Quantitative Genetics,
 Madison, Wisconsin (_Jun 16_)
 
 Steps toward reproducible research
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_CBB2016.pdf)
-[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_CBB2016_withnotes.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/repro_research_CBB2016.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/slides/repro_research_CBB2016_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)<br/>
 [Computational Biology and Biostatistics Summer Research Program](https://www.biostat.wisc.edu/content/computational-biology-and-biostatistics-summer-research-program-cbb),
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Jun 7_)
 
 Steps toward reproducible research
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_ComBEE2016.pdf)
-[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_ComBEE2016_withnotes.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/repro_research_ComBEE2016.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/slides/repro_research_ComBEE2016_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)<br/>
 [Computational Biology, Ecology & Evolution](https://sites.google.com/a/wisc.edu/combee/),
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_May 25_)
 
 Dissection and fine-mapping of _trans_-eQTL hotspots
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/cornell2016.pdf)
-[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/cornell2016_withnotes.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/cornell2016.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/slides/cornell2016_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_TransHotspots)<br/>
 [Department of Biological Statistics and Computational Biology](https://bscb.cornell.edu),
 [Cornell University](https://www.cornell.edu/) (_Apr 18_)
 
 Steps toward reproducible research
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_UMass2016.pdf)
-[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_UMass2016_withnotes.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/repro_research_UMass2016.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/slides/repro_research_UMass2016_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)
 [![video](icons16/video-icon.png)](https://www.youtube.com/watch?v=L4Qs0F7bLYY&t=460s)<br/>
 [Graduate Researchers interested in Data (GRiD)](https://web.archive.org/web/20161003072206/https://gridclub.io/),
 [UMass Amherst](https://www.umass.edu/) (_Apr 11_)
 
 Steps toward reproducible research
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_ChicagoASA2016.pdf)
-[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_ChicagoASA2016_withnotes.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/repro_research_ChicagoASA2016.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/slides/repro_research_ChicagoASA2016_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)<br/>
 [Chicago Chapter ASA](https://community.amstat.org/chicagochapter/home)
 Conference on [Learning Tools to Promote Reproducible Research and Open
