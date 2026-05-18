@@ -869,9 +869,8 @@ Creating effective figures and tables
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_May 16_)
 
 QTL mapping for phenotypes measured over time
-[![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/FunQTL)
+[![html](icons16/html-icon.png)](https://kbroman.org/Talk_FunQTL)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_FunQTL)
-[![tgz](icons16/tgz-icon.png)](https://www.biostat.wisc.edu/~kbroman/FunQTL.tgz)
 <br/>
 [Danforth Plant Science
 Center](https://www.danforthcenter.org/), St. Louis, Missouri (_Feb 19_)
@@ -930,9 +929,8 @@ Why aren&rsquo;t all of our graphs interactive?  [![html](icons16/html-icon.png)
 Biostatistics training program, [Department of Biostatistics and Medical Informatics](https://www.biostat.wisc.edu), [School of Medicine and Public Health](https://www.med.wisc.edu), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Apr 8_)
 
 QTL mapping for phenotypes measured over time
-[![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/FunQTL)
+[![html](icons16/html-icon.png)](https://kbroman.org/Talk_FunQTL)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_FunQTL)
-[![tgz](icons16/tgz-icon.png)](https://www.biostat.wisc.edu/~kbroman/FunQTL.tgz)
 <br/>
 Plant Breeding Symposium, [Department of Agronomy](https://www.agronomy.k-state.edu/), [Kansas State University](https://www.k-state.edu), Manhattan, KS (_Apr 2_)
 
