@@ -1313,14 +1313,14 @@ Biostatistics](https://www.biostat.washington.edu), [University of Washington](h
 ###  2005
 
 The genomes of recombinant inbred lines
-[![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/oz05.ppt)
-[![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/oz05_ho.pdf)
+[![ppt](icons16/ppt-icon.png)](https://kbroman.org/slides/oz05.ppt)
+[![handout](icons16/notes-icon.png)](https://kbroman.org/slides/oz05_ho.pdf)
 <br/>
 [Fifth Australasian human gene mapping conference](https://web.archive.org/web/20080820021238/https://bioinf.wehi.edu.au/folders/melanie/genemappers/index.htm), Mt. Buller, Australia (_Nov 23_)
 
 What is regression?
-[![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/regression.ppt)
-[![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/regression_ho.pdf)
+[![ppt](icons16/ppt-icon.png)](https://kbroman.org/slides/regression.ppt)
+[![handout](icons16/notes-icon.png)](https://kbroman.org/slides/regression_ho.pdf)
 <br/>
 Part of the "[Everything you ever wanted to know about
 Biostatistics but were afraid to ask](https://web.archive.org/web/20250329040324/https://www.biostat.jhsph.edu/newsEvent/event/lectureSeries/lecture2005-06.php)" lecture series<br/>
@@ -1329,16 +1329,16 @@ Biostatistics](https://publichealth.jhu.edu/departments/biostatistics), [Johns H
 Bloomberg School of Public Health](https://publichealth.jhu.edu), Baltimore, MD (_Oct 21_)
 
 The genomes of recombinant inbred lines
-[![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ucdavis05.ppt)
-[![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ucdavis05_ho.pdf)
+[![ppt](icons16/ppt-icon.png)](https://kbroman.org/slides/ucdavis05.ppt)
+[![handout](icons16/notes-icon.png)](https://kbroman.org/slides/ucdavis05_ho.pdf)
 <br/>
 [Department of
 Statistics](https://statistics.ucdavis.edu), [University of
 California, Davis](https://www.ucdavis.edu) (_Sep 29_)
 
 Super computing for &ldquo;classical&rdquo; genetics
-[![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/genomecafe.ppt)
-[![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/genomecafe_ho.pdf)
+[![ppt](icons16/ppt-icon.png)](https://kbroman.org/slides/genomecafe.ppt)
+[![handout](icons16/notes-icon.png)](https://kbroman.org/slides/genomecafe_ho.pdf)
 <br/>
 [Genome Cafe](https://web.archive.org/web/20150217051402/https://www.biostat.jhsph.edu/GenomeCAFE)
 Grand Opening, [Department of
@@ -1347,36 +1347,36 @@ of Public Health](https://publichealth.jhu.edu), [Johns Hopkins
 University](https://www.jhu.edu), Baltimore, MD (_Sep 14_)
 
 The genomes of recombinant inbred lines
-[![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/upenn05.ppt)
-[![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/upenn05_ho.pdf)
+[![ppt](icons16/ppt-icon.png)](https://kbroman.org/slides/upenn05.ppt)
+[![handout](icons16/notes-icon.png)](https://kbroman.org/slides/upenn05_ho.pdf)
 <br/>
 [Department of Genetics](https://genetics.med.upenn.edu), [School of
 Medicine](https://www.med.upenn.edu), [University of
 Pennsylvania](https://www.upenn.edu), Philadelphia, PA (_Sep 12_)
 
 The genomes of recombinant inbred lines
-[![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/csps05.ppt)
-[![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/csps05_ho.pdf)
+[![ppt](icons16/ppt-icon.png)](https://kbroman.org/slides/csps05.ppt)
+[![handout](icons16/notes-icon.png)](https://kbroman.org/slides/csps05_ho.pdf)
 <br/>
 [Joint
 Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2005/), Minneapolis, MN (_Aug 11_)
 
 The genomes of recombinant inbred lines
-[![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/csps05.ppt)
-[![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/csps05_ho.pdf)
+[![ppt](icons16/ppt-icon.png)](https://kbroman.org/slides/csps05.ppt)
+[![handout](icons16/notes-icon.png)](https://kbroman.org/slides/csps05_ho.pdf)
 <br/>
 [CSPS/IMS Joint meeting](https://web.archive.org/web/20151005123315/https://math.bnu.edu.cn/statprob/CSPS-IMS2005/index.html), Beijing, China (_Jul 10_)
 
 The genomes of recombinant inbred lines
-[![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/umbc05.ppt)
-[![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/umbc05_ho.pdf)
+[![ppt](icons16/ppt-icon.png)](https://kbroman.org/slides/umbc05.ppt)
+[![handout](icons16/notes-icon.png)](https://kbroman.org/slides/umbc05_ho.pdf)
 <br/>
 [Department of Mathematics and Statistics](https://mathstat.umbc.edu),
 [University of Maryland, Baltimore County](https://umbc.edu), Baltimore, MD (_Apr 8_)
 
 Understanding human disease via randomized mice
-[![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/epi05.ppt)
-[![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/epi05_ho.pdf)
+[![ppt](icons16/ppt-icon.png)](https://kbroman.org/slides/epi05.ppt)
+[![handout](icons16/notes-icon.png)](https://kbroman.org/slides/epi05_ho.pdf)
 <br/>
 [Department of
 Epidemiology](https://publichealth.jhu.edu/departments/epidemiology), [Johns Hopkins
@@ -1384,15 +1384,15 @@ Bloomberg School of Public Health](https://publichealth.jhu.edu/), Baltimore, MD
 
 Principles of experimental design and sample
 size determination for animal-based research
-[![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/acuc.ppt)
-[![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/acuc_ho.pdf)
+[![ppt](icons16/ppt-icon.png)](https://kbroman.org/slides/acuc.ppt)
+[![handout](icons16/notes-icon.png)](https://kbroman.org/slides/acuc_ho.pdf)
 <br/>
 [Johns Hopkins University Animal Care
 and Use Committee](https://animalcare.jhu.edu) seminar (_Feb 24_)
 
 The genomes of recombinant inbred lines
-[![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/prosp_students05.ppt)
-[![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/prosp_students05.pdf)
+[![ppt](icons16/ppt-icon.png)](https://kbroman.org/slides/prosp_students05.ppt)
+[![handout](icons16/notes-icon.png)](https://kbroman.org/slides/prosp_students05.pdf)
 <br/>
 (for prospective graduate students)<br/>
 [Department of
@@ -1400,15 +1400,15 @@ Biostatistics](https://publichealth.jhu.edu/departments/biostatistics), [Johns H
 Bloomberg School of Public Health](https://publichealth.jhu.edu), Baltimore, MD (_Feb 11_)
 
 The genetic dissection of complex traits
-[![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/martina_defense.ppt)
-[![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/martina_defense.pdf)
+[![ppt](icons16/ppt-icon.png)](https://kbroman.org/slides/martina_defense.ppt)
+[![handout](icons16/notes-icon.png)](https://kbroman.org/slides/martina_defense.pdf)
 <br/>
 (Introduction for the Martina Johannesson's dissertation defense)<br/>
 Section for Medical Inflammation Research, Department of Cell and Molecular Biology, [Lund University](https://www.lunduniversity.lu.se/), Lund, Sweden (_Jan 28_)
 
 The genomes of recombinant inbred lines
-[![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/lund05.ppt)
-[![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/lund05.pdf)
+[![ppt](icons16/ppt-icon.png)](https://kbroman.org/slides/lund05.ppt)
+[![handout](icons16/notes-icon.png)](https://kbroman.org/slides/lund05.pdf)
 <br/>
 Section for Medical Inflammation Research, Department of Cell and Molecular Biology, [Lund University](https://www.lunduniversity.lu.se/), Lund, Sweden (_Jan 27_)
 
@@ -1619,10 +1619,10 @@ _M. tuberculosis_ by random transposon mutagenesis
 Meiosis, recombination, and
 interference
 [![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/meiosis_nz.pdf)
-[![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/meiosis_nz_handout.pdf)<br/>
+[![handout](icons16/notes-icon.png)](https://kbroman.org/slides/meiosis_nz_handout.pdf)<br/>
 QTL mapping in mice
 [![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/qtl_nz.pdf)
-[![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/qtl_nz_handout.pdf)<br/>
+[![handout](icons16/notes-icon.png)](https://kbroman.org/slides/qtl_nz_handout.pdf)<br/>
 [Mathematics
 Workshop](https://web.archive.org/web/20030222010956/https://www.mcs.vuw.ac.nz/~mathmeet/newplymouth/index.shtml)
 in New Plymouth, New Zealand (_Jan 10-11_)
