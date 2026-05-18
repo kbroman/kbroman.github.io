@@ -538,14 +538,14 @@ University of Minnesota, St. Paul, MN (_Mar 23_)
 Genetics of extreme body size evolution in
 mice from Gough Island<br/>
 &nbsp; &nbsp; &nbsp; Slides:
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/APStats2017/apstats2017.pdf)
-[![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/APStats2017/apstats2017_withnotes.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_APStats2017/apstats2017.pdf)
+[![handout](icons16/notes-icon.png)](https://kbroman.org/Talk_APStats2017/apstats2017_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_APStats)
 &nbsp; Interactive graphs:
-[![body weight at 5 weeks](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/APStats2017/lod_and_effect)
-[![permutation test](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/APStats2017/perm_test)
-[![body weight](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/APStats2017/iplot_bodyweight.html)
-[![growth rate](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/APStats2017/iplot_deriv_bodyweight.html)<br/>
+[![body weight at 5 weeks](icons16/html-icon.png)](https://kbroman.org/Talk_APStats2017/lod_and_effect/)
+[![permutation test](icons16/html-icon.png)](https://kbroman.org/Talk_APStats2017/perm_test/)
+[![body weight](icons16/html-icon.png)](https://kbroman.org/Talk_APStats2017/iplot_bodyweight.html)
+[![growth rate](icons16/html-icon.png)](du/~kbr.orgoTalk_presentations/APStats2017/iplot_deriv_bodyweight.html)<br/>
 [Madison East High School](https://east.madison.k12.wi.us/), Madison, WI (_Mar 9_)
 
 Dissection and fine-mapping of _trans_-eQTL hotspots
