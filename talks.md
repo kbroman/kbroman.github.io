@@ -603,7 +603,7 @@ Dissection and fine-mapping of _trans_-eQTL hotspots
 Genome and Gene Mapping Satellite, [Queenstown Research Week](https://web.archive.org/web/20160715184615/https://www.queenstownresearchweek.org/qmb-2016/), Nelson, New Zealand (_Sep 1_)
 
 Interactive graphics for genetic data
-[![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/NZ2016)
+[![html](icons16/html-icon.png)](https://kbroman.org/Talk_NZ2016/)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_NZ2016)<br/>
 [Department of Statistics](https://www.stat.auckland.ac.nz), University of Auckland, New Zealand
 (_Aug 31_)
