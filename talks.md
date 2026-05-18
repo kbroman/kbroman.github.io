@@ -475,14 +475,14 @@ Frauenchiemsee, Germany (_Aug 27_)
 Genetics of extreme body size evolution in
 mice from Gough Island<br/>
 &nbsp; &nbsp; &nbsp; Slides:
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/BDS2017-07/bds2017-07.pdf)
-[![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/BDS2017-07/bds2017-07_withnotes.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_BDS2017-07/bds2017-07.pdf)
+[![handout](icons16/notes-icon.png)](https://kbroman.org/Talk_BDS2017-07/bds2017-07_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_BDS2017-07)
 &nbsp; Interactive graphs:
-[![body weight at 5 weeks](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/BDS2017-07/lod_and_effect)
-[![permutation test](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/BDS2017-07/perm_test)
-[![body weight](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/BDS2017-07/iplot_bodyweight.html)
-[![growth rate](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/BDS2017-07/iplot_deriv_bodyweight.html)<br/>
+[![body weight at 5 weeks](icons16/html-icon.png)](https://kbroman.org/Talk_BDS2017-07/lod_and_effect/)
+[![permutation test](icons16/html-icon.png)](https://kbroman.org/Talk_BDS2017-07/perm_test/)
+[![body weight](icons16/html-icon.png)](https://kbroman.org/Talk_BDS2017-07/iplot_bodyweight.html)
+[![growth rate](icons16/html-icon.png)](https://kbroman.org/Talk_BDS2017-07/iplot_deriv_bodyweight.html)<br/>
 [Summer Research Program in Biomedical Data Science](https://biostat.wiscweb.wisc.edu/education/summer/),
 [Department of Biostatistics & Medical Informatics](https://www.biostat.wisc.edu),
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Jul 26_)
