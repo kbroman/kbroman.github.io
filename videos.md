@@ -68,8 +68,8 @@ Cleaning genotype data in diversity outbred mice
 _recorded just so there'd be a recording_ (_Mar 26_)
 
 Open access publishing
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/openaccess2014.pdf)
-[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/openaccess2014_withnotes.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/openaccess2014.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/slides/openaccess2014_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_OpenAccess)
 [![video](icons16/video-icon.png)](https://youtu.be/gVu0IdG3keM)<br/>
 _recorded just so there'd be a recording_ (_Mar 5_)
@@ -81,8 +81,8 @@ Creating effective figures and tables
 _recorded just so there'd be a recording_ (_Feb 26_)
 
 Steps toward reproducible research
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr.pdf)
-[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr_withnotes.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/steps2rr.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/slides/steps2rr_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)
 [![video](icons16/video-icon.png)](https://youtu.be/rNQ-RlG3JnQ)<br/>
 _recorded just so there'd be a recording_ (_Feb 19_)
@@ -99,7 +99,7 @@ Allele frequencies in sibships: a data mishap
 ### 2019
 
 R/qtl2: rewrite of a very old R package
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/rqtl2_rstudio2019.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/rqtl2_rstudio2019.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_RStudio2019)
 [![video](icons16/video-icon.png)](https://resources.rstudio.com/rstudio-conf-2019/r-qtl2-rewrite-of-a-very-old-r-package)<br/>
 [rstudio::conf](https://www.rstudio.com/resources/rstudioconf-2019/),
@@ -109,7 +109,7 @@ Austin, Texas (_Jan 17_)
 ###  2017
 
 Salvaging a genetics project: Identifying and correcting sample mix-ups in high-dimensional data
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/berkeley2017.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/berkeley2017.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_SampleMixups)
 [![video](icons16/video-icon.png)](https://youtu.be/YPd0R-LPI6U)<br/>
 [Berkeley Institute for Data Science](https://bids.berkeley.edu),
@@ -118,32 +118,32 @@ Salvaging a genetics project: Identifying and correcting sample mix-ups in high-
 ###  2016
 
 Steps toward reproducible research
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_ASA2016.pdf)
-[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_ASA2016_withnotes.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/repro_research_ASA2016.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/slides/repro_research_ASA2016_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)
 [![video](icons16/video-icon.png)](https://magazine.amstat.org/videos/education_webinars/ReproducibleResearch.mp4)<br/>
 [Web seminar on Teaching Reproducible Research](https://www.amstat.org/ASA/Education/Web-Based-Lectures.aspx#TRR),
 [American Statistical Association](https://www.amstat.org) (_Nov 16_)
 
 Steps toward reproducible research
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_TAGC2016.pdf)
-[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_TAGC2016_withnotes.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/repro_research_TAGC2016.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/slides/repro_research_TAGC2016_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)
 [![video](icons16/video-icon.png)](https://www.youtube.com/watch?v=u-ZgiYjJ4lA)<br/>
 [The Allied Genetics Conference](http://www.genetics2016.org/),
 Orlando, Florida (_Jul 16_)
 
 R/qtl: Just barely sustainable
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/UseR2016.pdf)
-[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/UseR2016_withnotes.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/UseR2016.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/slides/UseR2016_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_UseR2016)
 [![video](icons16/video-icon.png)](https://sec.ch9.ms/ch9/4472/abfcaf43-a51b-4041-a5fb-71eff9514472/D1LYONS3Broman_mid.mp4)<br/>
 [UseR 2016 Conference](http://user2016.org), Palo Alto, California
 (_Jun 28_)
 
 Steps toward reproducible research
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_UMass2016.pdf)
-[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_UMass2016_withnotes.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/repro_research_UMass2016.pdf)
+[![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/slides/repro_research_UMass2016_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)
 [![video](icons16/video-icon.png)](https://www.youtube.com/watch?v=L4Qs0F7bLYY&t=460s)<br/>
 [Graduate Researchers interested in Data (GRiD)](http://gridclub.io),
