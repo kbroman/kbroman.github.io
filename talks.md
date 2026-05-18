@@ -1169,85 +1169,85 @@ How to display data badly
 ###  2007
 
 Mapping multiple QTL in experimental crosses
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/uchicago07.pdf)
-[![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/uchicago07_bw-2x2.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/uchicago07.pdf)
+[![handout](icons16/notes-icon.png)](https://kbroman.org/slides/uchicago07_bw-2x2.pdf)
 <br/>[Department of Human Genetics](https://genes.uchicago.edu), [University of Chicago](https://www.uchicago.edu) (_Dec 5_)
 
 Mapping multiple QTL in experimental crosses
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/hopkins07.pdf)
-[![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/hopkins07_bw-2x2.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/hopkins07.pdf)
+[![handout](icons16/notes-icon.png)](https://kbroman.org/slides/hopkins07_bw-2x2.pdf)
 <br/>[Department of Biostatistics](https://publichealth.jhu.edu/departments/biostatistics), [Johns Hopkins Bloomberg School of Public Health](https://publichealth.jhu.edu/), Baltimore, MD (_Nov 28_)
 
 Mapping multiple QTL in experimental crosses
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/stolaf07.pdf)
-[![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/stolaf07_bw-2x2.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/stolaf07.pdf)
+[![handout](icons16/notes-icon.png)](https://kbroman.org/slides/stolaf07_bw-2x2.pdf)
 <br/>[Statistics Program](https://wp.stolaf.edu/statistics/), [St. Olaf College](https://stolaf.edu), Northfield, MN (_Nov 6_)
 
 How to display data badly
-[![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/graphs_stolaf07.ppt)
+[![ppt](icons16/ppt-icon.png)](https://kbroman.org/slides/graphs_stolaf07.ppt)
 <br/>[Center for Interdisciplinary Research](https://wp.stolaf.edu/cir), [St. Olaf College](https://www.stolaf.edu), Northfield, MN (_Nov 5_)
 
 Crossover interference and the sex difference in recombination
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/geneticsRetreat07.pdf)
-[![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/geneticsRetreat07_bw-2x2.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/geneticsRetreat07.pdf)
+[![handout](icons16/notes-icon.png)](https://kbroman.org/slides/geneticsRetreat07_bw-2x2.pdf)
 <br/>
 Annual Retreat, [Laboratory of Genetics](https:/genetics.wisc.edu),
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Oct 5_)
 
 Mapping multiple QTL in experimental crosses
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/niu07b.pdf)
-[![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/niu07b_bw-2x2.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/niu07b.pdf)
+[![handout](icons16/notes-icon.png)](https://kbroman.org/slides/niu07b_bw-2x2.pdf)
 <br/>
 Division of Statistics,
 [Department of Mathematical Sciences](https://math.niu.edu/math),
 [Northern Illinois University](https://www.niu.edu), DeKalb, IL (_Sep 11_)
 
 The genomes of recombinant inbred lines
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/niu07a.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/niu07a.pdf)
 <br/>
 Division of Statistics,
 [Department of Mathematical Sciences](https://math.niu.edu/math),
 [Northern Illinois University](https://www.niu.edu), DeKalb, IL (_Sep 10_)
 
 Mapping multiple QTL in experimental crosses
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/wisc07.pdf)
-[![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/wisc07_bw-2x2.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/wisc07.pdf)
+[![handout](icons16/notes-icon.png)](https://kbroman.org/slides/wisc07_bw-2x2.pdf)
 <br/>
 [Department of
 Biostatistics and Medical Informatics](https://www.biostat.wisc.edu), [University of
 Wisconsin&ndash;Madison](https://www.wisc.edu) (_Mar 22_)
 
 The genomes of recombinant inbred lines
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/la07.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/la07.pdf)
 <br/>
 [Department of
 Human Genetics](https://medschool.ucla.edu/departments/human-genetics), [University of
 California, Los Angeles](https://www.ucla.edu) (_Mar 5_)
 
 The genomes of recombinant inbred lines
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/berkeley07.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/berkeley07.pdf)
 <br/>
 [Department of
 Statistics](https://statistics.berkeley.edu), [University of
 California, Berkeley](https://www.berkeley.edu) (_Feb 27_)
 
 The genomes of recombinant inbred lines
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/berkeley07.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/berkeley07.pdf)
 <br/>
 [The Jackson Laboratory](https://www.jax.org), Bar
 Harbor, Maine (_Feb 22_)
 
 Mapping multiple QTL in experimental crosses
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/mich07.pdf)
-[![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/mich07_bw-2x2.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/mich07.pdf)
+[![handout](icons16/notes-icon.png)](https://kbroman.org/slides/mich07_bw-2x2.pdf)
 <br/>
 [Department of
 Biostatistics](https://sph.umich.edu/biostat/), [University of
 Michigan](https://umich.edu), Ann Arbor (_Feb 15_)
 
 QTL mapping in humans
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/humanqtl.pdf)
-[![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/humanqtl_1x2.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/humanqtl.pdf)
+[![handout](icons16/notes-icon.png)](https://kbroman.org/slides/humanqtl_1x2.pdf)
 <br/>
 Systems Medicine Workshop, NHLBI, Bethesda, MD (_Jan 31_)
 
@@ -1257,18 +1257,18 @@ Systems Medicine Workshop, NHLBI, Bethesda, MD (_Jan 31_)
 ###  2006
 
 The genomes of recombinant inbred lines
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/hopkins_igm06.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/hopkins_igm06.pdf)
 <br/>
 [McKusick-Nathans Institute of Genetic Medicine](https://www.hopkinsmedicine.org/geneticmedicine/), [School of Medicine](https://www.hopkinsmedicine.org), Johns Hopkins University, Baltimore, MD (_Nov 9_)
 
 The X chromosome in QTL mapping: What a pain in the @$$!
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/xchr.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/xchr.pdf)
 <br/>
 [Hopkins Expressionists](https://web.archive.org/web/20150217051402/https://www.biostat.jhsph.edu/GenomeCAFE/ExpressionistSchedule.html) (_Nov 1_)
 
 The genomes of recombinant inbred lines
-[![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/michigan06.ppt)
-[![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/michigan06_handout.pdf)
+[![ppt](icons16/ppt-icon.png)](https://kbroman.org/slides/michigan06.ppt)
+[![handout](icons16/notes-icon.png)](https://kbroman.org/slides/michigan06_handout.pdf)
 <br/>
 [Department of
 Biostatistics](https://sph.umich.edu/biostat/), [University of
@@ -1276,21 +1276,21 @@ Michigan](https://umich.edu), Ann Arbor (_Oct 19_)
 
 Poor performance of bootstrap confidence
 intervals for QTL location
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/qtlboot.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/qtlboot.pdf)
 <br/>
 [Complex Trait
 Consortium](https://www.complextrait.org) [5th annual meeting](https://web.archive.org/web/20220122150244/https://www.complextrait.org/meetings/ctc06.php), Chapel Hill, North Carolina (_May 7_)
 
 The genomes of recombinant inbred lines
-[![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/wisc06.ppt)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/wisc06_ho.pdf)
+[![ppt](icons16/ppt-icon.png)](https://kbroman.org/slides/wisc06.ppt)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/wisc06_ho.pdf)
 <br/>
 [Genetics](https://genetics.wisc.edu), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Apr 5_)
 
 Principles of experimental design and sample
 size determination for animal-based research
-[![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/acuc.ppt)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/acuc_ho.pdf)
+[![ppt](icons16/ppt-icon.png)](https://kbroman.org/slides/acuc.ppt)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/acuc_ho.pdf)
 <br/>
 [Johns Hopkins University Animal Care
 and Use Committee](https://www.jhu.edu/animalcare) seminar (_Feb 23_)
@@ -1301,8 +1301,8 @@ in experimental crosses
 [Hopkins Expressionists](https://web.archive.org/web/20150217051402/https://www.biostat.jhsph.edu/GenomeCAFE/ExpressionistSchedule.html) (_Feb 15_)
 
 The genomes of recombinant inbred lines
-[![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/seattle06.ppt)
-[![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/seattle06_ho.pdf)
+[![ppt](icons16/ppt-icon.png)](https://kbroman.org/slides/seattle06.ppt)
+[![handout](icons16/notes-icon.png)](https://kbroman.org/slides/seattle06_ho.pdf)
 <br/>
 [Department of
 Biostatistics](https://www.biostat.washington.edu), [University of Washington](https://www.washington.edu), Seattle (_Jan 12_)
