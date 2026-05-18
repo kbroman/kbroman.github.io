@@ -255,14 +255,14 @@ Opportunities in biomedical data science
 
 Genetics of extreme body size evolution in mice from Gough Island<br/>
 &nbsp; &nbsp; &nbsp; Slides:
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/StOlaf2019/stolaf2019.pdf)
-[![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/StOlaf2019/stolaf2019_withnotes.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_StOlaf2019/stolaf2019.pdf)
+[![handout](icons16/notes-icon.png)](https://kbroman.org/Talk_StOlaf2019/stolaf2019_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_StOlaf2019)
 &nbsp; Interactive graphs:
-[![body weight at 5 weeks](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/StOlaf2019/lod_and_effect)
-[![permutation test](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/StOlaf2019/perm_test)
-[![body weight](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/StOlaf2019/iplot_bodyweight.html)
-[![growth rate](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/StOlaf2019/iplot_deriv_bodyweight.html)<br/>
+[![body weight at 5 weeks](icons16/html-icon.png)](https://kbroman.org/Talk_StOlaf2019/lod_and_effect/)
+[![permutation test](icons16/html-icon.png)](https://kbroman.org/Talk_StOlaf2019/perm_test/)
+[![body weight](icons16/html-icon.png)](https://kbroman.org/Talk_StOlaf2019/iplot_bodyweight.html)
+[![growth rate](icons16/html-icon.png)](https://kbroman.org/Talk_StOlaf2019/iplot_deriv_bodyweight.html)<br/>
 [St Olaf College](https://stolaf.edu), Northfield, Minnesota (_Sep 30_)
 
 Why Javascript?
