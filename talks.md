@@ -175,7 +175,7 @@ Open access publishing
 _recorded just so there'd be a recording_ (_Mar 5_)
 
 Creating effective figures and tables
-[![pdf](icons16/pdf-icon.png)](https://bit.ly/graphs2018)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/graphs2018.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_Graphs)
 [![video](icons16/video-icon.png)](https://youtu.be/Ssso_5X1UPs)<br/>
 _recorded just so there'd be a recording_ (_Feb 26_)
