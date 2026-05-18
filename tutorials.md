@@ -16,10 +16,10 @@ description: Karl Broman's tutorials
 
 ---
 
-- [intro to R](https://www.biostat.wisc.edu/~kbroman/Rintro)
+- [intro to R](https://kbroman.org/Rintro)
   \[not really a tutorial, but there are some useful links here\]
-- [intro to Perl](https://www.biostat.wisc.edu/~kbroman/perlintro)
+- [intro to Perl](https://kbroman.org/perlintro)
   \[very old; I now recommend [ruby](https://www.ruby-lang.org/en/) or [python](https://www.python.org/)\]
-- [intro to C](https://www.biostat.wisc.edu/~kbroman/Cintro)
+- [intro to C](https://kbroman.org/Cintro)
   \[not really a tutorial, but it includes a list of C programming books\]
-- [top ten worst graphs](https://www.biostat.wisc.edu/~kbroman/topten_worstgraphs/)
+- [top ten worst graphs](https://kbroman.org/topten_worstgraphs/)
