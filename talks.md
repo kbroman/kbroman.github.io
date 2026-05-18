@@ -725,7 +725,7 @@ Presentation in a seminar course for MD-PhD students,
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Oct 28_)
 
 Interactive graphics for genetic data
-[![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/BMI2015)
+[![html](icons16/html-icon.png)](https://kbroman.org/Talk_BMI2015/)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_BMI2015)<br/>
 [Department of Biostatistics and Medical Informatics](https://www.biostat.wisc.edu),
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Oct 16_)
