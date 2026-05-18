@@ -686,7 +686,7 @@ Interactive graphics for genetic data
 ###  2015
 
 Interactive graphics for genetic data
-[![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ChiASA2015)
+[![html](icons16/html-icon.png)](https://kbroman.org/Talk_ChiASA2015/)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ChiASA2015)<br/>
 [Chicago Chapter of the American Statistical Association](https://community.amstat.org/chicagochapter), Chicago,
 Illinois (_Dec 15_)
