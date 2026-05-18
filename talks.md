@@ -737,7 +737,7 @@ The genetic analysis of high-throughput phenotypes
 [Texas A&amp;M](https://www.tamu.edu/), College Station, Texas (_Sep 1_)
 
 Interactive graphics for high-dimensional genetic data
-[![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/JSM2015)
+[![html](icons16/html-icon.png)](https://kbroman.org/Talk_JSM2015/)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_JSM2015)<br/>
 [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2015/),
 Seattle, Washington (_Aug 10_)
