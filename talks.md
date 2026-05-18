@@ -845,7 +845,7 @@ How to display data badly
 
 Interactive graphics for
 high-dimensional genetic data
-[![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/BioVis)
+[![html](icons16/html-icon.png)](https://kbroman.org/Talk_BioVis/)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_BioVis)<br/>
 [4th Symposium on
 Biological Data Visualization](http://biovis.net/year/2014/about), Boston, Massachusetts (_Jul 12_)
