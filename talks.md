@@ -810,7 +810,7 @@ San Jose, CA (_Feb 13_)
 ###  2014
 
 Interactive graphics for teaching
-[![html](icons16/html-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/iGraphs4Teaching)
+[![html](icons16/html-icon.png)](https://kbroman.org/Talk_iGraphs4Teaching/)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_iGraphs4Teaching)<br/>
 [Delta Program](https://grad.wisc.edu/delta)
 Round Table,
