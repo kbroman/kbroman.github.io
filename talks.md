@@ -1022,47 +1022,47 @@ Mapping multiple QTL in experimental crosses
 ###  2010
 
 Mapping multiple QTL in experimental crosses
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/multiqtl_poland10.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/multiqtl_poland10.pdf)
 <br/>
 [Wroc&#322;aw University of Technology](https://pwr.edu.pl/en), Wroc&#322;aw, Poland (_May 21_)
 
 Genetic maps: Past, present and future
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/geneticmaps_poland10.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/geneticmaps_poland10.pdf)
 <br/>
 [Wroc&#322;aw University of Environmental and Life Sciences](https://upwr.edu.pl/en/), Wroc&#322;aw, Poland (_May 20_)
 
 The genetic dissection of complex traits in model organisms
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/qtlmas10.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/qtlmas10.pdf)
 <br/>
 [14th QTL-MAS Workshop](https://jay.up.poznan.pl/qtlmas2010/), Pozna&#324;, Poland (_May 17_)
 
 Mapping QTL to a phylogenetic tree
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ctc2010.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/ctc2010.pdf)
 <br/>
 [9th annual meeting](https://web.archive.org/web/20120620015207/https://www.ctc2010.org/) of the [Complex Trait Consortium](https://www.complextrait.org), Chicago, IL (_May 10_)
 
 How to give a scientific presentation
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/giving_talks.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/giving_talks.pdf)
 <br/>
 Biostatistics training program, [Department of Biostatistics and Medical Informatics](https://www.biostat.wisc.edu), [School of Medicine and Public Health](https://www.med.wisc.edu), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Apr 5_)
 
 Mapping QTL to a phylogenetic tree
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/michstate10.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/michstate10.pdf)
 <br/>
 [Edge Seminar series](https://web.archive.org/web/20100508013555/https://pa.msu.edu/seminars/edge/), [Quantitative Biology and Modeling Initiative Program](https://web.archive.org/web/20101012173427/https://biomodel.msu.edu/), [Michigan State University](https://www.msu.edu), East Lansing, MI (_Apr 2_)
 
 Mapping QTL to a phylogenetic tree
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/vanderbilt10.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/vanderbilt10.pdf)
 <br/>
 Integrative Genomics Seminar Series, [Vanderbilt University](https://www.vanderbilt.edu), Nashville, TN (_Mar 9_)
 
 Mapping QTL to a phylogenetic tree
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/uwevolution10.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/uwevolution10.pdf)
 <br/>
 [Evolution seminar series](https://evolution.wisc.edu/seminars/seminars-info/), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Mar 4_)
 
 Mapping QTL to a phylogenetic tree
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/unc10.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/unc10.pdf)
 <br/>
 [Curriculum in Genetics and
 Molecular Biology](https://gmb.unc.edu), [University of
@@ -1073,48 +1073,48 @@ North Carolina at Chapel Hill](https://www.unc.edu) (_Feb 12_)
 ###  2009
 
 Mapping QTL to a phylogenetic tree
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/uwgenetics09.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/uwgenetics09.pdf)
 <br/>
 [Department of
 Human Genetics](https://medschool.ucla.edu/departments/basic-science/human-genetics), [University of
 California, Los Angeles](https://www.ucla.edu) (_Nov 23_)
 
 Mapping QTL to a phylogenetic tree
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/ucla09.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/ucla09.pdf)
 <br/>
 [Laboratory of
 Genetics](https://www.genetics.wisc.edu), [University of
 Wisconsin&ndash;Madison](https://www.wisc.edu) (_Nov 18_)
 
 An applied statistician does probability: It&rsquo;s not pretty
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/uwstat09.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/uwstat09.pdf)
 <br/>
 [Department of Statistics](https://www.stat.wisc.edu/),
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Oct 7_)
 
 How to display data badly
-[![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/graphs_uwpath09.ppt)
+[![ppt](icons16/ppt-icon.png)](https://kbroman.org/slides/graphs_uwpath09.ppt)
 <br/>
 [Department of Pathology and Laboratory Medicine](https://www.pathology.wisc.edu), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Sep 30_)
 
 Genetic maps: Past, present and future
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/chair09.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/chair09.pdf)
 <br/>
 [Department of Biostatistics and Medical Informatics](https://www.biostat.wisc.edu),
 [School of Medicine and Public Health](https://www.med.wisc.edu/),
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Sep 17_)
 
 Genotype probabilities in the pre-CC
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/jax_cgd_09.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/jax_cgd_09.pdf)
 <br/>Center for Genome Dynamics, [The Jackson Laboratory](https://www.jax.org), Bar Harbor, Maine (via phone) (_Sep 15_)
 
 Mapping multiple QTL in experimental crosses
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/oxford09.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/oxford09.pdf)
 <br/>
 [Wellcome Trust Centre for Human Genetics](https://www.chg.ox.ac.uk/), Oxford, United Kingdom (_Jan 23_)
 
 Mapping multiple QTL in experimental crosses
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/groningen09.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/groningen09.pdf)
 <br/>
 Groningen Bioinformatics Centre, [University of Groningen](https://www.rug.nl), Groningen, The Netherlands (_Jan 20_)
 
@@ -1123,44 +1123,44 @@ Groningen Bioinformatics Centre, [University of Groningen](https://www.rug.nl), 
 ###  2008
 
 Crossover interference and the sex difference in recombination
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/uwstat08.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/uwstat08.pdf)
 <br/>
 [Department of Statistics](https://www.stat.wisc.edu), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Sep 10_)
 
 Mapping multiple QTL in experimental crosses
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/gstpretreat08.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/gstpretreat08.pdf)
 <br/>
 [Genomic Sciences Training Program](https://www.gstp.wisc.edu) annual retreat, [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Jun 9_)
 
 Mapping multiple QTL in experimental crosses
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/banff08.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/banff08.pdf)
 <br/>
 [Emerging Statistical Challenges In Genome and Translational Research](https://www.birs.ca/birspages.php?task=displayevent&event_id=08w5062), Banff, Canada (_Jun 2_)
 
 Mapping multiple QTL in experimental crosses
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/cincinnati08.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/cincinnati08.pdf)
 <br/>
 [Division of Human Genetics](https://www.cincinnatichildrens.org/service/h/human-genetics), [Cincinnati Children&rsquo;s Hospital](https://www.cincinnatichildrens.org) (_Apr 25_)
 
 Genetic maps: Past, present and future
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/cibm08.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/cibm08.pdf)
 <br/>
 [Computation and Informatics in Biology and Medicine (CIBM)](https://www.cibm.wisc.edu) [seminar series](https://www.cibm.wisc.edu/seminars.html), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Apr 22_)
 
 Genetic maps: Past, present and future
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/geneticmaps08.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/geneticmaps08.pdf)
 <br/>
 [Evolution seminar series](https://evolution.wisc.edu/seminars/seminars-info/), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Feb 21_)
 
 Mapping multiple QTL in experimental crosses
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/animalbreeding08.pdf)
-[![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/animalbreeding08_bw-2x2.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/animalbreeding08.pdf)
+[![handout](icons16/notes-icon.png)](https://kbroman.org/slides/animalbreeding08_bw-2x2.pdf)
 <br/>
 Graduate Seminar, [Department of Animal Sciences](https://andysci.wisc.edu), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Feb 12_)
 
 How to display data badly
-[![ppt](icons16/ppt-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/graphs_uwpath08.ppt)
-[![handout](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/graphs_uwpath08_handout.pdf)
+[![ppt](icons16/ppt-icon.png)](https://kbroman.org/slides/graphs_uwpath08.ppt)
+[![handout](icons16/notes-icon.png)](https://kbroman.org/slides/graphs_uwpath08_handout.pdf)
 <br/>
 [Department of Pathology and Laboratory Medicine](https://www.pathology.wisc.edu), [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Jan 30_)
 
