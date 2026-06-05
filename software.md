@@ -135,7 +135,7 @@ more general.
 
 ---
 
-#### <a name="simcross"></a>[R/simcross](https://kbroman.org/simcross) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.4032914)
+#### <a name="simcross"></a>[R/simcross](https://kbroman.org/simcross) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.4032914) <a href="https://kbroman.org/simcross/"><img src="https://kbroman.org/simcross/assets/pics/simcross_logo.png" align="right" width="80" alt="R/simcross logo"/></a>
 
 An [R](https://www.r-project.org) package for simulating general
 experimental crosses (such as advanced intercross lines and the
