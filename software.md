@@ -17,7 +17,7 @@ description: Karl Broman's software
 
 ---
 
-#### <a name="qtl"></a>[R/qtl](https://rqtl.org) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.3688461)
+#### <a name="qtl"></a>[R/qtl](https://rqtl.org) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.3688461) <a href="https://rqtl.org"><img src="https://rqtl.org/qtl_logo.png" align="right" width="80" alt="R/qtl logo"/></a>
 
 An [R](https://www.r-project.org/) package with tools for analyzing QTL experiments.
 
