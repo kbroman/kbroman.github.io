@@ -58,7 +58,7 @@ repository](https://github.com/rqtl/qtl2data) for sample data.
 
 ---
 
-#### <a name="qtlcharts"></a>[R/qtlcharts](https://kbroman.org/qtlcharts) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.4049918) and [d3panels](https://kbroman.org/d3panels) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.5418277)
+#### <a name="qtlcharts"></a>[R/qtlcharts](https://kbroman.org/qtlcharts) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.4049918) and [d3panels](https://kbroman.org/d3panels) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.5418277) <a href="https://kbroman.org/qtlcharts"><img src="https://kbroman.org/qtlcharts/assets/pics/qtlcharts_logo.png" align="right" width="80" alt="R/qtlcharts logo"/></a>
 
 [R/qtlcharts](https://kbroman.org/qtlcharts) is an
 [R](https://www.r-project.org) package providing [D3](https://d3js.org)-based
@@ -78,14 +78,15 @@ Various R functions that I find useful, assembled into an R package.
 
 ---
 
-#### <a name="detectPVC"></a>[R/detectPVC](https://github.com/kbroman/detectPVC) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.11174768)
+#### <a name="detectPVC"></a>[R/detectPVC](https://github.com/kbroman/detectPVC) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.11174768) <a href="https://github.com/kbroman/detectPVC"><img src="https://raw.githubusercontent.com/kbroman/detectPVC/main/figures/detectPVC_logo.png" align="right" width="80" alt="detectPVC logo"/></a>
 
 R package to detect premature ventricular complexes (PVCs) in data from a [Polar
 H10](https://www.polar.com/us-en/sensors/h10-heart-rate-sensor) chest-strap heart rate sensor.
 
+
 ---
 
-#### <a name="AndroidPolarPVC2"></a>[AndroidPolarPVC2](https://github.com/kbroman/AndroidPolarPVC2) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.11626183)
+#### <a name="AndroidPolarPVC2"></a>[AndroidPolarPVC2](https://github.com/kbroman/AndroidPolarPVC2) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.11626183) <a href="https://github.com/kbroman/AndroidPolarPVC2"><img src="https://raw.githubusercontent.com/kbroman/AndroidPolarPVC2/main/app_icon.png" width=80 align="right" alt="PolarPVC2 app logo with red background and an ECG trace in white of three heart beats with middle one being a PVC"/></a>
 
 Android app to detect premature ventricular complexes (PVCs) and
 display live data on PVC burden with a [Polar H10](https://www.polar.com/us-en/sensors/h10-heart-rate-sensor)
@@ -103,7 +104,7 @@ quantitative finance, and statistics). The package is part of the
 
 ---
 
-#### <a name="chromer"></a>[chromer](https://github.com/ropensci/chromer) [![CRAN DOI](icons16/doi-icon.png)](https://doi.org/10.32614/CRAN.package.chromer)
+#### <a name="chromer"></a>[chromer](https://github.com/ropensci/chromer) [![CRAN DOI](icons16/doi-icon.png)](https://doi.org/10.32614/CRAN.package.chromer) <a href="https://github.com/kbroman/chromer"><img src="https://raw.githubusercontent.com/kbroman/chromer/master/man/figures/logo.png" align="right" width="150" alt="circplot logo"/></a>
 
 [R](https://www.r-project.org) package for connecting to the
 [API](https://ccdb.tau.ac.il/services/) for the [Chromosome Counts
@@ -230,7 +231,7 @@ linear mixed model useful for genome-wide association studies
 
 ---
 
-#### <a name="miner"></a>[miner](https://github.com/kbroman/miner) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.20070581) and [craft](https://github.com/kbroman/craft) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.20070587)
+#### <a name="miner"></a>[miner](https://github.com/kbroman/miner) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.20070581) and [craft](https://github.com/kbroman/craft) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.20070587) <a href="https://github.com/kbroman/craft"><img src="https://raw.githubusercontent.com/kbroman/craft/master/figure/craft_logo.png" align="right" width="80" alt="craft logo"/></a> <a href="https://github.com/kbroman/miner"><img src="https://raw.githubusercontent.com/kbroman/miner/master/figure/miner_logo.png" align="right" width="80" alt="miner logo"/></a>
 
 R packages that allows you to manipulate the Minecraft world from R
 by connecting to the [Minecraft API](http://www.stuffaboutcode.com/p/minecraft-api-reference.html)
@@ -242,7 +243,8 @@ See the ebook [R Programming with Minecraft](https://kbroman.org/miner_book/).
 
 ---
 
-#### <a name="circplot"></a>[R/circplot](https://github.com/kbroman/circplot) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.20097110)
+#### <a name="circplot"></a>[R/circplot](https://github.com/kbroman/circplot) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.20097110) <a href="https://github.com/kbroman/circplot"><img src="https://raw.githubusercontent.com/kbroman/circplot/main/figure/circplot_logo.png" align="right" width="80" alt="circplot logo"/></a>
+
 
 An [R](https://www.r-project.org) package for making plots as circles.
 Created for the function `plot_scan1_circ()`, for plotting a genome scan
