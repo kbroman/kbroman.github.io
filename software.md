@@ -72,25 +72,9 @@ dotchart, and heatmap).
 
 ---
 
-#### <a name="broman"></a>[R/broman](https://github.com/kbroman/broman) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.2636796)
+#### <a name="broman"></a>[R/broman](https://github.com/kbroman/broman) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.2636796) <a href="https://github.com/kbroman/broman"><img src="https://raw.githubusercontent.com/kbroman/broman/main/figures/broman_logo.png" align="right" width="80" alt="R/broman logo"/></a>
 
 Various R functions that I find useful, assembled into an R package.
-
----
-
-#### <a name="detectPVC"></a>[R/detectPVC](https://github.com/kbroman/detectPVC) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.11174768) <a href="https://github.com/kbroman/detectPVC"><img src="https://raw.githubusercontent.com/kbroman/detectPVC/main/figures/detectPVC_logo.png" align="right" width="80" alt="detectPVC logo"/></a>
-
-R package to detect premature ventricular complexes (PVCs) in data from a [Polar
-H10](https://www.polar.com/us-en/sensors/h10-heart-rate-sensor) chest-strap heart rate sensor.
-
-
----
-
-#### <a name="AndroidPolarPVC2"></a>[AndroidPolarPVC2](https://github.com/kbroman/AndroidPolarPVC2) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.11626183) <a href="https://github.com/kbroman/AndroidPolarPVC2"><img src="https://raw.githubusercontent.com/kbroman/AndroidPolarPVC2/main/app_icon.png" width=80 align="right" alt="PolarPVC2 app logo with red background and an ECG trace in white of three heart beats with middle one being a PVC"/></a>
-
-Android app to detect premature ventricular complexes (PVCs) and
-display live data on PVC burden with a [Polar H10](https://www.polar.com/us-en/sensors/h10-heart-rate-sensor)
-chest-strap heart rate sensor.
 
 ---
 
@@ -120,6 +104,22 @@ by maximizing the residual log likelihood where the covariance
 structure can be written as a linear combination of known matrices.
 Written by David Clifford and Peter McCullagh, but now maintained by Karl Broman.
 See the related [R News article](https://www.stat.uchicago.edu/~pmcc/pubs/Rnews_2006-2.pdf#page=6).
+
+---
+
+#### <a name="detectPVC"></a>[R/detectPVC](https://github.com/kbroman/detectPVC) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.11174768) <a href="https://github.com/kbroman/detectPVC"><img src="https://raw.githubusercontent.com/kbroman/detectPVC/main/figures/detectPVC_logo.png" align="right" width="80" alt="detectPVC logo"/></a>
+
+R package to detect premature ventricular complexes (PVCs) in data from a [Polar
+H10](https://www.polar.com/us-en/sensors/h10-heart-rate-sensor) chest-strap heart rate sensor.
+
+
+---
+
+#### <a name="AndroidPolarPVC2"></a>[AndroidPolarPVC2](https://github.com/kbroman/AndroidPolarPVC2) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.11626183) <a href="https://github.com/kbroman/AndroidPolarPVC2"><img src="https://raw.githubusercontent.com/kbroman/AndroidPolarPVC2/main/app_icon.png" width=80 align="right" alt="PolarPVC2 app logo with red background and an ECG trace in white of three heart beats with middle one being a PVC"/></a>
+
+Android app to detect premature ventricular complexes (PVCs) and
+display live data on PVC burden with a [Polar H10](https://www.polar.com/us-en/sensors/h10-heart-rate-sensor)
+chest-strap heart rate sensor.
 
 ---
 
