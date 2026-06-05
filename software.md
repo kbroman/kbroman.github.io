@@ -233,7 +233,7 @@ linear mixed model useful for genome-wide association studies
 
 #### <a name="miner"></a>[miner](https://github.com/kbroman/miner) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.20070581) and [craft](https://github.com/kbroman/craft) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.20070587) <a href="https://github.com/kbroman/craft"><img src="https://raw.githubusercontent.com/kbroman/craft/master/figure/craft_logo.png" align="right" width="80" alt="craft logo"/></a> <a href="https://github.com/kbroman/miner"><img src="https://raw.githubusercontent.com/kbroman/miner/master/figure/miner_logo.png" align="right" width="80" alt="miner logo"/></a>
 
-R packages that allows you to manipulate the Minecraft world from R
+R packages that allow you to manipulate the Minecraft world from R
 by connecting to the [Minecraft API](http://www.stuffaboutcode.com/p/minecraft-api-reference.html)
 using [RaspberryJuice](https://dev.bukkit.org/projects/raspberryjuice)
 and either [Spigot](https://www.spigotmc.org/) or
