@@ -31,7 +31,7 @@ The [qtlbook](https://github.com/kbroman/qtlbook) package contains some example 
 
 ---
 
-#### <a name="qtl2"></a>[R/qtl2](https://kbroman.org/qtl2) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.3237772)
+#### <a name="qtl2"></a>[R/qtl2](https://kbroman.org/qtl2) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.3237772) <a href="https://kbroman.org/qtl2"><img src="https://kbroman.org/qtl2/assets/pics/qtl2_logo.png" align="right" width="80" alt="R/qtl2 logo"/></a>
 
 A reimplementation of [R/qtl](https://rqtl.org), to better handle
 high-dimensional data and complex cross designs (such as the
