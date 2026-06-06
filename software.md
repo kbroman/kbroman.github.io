@@ -123,7 +123,9 @@ chest-strap heart rate sensor.
 
 ---
 
-#### <a name="lineup"></a>[R/lineup](https://github.com/kbroman/lineup) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.4277411) and <a name="lineup2"></a>[R/lineup2](https://github.com/kbroman/lineup2) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.4118180)
+#### <a
+name="lineup"></a>[R/lineup](https://github.com/kbroman/lineup) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.4277411) and <a name="lineup2"></a>[R/lineup2](https://github.com/kbroman/lineup2) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.4118180) <a href="https://github.com/kbroman/lineup2"><img src="https://kbroman.org/lineup2/lineup2_logo.png" align="right" width="80" alt="R/lineup2 logo"/></a> <a href="https://github.com/kbroman/lineup"><img src="https://kbroman.org/lineup/lineup_logo.png" align="right" width="80" alt="R/lineup logo"/></a>
+
 
 [R](https://www.r-project.org) packages for detecting and correcting
 sample mix-ups between two sets of measurements, such as between gene
@@ -143,7 +145,7 @@ diversity outcross), for use with [R/qtl2](https://kbroman.org/qtl2).
 
 ---
 
-#### <a name="xoi"></a>[R/xoi](https://github.com/kbroman/xoi) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.3087093)
+#### <a name="xoi"></a>[R/xoi](https://github.com/kbroman/xoi) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.3087093) <a href="https://github.com/kbroman/xoi"><img src="https://raw.githubusercontent.com/kbroman/xoi/main/figures/xoi_logo.png" align="right" width="80" alt="R/xoi logo"/></a>
 
 
 An [R](https://www.r-project.org) package for the analysis of crossover
