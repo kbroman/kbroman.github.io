@@ -123,8 +123,7 @@ chest-strap heart rate sensor.
 
 ---
 
-#### <a
-name="lineup"></a>[R/lineup](https://github.com/kbroman/lineup) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.4277411) and <a name="lineup2"></a>[R/lineup2](https://github.com/kbroman/lineup2) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.4118180) <a href="https://github.com/kbroman/lineup2"><img src="https://kbroman.org/lineup2/lineup2_logo.png" align="right" width="80" alt="R/lineup2 logo"/></a> <a href="https://github.com/kbroman/lineup"><img src="https://kbroman.org/lineup/lineup_logo.png" align="right" width="80" alt="R/lineup logo"/></a>
+#### <a name="lineup"></a>[R/lineup](https://github.com/kbroman/lineup) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.4277411) and <a name="lineup2"></a>[R/lineup2](https://github.com/kbroman/lineup2) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.4118180) <a href="https://github.com/kbroman/lineup2"><img src="https://kbroman.org/lineup2/lineup2_logo.png" align="right" width="80" alt="R/lineup2 logo"/></a> <a href="https://github.com/kbroman/lineup"><img src="https://kbroman.org/lineup/lineup_logo.png" align="right" width="80" alt="R/lineup logo"/></a>
 
 
 [R](https://www.r-project.org) packages for detecting and correcting
