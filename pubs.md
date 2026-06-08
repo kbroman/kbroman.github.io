@@ -1278,7 +1278,7 @@ KW**, Rose NR (2005) Two autoimmune diabetes loci influencing T
 cell apoptosis control susceptibility to experimental autoimmune
 myocarditis.  [J Immunol](https://www.jimmunol.org) 174:2167-2173
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15699148)
-[![pdf](icons16/pdf-icon.png)](https://www.jimmunol.org/content/jimmunol/174/4/2167.full.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/guler2005.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.4049/jimmunol.174.4.2167)
 <!-- * 50 * -->
 <!-- https://doi.org/10.4049/jimmunol.174.4.2167 -->
