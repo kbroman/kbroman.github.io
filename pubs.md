@@ -1129,7 +1129,7 @@ T, Holmdahl R, Scharffetter-Kochanek K (2006) Identification of
 susceptibility loci for skin disease in a murine psoriasis model.
 [J Immunol](https://www.jimmunol.org) 177:4612-4619
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/16982899)
-[![pdf](icons16/pdf-icon.png)](https://www.jimmunol.org/content/jimmunol/177/7/4612.full.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/kess.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.4049/jimmunol.177.7.4612)
 <!-- * 64 * -->
 <!-- https://doi.org/10.4049/jimmunol.177.7.4612 -->
@@ -1474,7 +1474,7 @@ oligodendrocyte glycoprotein-induced experimental autoimmune
 encephalomyelitis.  [J Immunol](https://www.jimmunol.org/)
 170:1062-1069
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/12517974)
-[![pdf](icons16/pdf-icon.png)](https://rss.onlinelibrary.wiley.com/doi/epdf/10.1111/1467-9868.00354)
+[![pdf](icons16/pdf-icon.png)](pdfs/becanovic.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.4049/jimmunol.170.2.1062)
 <!-- * 31 * -->
 <!-- https://doi.org/10.4049/jimmunol.170.2.1062 -->
