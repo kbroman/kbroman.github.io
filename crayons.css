@@ -1,4 +1,4 @@
-/* crayons.css, https://github.com/kbroman/crayonsJS */
+/* crayons.css, https://github.com/kbroman/crayonsjs */
 /* colors from http://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors */
 
 :root {
@@ -87,6 +87,7 @@
   --PinkFlamingo: #fc74fd;
   --PinkSherbert: #f78fa7;
   --Plum: #8e4585;
+  --Purple: #926eae;
   --PurpleHeart: #7442c8;
   --PurpleMountainsMajesty: #9d81ba;
   --PurplePizzazz: #fe4eda;
@@ -122,7 +123,7 @@
   --Tumbleweed: #deaa88;
   --TurquoiseBlue: #77dde7;
   --UnmellowYellow: #ffff66;
-  --Violet(Purple): #926eae;
+  --Violet: #926eae;
   --VioletBlue: #324ab2;
   --VioletRed: #f75394;
   --VividTangerine: #ffa089;
