@@ -644,7 +644,7 @@ J Med Genet B Neuropsychiatr Genet](https://onlinelibrary.wiley.com/journal/10.1
 &#346;, An&eacute; C, Payseur BA (2012)  Mapping quantitative trait loci
 onto a phylogenetic tree.  [Genetics](https://academic.oup.com/genetics) 192:267-279
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/22745229)
-[![pdf](icons16/pdf-icon.png)](pdfs/broman2012a.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/broman2012_phyloqtl.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/phyloQTLpaper)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.112.142448)
 <!-- * 120 * -->
@@ -713,7 +713,7 @@ Amlin-Van Schaick JC, Kim S, **Broman KW**, Reilly KM (2012)  _Scram1_ is a modi
 
 **Broman KW** (2012)  Genotype probabilities at intermediate generations in the construction of recombinant inbred lines.  [Genetics](https://academic.oup.com/genetics) 190:403-412
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/22345609)
-[![pdf](icons16/pdf-icon.png)](pdfs/broman2012b.pdf)
+[![pdf](icons16/pdf-icon.png)](pdfs/broman2012_ril.pdf)
 [![GitHub](icons16/github-icon.png)](https://www.github.com/kbroman/preCCProbPaper)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.111.132647)
 <!-- * 111 * -->
