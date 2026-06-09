@@ -7,11 +7,12 @@ code {
 }
 
 a code {
-    color: #slateblue;
+    color: slateblue;
 }
 
 a {
-    color: #slateblue;
+    color: slateblue;
+    text-decoration: none;
 }
 
 a:hover {
