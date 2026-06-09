@@ -6,7 +6,7 @@ body {
 
 img { border: 0; }
 
-a {
+a, a[href^="http:"], a[href^="https:"] {
     color: slateblue;
     text-decoration: none;
 }
@@ -16,7 +16,7 @@ a:visited {
     text-decoration: none;
 }
 
-a:hover {
+a:hover,a:visited:hover {
     color: white;
     background-color: slateblue;
     text-decoration: none;
