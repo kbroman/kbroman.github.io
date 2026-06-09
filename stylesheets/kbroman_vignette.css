@@ -4,3 +4,14 @@ body {
   margin-right: auto;
 }
 img { border: 0; }
+
+a {
+    color: slateblue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: darkslateblue;
+    background-color: #e3e4fa;
+    text-decoration: none;
+}
