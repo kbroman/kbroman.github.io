@@ -75,6 +75,11 @@ dotchart, and heatmap).
 #### <a name="broman"></a>[R/broman](https://github.com/kbroman/broman) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.2636796) <a href="https://github.com/kbroman/broman"><img src="https://raw.githubusercontent.com/kbroman/broman/main/figures/broman_logo.png" align="right" width="80" alt="R/broman logo"/></a>
 
 Various R functions that I find useful, assembled into an R package.
+It includes many functions related to graphics (mostly for base
+graphics), permutation tests, running mean/median/sum/ratio, and
+a variety of utilities for programming, for data diagnostics/cleaning,
+and for writing reproducible data analysis reports.
+
 
 ---
 
