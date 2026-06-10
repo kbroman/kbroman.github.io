@@ -30,14 +30,14 @@ description: Karl Broman's publications
 
 ### <a name="articles"></a>journal articles
 
-#### To appear
+#### 2026
 
 Arends D, Ashbrook DG, Roy S, Lu L, Sloan Z, Centeno AG, Lamour KH, de
 Magalhães JP, Prins P, **Broman KW**, Sen S, Mitchell SJ, MacArthur MR,
 Akin ÖA, Li X, Bajwa A, Diaz V, Harrison DE, Strong R, Nelson JF,
 Mozhui K, Auwerx J, Williams EG, Miller RA, Williams RW  (2026)
 Dynamics of genetic and somatic trade-offs in ageing and mortality.
-[Nature](https://www.nature.com), to appear
+[Nature](https://www.nature.com) 654:437-453
 [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/42020758/)
 [![pdf](icons16/pdf-icon.png)](https://www.nature.com/articles/s41586-026-10407-9.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1038/s41586-026-10407-9)
