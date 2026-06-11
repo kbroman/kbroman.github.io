@@ -170,6 +170,8 @@ An [R](https://www.r-project.org) package for the analysis of crossover
 interference in experimental crosses, particularly regarding the gamma
 model.
 
+See the [user guide](https://kbroman.org/xoi/xoi.html).
+
 ---
 
 #### <a name="xoiGBS"></a>[R/xoiGBS](https://github.com/kbroman/xoiGBS) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.18402889)
