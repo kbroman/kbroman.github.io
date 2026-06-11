@@ -83,6 +83,7 @@ It includes many functions related to graphics (mostly for base
 graphics), permutation tests, running mean/median/sum/ratio, and
 a variety of utilities for programming, for data diagnostics/cleaning,
 and for writing reproducible data analysis reports.
+
 See the [user guide](https://kbroman.org/broman/broman.html).
 
 
@@ -122,6 +123,7 @@ See the related [R News article](https://www.stat.uchicago.edu/~pmcc/pubs/Rnews_
 R package to detect premature ventricular complexes (PVCs) in data from a [Polar
 H10](https://www.polar.com/us-en/sensors/h10-heart-rate-sensor)
 chest-strap heart rate sensor.
+
 See the [user guide](https://kbroman.org/detectPVC/detectPVC.html).
 
 
@@ -145,6 +147,7 @@ expression data on two tissues.
 [R/qtl package](https:rqtl.org).
 [R/lineup2](https://github.com/kbroman/lineup2) is a redesign to be
 more general.
+
 See the [user guide for R/lineup](https://kbroman.org/lineup/lineup.html).
 and the [user guide for R/lineup2](https://kbroman.org/lineup2/lineup2.html).
 
@@ -155,6 +158,7 @@ and the [user guide for R/lineup2](https://kbroman.org/lineup2/lineup2.html).
 An [R](https://www.r-project.org) package for simulating general
 experimental crosses (such as advanced intercross lines and the
 diversity outcross), for use with [R/qtl2](https://kbroman.org/qtl2).
+
 See the [user guide](https://kbroman.org/simcross/simcross.html).
 
 ---
