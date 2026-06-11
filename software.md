@@ -40,6 +40,7 @@ high-dimensional data and complex cross designs (such as the
 [heterogeneous stock](https://www.ncbi.nlm.nih.gov/pubmed/11973314),
 and
 [Diversity Outbred mice](https://www.ncbi.nlm.nih.gov/pubmed/2234561)).
+See the [R/qtl2 documentation](https://kbroman.org/qtl2/docs).
 
 To receive announcements about updates to R/qtl2 (and R/qtl1), join the
 Google group, [R/qtl announcements](https://groups.google.com/group/rqtl-announce).
@@ -69,6 +70,9 @@ It is built on the [d3panels](https://kbroman.org/d3panels) library
 a set of graphics panels of different types (e.g., scatterplot,
 dotchart, and heatmap).
 
+See the [R/qtlcharts User
+Guide](https://kbroman.org/qtlcharts/assets/vignettes/userGuide.html).
+
 
 ---
 
@@ -79,6 +83,7 @@ It includes many functions related to graphics (mostly for base
 graphics), permutation tests, running mean/median/sum/ratio, and
 a variety of utilities for programming, for data diagnostics/cleaning,
 and for writing reproducible data analysis reports.
+See the [user guide](https://kbroman.org/broman/broman.html).
 
 
 ---
@@ -115,7 +120,9 @@ See the related [R News article](https://www.stat.uchicago.edu/~pmcc/pubs/Rnews_
 #### <a name="detectPVC"></a>[R/detectPVC](https://github.com/kbroman/detectPVC) [![zenodo DOI](icons16/doi-icon.png)](https://doi.org/10.5281/zenodo.11174768) <a href="https://github.com/kbroman/detectPVC"><img src="https://raw.githubusercontent.com/kbroman/detectPVC/main/figures/detectPVC_logo.png" align="right" width="80" alt="detectPVC logo"/></a>
 
 R package to detect premature ventricular complexes (PVCs) in data from a [Polar
-H10](https://www.polar.com/us-en/sensors/h10-heart-rate-sensor) chest-strap heart rate sensor.
+H10](https://www.polar.com/us-en/sensors/h10-heart-rate-sensor)
+chest-strap heart rate sensor.
+See the [user guide](https://kbroman.org/detectPVC/detectPVC.html).
 
 
 ---
@@ -138,6 +145,8 @@ expression data on two tissues.
 [R/qtl package](https:rqtl.org).
 [R/lineup2](https://github.com/kbroman/lineup2) is a redesign to be
 more general.
+See the [user guide for R/lineup](https://kbroman.org/lineup/lineup.html).
+and the [user guide for R/lineup2](https://kbroman.org/lineup2/lineup2.html).
 
 ---
 
@@ -146,6 +155,7 @@ more general.
 An [R](https://www.r-project.org) package for simulating general
 experimental crosses (such as advanced intercross lines and the
 diversity outcross), for use with [R/qtl2](https://kbroman.org/qtl2).
+See the [user guide](https://kbroman.org/simcross/simcross.html).
 
 ---
 
@@ -178,7 +188,9 @@ for the first sample &times; the 3 possible SNP genotypes of the
 second sample &times; the 2 possible SNP alleles on the reads. We then
 fit a model with contaminant probability _p_ = proportion of the
 microbiome sample coming from the second sample and _e_ = rate of sequencing
-errors. See the related paper:
+errors.
+
+See the related paper:
 Lobo et al. (2021)
 Identification of sample mix-ups and mixtures in microbiome data in
 Diversity Outbred mice. [G3
@@ -187,6 +199,7 @@ Diversity Outbred mice. [G3
 [![pdf](icons16/pdf-icon.png)](https://academic.oup.com/g3journal/article-pdf/11/11/jkab308/40770295/jkab308.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1093/g3journal/jkab308)
 
+Also see the [user guide](https://kbroman.org/mbmixture/mbmixture.html).
 
 ---
 
