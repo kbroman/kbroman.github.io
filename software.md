@@ -108,7 +108,7 @@ Database](https://ccdb.tau.ac.il/). The package is part of the
 
 ---
 
-#### <a name="regress"></a>[regress](https://github.com/kbroman/chromer) [![CRAN DOI](icons16/doi-icon.png)](https://doi.org/10.32614/CRAN.package.regress)
+#### <a name="regress"></a>[regress](https://github.com/kbroman/regress) [![CRAN DOI](icons16/doi-icon.png)](https://doi.org/10.32614/CRAN.package.regress)
 
 [R](https://www.r-project.org) package to fit Gaussian linear models
 by maximizing the residual log likelihood where the covariance
