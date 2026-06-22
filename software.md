@@ -35,7 +35,7 @@ The [qtlbook](https://github.com/kbroman/qtlbook) package contains some example 
 
 A reimplementation of [R/qtl](https://rqtl.org), to better handle
 high-dimensional data and complex cross designs (such as the
-[Collaborative Cross](https://www.ncbi.nlm.nih.gov/pubmed/15514660),
+[Collaborative Cross](https://doi.org/10.1038/ng1104-1133)
 [MAGIC](https://www.ncbi.nlm.nih.gov/pubmed/18295532),
 [heterogeneous stock](https://www.ncbi.nlm.nih.gov/pubmed/11973314),
 and
