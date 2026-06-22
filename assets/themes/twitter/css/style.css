@@ -2,8 +2,8 @@
 .container-narrow {
   margin: 0 auto;
   max-width: 1100px;
-  margin-left: 25px;
-  margin-right: 25px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 .container-narrow > hr {
