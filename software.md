@@ -37,8 +37,8 @@ A reimplementation of [R/qtl](https://rqtl.org), to better handle
 high-dimensional data and complex cross designs (such as the
 [Collaborative Cross](https://doi.org/10.1038/ng1104-1133),
 [MAGIC](https://doi.org/10.1016/j.pbi.2008.01.002),
-[heterogeneous stock](https://www.ncbi.nlm.nih.gov/pubmed/11973314),
-and
+[heterogeneous stock](https://doi.org/10.1093/genetics/160.4.1609),
+ and
 [Diversity Outbred mice](https://www.ncbi.nlm.nih.gov/pubmed/2234561)).
 See the [R/qtl2 documentation](https://kbroman.org/qtl2/docs).
 
