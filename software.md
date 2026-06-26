@@ -39,7 +39,7 @@ high-dimensional data and complex cross designs (such as the
 [MAGIC](https://doi.org/10.1016/j.pbi.2008.01.002),
 [heterogeneous stock](https://doi.org/10.1093/genetics/160.4.1609),
  and
-[Diversity Outbred mice](https://www.ncbi.nlm.nih.gov/pubmed/2234561)).
+[Diversity Outbred mice](https://doi.org/10.1007/s00335-012-9414-2)).
 See the [R/qtl2 documentation](https://kbroman.org/qtl2/docs).
 
 To receive announcements about updates to R/qtl2 (and R/qtl1), join the
