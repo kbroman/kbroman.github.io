@@ -309,7 +309,7 @@ recombinant inbred lines.  [Genetics](https://academic.oup.com/genetics) 169:113
 
 An [R](https://www.r-project.org) package for analyzing cell proliferation assays using the
 normal-Poisson mixture model described by Broman et al.
-([J Immunol Meth 198:119-132, 1996](https://www.ncbi.nlm.nih.gov/pubmed/8946008)).
+([J Immunol Meth 198:119-132, 1996](https://doi.org/10/b54v33)).
 
 ---
 
