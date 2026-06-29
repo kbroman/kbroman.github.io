@@ -349,7 +349,7 @@ individuals in a linkage study, using the approach of Boehnke and Cox
 ([Am
 J Hum Genet, 61:423-429, 1997](https://doi.org/10.1086/514862)), with the modification described by
 Broman and Weber ([Am
-J Hum Genet 63:1563-1564, 1998](https://www.ncbi.nlm.nih.gov/pubmed/9792888)), to allow for the presence of
+J Hum Genet 63:1563-1564, 1998](https://doi.org/10.1086/302112)), to allow for the presence of
 genotyping errors.  We look only at the relationships MZ twins,
 parent/offspring, fullsibs, halfsibs and unrelated.
 
