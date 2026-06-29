@@ -218,7 +218,7 @@ converter web service (no longer available)
 from [Gary Churchill's group](https://sites.jax.org/churchill-lab/)
 at the [Jackson Lab](https://jax.org). See also the [Cox genetic map
 V3](https://github.com/kbroman/CoxMapV3), updated for the [mouse
-genome genome build 39](https://www.ncbi.nlm.nih.gov/assembly/GCF_000001635.27/)
+genome genome build 39](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000001635.27/)
 coordinates, and [our annotation files for the MUGA
 arrays](https://github.com/kbroman/MUGAarrays).
 
@@ -299,7 +299,7 @@ An [R](https://www.r-project.org) package for calculation of two- and three-locu
 multiple-strain recombinant inbred lines, and the simulation of such lines.
 See the related paper: Broman KW (2005) The genomes of
 recombinant inbred lines.  [Genetics](https://academic.oup.com/genetics) 169:1133-1146
-[![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/15545647)
+[![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/15545647/)
 [![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/169/2/1133/37610496/genetics1133.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.104.035212)
 
