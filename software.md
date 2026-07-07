@@ -300,7 +300,7 @@ multiple-strain recombinant inbred lines, and the simulation of such lines.
 See the related paper: Broman KW (2005) The genomes of
 recombinant inbred lines.  [Genetics](https://academic.oup.com/genetics) 169:1133-1146
 [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/15545647/)
-[![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/169/2/1133/37610496/genetics1133.pdf)
+[![pdf](icons16/pdf-icon.png)](https://kbroman.org/pdfs/broman2005.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.104.035212)
 
 ---
