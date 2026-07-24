@@ -1902,7 +1902,7 @@ mixed models. [bioRxiv](https://biorxiv.org)
 for QTL mapping.  Working paper 125, Department of Biostatistics,
 Johns Hopkins University, Baltimore, MD
 [![Abstract](icons16/pubmed-icon.png)](https://biostats.bepress.com/jhubiostat/paper125)
-[![pdf](icons16/pdf-icon.png)](https://biostats.bepress.com/cgi/viewcontent.cgi?article=1125&context=jhubiostat)
+[![pdf](icons16/pdf-icon.png)](pdfs/hmm2006.pdf)
 
 <a name="ms0220"></a>Blades NJ, **Broman KW** (2002)
 Estimating the number of essential genes in a genome by random
