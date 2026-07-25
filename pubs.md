@@ -1872,7 +1872,7 @@ Lek S, Gerdes Gyuricza I, Munger SC, Attie AD, Keller MP, Chesler EJ,
 individual genome reconstruction of multiparental population models by
 RNA sequencing data. [bioRxiv](https://biorxiv.org)
 [doi:10.1101/2020.10.11.335323](https://doi.org/10.1101/2020.10.11.335323)
-<!-- [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov//) -->
+[![PubMed](icons16/pubmed-icon.png)](https://europepmc.org/article/PPR/PPR224529)
 [![pdf](icons16/pdf-icon.png)](https://www.biorxiv.org/content/10.1101/2020.10.11.335323v3.full.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1101/2020.10.11.335323)
 
