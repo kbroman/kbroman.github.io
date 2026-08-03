@@ -1,0 +1,11 @@
+DupMarker   Dnumber    MarkerOnMap Dnumber
+
+ATA59H06    D9S2157    ATA63D01    Unknown 
+D9S60       D9S60      AFMa081wa9  D9S1881 
+GATA27A11   D9S925     GATA124D09  Unknown 
+Mfd189A     D9S106     AFM297wb1   D9S279  
+Mfd308      D9S307     AFM343td9   D9S1680 
+Mfd361      D9S741     AFM186xc3   D9S171  
+UT1220      D9S762     GATA64G07   D9S934  
+UT724       D9S232     UT873       D9S759  
+UT915       D9S243     GGAA16D02   D9S907  

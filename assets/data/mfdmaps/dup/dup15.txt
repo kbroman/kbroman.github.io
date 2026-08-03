@@ -1,0 +1,5 @@
+DupMarker   Dnumber    MarkerOnMap Dnumber
+
+GATA89D04   Unknown    GATA177D05  Unknown 
+UT565       D15S523    UT5205      D15S531 
+UT942       D15S190    UT479       D15S183 

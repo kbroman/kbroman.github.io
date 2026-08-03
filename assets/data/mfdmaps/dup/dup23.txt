@@ -1,0 +1,6 @@
+DupMarker   Dnumber    MarkerOnMap Dnumber
+
+AFMb331xd5  DXS8066    AFMb310yf9  DXS8060 
+GATA100G03  DXS7127    GATA182E04  Unknown 
+GATA31D11   Unknown    GATA124B04  DXS9895 
+GATA87A12   Unknown    GATA42G01   Unknown 

@@ -1,0 +1,5 @@
+DupMarker   Dnumber    MarkerOnMap Dnumber
+
+Mfd162A     D22S258    AFM234vh2   D22S421 
+Mfd204      D22S270    AFMb316xa9  D22S1166
+Mfd313      D22S345    AFM309wd5   D22S1174
