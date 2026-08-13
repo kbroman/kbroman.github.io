@@ -938,9 +938,9 @@ allowing epistasis. [Genetics](https://academic.oup.com/genetics) 181:1077-1086
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/19104078)
 [![pdf](icons16/pdf-icon.png)](pdfs/manichaikul2009a.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.108.094565)
-\[**Erratum**: [Genetics](https://academic.oup.com/genetics) 184:607, 2010
+(*Erratum*: [Genetics](https://academic.oup.com/genetics) 184:607, 2010
 [![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/184/2/607/37326609/genetics0607.pdf)
-[![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.109.112912)\]
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.109.112912))
 <!-- * 83 * -->
 <!-- https://doi.org/10.1534/genetics.108.094565 -->
 
