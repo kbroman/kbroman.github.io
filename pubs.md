@@ -1267,9 +1267,9 @@ recombinant inbred lines.  [Genetics](https://academic.oup.com/genetics) 169:113
 [![pdf](icons16/pdf-icon.png)](pdfs/broman2005.pdf)
 [![R/ricalc](icons16/R-icon.png)](https://github.com/kbroman/ricalc)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1534/genetics.104.035212)
-\[**Erratum**: [Genetics](https://academic.oup.com/genetics) 173:2419, 2006
+(*Erratum*: [Genetics](https://academic.oup.com/genetics) 173:2419, 2006
 [![pdf](icons16/pdf-icon.png)](https://academic.oup.com/genetics/article-pdf/173/4/2419/37340795/genetics2419.pdf)
-[![doi](icons16/doi-icon.png)](https://doi.org/10.1093/genetics/173.4.2419)\]
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1093/genetics/173.4.2419))
 <!-- * 51 * -->
 <!-- https://doi.org/10.1534/genetics.104.035212 -->
 
