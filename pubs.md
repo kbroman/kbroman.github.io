@@ -1552,9 +1552,9 @@ sibships. [Genet Epidemiol](https://onlinelibrary.wiley.com/journal/10982272) 20
 [![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/11255240)
 [![pdf](icons16/pdf-icon.png)](pdfs/sibfreq.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1002/gepi.2)
-\[**Erratum**: [Genet Epidemiol](https://onlinelibrary.wiley.com/journal/10982272) 23:465-466, 2002
+(*Erratum*: [Genet Epidemiol](https://onlinelibrary.wiley.com/journal/10982272) 23:465-466, 2002
 [![pdf](icons16/pdf-icon.png)](https://onlinelibrary.wiley.com/doi/epdf/10.1002/gepi.10194)
-[![doi](icons16/doi-icon.png)](https://doi.org/10.1002/gepi.10194)\]
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1002/gepi.10194))
 <!-- * 24 * -->
 <!-- https://doi.org/10.1002/gepi.2 -->
 
