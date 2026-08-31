@@ -97,7 +97,7 @@ RStudio: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v
 
 #### R/qtl and R/qtl2 workshop
  [R/qtl and R/qtl2 workshop](https://github.com/kbroman/RqtlWorkshop),
- [Complex Trait Community meeting](https://web.archive.org/web/20180124200236/http://www.complextrait.org/ctc2017/),
+ [Complex Trait Community meeting](https://web.archive.org/web/20180124200236/https://www.complextrait.org/ctc2017/),
  Memphis, TN (13 June 2017)
 
 ---
