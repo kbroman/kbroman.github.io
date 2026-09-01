@@ -520,7 +520,7 @@ Statistical Consulting course, [Department of Statistics](https://www.stat.wisc.
 
 ---
 
-#### [Experimental design, basic statistics, and sample size determination for animal-based research](http://oac.med.jhmi.edu/humane_site/topics/12A.html)<br/>
+#### [Experimental design, basic statistics, and sample size determination for animal-based research](https://oac.med.jhmi.edu/humane_site/topics/12A.html)<br/>
 
 [Enhancing Humane Science/Improving Animal Research course](http://oac.med.jhmi.edu/humane_site/index.html) <br/>
 [Center for Alternatives
