@@ -524,7 +524,7 @@ Statistical Consulting course, [Department of Statistics](https://www.stat.wisc.
 
 [Enhancing Humane Science/Improving Animal Research course](https://oac.med.jhmi.edu/humane_site/index.html) <br/>
 [Center for Alternatives
-to Animal Testing](http://caat.jhsph.edu), Johns Hopkins University<br/>
+to Animal Testing](https://caat.publichealth.jhu.edu), Johns Hopkins University<br/>
 
 -  Presentation: \[[ppt (1.2M)](https://kbroman.org/teaching_misc/humanesci.ppt)\]
 -  Handout:
