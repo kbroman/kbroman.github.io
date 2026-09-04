@@ -652,7 +652,7 @@ Biocomputing I: Perl for bioinformatics (Pineda)<br/>
 
 #### [Statistics for laboratory scientists](https://kbroman.org/teaching_old/labstat) (140.615-616)
 
-#### [Statistical computing](http://www.biostat.jhsph.edu/~bcaffo/statcomp) (140.776)
+#### Statistical computing (140.776)
 
 - Coding practices:
   \[[pdf (35k)](https://kbroman.org/teaching_old/statprog/coding_ho.pdf) |
