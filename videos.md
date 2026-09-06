@@ -146,5 +146,5 @@ Steps toward reproducible research
 [![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/slides/repro_research_UMass2016_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)
 [![video](icons16/video-icon.png)](https://www.youtube.com/watch?v=L4Qs0F7bLYY&t=460s)<br/>
-[Graduate Researchers interested in Data (GRiD)](http://gridclub.io),
+Graduate Researchers interested in Data (GRiD),
 [UMass Amherst](https://www.umass.edu/) (_Apr 11_)
