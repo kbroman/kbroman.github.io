@@ -130,7 +130,7 @@ Steps toward reproducible research
 [![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/slides/repro_research_TAGC2016_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)
 [![video](icons16/video-icon.png)](https://www.youtube.com/watch?v=u-ZgiYjJ4lA)<br/>
-[The Allied Genetics Conference](http://www.genetics2016.org/),
+[The Allied Genetics Conference](https://genetics-gsa.org/tagc/),
 Orlando, Florida (_Jul 16_)
 
 R/qtl: Just barely sustainable
