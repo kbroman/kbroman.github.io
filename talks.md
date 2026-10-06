@@ -37,7 +37,7 @@ Steps toward reproducible research
 [![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/steps2rr.pdf)
 [![pdf w/notes](icons16/notes-icon.png)](https://kbroman.org/slides/steps2rr_withnotes.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)<br/>
-[Summer Research Program in Biomedical Data Science](https://biostat.wiscweb.wisc.edu/education/summer/),
+[Summer Research Program in Biomedical Data Science](https://biostat.wisc.edu/education/summer/),
 [Department of Biostatistics & Medical Informatics](https://www.biostat.wisc.edu),
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Jun 11_)
 
