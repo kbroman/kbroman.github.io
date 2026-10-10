@@ -55,7 +55,7 @@ Data cleaning principles
 Opportunities in biomedical data science
 [![pdf](icons16/pdf-icon.png)](https://kbroman.org/slides/srop2023.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_SROP2023)<br/>
-[Summer Research Program in Biomedical Data Science](https://biostat.wiscweb.wisc.edu/education/summer/),
+[Summer Research Program in Biomedical Data Science](https://biostat.wisc.edu/education/summer/),
 [Department of Biostatistics & Medical Informatics](https://www.biostat.wisc.edu),
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Jul 13_)
 
