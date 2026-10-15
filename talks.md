@@ -483,7 +483,7 @@ mice from Gough Island<br/>
 [![permutation test](icons16/html-icon.png)](https://kbroman.org/Talk_BDS2017-07/perm_test/)
 [![body weight](icons16/html-icon.png)](https://kbroman.org/Talk_BDS2017-07/iplot_bodyweight.html)
 [![growth rate](icons16/html-icon.png)](https://kbroman.org/Talk_BDS2017-07/iplot_deriv_bodyweight.html)<br/>
-[Summer Research Program in Biomedical Data Science](https://biostat.wiscweb.wisc.edu/education/summer/),
+[Summer Research Program in Biomedical Data Science](https://biostat.wisc.edu/education/summer/),
 [Department of Biostatistics & Medical Informatics](https://www.biostat.wisc.edu),
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu) (_Jul 26_)
 
